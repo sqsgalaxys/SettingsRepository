@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actor" />
+      <item value="Static Polymorphism" />
+      <item value="polymorphism" />
+      <item value="Glyph" />
+      <item value="interfaces" />
       <item value="protocal" />
       <item value="Invocation Target Exception" />
       <item value="reflected" />
@@ -22,7 +27,6 @@
       <item value="All Colors Of The Rainbow" />
       <item value="net" />
       <item value="reusing" />
-      <item value="polymorphism" />
       <item value="repaint" />
       <item value="graphical" />
       <item value="Qualified My Class" />
@@ -47,10 +51,6 @@
       <item value="textual" />
       <item value="compilation" />
       <item value="validate" />
-      <item value="presence" />
-      <item value="individually" />
-      <item value="connectors" />
-      <item value="elevated" />
     </histories>
   </component>
 </application>
