@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocal" />
+      <item value="Invocation Target Exception" />
+      <item value="reflected" />
       <item value="expected" />
       <item value="props" />
       <item value="Mail Exception" />
@@ -48,9 +51,6 @@
       <item value="individually" />
       <item value="connectors" />
       <item value="elevated" />
-      <item value="property" />
-      <item value="embedded" />
-      <item value="components" />
     </histories>
   </component>
 </application>
