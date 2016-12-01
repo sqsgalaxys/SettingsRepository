@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected" />
       <item value="props" />
       <item value="Mail Exception" />
       <item value="Preparator" />
@@ -50,7 +51,6 @@
       <item value="property" />
       <item value="embedded" />
       <item value="components" />
-      <item value="separately" />
     </histories>
   </component>
 </application>

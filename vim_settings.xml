@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" timestamp="1480580362810">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+      <file name="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" timestamp="1480582597116">
+        <mark key="'" line="15" column="14" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="35" column="50" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex5(3).java" timestamp="1480563926988">
         <mark key="[" line="8" column="16" />
@@ -55,12 +56,15 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" timestamp="1480580017782">
+      <file name="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" timestamp="1480582402222">
         <mark key="'" line="12" column="56" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="56" />
+        <mark key="." line="8" column="56" />
         <mark key="^" line="23" column="63" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar!/com/icegreen/greenmail/util/ServerSetup.class" timestamp="1480581596570">
+        <mark key="'" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20(2).java" timestamp="1480563883080">
         <mark key="[" line="8" column="17" />
@@ -117,8 +121,8 @@
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20_2.java" timestamp="1480563888798">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" timestamp="1480578711173">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" timestamp="1480581351827">
+        <mark key="'" line="48" column="14" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -195,12 +199,12 @@
         <mark key="." line="0" column="1557" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" timestamp="1480580110854">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" timestamp="1480582555884">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/RegisteredFactories24.java" timestamp="1480563574739">
         <mark key="'" line="39" column="42" />
@@ -272,14 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="87" column="21" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="88" column="21" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="89" column="20" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="90" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="95" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="78" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="101" column="18" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
       <jump line="107" column="18" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
       <jump line="115" column="11" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
       <jump line="123" column="21" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
@@ -369,28 +365,36 @@
       <jump line="1" column="26" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="2" column="15" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="6" column="20" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
-      <jump line="0" column="17" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="3" column="17" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="4" column="17" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="29" column="24" filename="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" />
+      <jump line="38" column="23" filename="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" />
+      <jump line="48" column="14" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
+      <jump line="53" column="0" filename="$MAVEN_REPOSITORY$/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar!/com/icegreen/greenmail/util/ServerSetup.class" />
+      <jump line="0" column="15" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="25" column="39" filename="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" />
+      <jump line="35" column="50" filename="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" />
+      <jump line="15" column="14" filename="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>test2@sqsgalaxys.com</text>
       </register>
       <register name="-" type="4">
-        <text>smtps</text>
+        <text>test2@sqsgalaxys.com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbXRwc1w+</text>
+        <text>sqs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZW1haWwucHJvdG9jYWwgPSBzbXRwcwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhzdWJqZWN0LG1zZ3NbMF0uZ2V0U3ViamVjdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -404,37 +408,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW1haWwucHJvdG9jYWwgPSBzbXRwcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGN0eAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YmVhbiBpZD0iYWNjb3VudEVtYWlsU2VydmljZSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICB0ZXN0U2VuZE1haQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZW5kTQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgSmF2YU1haWxTZW5kZXIgZ2V0SmF2YU1haWxTZW5kZXIoKSB7CiAgICByZXR1cm4gamF2YU1haWxTZW5kZXI7CiAgfQogIAogIHB1YmxpYyAK</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTZW5kTWFpbCgpdGhyb3dzIHsKICAgIAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbXRwc1w+</last-search>
+      <last-search>sqs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbXRwc1w+</last-pattern>
+      <last-pattern>sqs</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PGluc2VydA==</entry>
         <entry encoding="base64">XDxpbnNlcnRcPg==</entry>
         <entry>lata</entry>
         <entry>doPost</entry>
@@ -462,6 +465,7 @@
         <entry>acc</entry>
         <entry encoding="base64">XDxwcm90b2NvbFw+</entry>
         <entry encoding="base64">XDxzbXRwc1w+</entry>
+        <entry>sqs</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tJC0x</entry>
