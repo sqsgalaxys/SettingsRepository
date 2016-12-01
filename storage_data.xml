@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="props" />
       <item value="Mail Exception" />
       <item value="Preparator" />
       <item value="Mime Message Preparator" />
@@ -50,7 +51,6 @@
       <item value="embedded" />
       <item value="components" />
       <item value="separately" />
-      <item value="indicate" />
     </histories>
   </component>
 </application>

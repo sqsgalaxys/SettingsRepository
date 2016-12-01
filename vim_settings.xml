@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/meProject/accountemail/src/test/java/AccountEmailServiceTest.java" timestamp="1480580362810">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex5(3).java" timestamp="1480563926988">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="17" />
@@ -48,6 +54,13 @@
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" timestamp="1480580017782">
+        <mark key="'" line="12" column="56" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="63" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20(2).java" timestamp="1480563883080">
         <mark key="[" line="8" column="17" />
@@ -182,6 +195,13 @@
         <mark key="." line="0" column="1557" />
         <mark key="^" line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" timestamp="1480580110854">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/RegisteredFactories24.java" timestamp="1480563574739">
         <mark key="'" line="39" column="42" />
         <mark key="[" line="10" column="0" />
@@ -252,17 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-      <jump line="0" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-      <jump line="13" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-      <jump line="32" column="34" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-      <jump line="124" column="34" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-      <jump line="366" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-      <jump line="4" column="0" filename="$USER_HOME$/gitCode/demo/src/main/resources/application.properties" />
-      <jump line="2" column="0" filename="$USER_HOME$/gitCode/demo/src/main/resources/application.properties" />
-      <jump line="63" column="14" filename="$USER_HOME$/gitCode/java-design-patterns/builder/src/main/java/com/iluwatar/builder/App.java" />
-      <jump line="82" column="32" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="85" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
       <jump line="86" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
       <jump line="87" column="21" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
       <jump line="88" column="21" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
@@ -352,25 +361,36 @@
       <jump line="0" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" />
       <jump line="13" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" />
       <jump line="39" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
+      <jump line="9" column="47" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
+      <jump line="10" column="47" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
+      <jump line="11" column="55" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
+      <jump line="12" column="56" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="1" column="26" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="2" column="15" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="6" column="20" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="0" column="17" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="3" column="17" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
+      <jump line="4" column="17" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgSmF2YU1haWxTZW5kZXIgZ2V0SmF2YU1haWxTZW5kZXIoKSB7CiAgICByZXR1cm4gamF2YU1haWxTZW5kZXI7CiAgfQogIAogIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>smtps</text>
       </register>
       <register name="/" type="4">
-        <text>acc</text>
+        <text encoding="base64">XDxzbXRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1zZ0hlbHBlci5zZXRGcm9tKHN5c3RlbUVtYWlsKTsK</text>
+        <text encoding="base64">ZW1haWwucHJvdG9jYWwgPSBzbXRwcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgSmF2YU1haWxTZW5kZXIgZ2V0SmF2YU1haWxTZW5kZXIoKSB7CiAgICByZXR1cm4gamF2YU1haWxTZW5kZXI7CiAgfQogIAogIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -384,37 +404,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW1haWwucHJvdG9jYWwgPSBzbXRwcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1pbWVNZXNzYWdlSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICA8YmVhbiBpZD0iYWNjb3VudEVtYWlsU2VydmljZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEphdmEK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBVSUQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJ1aWxkPgogICAgPHBsdWdpbnM+CiAgICAgICAgCiAgICA8L3BsdWdpbnM+CjwvYnVpbGQ+Cgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgSmF2YU1haWxTZW5kZXIgZ2V0SmF2YU1haWxTZW5kZXIoKSB7CiAgICByZXR1cm4gamF2YU1haWxTZW5kZXI7CiAgfQogIAogIHB1YmxpYyAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search>acc</last-search>
+      <last-search encoding="base64">XDxzbXRwc1w+</last-search>
       <last-offset />
-      <last-pattern>acc</last-pattern>
+      <last-pattern encoding="base64">XDxzbXRwc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -422,8 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry>match</entry>
         <entry encoding="base64">PGluc2VydA==</entry>
         <entry encoding="base64">XDxpbnNlcnRcPg==</entry>
         <entry>lata</entry>
@@ -442,6 +460,8 @@
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxOdW1iZXJGb3JtYXRFeGNlcHRpb25cPg==</entry>
         <entry>acc</entry>
+        <entry encoding="base64">XDxwcm90b2NvbFw+</entry>
+        <entry encoding="base64">XDxzbXRwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tJC0x</entry>
