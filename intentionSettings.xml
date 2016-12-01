@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Expand Empty Tag" />
+  </component>
+</application>

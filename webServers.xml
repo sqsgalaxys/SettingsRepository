@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4d4d74b-2ed7-4c67-8ad3-90e504b8a5b2" name="cisea" url="http://103.26.0.10/">
+        <fileTransfer host="103.26.0.10" port="22" rootFolder="/usr/local/tomcat/apache-tomcat-8.0.28/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javac" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/javac" />
+      <option name="PARAMETERS" value="$FileName$ -d $OutputPath$" />
+      <option name="WORKING_DIRECTORY" value="$Sourcepath$" />
+    </exec>
+  </tool>
+</toolSet>

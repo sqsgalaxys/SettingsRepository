@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://ibatis.apache.org/dtd/sql-map-2.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/5be3b788_sql-map-2.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+  </component>
+</application>

@@ -1,0 +1,18 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="a4d4d74b-2ed7-4c67-8ad3-90e504b8a5b2" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="601a77a1-5097-47d8-9c54-2b5a047d6faf" />
+              <id>601a77a1-5097-47d8-9c54-2b5a047d6faf</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
