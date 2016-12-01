@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mail Exception" />
+      <item value="Preparator" />
+      <item value="Mime Message Preparator" />
+      <item value="decompiler" />
+      <item value="Fernflower" />
+      <item value="recreated" />
+      <item value="faild" />
+      <item value="content" />
       <item value="Annoyance" />
       <item value="Sneeze" />
       <item value="annotations" />
@@ -43,14 +51,6 @@
       <item value="components" />
       <item value="separately" />
       <item value="indicate" />
-      <item value="unfortunate" />
-      <item value="resides" />
-      <item value="limitations" />
-      <item value="governing" />
-      <item value="implied" />
-      <item value="express" />
-      <item value="CONDITIONS" />
-      <item value="WARRANTIES" />
     </histories>
   </component>
 </application>

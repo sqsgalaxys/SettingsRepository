@@ -73,6 +73,9 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" timestamp="1480578527936">
+        <mark key="'" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex5(2).java" timestamp="1480563130909">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="17" />
@@ -101,11 +104,11 @@
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20_2.java" timestamp="1480563888798">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" timestamp="1480576478171">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" timestamp="1480578711173">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/ContainerComparison.java" timestamp="1480544727185">
         <mark key="[" line="2" column="15" />
@@ -249,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="1" filename="$USER_HOME$/gitCode/demo/src/main/java/com/example/myproject/Application.java" />
-      <jump line="11" column="20" filename="$USER_HOME$/gitCode/demo/src/main/java/com/example/myproject/Application.java" />
       <jump line="38" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
       <jump line="0" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
       <jump line="13" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
@@ -349,13 +350,15 @@
       <jump line="58" column="0" filename="$USER_HOME$/meProject/accountemail/pom.xml" />
       <jump line="15" column="16" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" />
       <jump line="0" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" />
+      <jump line="13" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" />
+      <jump line="39" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgSmF2YU1haWxTZW5kZXIgZ2V0SmF2YU1haWxTZW5kZXIoKSB7CiAgICByZXR1cm4gamF2YU1haWxTZW5kZXI7CiAgfQogIAogIHB1YmxpYyAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAg</text>
@@ -367,7 +370,7 @@
         <text encoding="base64">ICAgIG1zZ0hlbHBlci5zZXRGcm9tKHN5c3RlbUVtYWlsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgSmF2YU1haWxTZW5kZXIgZ2V0SmF2YU1haWxTZW5kZXIoKSB7CiAgICByZXR1cm4gamF2YU1haWxTZW5kZXI7CiAgfQogIAogIHB1YmxpYyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,28 +384,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1pbWVNZXNzYWdlSGVscGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEphdmEK</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVSUQK</text>
+        <text encoding="base64">ICAgIG1pbWVNZXNzYWdlSGVscGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGJ1aWxkPgogICAgPHBsdWdpbnM+CiAgICAgICAgCiAgICA8L3BsdWdpbnM+CjwvYnVpbGQ+Cgo=</text>
+        <text encoding="base64">ICAgIHRvZG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEphdmEK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjUuNjwvdmVyc2lvbj4KICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBVSUQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJ1aWxkPgogICAgPHBsdWdpbnM+CiAgICAgICAgCiAgICA8L3BsdWdpbnM+CjwvYnVpbGQ+Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
