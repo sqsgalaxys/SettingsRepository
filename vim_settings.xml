@@ -56,12 +56,11 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" timestamp="1480582402222">
-        <mark key="'" line="12" column="56" />
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-        <mark key="^" line="23" column="63" />
+      <file name="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" timestamp="1480630694719">
+        <mark key="'" line="13" column="56" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar!/com/icegreen/greenmail/util/ServerSetup.class" timestamp="1480581596570">
         <mark key="'" line="53" column="0" />
@@ -244,7 +243,6 @@
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/2.5.6/spring-context-2.5.6.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.class" timestamp="1480583231182" />
       <file name="D:/ZhongChuangSiWei/example/trial/pom.xml" timestamp="1467785829185">
         <mark key="[" line="15" column="17" />
       </file>
@@ -260,7 +258,6 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/2.5.6/spring-context-2.5.6.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class" timestamp="1480583223202" />
       <file name="/Class.txt.ft" timestamp="1473558290579">
         <mark key="[" line="0" column="0" />
       </file>
@@ -383,8 +380,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test2@sqsgalaxys.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>test2@sqsgalaxys.com</text>
@@ -413,25 +410,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEUK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibG9jYXRpb24iIHZhbHVlPSJjbGFzc3BhdGg6c2VydmljZS5wcm9wZXJ0aWVzIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN0eAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0U2VuZE1haQo=</text>
+        <text encoding="base64">ICAgIGN0eAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZW5kTQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTZW5kTWFpbCgpdGhyb3dzIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
