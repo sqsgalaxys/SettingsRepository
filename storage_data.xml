@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notfication Listener" />
       <item value="protocol" />
       <item value="protocal" />
       <item value="upcasting" />
@@ -50,7 +51,6 @@
       <item value="limited" />
       <item value="acquired" />
       <item value="latch" />
-      <item value="ENDED" />
     </histories>
   </component>
 </application>
