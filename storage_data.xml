@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomic Long" />
+      <item value="have Next Next Gaussian" />
+      <item value="polymorphism" />
       <item value="notfication Listener" />
       <item value="protocol" />
       <item value="protocal" />
@@ -13,7 +16,6 @@
       <item value="flute" />
       <item value="Actor" />
       <item value="Static Polymorphism" />
-      <item value="polymorphism" />
       <item value="Glyph" />
       <item value="interfaces" />
       <item value="Invocation Target Exception" />
@@ -49,8 +51,6 @@
       <item value="Assignment" />
       <item value="Acceptor" />
       <item value="limited" />
-      <item value="acquired" />
-      <item value="latch" />
     </histories>
   </component>
 </application>
