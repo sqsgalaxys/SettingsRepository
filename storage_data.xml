@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="processed" />
+      <item value="reference" />
+      <item value="Daemon" />
+      <item value="expected" />
+      <item value="either" />
+      <item value="Catalina" />
+      <item value="Prerequisites" />
+      <item value="absent" />
+      <item value="$ PRGDIR" />
+      <item value="executable" />
+      <item value="secondary" />
+      <item value="PRIMARY" />
       <item value="CATALINA" />
       <item value="实现" />
       <item value="public" />
@@ -25,7 +37,6 @@
       <item value="interfaces" />
       <item value="Invocation Target Exception" />
       <item value="reflected" />
-      <item value="expected" />
       <item value="props" />
       <item value="Mail Exception" />
       <item value="Preparator" />
@@ -40,17 +51,6 @@
       <item value="annotations" />
       <item value="inherited" />
       <item value="Comparable" />
-      <item value="All Colors Of The Rainbow" />
-      <item value="net" />
-      <item value="reusing" />
-      <item value="repaint" />
-      <item value="graphical" />
-      <item value="Qualified My Class" />
-      <item value="Beryllium" />
-      <item value="Beryllium Sphere" />
-      <item value="uninitialized" />
-      <item value="Just flips back and forth" />
-      <item value="forth" />
     </histories>
   </component>
 </application>
