@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Roles Allowed" />
       <item value="optimization" />
       <item value="touched" />
       <item value="processed" />
@@ -50,7 +51,6 @@
       <item value="content" />
       <item value="Annoyance" />
       <item value="Sneeze" />
-      <item value="annotations" />
     </histories>
   </component>
 </application>
