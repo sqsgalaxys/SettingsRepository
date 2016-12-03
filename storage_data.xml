@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CATALINA" />
       <item value="实现" />
       <item value="public" />
       <item value="Impl" />
@@ -50,7 +51,6 @@
       <item value="uninitialized" />
       <item value="Just flips back and forth" />
       <item value="forth" />
-      <item value="flips" />
     </histories>
   </component>
 </application>
