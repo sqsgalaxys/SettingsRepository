@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimization" />
+      <item value="touched" />
       <item value="processed" />
       <item value="reference" />
       <item value="Daemon" />
@@ -49,8 +51,6 @@
       <item value="Annoyance" />
       <item value="Sneeze" />
       <item value="annotations" />
-      <item value="inherited" />
-      <item value="Comparable" />
     </histories>
   </component>
 </application>

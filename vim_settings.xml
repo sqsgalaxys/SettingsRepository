@@ -141,6 +141,9 @@
       <file name="$USER_HOME$/gitCode/tomcat/bin/startup.sh" timestamp="1480737689093">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/gitCode/nexus-public/pom.xml" timestamp="1480747429083">
+        <mark key="'" line="888" column="30" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1480729119295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -293,6 +296,7 @@
       <file name="/Class.txt.ft" timestamp="1473558290579">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitCode/nexus-public/mvnw" timestamp="1480747334691" />
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex2(4).java" timestamp="1480563655930">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="17" />
@@ -307,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/gitCode/tomcat/build.xml" />
       <jump line="2946" column="0" filename="$USER_HOME$/gitCode/tomcat/build.xml" />
       <jump line="1129" column="8" filename="$USER_HOME$/gitCode/tomcat/build.xml" />
       <jump line="1201" column="28" filename="$USER_HOME$/gitCode/tomcat/build.xml" />
@@ -407,6 +410,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/gitCode/tomcat/bin/startup.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/gitCode/tomcat/bin/catalina.sh" />
       <jump line="214" column="26" filename="$USER_HOME$/gitCode/tomcat/bin/catalina.sh" />
+      <jump line="888" column="30" filename="$USER_HOME$/gitCode/nexus-public/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
