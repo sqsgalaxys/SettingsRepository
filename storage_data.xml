@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实现" />
+      <item value="public" />
+      <item value="Impl" />
+      <item value="artifact Id" />
       <item value="Atomic Long" />
       <item value="have Next Next Gaussian" />
       <item value="polymorphism" />
@@ -47,10 +51,6 @@
       <item value="Just flips back and forth" />
       <item value="forth" />
       <item value="flips" />
-      <item value="Counting Generator" />
-      <item value="Assignment" />
-      <item value="Acceptor" />
-      <item value="limited" />
     </histories>
   </component>
 </application>

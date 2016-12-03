@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex5(3).java" timestamp="1480563926988">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-      </file>
       <file name="$USER_HOME$/TIJ4/arrays/ComparingArrays.java" timestamp="1480554222262">
         <mark key="'" line="24" column="5" />
       </file>
@@ -24,11 +18,12 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Shapes3(1).java" timestamp="1480563267606">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="29" column="21" />
+      <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistService.java" timestamp="1480731597483">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex10(4).java" timestamp="1480563758470">
         <mark key="'" line="7" column="6" />
@@ -37,26 +32,8 @@
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/package-info.java" timestamp="1480577687652">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex3(3).java" timestamp="1480563675237">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar!/com/icegreen/greenmail/util/ServerSetup.class" timestamp="1480581596570">
         <mark key="'" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20(2).java" timestamp="1480563883080">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1473560454856">
         <mark key="[" line="0" column="0" />
@@ -64,26 +41,8 @@
       <file name="$USER_HOME$/JetBrainsSpace/IDEA/meTestWeb/web/index.jsp" timestamp="1478613830073">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Access/FourWays.java" timestamp="1480568599571">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex4(4).java" timestamp="1480564024406">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="29" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" timestamp="1480578527936">
         <mark key="'" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex5(2).java" timestamp="1480563130909">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" timestamp="1480577706843">
         <mark key="'" line="0" column="0" />
@@ -91,16 +50,12 @@
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Holding/Ex1.java" timestamp="1480562814805">
         <mark key="'" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex7(3).java" timestamp="1480563701360">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/meProject/accountpersist/pom.xml" timestamp="1480730916909">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/meProject/accountpersist/pom.xml" timestamp="1480731201631">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="58" column="63" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="34" />
+        <mark key="^" line="60" column="34" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1473558257285">
         <mark key="[" line="0" column="0" />
@@ -114,38 +69,15 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/ContainerComparison.java" timestamp="1480544727185">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Exceptions/Ex2(2).java" timestamp="1480562861446">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1480729119295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Ex11(3).java" timestamp="1480563181408">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="18" />
-        <mark key="^" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex18(2).java" timestamp="1480563163834">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Ex12(1).java" timestamp="1480563200507">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistServiceImpl.java" timestamp="1480733180670">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="67" column="37" />
+        <mark key="^" line="67" column="37" />
+        <mark key="." line="67" column="37" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" timestamp="1480729878745">
         <mark key="'" line="23" column="31" />
@@ -155,29 +87,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex9(4).java" timestamp="1480563714006">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-      </file>
       <file name="/a.sql" timestamp="1467872019667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex3(2).java" timestamp="1480563905518">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
       <file name="/JavaScript Console" timestamp="1472115562040">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex4(3).java" timestamp="1480563688899">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/meProject/accountemail/pom.xml" timestamp="1480728752268">
         <mark key="'" line="58" column="0" />
@@ -207,12 +121,6 @@
       <file name="D:/ZCSW/BrainWave/BrainWaveServer/src/main/webapp/WEB-INF/web.xml" timestamp="1471398656226">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex17(1).java" timestamp="1480563150000">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-      </file>
       <file name="/dummy.sql" timestamp="1473216458067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -232,6 +140,11 @@
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistException.java" timestamp="1480732545256">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/ZhongChuangSiWei/example/trial/pom.xml" timestamp="1467785829185">
         <mark key="[" line="15" column="17" />
       </file>
@@ -241,11 +154,12 @@
       <file name="/a.regexp" timestamp="1470124885347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/generics/Manipulation.java" timestamp="1480559272242">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+      <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" timestamp="1480731388268">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/meProject/accountemail/src/test/resources/account-email.xml" timestamp="1480633735787">
         <mark key="[" line="15" column="46" />
@@ -260,13 +174,7 @@
       <file name="/Class.txt.ft" timestamp="1473558290579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex2(4).java" timestamp="1480563655930">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-      </file>
-      <file name="/fragment.java" timestamp="1480574967382">
+      <file name="/fragment.java" timestamp="1480731526556">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/Documents/TEMP/SpringWind/src/main/resources/properties/jdbc.properties" timestamp="1469539731361">
@@ -274,17 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="17" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="199" column="16" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="79" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="57" column="62" filename="$USER_HOME$/gitCode/tomcat/build.properties.default" />
-      <jump line="162" column="36" filename="$USER_HOME$/gitCode/tomcat/build.properties" />
-      <jump line="28" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties" />
-      <jump line="196" column="0" filename="$USER_HOME$/gitCode/tomcat/build.properties" />
-      <jump line="152" column="16" filename="$USER_HOME$/gitCode/tomcat/BUILDING.txt" />
-      <jump line="158" column="37" filename="$USER_HOME$/gitCode/tomcat/BUILDING.txt" />
-      <jump line="178" column="9" filename="$USER_HOME$/gitCode/tomcat/BUILDING.txt" />
       <jump line="196" column="9" filename="$USER_HOME$/gitCode/tomcat/BUILDING.txt" />
       <jump line="207" column="9" filename="$USER_HOME$/gitCode/tomcat/BUILDING.txt" />
       <jump line="226" column="9" filename="$USER_HOME$/gitCode/tomcat/BUILDING.txt" />
@@ -374,25 +271,36 @@
       <jump line="23" column="31" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
       <jump line="29" column="7" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
       <jump line="27" column="24" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
+      <jump line="41" column="9" filename="$USER_HOME$/meProject/accountpersist/pom.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/meProject/accountpersist/pom.xml" />
+      <jump line="11" column="26" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" />
+      <jump line="7" column="17" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" />
+      <jump line="8" column="20" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" />
+      <jump line="9" column="21" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" />
+      <jump line="10" column="24" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" />
+      <jump line="8" column="20" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistService.java" />
+      <jump line="9" column="22" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistService.java" />
+      <jump line="47" column="8" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>system</text>
+        <text encoding="base64">XDxjcmVhdGVBY2NvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhzdWJqZWN0LG1zZ3NbMF0uZ2V0U3ViamVjdCgpKTsK</text>
+        <text encoding="base64">ICBBY2NvdW50IGNyZWF0ZUFjY291bnQoQWNjb3VudCBhY2NvdW50KSB0aHJvd3MgQWNjb3VudFBlcnNpc3RFeGNlcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -406,37 +314,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uanV2ZW54dS5tdm5ib29rLmFjY291bnQuZW1haWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdyaQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibG9jYXRpb24iIHZhbHVlPSJjbGFzc3BhdGg6c2VydmljZS5wcm9wZXJ0aWVzIiAvPgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IDE2LTEyLTMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0b2RvCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz50Lg==</text>
+        <text>51t.</text>
       </register>
     </registers>
     <search>
-      <last-search>system</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVBY2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern>system</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVBY2NvdW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -444,8 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RestCon</entry>
-        <entry>dependencies</entry>
         <entry>maven</entry>
         <entry>devtool</entry>
         <entry>base</entry>
@@ -464,10 +370,10 @@
         <entry>protocal</entry>
         <entry encoding="base64">XDxzeXN0ZW1FbWFpbFw+</entry>
         <entry>system</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVBY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tJC0x</entry>
-        <entry>7</entry>
         <entry>t72</entry>
         <entry>78</entry>
         <entry>21</entry>
@@ -486,6 +392,8 @@
         <entry>113</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
+        <entry>50t.</entry>
+        <entry>51t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
