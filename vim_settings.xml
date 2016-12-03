@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex5(3).java" timestamp="1480563926988">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/TIJ4/arrays/ComparingArrays.java" timestamp="1480554222262">
         <mark key="'" line="24" column="5" />
       </file>
@@ -25,6 +31,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Shapes3(1).java" timestamp="1480563267606">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex10(4).java" timestamp="1480563758470">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="29" column="17" />
@@ -32,8 +44,26 @@
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
       </file>
+      <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/package-info.java" timestamp="1480577687652">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex3(3).java" timestamp="1480563675237">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar!/com/icegreen/greenmail/util/ServerSetup.class" timestamp="1480581596570">
         <mark key="'" line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20(2).java" timestamp="1480563883080">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1473560454856">
         <mark key="[" line="0" column="0" />
@@ -41,17 +71,41 @@
       <file name="$USER_HOME$/JetBrainsSpace/IDEA/meTestWeb/web/index.jsp" timestamp="1478613830073">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Access/FourWays.java" timestamp="1480568599571">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex4(4).java" timestamp="1480564024406">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="29" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" timestamp="1480578527936">
         <mark key="'" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/gitCode/tomcat/bin/startup.bat" timestamp="1480734389880">
         <mark key="'" line="41" column="19" />
       </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex5(2).java" timestamp="1480563130909">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" timestamp="1480577706843">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Holding/Ex1.java" timestamp="1480562814805">
         <mark key="'" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex7(3).java" timestamp="1480563701360">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/meProject/accountpersist/pom.xml" timestamp="1480731201631">
         <mark key="'" line="8" column="0" />
@@ -72,11 +126,47 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/ContainerComparison.java" timestamp="1480544727185">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Exceptions/Ex2(2).java" timestamp="1480562861446">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/gitCode/tomcat/bin/startup.sh" timestamp="1480737689093">
         <mark key="'" line="1" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1480729119295">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Ex11(3).java" timestamp="1480563181408">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex18(2).java" timestamp="1480563163834">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/meProject/meTestMyBetis/pom.xml" timestamp="1480742765849">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Ex12(1).java" timestamp="1480563200507">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/gitCode/tomcat/bin/catalina.sh" timestamp="1480738257060">
         <mark key="'" line="214" column="26" />
@@ -96,11 +186,29 @@
         <mark key="'" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/gitCode/tomcat/java/org/apache/catalina/startup/Bootstrap.java" timestamp="1480739184178" />
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex9(4).java" timestamp="1480563714006">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="/a.sql" timestamp="1467872019667">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex3(2).java" timestamp="1480563905518">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
       <file name="/JavaScript Console" timestamp="1472115562040">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex4(3).java" timestamp="1480563688899">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/meProject/accountemail/pom.xml" timestamp="1480728752268">
         <mark key="'" line="58" column="0" />
@@ -129,6 +237,12 @@
       </file>
       <file name="D:/ZCSW/BrainWave/BrainWaveServer/src/main/webapp/WEB-INF/web.xml" timestamp="1471398656226">
         <mark key="[" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex17(1).java" timestamp="1480563150000">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="/dummy.sql" timestamp="1473216458067">
         <mark key="[" line="0" column="0" />
@@ -170,8 +284,20 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/generics/Manipulation.java" timestamp="1480559272242">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
       <file name="/Class.txt.ft" timestamp="1473558290579">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex2(4).java" timestamp="1480563655930">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1480731526556">
         <mark key="[" line="0" column="0" />
@@ -287,10 +413,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x.x.x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x.x.x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFWEVDVVRBQkxFXD4=</text>
@@ -298,8 +424,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBBY2NvdW50IGNyZWF0ZUFjY291bnQoQWNjb3VudCBhY2NvdW50KSB0aHJvd3MgQWNjb3VudFBlcnNpc3RFeGNlcHRpb247Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxncm91cElkPm9yZy5teWJhdGlzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5teWJhdGlzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj54LngueDwvdmVyc2lvbj4KICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -316,19 +442,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5teWJhdGlzPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXM8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+eC54Lng8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
