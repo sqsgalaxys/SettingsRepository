@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinguishing" />
       <item value="Aggregator" />
       <item value="access" />
       <item value="We have applied so called strict layering which means that the layers can only access the classes directly beneath them ." />
@@ -50,7 +51,6 @@
       <item value="Glyph" />
       <item value="interfaces" />
       <item value="Invocation Target Exception" />
-      <item value="reflected" />
     </histories>
   </component>
 </application>

@@ -97,6 +97,9 @@
       <file name="$USER_HOME$/gitCode/tomcat/bin/startup.bat" timestamp="1480734389880">
         <mark key="'" line="41" column="19" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" timestamp="1480887013395">
+        <mark key="'" line="2227" column="0" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex5(2).java" timestamp="1480563130909">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="17" />
@@ -138,6 +141,13 @@
         <mark key="^" line="49" column="28" />
         <mark key="." line="49" column="28" />
       </file>
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/accpunt-captcha/pom.xml" timestamp="1480886900813">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+      </file>
       <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/ContainerComparison.java" timestamp="1480544727185">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -171,6 +181,12 @@
         <mark key="]" line="25" column="18" />
         <mark key="^" line="25" column="18" />
         <mark key="." line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/pom.xml" timestamp="1480887067837">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex18(2).java" timestamp="1480563163834">
         <mark key="[" line="11" column="17" />
@@ -339,13 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" />
-      <jump line="13" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" />
-      <jump line="39" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
-      <jump line="9" column="47" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
-      <jump line="10" column="47" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
-      <jump line="11" column="55" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
-      <jump line="7" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="1" column="26" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="2" column="15" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
       <jump line="6" column="20" filename="$USER_HOME$/meProject/accountemail/src/main/java/service.properties" />
@@ -439,25 +448,32 @@
       <jump line="65" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
       <jump line="19" column="0" filename="$USER_HOME$/meProject/account-parent/account-email/pom.xml" />
       <jump line="11" column="13" filename="$USER_HOME$/meProject/account-parent/pom.xml" />
+      <jump line="49" column="79" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/accpunt-captcha/pom.xml" />
+      <jump line="41" column="30" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/accpunt-captcha/pom.xml" />
+      <jump line="772" column="24" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
+      <jump line="779" column="23" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
+      <jump line="1" column="0" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
+      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
+      <jump line="2227" column="0" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoPi4uL3BvbS54bWw8L3JlbGF0aXZlUGF0aD4K</text>
+      <register name="&quot;" type="4">
+        <text>persist</text>
       </register>
       <register name="-" type="4">
-        <text>-parent</text>
+        <text>persist</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text encoding="base64">XDxjbGFzc2lmaWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS41PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjU8L3RhcmdldD4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1yZXNvdXJjZXMtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGVuY29kaW5nPlVURi04PC9lbmNvZGluZz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmFjY291bnQtcGVyc2lzdDwvbW9kdWxlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoPi4uL3BvbS54bWw8L3JlbGF0aXZlUGF0aD4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -471,37 +487,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoPi4uL3BvbS54bWw8L3JlbGF0aXZlUGF0aD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc291cmNlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjEuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5hdHRhY2gtc291cmNlczwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5qYXItbm8tZm9yazwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT4xLjU8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjU8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5qdXZlbnh1Lm12bmJvb2suYWNjb3VudDwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPmFjY3B1bnQtY2FwdGNoYTwvYXJ0aWZhY3RJZD4KICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoPi4uL3BvbS54bWw8L3JlbGF0aXZlUGF0aD4K</text>
       </register>
       <register name=":" type="4">
         <text>51t.</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search encoding="base64">XDxjbGFzc2lmaWVyXD4=</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc2lmaWVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOdW1iZXJGb3JtYXRFeGNlcHRpb25cPg==</entry>
         <entry>acc</entry>
         <entry encoding="base64">XDxwcm90b2NvbFw+</entry>
         <entry encoding="base64">XDxzbXRwc1w+</entry>
@@ -529,6 +544,7 @@
         <entry>ver</entry>
         <entry>version</entry>
         <entry>build</entry>
+        <entry encoding="base64">XDxjbGFzc2lmaWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>t72</entry>
