@@ -267,6 +267,12 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/meProject/accountaggregator/pom.xml" timestamp="1480836843176">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
       <file name="$USER_HOME$/meProject/accountpersist/src/test/resources/account-service.properties" timestamp="1480832415461">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="65" />
@@ -384,19 +390,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>email</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqdXZlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygianV2ZW5AY2hhbmdlbWUuY29tIixhY2NvdW50LmdldEVtYWlsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmFjY291bnQtZW1haWw8L21vZHVsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -409,29 +415,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEZpbGUgcGVyc2lzdERhdGFGaWxlID0gbmV3IEZpbGUoInRhcmdlci90ZXN0LWNsYXNzZXMvcGVyc2lzdC1kYXRhLnhtbCIpOwogICAgaWYgKHBlcnNpc3REYXRhRmlsZS5leGlzdHMoKSkgewogICAgICBwZXJzaXN0RGF0YUZpbGUuZGVsZXRlKCk7CiAgICB9CgogICAgQXBwbGljYXRpb25Db250ZXh0IGN0eCA9IG5ldyBDbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQoImFjY291bnQtcGVyc2lzdC54bWwiKTsKICAgIHNlcnZpY2UgPSAoQWNjb3VudFBlcnNpc3RTZXJ2aWNlKSBjdHguZ2V0QmVhbigiYWNjb3VudFBlcnNpc3RTZXJ2aWNlIik7CgogICAgQWNjb3VudCBhY2NvdW50ID0gbmV3IEFjY291bnQoKTsKCiAgICBhY2NvdW50LnNldElkKCJqdXZlbiIpOwogICAgYWNjb3VudC5zZXROYW1lKCJKdXZlbiBYdSIpOwogICAgYWNjb3VudC5zZXRFbWFpbCgianV2ZW5AY2hhbmdlbWUuY29tIik7CiAgICBhY2NvdW50LnNldFBhc3N3b3JkKCJ0aGlzX3Nob3VsZF9iZV9lbmNyeXB0ZWQiKTsKICAgIGFjY291bnQuc2V0QWN0aXZhdGVkKCJ0cnVlIik7CgogICAgc2VydmljZS5jcmVhdGVBY2NvdW50KGFjY291bnQpOwo=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEZpbGUgcGVyc2lzdERhdGFGaWxlID0gbmV3IEZpbGUoInRhcmdlci90ZXN0LWNsYXNzZXMvcGVyc2lzdC1kYXRhLnhtbCIpOwogICAgaWYgKHBlcnNpc3REYXRhRmlsZS5leGlzdHMoKSkgewogICAgICBwZXJzaXN0RGF0YUZpbGUuZGVsZXRlKCk7CiAgICB9CgogICAgQXBwbGljYXRpb25Db250ZXh0IGN0eCA9IG5ldyBDbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQoImFjY291bnQtcGVyc2lzdC54bWwiKTsKICAgIHNlcnZpY2UgPSAoQWNjb3VudFBlcnNpc3RTZXJ2aWNlKSBjdHguZ2V0QmVhbigiYWNjb3VudFBlcnNpc3RTZXJ2aWNlIik7CgogICAgQWNjb3VudCBhY2NvdW50ID0gbmV3IEFjY291bnQoKTsKCiAgICBhY2NvdW50LnNldElkKCJqdXZlbiIpOwogICAgYWNjb3VudC5zZXROYW1lKCJKdXZlbiBYdSIpOwogICAgYWNjb3VudC5zZXRFbWFpbCgianV2ZW5AY2hhbmdlbWUuY29tIik7CiAgICBhY2NvdW50LnNldFBhc3N3b3JkKCJ0aGlzX3Nob3VsZF9iZV9lbmNyeXB0ZWQiKTsKICAgIGFjY291bnQuc2V0QWN0aXZhdGVkKCJ0cnVlIik7CgogICAgc2VydmljZS5jcmVhdGVBY2NvdW50KGFjY291bnQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjY291bnQuc2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjY291bnQuc2V0SWQoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7CgogIH0oKQoK</text>
+        <text encoding="base64">ICB9KCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>51t.</text>
