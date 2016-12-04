@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="access" />
+      <item value="We have applied so called strict layering which means that the layers can only access the classes directly beneath them ." />
+      <item value="&lt; p &gt; We have applied so called strict layering which means that the layers can only access the classes directly beneath them . This leads the solution to create an additional set of DT Os ( &lt; code &gt; Cake Info &lt;/ code &gt;, &lt; code &gt; Cake Topping Info &lt;/ code &gt;, &lt; code &gt; Cake Layer Info &lt;/ code &gt;) to translate data between layers . In other words , &lt; code &gt; Cake Baking Service &lt;/ code &gt; cannot return entities ( &lt; code &gt; Cake &lt;/ code &gt;, &lt; code &gt; Cake Topping &lt;/ code &gt;, &lt; code &gt; Cake Layer &lt;/ code &gt;) directly since these reside on data access layer but instead translates these into business layer DT Os (&lt; code &gt; Cake Info &lt;/ code &gt;, &lt; code &gt; Cake Topping Info &lt;/ code &gt;, &lt; code &gt; Cake Layer Info &lt;/ code &gt;) and returns them instead . This way the presentation layer does not have any knowledge of other layers than the business layer and thus is not affected by changes to them ." />
       <item value="monostate" />
       <item value="Reactive" />
       <item value="aggregator" />
@@ -48,9 +51,6 @@
       <item value="Invocation Target Exception" />
       <item value="reflected" />
       <item value="props" />
-      <item value="Mail Exception" />
-      <item value="Preparator" />
-      <item value="Mime Message Preparator" />
     </histories>
   </component>
 </application>
