@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monostate" />
       <item value="Reactive" />
       <item value="aggregator" />
       <item value="concepts" />
@@ -50,7 +51,6 @@
       <item value="Mail Exception" />
       <item value="Preparator" />
       <item value="Mime Message Preparator" />
-      <item value="decompiler" />
     </histories>
   </component>
 </application>
