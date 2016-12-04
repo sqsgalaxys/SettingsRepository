@@ -53,10 +53,10 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" timestamp="1480841027394">
+      <file name="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" timestamp="1480841431906">
         <mark key="'" line="42" column="20" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="62" column="31" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="39" />
       </file>
@@ -88,12 +88,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar!/org/springframework/mail/javamail/JavaMailSender.class" timestamp="1480578527936">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" timestamp="1480840830673">
-        <mark key="'" line="38" column="53" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="43" column="39" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" timestamp="1480841704611">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/gitCode/tomcat/bin/startup.bat" timestamp="1480734389880">
         <mark key="'" line="41" column="19" />
@@ -198,11 +197,11 @@
       <file name="$USER_HOME$/gitCode/java-design-patterns/aggregator-microservices/aggregator-service/src/main/java/com/iluwatar/aggregator/microservices/App.java" timestamp="1480822672792">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" timestamp="1480840720072">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" timestamp="1480841667858">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="67" column="17" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="51" column="17" />
       </file>
       <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistServiceImpl.java" timestamp="1480831950605">
         <mark key="'" line="192" column="0" />
@@ -322,12 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="42" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/RegisteredFactories24.java" />
-      <jump line="34" column="42" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/RegisteredFactories24.java" />
-      <jump line="7" column="6" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex10(4).java" />
-      <jump line="10" column="6" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex1(2).java" />
-      <jump line="8" column="17" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex20_2.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex5_3.java" />
       <jump line="15" column="28" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex1(2).java" />
       <jump line="6" column="2" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Access/FourWays.java" />
       <jump line="63" column="9" filename="$USER_HOME$/meProject/accountemail/pom.xml" />
@@ -422,25 +415,31 @@
       <jump line="17" column="31" filename="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" />
       <jump line="54" column="25" filename="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" />
       <jump line="42" column="20" filename="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" />
+      <jump line="31" column="35" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
+      <jump line="36" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
+      <jump line="40" column="13" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
+      <jump line="48" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc291cmNlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjEuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5hdHRhY2gtc291cmNlczwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5qYXItbm8tZm9yazwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1.3.1b</text>
+        <text>compiler</text>
       </register>
       <register name="/" type="4">
-        <text>ver</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8amF2YXgubWFpbC52ZXJzaW9uPjEuNC4xPC9qYXZheC5tYWlsLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS41PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjU8L3RhcmdldD4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1yZXNvdXJjZXMtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGVuY29kaW5nPlVURi04PC9lbmNvZGluZz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc291cmNlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjEuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5hdHRhY2gtc291cmNlczwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5qYXItbm8tZm9yazwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -454,37 +453,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjY8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjY8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjY8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjY8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT4xLjU8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjU8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxwbHVnaW5SZXBvc2l0b3JpZXM+PC9wbHVnaW5SZXBvc2l0b3JpZXM+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uaWNlZ3JlZW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5ncmVlbm1haWw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjMuMWI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>51t.</text>
       </register>
     </registers>
     <search>
-      <last-search>ver</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>ver</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -492,8 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>des</entry>
-        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxOdW1iZXJGb3JtYXRFeGNlcHRpb25cPg==</entry>
         <entry>acc</entry>
         <entry encoding="base64">XDxwcm90b2NvbFw+</entry>
@@ -512,6 +509,8 @@
         <entry encoding="base64">XDxqdXZlblw+</entry>
         <entry encoding="base64">XDwxYlw+</entry>
         <entry>ver</entry>
+        <entry>version</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>t72</entry>
