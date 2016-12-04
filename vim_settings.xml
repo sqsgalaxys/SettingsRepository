@@ -53,6 +53,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/meProject/accountparent/account-persist/pom.xml" timestamp="1480837837060">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Access/FourWays.java" timestamp="1480568599571">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -190,6 +196,12 @@
       <file name="$USER_HOME$/meProject/accountpersist/src/main/java/account-service.properties" timestamp="1480832174616">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/meProject/accountparent/pom.xml" timestamp="1480837375621">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex9(4).java" timestamp="1480563714006">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="17" />
@@ -244,6 +256,12 @@
       </file>
       <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/CountingGenerator.java" timestamp="1480544234362">
         <mark key="'" line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/meProject/accountparent/account-email/pom.xml" timestamp="1480837777441">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" timestamp="1480731388268">
         <mark key="'" line="10" column="24" />
@@ -390,19 +408,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>email</text>
+        <text>Account Email</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>Account Email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqdXZlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmFjY291bnQtZW1haWw8L21vZHVsZT4K</text>
+        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmp1dmVueHUubXZuYm9vay5hY2NvdW50PC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmFjY291bnQtcGFyZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDxyZWxhdGl2ZVBhdGg+Li4vLi4vYWNjb3VudHBhcmVudC9wb20ueG1sPC9yZWxhdGl2ZVBhdGg+CiAgICA8L3BhcmVudD4KICAgIDxhcnRpZmFjdElkPmFjY291bnQtZW1haWw8L2FydGlmYWN0SWQ+CiAgICA8bmFtZT5BY2NvdW50IEVtYWlsPC9uYW1lPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5qdXZlbnh1Lm12bmJvb2suYWNjb3VudDwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPmFjY291bnQtcGVyc2lzdDwvYXJ0aWZhY3RJZD4KICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -416,28 +434,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEZpbGUgcGVyc2lzdERhdGFGaWxlID0gbmV3IEZpbGUoInRhcmdlci90ZXN0LWNsYXNzZXMvcGVyc2lzdC1kYXRhLnhtbCIpOwogICAgaWYgKHBlcnNpc3REYXRhRmlsZS5leGlzdHMoKSkgewogICAgICBwZXJzaXN0RGF0YUZpbGUuZGVsZXRlKCk7CiAgICB9CgogICAgQXBwbGljYXRpb25Db250ZXh0IGN0eCA9IG5ldyBDbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQoImFjY291bnQtcGVyc2lzdC54bWwiKTsKICAgIHNlcnZpY2UgPSAoQWNjb3VudFBlcnNpc3RTZXJ2aWNlKSBjdHguZ2V0QmVhbigiYWNjb3VudFBlcnNpc3RTZXJ2aWNlIik7CgogICAgQWNjb3VudCBhY2NvdW50ID0gbmV3IEFjY291bnQoKTsKCiAgICBhY2NvdW50LnNldElkKCJqdXZlbiIpOwogICAgYWNjb3VudC5zZXROYW1lKCJKdXZlbiBYdSIpOwogICAgYWNjb3VudC5zZXRFbWFpbCgianV2ZW5AY2hhbmdlbWUuY29tIik7CiAgICBhY2NvdW50LnNldFBhc3N3b3JkKCJ0aGlzX3Nob3VsZF9iZV9lbmNyeXB0ZWQiKTsKICAgIGFjY291bnQuc2V0QWN0aXZhdGVkKCJ0cnVlIik7CgogICAgc2VydmljZS5jcmVhdGVBY2NvdW50KGFjY291bnQpOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5qdXZlbnh1Lm12bmJvb2suYWNjb3VudDwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPmFjY291bnQtZW1haWw8L2FydGlmYWN0SWQ+CiAgICA8dmVyc2lvbj4xLjAuMC1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjY291bnQuc2V0SWQoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIEZpbGUgcGVyc2lzdERhdGFGaWxlID0gbmV3IEZpbGUoInRhcmdlci90ZXN0LWNsYXNzZXMvcGVyc2lzdC1kYXRhLnhtbCIpOwogICAgaWYgKHBlcnNpc3REYXRhRmlsZS5leGlzdHMoKSkgewogICAgICBwZXJzaXN0RGF0YUZpbGUuZGVsZXRlKCk7CiAgICB9CgogICAgQXBwbGljYXRpb25Db250ZXh0IGN0eCA9IG5ldyBDbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQoImFjY291bnQtcGVyc2lzdC54bWwiKTsKICAgIHNlcnZpY2UgPSAoQWNjb3VudFBlcnNpc3RTZXJ2aWNlKSBjdHguZ2V0QmVhbigiYWNjb3VudFBlcnNpc3RTZXJ2aWNlIik7CgogICAgQWNjb3VudCBhY2NvdW50ID0gbmV3IEFjY291bnQoKTsKCiAgICBhY2NvdW50LnNldElkKCJqdXZlbiIpOwogICAgYWNjb3VudC5zZXROYW1lKCJKdXZlbiBYdSIpOwogICAgYWNjb3VudC5zZXRFbWFpbCgianV2ZW5AY2hhbmdlbWUuY29tIik7CiAgICBhY2NvdW50LnNldFBhc3N3b3JkKCJ0aGlzX3Nob3VsZF9iZV9lbmNyeXB0ZWQiKTsKICAgIGFjY291bnQuc2V0QWN0aXZhdGVkKCJ0cnVlIik7CgogICAgc2VydmljZS5jcmVhdGVBY2NvdW50KGFjY291bnQpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>51t.</text>
