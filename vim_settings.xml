@@ -25,12 +25,11 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" timestamp="1480888792799">
-        <mark key="'" line="19" column="39" />
-        <mark key="[" line="33" column="83" />
-        <mark key="]" line="33" column="83" />
-        <mark key="." line="33" column="83" />
-        <mark key="^" line="33" column="83" />
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" timestamp="1480889651969">
+        <mark key="'" line="37" column="56" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Shapes3(1).java" timestamp="1480563267606">
         <mark key="[" line="29" column="20" />
@@ -38,12 +37,12 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" timestamp="1480887601543">
-        <mark key="'" line="17" column="55" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="55" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="17" column="55" />
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" timestamp="1480889312175">
+        <mark key="'" line="13" column="62" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+        <mark key="." line="13" column="62" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex10(4).java" timestamp="1480563758470">
         <mark key="'" line="7" column="6" />
@@ -92,10 +91,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaException.java" timestamp="1480888921609">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaException.java" timestamp="1480889002614">
+        <mark key="s" line="11" column="40" />
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex4(4).java" timestamp="1480564024406">
         <mark key="[" line="21" column="28" />
@@ -380,11 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
-      <jump line="48" column="15" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
-      <jump line="51" column="39" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
-      <jump line="53" column="27" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
-      <jump line="13" column="19" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
       <jump line="23" column="31" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" />
       <jump line="29" column="7" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
       <jump line="27" column="24" filename="$USER_HOME$/meProject/accountemail/src/main/resources/account-email.xml" />
@@ -468,11 +464,8 @@
       <jump line="17" column="55" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" />
       <jump line="13" column="3" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="40" column="48" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="35" column="3" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="42" column="42" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="25" column="19" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="52" column="11" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="57" column="34" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="60" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="1" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
@@ -480,25 +473,33 @@
       <jump line="31" column="3" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="0" column="36" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="19" column="39" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="13" column="62" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="84" column="3" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="52" column="56" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="34" column="44" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="35" column="25" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
+      <jump line="37" column="56" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGxvbmcgc2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>captchaText</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>capt</text>
+        <text encoding="base64">XDxjYXB0Y2hhS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTdHJpbmcgZ2VuZXJhdGVDYXB0Y2hhS2V5KCkgdGhyb3dzIEFjY291bnRDYXB0Y2hhRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEFjY291bnRDYXB0Y2hhRXhjZXB0aW9uKCJDYXB0Y2gga2V5JyIgKyBjYXB0Y2hhTWFwICsgIidub3QgZm91bmQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGxvbmcgc2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -512,37 +513,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEFjY291bnRDYXB0Y2hhRXhjZXB0aW9uKCJGYWlsZWQgdG8gd3JpdGUgY2FwdGNoYSBzdHJlYW0hIiwgZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBjYXB0Y2hhVGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IHByZURlZmluZWRUZXh0czsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgYnl0ZVswXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERlZmF1bHRLYXB0Y2hhIHByb2R1Y2VyOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0ZXh0ID0gY2FwdGNoYU1hcC5nZXQoY2FwdGNoYU1hcCk7CiAgICBpZiAodGV4dCA9PSBudWxsKSB7CiAgICAgIHRocm93IG5ldyBBY2NvdW50Q2FwdGNoYUV4Y2VwdGlvbigiQ2FwdGNoIGtleSciICsgY2FwdGNoYU1hcCArICInbm90IGZvdW5kISIpOwogICAgfQogICAgQnVmZmVyZWRJbWFnZSBpbWFnZSA9IHByb2R1Y2VyLmNyZWF0ZUltYWdlKHRleHQpOwogICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIG91dCA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgIHRyeSB7CiAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJqcGciLCBvdXQpOwogICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgQWNjb3VudENhcHRjaGFFeGNlcHRpb24oIkZhaWxlZCB0byB3cml0ZSBjYXB0Y2hhIHN0cmVhbSEiLCBlKTsKICAgIH0KICAgIHJldHVybiBvdXQudG9CeXRlQXJyYXkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhcHRjaGFNYXAuZ2V0KGNhcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>51t.</text>
+        <text>53</text>
       </register>
     </registers>
     <search>
-      <last-search>capt</last-search>
+      <last-search encoding="base64">XDxjYXB0Y2hhS2V5XD4=</last-search>
       <last-offset />
-      <last-pattern>capt</last-pattern>
+      <last-pattern encoding="base64">XDxjYXB0Y2hhS2V5XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -550,11 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFWEVDVVRBQkxFXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVBY2NvdW50XD4=</entry>
-        <entry encoding="base64">XDxzZXRJZFw+</entry>
-        <entry encoding="base64">XDxqdXZlblw+</entry>
-        <entry encoding="base64">XDwxYlw+</entry>
         <entry>ver</entry>
         <entry>version</entry>
         <entry>build</entry>
@@ -568,12 +564,15 @@
         <entry>getC</entry>
         <entry encoding="base64">XDxnZXRDYXB0Y2hhVGV4dFw+</entry>
         <entry encoding="base64">XDxjYXB0Y2hhVGV4dFw+</entry>
-        <entry>gen</entry>
         <entry>capt</entry>
+        <entry>valid</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUNhcHRjaGFJbWFnZVw+</entry>
+        <entry>thr</entry>
+        <entry>gen</entry>
+        <entry>Map</entry>
+        <entry encoding="base64">XDxjYXB0Y2hhS2V5XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>t72</entry>
-        <entry>78</entry>
         <entry>21</entry>
         <entry>62</entry>
         <entry>13</entry>
@@ -592,6 +591,8 @@
         <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>50t.</entry>
         <entry>51t.</entry>
+        <entry>45</entry>
+        <entry>53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
