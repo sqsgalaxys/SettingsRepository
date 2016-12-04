@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aggregator" />
+      <item value="concepts" />
+      <item value="paradigms" />
+      <item value="providing" />
+      <item value="Quality" />
       <item value="Roles Allowed" />
       <item value="optimization" />
       <item value="touched" />
@@ -46,11 +51,6 @@
       <item value="Mime Message Preparator" />
       <item value="decompiler" />
       <item value="Fernflower" />
-      <item value="recreated" />
-      <item value="faild" />
-      <item value="content" />
-      <item value="Annoyance" />
-      <item value="Sneeze" />
     </histories>
   </component>
 </application>
