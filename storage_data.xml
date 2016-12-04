@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reactive" />
       <item value="aggregator" />
       <item value="concepts" />
       <item value="paradigms" />
@@ -50,7 +51,6 @@
       <item value="Preparator" />
       <item value="Mime Message Preparator" />
       <item value="decompiler" />
-      <item value="Fernflower" />
     </histories>
   </component>
 </application>
