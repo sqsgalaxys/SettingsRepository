@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Properties Set" />
       <item value="distinguishing" />
       <item value="Aggregator" />
       <item value="access" />
@@ -50,7 +51,6 @@
       <item value="Static Polymorphism" />
       <item value="Glyph" />
       <item value="interfaces" />
-      <item value="Invocation Target Exception" />
     </histories>
   </component>
 </application>
