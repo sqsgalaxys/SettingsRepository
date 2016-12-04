@@ -175,6 +175,10 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
+      <file name="$USER_HOME$/meProject/account-aggregator/pom.xml" timestamp="1480843008882">
+        <mark key="'" line="65" column="0" />
+        <mark key="." line="0" column="1877" />
+      </file>
       <file name="$USER_HOME$/meProject/meTestMyBetis/pom.xml" timestamp="1480742765849">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="21" />
@@ -208,6 +212,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/meProject/account-parent/account-email/pom.xml" timestamp="1480843808442">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-5/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java" timestamp="1480729878745">
         <mark key="'" line="23" column="31" />
@@ -321,10 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="28" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex1(2).java" />
-      <jump line="6" column="2" filename="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Access/FourWays.java" />
-      <jump line="63" column="9" filename="$USER_HOME$/meProject/accountemail/pom.xml" />
-      <jump line="5" column="0" filename="$USER_HOME$/meProject/accountemail/pom.xml" />
       <jump line="58" column="0" filename="$USER_HOME$/meProject/accountemail/pom.xml" />
       <jump line="15" column="16" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" />
       <jump line="0" column="0" filename="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailException.java" />
@@ -421,16 +427,20 @@
       <jump line="40" column="13" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
       <jump line="48" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
+      <jump line="67" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
+      <jump line="65" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc291cmNlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjEuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5hdHRhY2gtc291cmNlczwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5qYXItbm8tZm9yazwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-parent</text>
       </register>
       <register name="-" type="4">
-        <text>compiler</text>
+        <text>-parent</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
