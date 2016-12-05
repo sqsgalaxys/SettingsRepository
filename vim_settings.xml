@@ -143,12 +143,12 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" timestamp="1480911080004">
-        <mark key="'" line="26" column="9" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" timestamp="1480915174450">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex5(2).java" timestamp="1480563130909">
         <mark key="[" line="12" column="16" />
@@ -207,6 +207,9 @@
         <mark key="]" line="10" column="54" />
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1480915039815">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/main/resources/account-service.xml" timestamp="1480902903595">
         <mark key="[" line="5" column="68" />
@@ -276,10 +279,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-persist/pom.xml" timestamp="1480899926500">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/SignUpRequest.java" timestamp="1480900917349">
         <mark key="'" line="86" column="0" />
@@ -443,13 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="9" filename="$USER_HOME$/meProject/accountaggregator/pom.xml" />
-      <jump line="23" column="53" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
-      <jump line="28" column="53" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
-      <jump line="33" column="53" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
-      <jump line="38" column="53" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
-      <jump line="17" column="31" filename="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" />
-      <jump line="54" column="25" filename="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" />
       <jump line="42" column="20" filename="$USER_HOME$/meProject/accountaggregator/account-email/pom.xml" />
       <jump line="31" column="35" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
@@ -543,16 +535,23 @@
       <jump line="53" column="35" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
       <jump line="54" column="49" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
       <jump line="55" column="39" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
+      <jump line="34" column="55" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="55" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="39" column="18" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="4" column="2" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="52" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>aptchaValue</text>
+        <text>CaptchaImageServlet</text>
       </register>
       <register name="/" type="4">
         <text>Id</text>
@@ -561,7 +560,7 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldElkKGlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text />
       </register>
       <register name="q" type="4">
         <keys>
@@ -575,7 +574,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -584,22 +583,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNpZ25VcFNlcnZsZXQuc2V0SWQoaWQpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlybVBhc3N3b3JkID09IG51bGx8fGNvbmZpcm1QYXNzd29yZC5sZW5ndGgoKT09MHx8Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA9PSBudWxsfHxpZC5sZW5ndGgoKT09MAogICAgICAgIGlkID09IG51bGx8fGlkLmxlbmd0aCgpPT0wCiAgICAgICAgaWQgPT0gbnVsbHx8aWQubGVuZ3RoKCk9PTAKICAgICAgICBpZCA9PSBudWxsfHxpZC5sZW5ndGgoKT09MAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPkNhcHRjaGFJbWFnZVNlcnZsZXQ8L3NlcnZsZXQtbmFtZT4KICAgICAgICA8c2VydmxldC1jbGFzcz4KICAgICAgICAgICAgCiAgICAgICAgPC9zZXJ2bGV0LWNsYXNzPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9kbwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZW1haWwgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiZW1haWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLjsK</text>
       </register>
       <register name=":" type="4">
-        <text>34t.</text>
+        <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
@@ -646,7 +645,6 @@
         <entry>60t.</entry>
         <entry>69t.</entry>
         <entry>94t.</entry>
-        <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>109t.</entry>
         <entry>e $MYVIMRC</entry>
         <entry>set so=999</entry>
@@ -655,6 +653,7 @@
         <entry>96t.</entry>
         <entry>wqa</entry>
         <entry>34t.</entry>
+        <entry encoding="base64">JzwsJz50Lg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
