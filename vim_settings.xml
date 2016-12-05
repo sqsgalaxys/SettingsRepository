@@ -308,12 +308,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/src/Main.java" timestamp="1480949554601">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+      <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/src/Main.java" timestamp="1480953391652">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-persist/pom.xml" timestamp="1480899926500">
         <mark key="[" line="6" column="0" />
@@ -412,6 +411,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1480952198007">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1480951872980">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/meProject/accountparent/account-email/pom.xml" timestamp="1480837777441">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="29" />
@@ -481,7 +486,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1480904059512">
+      <file name="/fragment.java" timestamp="1480953114089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/LoginServlet.java" timestamp="1480920303807">
@@ -493,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2227" column="0" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
       <jump line="8" column="9" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" />
       <jump line="9" column="28" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" />
       <jump line="10" column="9" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" />
@@ -593,16 +597,17 @@
       <jump line="47" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/resources/account-service.properties" />
       <jump line="9" column="4" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/src/Main.java" />
+      <jump line="24" column="7" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYVNob3J0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>substring</text>
+        <text>strContent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
@@ -611,7 +616,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3Vic3RyaW5nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYVNob3J0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -625,28 +630,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyW10gY2hhckFycmF5ID0gc3Vic3RyaW5nLnRvQ2hhckFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHN0ckNvbnRlbnQgPSAiSGVsbG8gSGkgSG93IGFyZSB5b3UgIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgY2hhcltdIGNoYXJBcnJheSA9IHN0ci50b0NoYXJBcnJheSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hhcltdIGNoYXJBcnJheSA9IHN0ci50b0NoYXJBcnJheSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKGludFtdKWNoYXJBcnJheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3Vic3RyaW5nID0gdGVtcFN0cmluZy5zdWJzdHJpbmcoNzUsIDQxNzEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdWJzdHJpbmcpOwogICAgICAgIGJ5dGVbXSBzdHJpbmdCeXRlID0gc3Vic3RyaW5nLmdldEJ5dGVzKCk7CiAgICAgICAgU3RyaW5nIGhleFN0cmluZyA9IGJ5dGVzVG9IZXhTdHJpbmcoc3RyaW5nQnl0ZSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGhleFN0cmluZyk7CiAgICAgICAgYnl0ZVtdIGJpbkJ5dGUgPSBoZXhTdHJpbmdUb0J5dGVzKGhleFN0cmluZyk7CiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IG5ldyBTdHJpbmcoYmluQnl0ZSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gInNvbWVTdHJpbmciOyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgICAgIGJ5dGVbXSBieUJ1ZmZlciA9IG5ldyBieXRlWzIwMF07CiAgICAgICAgYnlCdWZmZXIgPSB0ZW1wU3RyaW5nLmdldEJ5dGVzKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJsaW5lICIgKyBsaW5lICsgIjogIiArIGJ5QnVmZmVyLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgYnl0ZVtdIG51bSA9IG5ldyBieXRlWzIwMF07CgkJbnVtID0gc3Vic3RyaW5nLmdldEJ5dGVzKCk7CgoKLy8gICAgICAgIGNoYXJbXSBjaGFyQXJyYXkgPSBzdWJzdHJpbmcudG9DaGFyQXJyYXkoKTsKLy8KLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc3Vic3RyaW5nLmxlbmd0aCgpOyBpKyspIHsKLy8gICAgICAgICAgY2hhckFycmF5W2ldK1tdCi8vICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG51bS50b1N0cmluZygpKTsKLy8gICAgICAgIGZvciAoY2hhciBjIDogY2hhckFycmF5KSB7Ci8vICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigoaW50KSBjKTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBieUJ1ZmZlcnMuYWRkKGJ5QnVmZmVyKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgbnVtYmVyID0gIjEyMzQ1Njc4OTAiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
