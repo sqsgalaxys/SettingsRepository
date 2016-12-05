@@ -16,7 +16,7 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/target/surefire-reports/com.juvenxu.mvnbook.account.captcha.AccountCaptchaServiceTest.txt" timestamp="1480899158776" />
-      <file name="/a.dummy" timestamp="1480922798244">
+      <file name="/a.dummy" timestamp="1480926030498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/resources/account-service.properties .properties" timestamp="1480903114402">
@@ -452,6 +452,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/account-parent/account-web/src/main/resources/account-service.properties" timestamp="1480925935892">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/test/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahServiceTest.java" timestamp="1480890770846">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="22" column="13" />
@@ -588,11 +594,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3RvcFBvcnQvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>googleh8z5v0</text>
       </register>
       <register name="-" type="4">
-        <text>Login Successful!</text>
+        <text>googleh8z5v0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
