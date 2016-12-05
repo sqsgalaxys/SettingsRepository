@@ -210,12 +210,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" timestamp="1480908446679">
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" timestamp="1480908712963">
         <mark key="'" line="63" column="27" />
-        <mark key="[" line="100" column="42" />
-        <mark key="]" line="100" column="42" />
-        <mark key="." line="100" column="42" />
-        <mark key="^" line="103" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="102" column="5" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex18(2).java" timestamp="1480563163834">
         <mark key="[" line="11" column="17" />
@@ -291,6 +291,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/pom.xml" timestamp="1480909557683">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex9(4).java" timestamp="1480563714006">
         <mark key="[" line="8" column="16" />
@@ -424,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="35" filename="$USER_HOME$/gitCode/tomcat/bin/startup.sh" />
       <jump line="59" column="0" filename="$USER_HOME$/gitCode/tomcat/bin/startup.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/gitCode/tomcat/bin/startup.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/gitCode/tomcat/bin/catalina.sh" />
@@ -524,16 +530,17 @@
       <jump line="110" column="20" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="63" column="27" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
+      <jump line="40" column="9" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMjM0NVw+</text>
@@ -542,7 +549,7 @@
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLG1zZ3MubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+ZGQ8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -556,28 +563,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRTZXJ2aWNlLmxvZ2luKCJqdXZlbiIsICJhZG1pbjEyMyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyA1LiBMb2dpbiB3aXRoIGNvcnJlY3QgaWQgYW5kIHBhc3N3b3JkCg==</text>
+        <text encoding="base64">Ly8gICAgICBmYWlsKCAiUGFzc3dvcmQgaXMgaW5jb3JyZWN0LCBzaG91bGRuJ3QgYmUgYWJsZSB0byBsb2dpbi4iICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIDVhLiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWNjb3VudFNlcnZpY2UubG9naW4oImp1dmVuIiwgImFkbWluMTIzIik7Cg==</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRTZXJ2aWNlLmxvZ2luKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
