@@ -52,6 +52,13 @@
         <mark key="." line="125" column="57" />
         <mark key="^" line="125" column="57" />
       </file>
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/login.jsp" timestamp="1480919584067">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/meProject/accountparent/account-persist/pom.xml" timestamp="1480837837060">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="24" />
@@ -178,6 +185,13 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/LoginServlet.java" timestamp="1480920303807">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/RandomGenerator.java" timestamp="1480887901807">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="18" column="28" />
@@ -238,6 +252,13 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="29" />
       </file>
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/ActivateServlet.java" timestamp="1480920406603">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="83" />
+        <mark key="]" line="36" column="82" />
+        <mark key="^" line="36" column="82" />
+        <mark key="." line="36" column="82" />
+      </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" timestamp="1480913576933">
         <mark key="'" line="56" column="39" />
         <mark key="[" line="65" column="48" />
@@ -245,12 +266,11 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" timestamp="1480915174450">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="0" />
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" timestamp="1480920900365">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex7(3).java" timestamp="1480563701360">
         <mark key="[" line="12" column="16" />
@@ -413,17 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="13" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
-      <jump line="48" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
-      <jump line="17" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
-      <jump line="67" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
-      <jump line="2" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
-      <jump line="65" column="0" filename="$USER_HOME$/meProject/account-aggregator/pom.xml" />
-      <jump line="19" column="0" filename="$USER_HOME$/meProject/account-parent/account-email/pom.xml" />
-      <jump line="11" column="13" filename="$USER_HOME$/meProject/account-parent/pom.xml" />
-      <jump line="49" column="79" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/accpunt-captcha/pom.xml" />
-      <jump line="41" column="30" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/accpunt-captcha/pom.xml" />
       <jump line="772" column="24" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
       <jump line="779" column="23" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
       <jump line="1" column="0" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
@@ -507,31 +516,42 @@
       <jump line="39" column="18" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="4" column="2" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
       <jump line="5" column="8" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
       <jump line="35" column="34" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
       <jump line="63" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
+      <jump line="13" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/login.jsp" />
+      <jump line="44" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/login.jsp" />
+      <jump line="25" column="47" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/LoginServlet.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/LoginServlet.java" />
+      <jump line="36" column="11" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/ActivateServlet.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/ActivateServlet.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="24" column="83" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="51" column="4" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="50" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="32" column="13" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Login Successful!</text>
       </register>
       <register name="/" type="4">
-        <text>Id</text>
+        <text>resp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldElkKGlkKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBzZXJ2aWNlLmxvZ2luKGlkLCBwYXNzd29yZCk7CiAgICAgICAgICAgIHJlc3AuZ2V0V3JpdGVyKCkucHJpbnQoIkxvZ2luIFN1Y2Nlc3NmdWwhIik7CiAgICAgICAgfSBjYXRjaCAoQWNjb3VudFNlcnZpY2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXNwLnNlbmRFcnJvcig0MDAsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvYnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -545,38 +565,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24+56Gu6K6k5bm25o+Q5LqkPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+TG9naW5TZXJ2bGV0PC9zZXJ2bGV0LW5hbWU+CiAgICAgICAgPHNlcnZsZXQtY2xhc3M+Y29tLmp1dmVueHUubXZuYm9vay5hY2NvdW50LndlYi5Mb2dpblNlcnZsZXQ8L3NlcnZsZXQtY2xhc3M+CiAgICA8L3NlcnZsZXQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxmb3JtIG5hbWU9InNpZ251cCIgYWN0aW9uPSJzaWdudXAiIG1ldGhvZD0icG9zdCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMj48L2gyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgdm9pZCBkb1Bvc3QoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UpIHRocm93cyBTZXJ2bGV0RXhjZXB0aW9uLCBJT0V4Y2VwdGlvbiB7CgogICAgfQoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGRvR2V0KEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgU2VydmxldEV4Y2VwdGlvbiwgSU9FeGNlcHRpb24gewoKICAgIH0=</text>
       </register>
-      <register name="9" type="4">
-        <text>px;
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Id</last-search>
+      <last-search>resp</last-search>
       <last-offset />
-      <last-pattern>Id</last-pattern>
+      <last-pattern>resp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -602,8 +621,8 @@
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxjb25maXJtUGFzc3dvcmRcPg==</entry>
         <entry>reques</entry>
-        <entry>resp</entry>
         <entry>Id</entry>
+        <entry>resp</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
