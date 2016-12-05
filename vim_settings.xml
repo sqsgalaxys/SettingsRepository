@@ -17,7 +17,7 @@
         <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/target/surefire-reports/com.juvenxu.mvnbook.account.captcha.AccountCaptchaServiceTest.txt" timestamp="1480899158776" />
-      <file name="/a.dummy" timestamp="1480908360286">
+      <file name="/a.dummy" timestamp="1480918488858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/resources/account-service.properties .properties" timestamp="1480903114402">
@@ -265,12 +265,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" timestamp="1480917590752">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="3" column="66" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="66" />
-        <mark key="^" line="3" column="65" />
+      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" timestamp="1480918765382">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="21" />
+        <mark key="." line="57" column="21" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/ContainerComparison.java" timestamp="1480544727185">
         <mark key="[" line="2" column="15" />
@@ -413,9 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="35" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
-      <jump line="32" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
-      <jump line="36" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
       <jump line="40" column="13" filename="$USER_HOME$/meProject/accountaggregator/account-persist/pom.xml" />
       <jump line="48" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" />
@@ -513,16 +510,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
+      <jump line="5" column="8" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
+      <jump line="35" column="34" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
+      <jump line="63" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>WEBAPPLICATIONCONTEXTUTILS</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>WEBAPPLICATIONCONTEXTUTILS</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>Id</text>
@@ -531,7 +531,7 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldElkKGlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCUtLQogIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICBVc2VyOiByb290CiAgRGF0ZTogMTYtMTItNQogIFRpbWU6IOS4i+WNiDE6MjAKICBUbyBjaGFuZ2UgdGhpcyB0ZW1wbGF0ZSB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCi0tJT4K</text>
+        <text encoding="base64">ICAgICAgICAvYnIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -545,28 +545,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">ICAgIDwvZm9ybT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24+56Gu6K6k5bm25o+Q5LqkPC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxmb3JtIG5hbWU9InNpZ251cCIgYWN0aW9uPSJzaWdudXAiIG1ldGhvZD0icG9zdCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoMj48L2gyPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPkNhcHRjaGFJbWFnZVNlcnZsZXQ8L3NlcnZsZXQtbmFtZT4KICAgICAgICA8c2VydmxldC1jbGFzcz4KICAgICAgICAgICAgCiAgICAgICAgPC9zZXJ2bGV0LWNsYXNzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9kbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="9" type="4">
+        <text>px;
+        }</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
