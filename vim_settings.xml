@@ -37,7 +37,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/BufferedWriter.class" timestamp="1480984884003" />
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/resources/account-service.properties" timestamp="1480922029168">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="0" />
@@ -77,6 +76,9 @@
         <mark key="]" line="29" column="18" />
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/gitCode/spring-framework/README.md" timestamp="1481003135189">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meProject/accountemail/src/main/java/com/juvenxu/mvnbook/account/email/package-info.java" timestamp="1480577687652">
         <mark key="[" line="4" column="42" />
@@ -503,8 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="19" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="57" column="34" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="60" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="1" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
       <jump line="23" column="16" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
@@ -603,6 +603,8 @@
       <jump line="23" column="6" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/src/Main.java" />
       <jump line="1288073" column="4" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/out.txt" />
       <jump line="64" column="10" filename="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/meDataExport/src/Main.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/gitCode/spring-framework/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitCode/spring-framework/README.md" />
     </jumps>
     <registers>
       <register name="a" type="2">
