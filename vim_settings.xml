@@ -31,7 +31,7 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1480926030498">
+      <file name="/a.dummy" timestamp="1481249072880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/resources/account-service.properties .properties" timestamp="1480903114402">
@@ -434,6 +434,7 @@
       <file name="/Dummy.txt" timestamp="1480951872980">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitCode/commons-lang/CONTRIBUTING.md" timestamp="1481248761917" />
       <file name="$USER_HOME$/gitCode/commons-lang/pom.xml" timestamp="1481246527930">
         <mark key="'" line="604" column="126" />
       </file>
