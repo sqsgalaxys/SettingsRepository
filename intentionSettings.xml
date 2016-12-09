@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Collapse empty tag" />
     <ignoreAction name="XML/Expand Empty Tag" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Merge Tags" />
   </component>
 </application>
