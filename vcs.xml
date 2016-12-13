@@ -50,12 +50,8 @@
           <option name="url" value="https://github.com/Sausure/GankWebApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.oschina.net/juapk/spring-wind.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/gitProject" />
+    <option name="cloneParentDir" value="$USER_HOME$/gitCode" />
   </component>
 </application>
