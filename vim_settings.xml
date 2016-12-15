@@ -40,12 +40,6 @@
         <mark key="." line="14" column="24" />
         <mark key="^" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/meProject/accountpersist/src/main/java/com/juvenxu/mvnbook/account/persist/AccountPersistServiceImpl.java" timestamp="1480831950605">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/gitCode/spring-framework/README.md" timestamp="1481003135189">
         <mark key="'" line="0" column="0" />
       </file>
@@ -130,12 +124,6 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/pom.xml" timestamp="1480921325357">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/meProject/accountparent/account-email/pom.xml" timestamp="1480837777441">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="29" />
@@ -187,12 +175,6 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/pom.xml" timestamp="1480900499961">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/TypeInfo/Ex11(3).java" timestamp="1480563181408">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="25" column="18" />
@@ -228,18 +210,6 @@
         <mark key="^" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/meProject/accountaggregator/account-parent/pom.xml" timestamp="1480841704611">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/meProject/account-parent/account-email/pom.xml" timestamp="1480848968712">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/account-parent/account-web/src/main/resources/account-service.properties" timestamp="1480925935892">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="24" />
@@ -259,12 +229,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1480915039815">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/meProject/accountaggregator/pom.xml" timestamp="1480839738969">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex4(4).java" timestamp="1480564024406">
         <mark key="[" line="21" column="28" />
@@ -372,12 +336,6 @@
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" timestamp="1480921074351">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountServiceException.java" timestamp="1480900954003">
         <mark key="[" line="6" column="56" />
         <mark key="]" line="18" column="0" />
@@ -451,12 +409,7 @@
         <mark key="." line="43" column="44" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" timestamp="1480889651969">
-        <mark key="'" line="37" column="56" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/OneDrive/Mac/account-parent/account-captcha/pom.xml" timestamp="1481762824263" />
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountServiceImpl.java" timestamp="1480902672276">
         <mark key="'" line="91" column="67" />
         <mark key="[" line="125" column="51" />
