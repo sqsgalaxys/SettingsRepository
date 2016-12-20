@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vector" />
+      <item value="end" />
       <item value="considered" />
       <item value="hierarchy" />
       <item value="inception Year" />
@@ -49,8 +51,6 @@
       <item value="Upcasting" />
       <item value="tune" />
       <item value="Wind" />
-      <item value="flute" />
-      <item value="Actor" />
     </histories>
   </component>
 </application>

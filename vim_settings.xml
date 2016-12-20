@@ -6,6 +6,7 @@
       <file name="/I18nized GSP Expression.txt.ft" timestamp="1482228539930">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Vector.java" timestamp="1482230581842" />
       <file name="/File Header.txt.ft" timestamp="1481089537220">
         <mark key="[" line="0" column="0" />
       </file>
@@ -327,11 +328,8 @@
       <file name="/XML Properties File.txt.ft" timestamp="1482228449690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerMaster.java" timestamp="1482230172347">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="35" column="9" />
-        <mark key="^" line="35" column="9" />
+      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerMaster.java" timestamp="1482230760299">
+        <mark key="[" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/test/java/com/juvenxu/mvnbook/account/captcha/RandomGeneratorTest.java" timestamp="1480893276093">
         <mark key="[" line="19" column="24" />
