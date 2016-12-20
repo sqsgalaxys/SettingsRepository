@@ -327,10 +327,11 @@
       <file name="/XML Properties File.txt.ft" timestamp="1482228449690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerMaster.java" timestamp="1482229477964">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="33" />
-        <mark key="." line="40" column="33" />
+      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerMaster.java" timestamp="1482230172347">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/test/java/com/juvenxu/mvnbook/account/captcha/RandomGeneratorTest.java" timestamp="1480893276093">
         <mark key="[" line="19" column="24" />
@@ -404,7 +405,7 @@
       <file name="/JUnit3 Test Method.txt.ft" timestamp="1482228542958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1481122802219">
+      <file name="/fragment.java" timestamp="1482230224768">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Method.txt.ft" timestamp="1482228545934">
@@ -518,7 +519,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIFtdIGFycmF5MSxhcnJheTI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String.valueOf(shorts[i])</text>
@@ -530,7 +531,7 @@
         <text encoding="base64">ICAgICAgICAgIG91dC53cml0ZShTdHJpbmcudmFsdWVPZihzaG9ydHNbaV0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIFtdIGFycmF5MSxhcnJheTI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -544,28 +545,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheTEubGVuZ3RoOyBpKyspIHsKCQkJCVN0cmluZyBzID0gYXJyYXkxW2ldOwoJCQkJCgkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdGVzdCA9IG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPDsgaSsrKSB7CgkJCQkKCQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheTEubGVuZ3RoOyBpKyspIHsKCQkJCVN0cmluZyBzID0gYXJyYXkxW2ldOwoJCQkJCgkJCX0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQud3JpdGUoIlxyXG4iKTsgLy8gXHJcbuWNs+S4uuaNouihjAo=</text>
+        <text encoding="base64">CQlTdHJpbmcgdGVzdCA9IG5ldyBTdHJpbmcoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3V0LndyaXRlKCJcclxuIik7IC8vIFxyXG7ljbPkuLrmjaLooYwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQud3JpdGUoIlxyXG4iKTsgLy8gXHJcbuWNs+S4uuaNouihjAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
