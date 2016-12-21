@@ -72,6 +72,9 @@
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1482293114319">
+        <mark key="'" line="160" column="14" />
+      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex9(4).java" timestamp="1480563714006">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="17" />
@@ -291,6 +294,12 @@
       <file name="/Spock cleanup Method.txt.ft" timestamp="1482228545131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/common/Talk.java" timestamp="1482293351820">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+      </file>
       <file name="/Arquillian TestNG Test Class.txt.ft" timestamp="1482228531006">
         <mark key="[" line="0" column="0" />
       </file>
@@ -339,11 +348,11 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482291664221">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="32" column="39" />
+      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482292928303">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountServiceException.java" timestamp="1480900954003">
         <mark key="[" line="6" column="56" />
@@ -365,6 +374,9 @@
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1482293214322">
+        <mark key="'" line="4492" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1482206866631">
         <mark key="[" line="0" column="0" />
@@ -419,12 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="56" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="34" column="44" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="35" column="25" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="37" column="56" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.java" />
-      <jump line="6" column="6" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/resources/account-captcha.xml" />
-      <jump line="13" column="73" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/main/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahService.java" />
       <jump line="31" column="38" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/test/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahServiceTest.java" />
       <jump line="26" column="14" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/test/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahServiceTest.java" />
       <jump line="21" column="14" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-10/account-parent/account-captcha/src/test/java/com/juvenxu/mvnbook/account/captcha/AccountCaptcahServiceTest.java" />
@@ -519,6 +525,12 @@
       <jump line="604" column="126" filename="$USER_HOME$/gitCode/commons-lang/pom.xml" />
       <jump line="11" column="23" filename="$USER_HOME$/Downloads/jax-rs2-guide/sample/2/0simple-service/src/main/java/com/example/MyResource.java" />
       <jump line="37" column="0" filename="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" />
+      <jump line="143" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
+      <jump line="140" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
+      <jump line="19" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
+      <jump line="160" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
+      <jump line="85" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
+      <jump line="4492" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -531,7 +543,7 @@
         <text>ride</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlZGlyXD4=</text>
+        <text encoding="base64">RW1wdHlNYXA8Pg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG91dC53cml0ZShTdHJpbmcudmFsdWVPZihzaG9ydHNbaV0pKTsK</text>
@@ -579,9 +591,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlZGlyXD4=</last-search>
+      <last-search encoding="base64">RW1wdHlNYXA8Pg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlZGlyXD4=</last-pattern>
+      <last-pattern encoding="base64">RW1wdHlNYXA8Pg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -589,11 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gen</entry>
-        <entry>Map</entry>
-        <entry encoding="base64">XDxjYXB0Y2hhS2V5XD4=</entry>
-        <entry>Acc</entry>
-        <entry>gener</entry>
         <entry>genera</entry>
         <entry>signU</entry>
         <entry>activate</entry>
@@ -609,6 +616,11 @@
         <entry encoding="base64">XDxwcmludGxuXD4=</entry>
         <entry>commons.find</entry>
         <entry encoding="base64">XDxiYXNlZGlyXD4=</entry>
+        <entry>Map E</entry>
+        <entry>EMPTY</entry>
+        <entry>Empty</entry>
+        <entry>EmptyMap</entry>
+        <entry encoding="base64">RW1wdHlNYXA8Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
