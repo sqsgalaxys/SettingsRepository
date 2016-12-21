@@ -339,8 +339,11 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482232569178">
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482232729292">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="36" column="5" />
+        <mark key="." line="36" column="5" />
       </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountServiceException.java" timestamp="1480900954003">
         <mark key="[" line="6" column="56" />
@@ -522,7 +525,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7IGkrKykgewoJCQkJID1hcnJheVtpXTsKCQkJCQoJCQl9Cg==</text>
+        <text encoding="base64">MSsxCg==</text>
       </register>
       <register name="-" type="4">
         <text>String.valueOf(shorts[i])</text>
@@ -534,7 +537,7 @@
         <text encoding="base64">ICAgICAgICAgIG91dC53cml0ZShTdHJpbmcudmFsdWVPZihzaG9ydHNbaV0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7IGkrKykgewoJCQkJID1hcnJheVtpXTsKCQkJCQoJCQl9Cg==</text>
+        <text encoding="base64">MSsxCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -548,25 +551,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIFtdIGFycmF5MSxhcnJheTI7Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIGludCBjb3VudFN0YWNrRnJhbWVzKCkgewoJCXJldHVybiBzdXBlci5jb3VudFN0YWNrRnJhbWVzKCk7Cgl9KDEgKyAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheTEubGVuZ3RoOyBpKyspIHsKCQkJCVN0cmluZyBzID0gYXJyYXkxW2ldOwoJCQkJCgkJCX0K</text>
+        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7IGkrKykgewoJCQkJID1hcnJheVtpXTsKCQkJCQoJCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPDsgaSsrKSB7CgkJCQkKCQkJfQo=</text>
+        <text encoding="base64">CQkJU3RyaW5nIFtdIGFycmF5MSxhcnJheTI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheTEubGVuZ3RoOyBpKyspIHsKCQkJCVN0cmluZyBzID0gYXJyYXkxW2ldOwoJCQkJCgkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPDsgaSsrKSB7CgkJCQkKCQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheTEubGVuZ3RoOyBpKyspIHsKCQkJCVN0cmluZyBzID0gYXJyYXkxW2ldOwoJCQkJCgkJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdGVzdCA9IG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
