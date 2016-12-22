@@ -140,12 +140,12 @@
       <file name="/Clipboard.txt" timestamp="1480915039815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" timestamp="1482395433460">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" timestamp="1482396103660">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex4(4).java" timestamp="1480564024406">
         <mark key="[" line="21" column="28" />
@@ -188,6 +188,9 @@
         <mark key="^" line="23" column="106" />
       </file>
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1482228539514">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1482395900970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Spring_BookStore/pom.xml" timestamp="1482311759325">
@@ -445,7 +448,7 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1480986940387">
+      <file name="/dummy.sql" timestamp="1482395598039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex18(2).java" timestamp="1480563163834">
@@ -507,13 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="23" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
-      <jump line="19" column="23" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
-      <jump line="36" column="3" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
-      <jump line="85" column="10" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
-      <jump line="16" column="37" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
-      <jump line="110" column="20" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="63" column="27" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="40" column="9" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/pom.xml" />
       <jump line="55" column="16" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/pom.xml" />
@@ -607,25 +603,32 @@
       <jump line="38" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
       <jump line="9" column="1" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="14" column="43" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="16" column="2" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="15" column="17" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="25" column="17" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="18" column="14" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="27" column="7" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="10" column="20" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>T_ROLE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>T_ROLE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5kXD4=</text>
+        <text>sex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBUYWJsZSA6IFRfUk9MRQo=</text>
+        <text encoding="base64">ICBzZXggVElOWUlOVCgzKSBOT1QgTlVMTCBDT01NRU5UICfmgKfliKsnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICBzZXggVkFSQ0hBUigxMDI0KSBOT1QgTlVMTCBDT01NRU5UICfmgKfliKsnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,37 +642,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKKi8KICovCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3JlYXRlIAo=</text>
+        <text encoding="base64">LyoKKi8KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIuc2V0VmlzaWJpbGl0eShhbmRyb2lkLnZpZXcuVmlldy5HT05FKTsK</text>
+        <text encoding="base64">Y3JlYXRlIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHIuc2V0VmlzaWJpbGl0eShhbmRyb2lkLnZpZXcuVmlldy5HT05FKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5kXD4=</last-search>
+      <last-search>sex</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5kXD4=</last-pattern>
+      <last-pattern>sex</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -677,7 +680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signU</entry>
         <entry>activate</entry>
         <entry encoding="base64">XDwxMjM0NVw+</entry>
         <entry>spring</entry>
@@ -697,6 +699,7 @@
         <entry>EmptyMap</entry>
         <entry encoding="base64">RW1wdHlNYXA8Pg==</entry>
         <entry encoding="base64">XDxiaW5kXD4=</entry>
+        <entry>sex</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
