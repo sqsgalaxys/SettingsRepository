@@ -27,11 +27,11 @@
       <file name="/I18nized Concatenation.txt.ft" timestamp="1482228538173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" timestamp="1482392263893">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
+      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" timestamp="1482393271703">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" timestamp="1482302249709">
         <mark key="'" line="52" column="0" />
@@ -611,11 +611,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5kXD4=</text>
@@ -638,25 +638,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0cjsK</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0cjsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3FzZ2FsYXh5cyBvbiAyMS8xMi8yMDE2LgogKi8K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
