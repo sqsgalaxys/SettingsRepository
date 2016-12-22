@@ -9,6 +9,12 @@
       <file name="/File Header.txt.ft" timestamp="1481089537220">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/Role.java" timestamp="1482397404251">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+        <mark key="^" line="33" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1482311999671">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,12 +33,12 @@
       <file name="/I18nized Concatenation.txt.ft" timestamp="1482228538173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" timestamp="1482396986446">
+      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" timestamp="1482398906873">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="7" />
+        <mark key="[" line="96" column="39" />
+        <mark key="]" line="96" column="58" />
+        <mark key="." line="96" column="58" />
+        <mark key="^" line="96" column="58" />
       </file>
       <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" timestamp="1482302249709">
         <mark key="'" line="52" column="0" />
@@ -85,6 +91,9 @@
       </file>
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1482293114319">
+        <mark key="'" line="160" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/Spring_BookStore/src/test/java/com/zhangguo/bookstore/test/TestBookService.java" timestamp="1482312051217">
         <mark key="[" line="22" column="67" />
@@ -360,6 +369,9 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/javax/management/relation/Role.java" timestamp="1482397070315">
+        <mark key="'" line="54" column="13" />
+      </file>
       <file name="/JUnit4 TearDown Method.txt.ft" timestamp="1482228543918">
         <mark key="[" line="0" column="0" />
       </file>
@@ -458,6 +470,9 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1482293214322">
+        <mark key="'" line="4492" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1482394924491">
         <mark key="[" line="0" column="0" />
       </file>
@@ -511,26 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="9" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="30" column="14" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/CaptchaImageServlet.java" />
-      <jump line="43" column="44" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/CaptchaImageServlet.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/CaptchaImageServlet.java" />
-      <jump line="25" column="50" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="30" column="47" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="31" column="55" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="32" column="62" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="33" column="60" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="34" column="64" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="38" column="43" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="39" column="41" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="40" column="49" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="41" column="38" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="42" column="53" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="43" column="57" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="49" column="26" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="26" column="48" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="52" column="27" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="27" column="70" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
       <jump line="64" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
       <jump line="50" column="19" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
       <jump line="53" column="35" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
@@ -610,6 +605,26 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
       <jump line="31" column="22" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
       <jump line="32" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="54" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/javax/management/relation/Role.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="46" column="5" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="55" column="10" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="54" column="12" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="73" column="5" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="75" column="4" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="76" column="30" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="77" column="11" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="83" column="42" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="95" column="2" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" />
     </jumps>
     <registers>
@@ -617,19 +632,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>USER</text>
+        <text encoding="base64">PT4=</text>
       </register>
       <register name="-" type="4">
-        <text>USER</text>
+        <text encoding="base64">PT4=</text>
       </register>
       <register name="/" type="4">
-        <text>fk</text>
+        <text>rs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgVF9VU0VSX1JPTEUgQUREIENPTlNUUkFJTlQgRktfUmVmZXJlbmNlXzEgRk9SRUlHTiBLRVkgKHVzZXJfaWQpIFJFRkVSRU5DRVMgVF9VU0VSKGlkKSBPTiBERUxFVEUgUkVTVFJJQ1QgT04gVVBEQVRFIFJFU1RSSUNUOwo=</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmdldExvZ2dlcihKZGJjRXhhbXBsZS5jbGFzcy5nZXROYW1lKCkpLmxvZyhMZXZlbC5TRVZFUkUsIG51bGwsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXggVkFSQ0hBUigxMDI0KSBOT1QgTlVMTCBDT01NRU5UICfmgKfliKsnLAo=</text>
+        <text encoding="base64">ICAgIC8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -643,37 +658,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKKi8KICovCg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3JlYXRlIAo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHIuc2V0VmlzaWJpbGl0eShhbmRyb2lkLnZpZXcuVmlldy5HT05FKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByb2xlOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBwdWJsaWMgTG9uZyBnZXRJZCgpIHsKICAgIHJldHVybiBpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsKICAgIHRoaXMuaWQgPSBpZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0VXNlck5hbWUoKSB7CiAgICByZXR1cm4gdXNlck5hbWU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRVc2VyTmFtZShTdHJpbmcgdXNlck5hbWUpIHsKICAgIHRoaXMudXNlck5hbWUgPSB1c2VyTmFtZTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0Tm90ZSgpIHsKICAgIHJldHVybiBub3RlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0Tm90ZShTdHJpbmcgbm90ZSkgewogICAgdGhpcy5ub3RlID0gbm90ZTsKICB9CgogIHByaXZhdGUgTG9uZyBpZDsKICBwcml2YXRlICBTdHJpbmcgdXNlck5hbWU7CiAgcHJpdmF0ZSBTdHJpbmcgbm90ZTsKCiAgcHVibGljIHZvaWQgc2V0Um9sZU5hbWUoU3RyaW5nIHJvbGVOYW1lKSB7CiAgICB0aGlzLnJvbGVOYW1lID0gcm9sZU5hbWU7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search>fk</last-search>
+      <last-search>rs</last-search>
       <last-offset />
-      <last-pattern>fk</last-pattern>
+      <last-pattern>rs</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -681,10 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spring</entry>
-        <entry>req</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry encoding="base64">XDxjb25maXJtUGFzc3dvcmRcPg==</entry>
         <entry>reques</entry>
         <entry>Id</entry>
         <entry>resp</entry>
@@ -701,10 +712,13 @@
         <entry>sex</entry>
         <entry>t_</entry>
         <entry>fk</entry>
+        <entry>ig</entry>
+        <entry encoding="base64">XDxzdG10XD4=</entry>
+        <entry>Logg</entry>
+        <entry>rs</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
-        <entry>q</entry>
         <entry>50t.</entry>
         <entry>51t.</entry>
         <entry>45</entry>
@@ -722,6 +736,7 @@
         <entry>96t.</entry>
         <entry>wqa</entry>
         <entry>34t.</entry>
+        <entry>q</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
       </history-cmd>
       <history-expr />
