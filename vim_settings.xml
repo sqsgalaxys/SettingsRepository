@@ -27,11 +27,11 @@
       <file name="/I18nized Concatenation.txt.ft" timestamp="1482228538173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" timestamp="1482393271703">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/JdbcExample.java" timestamp="1482394406109">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="29" column="89" />
+        <mark key="." line="29" column="89" />
+        <mark key="^" line="29" column="89" />
       </file>
       <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" timestamp="1482302249709">
         <mark key="'" line="52" column="0" />
@@ -84,9 +84,6 @@
       </file>
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1482293114319">
-        <mark key="'" line="160" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/Spring_BookStore/src/test/java/com/zhangguo/bookstore/test/TestBookService.java" timestamp="1482312051217">
         <mark key="[" line="22" column="67" />
@@ -142,6 +139,13 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1480915039815">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" timestamp="1482395433460">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex4(4).java" timestamp="1480564024406">
         <mark key="[" line="21" column="28" />
@@ -450,10 +454,7 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1482293214322">
-        <mark key="'" line="4492" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1482206866631">
+      <file name="/Dummy.txt" timestamp="1482394924491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Class.txt.ft" timestamp="1482228545883">
@@ -506,8 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="66" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/resources/account-service.properties" />
-      <jump line="8" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="18" column="23" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="19" column="23" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
       <jump line="36" column="3" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
@@ -606,25 +605,27 @@
       <jump line="3" column="30" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
       <jump line="36" column="6" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
+      <jump line="9" column="1" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T_ROLE</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>T_ROLE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBcHBsaWNhdGlvbkNvbnRleHQgY3R4PW5ldyBDbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQoImFwcGxpY2F0aW9uQ29udGV4dC54bWwiKTsK</text>
+        <text encoding="base64">IyBUYWJsZSA6IFRfUk9MRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -638,28 +639,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">LyoKKi8KICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHIuc2V0VmlzaWJpbGl0eShhbmRyb2lkLnZpZXcuVmlldy5HT05FKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0cjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQ7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
