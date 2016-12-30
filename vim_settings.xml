@@ -163,11 +163,12 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Downloads/getUrl/src/Main.java" timestamp="1483103002911">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+      <file name="$USER_HOME$/Downloads/getUrl/src/Main.java" timestamp="1483106732526">
+        <mark key="'" line="28" column="54" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="30" column="52" />
       </file>
       <file name="/I18nized GSP Expression with injections.txt.ft" timestamp="1482228540300">
         <mark key="[" line="0" column="0" />
@@ -531,7 +532,7 @@
       <file name="/JUnit3 Test Method.txt.ft" timestamp="1482228542958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1482305462032">
+      <file name="/fragment.java" timestamp="1483106656160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Method.txt.ft" timestamp="1482228545934">
@@ -539,11 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="39" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java" />
-      <jump line="34" column="55" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="55" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="39" column="18" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="4" column="2" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
       <jump line="5" column="8" filename="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-web/src/main/webapp/signup.jsp" />
@@ -639,25 +635,30 @@
       <jump line="12" column="0" filename="$USER_HOME$/Downloads/testWebApp/web/WEB-INF/web.xml" />
       <jump line="6" column="21" filename="$USER_HOME$/Downloads/testWebApp/web/WEB-INF/web.xml" />
       <jump line="7" column="10" filename="$USER_HOME$/Downloads/testWebApp/web/WEB-INF/web.xml" />
+      <jump line="19" column="2" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
+      <jump line="31" column="12" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
+      <jump line="30" column="12" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
+      <jump line="28" column="54" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXJpLmdldFNjaGVtZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>rs</text>
+        <text>getH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmdldExvZ2dlcihKZGJjRXhhbXBsZS5jbGFzcy5nZXROYW1lKCkpLmxvZyhMZXZlbC5TRVZFUkUsIG51bGwsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IHRlbXBTdHJpbmcuc3BsaXQoIlxcfCIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKHNwbGl0WzFdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB+CiAgICAgICAgfgogICAgICAgIH4KICAgICAgICB+CiAgICAgICAgfgogICAgICAgIH4KICAgICAgICB+CiAgICAgICAgfgogICAgICAgIH4KICAgICAgICB+CiAgICAgICAgfgogICAgICAgIHdlYi54bWwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3V0Zi04XSAxLDEgICAgICAgICAgICBBbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJpLmdldFNjaGVtZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,37 +672,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJpLmdldFNjaGVtZVNwZWNpZmljUGFydCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gV29ybGQhIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoc3BsaXRbMF0gKyAiXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXREb21haW5OYW1lKFN0cmluZyBsaW5rKSB0aHJvd3MgVVJJU3ludGF4RXhjZXB0aW9uIHsKICAgIFVSSSB1cmkgPSBuZXcgVVJJKGxpbmspOwogICAgU3RyaW5nIGRvbWFpbiA9IHVyaS5nZXRIb3N0KCk7CiAgICByZXR1cm4gZG9tYWluLnN0YXJ0c1dpdGgoInd3dy4iKSA/IGRvbWFpbi5zdWJzdHJpbmcoNCkgOiBkb21haW47CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTeXN0ZW0ub3V0LnByaW50bG4odGVtcFN0cmluZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByb2xlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3BsaXRbMF0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search>rs</last-search>
+      <last-search>getH</last-search>
       <last-offset />
-      <last-pattern>rs</last-pattern>
+      <last-pattern>getH</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -709,9 +710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reques</entry>
-        <entry>Id</entry>
-        <entry>resp</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry encoding="base64">XDxwcmludGxuXD4=</entry>
         <entry>commons.find</entry>
@@ -729,6 +727,9 @@
         <entry encoding="base64">XDxzdG10XD4=</entry>
         <entry>Logg</entry>
         <entry>rs</entry>
+        <entry>out.</entry>
+        <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
+        <entry>getH</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>

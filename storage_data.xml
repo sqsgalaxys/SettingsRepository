@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
       <item value="common" />
       <item value="Vector" />
       <item value="end" />
@@ -50,7 +51,6 @@
       <item value="interface" />
       <item value="Redefine" />
       <item value="Upcasting" />
-      <item value="tune" />
     </histories>
   </component>
 </application>
