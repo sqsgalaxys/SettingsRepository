@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anonymous" />
+      <item value="Build" />
       <item value="reduce" />
       <item value="common" />
       <item value="Vector" />
@@ -49,8 +51,6 @@
       <item value="protocal" />
       <item value="upcasting" />
       <item value="interface" />
-      <item value="Redefine" />
-      <item value="Upcasting" />
     </histories>
   </component>
 </application>
