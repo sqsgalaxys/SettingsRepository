@@ -432,6 +432,12 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/tij4ImportToIDEA/initialization/SimpleConstructor.java" timestamp="1484039970610">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="/Arquillian TestNG Test Class.txt.ft" timestamp="1482228531006">
         <mark key="[" line="0" column="0" />
       </file>
@@ -669,10 +675,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fileName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fileName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Lin</text>
