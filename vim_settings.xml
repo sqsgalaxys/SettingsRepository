@@ -25,7 +25,7 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1484038388903">
+      <file name="/a.dummy" timestamp="1484207901345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1482228436204">
@@ -288,6 +288,7 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="51" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/jd-gui/build/install/jd-gui-osx/JD-GUI.app/Contents/MacOS/universalJavaApplicationStub.sh" timestamp="1484208238134" />
       <file name="/TestNG Parameters Method.txt.ft" timestamp="1482228545734">
         <mark key="[" line="0" column="0" />
       </file>
@@ -459,7 +460,6 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/com/sun/crypto/provider/AESConstants.class" timestamp="1484204684784" />
       <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482292928303">
         <mark key="[" line="46" column="19" />
         <mark key="]" line="46" column="19" />
