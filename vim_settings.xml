@@ -105,11 +105,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1482293114319">
         <mark key="'" line="160" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/Spring_BookStore/src/test/java/com/zhangguo/bookstore/test/TestBookService.java" timestamp="1482312051217">
-        <mark key="[" line="22" column="67" />
-        <mark key="]" line="22" column="67" />
-        <mark key="." line="22" column="67" />
-      </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Containers/Ex9(4).java" timestamp="1480563714006">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="17" />
@@ -136,11 +131,6 @@
       </file>
       <file name="/Spock Test Method.txt.ft" timestamp="1482228545434">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Spring_BookStore/src/main/java/com/zhangguo/bookstore/action/CtxUtil.java" timestamp="1482311799008">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/account-parent/account-web/src/main/resources/account-service.properties" timestamp="1480925935892">
         <mark key="[" line="4" column="15" />
@@ -358,7 +348,6 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/tij4ImportToIDEA/containers/Maps.java" timestamp="1484043908739" />
       <file name="$USER_HOME$/gitCode/ThinkInJava/ArraysDemo/src/ContainerComparison.java" timestamp="1480544727185">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -367,11 +356,6 @@
       </file>
       <file name="/Groovy JUnit Test Case.txt.ft" timestamp="1482228536213">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/model.js" timestamp="1482300283733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test21.java" timestamp="1482305701356">
         <mark key="[" line="8" column="21" />
@@ -385,21 +369,11 @@
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1482228529170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Clinent.java" timestamp="1482300862604">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
       <file name="$USER_HOME$/meProject/accountparent/account-email/pom.xml" timestamp="1480837777441">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test19.java" timestamp="1482304886394">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1482228447633">
         <mark key="[" line="0" column="0" />
@@ -425,11 +399,6 @@
       <file name="/Spock cleanup Method.txt.ft" timestamp="1482228545131">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meJDBC/src/com/sqsgalaxys/testJDBC/Main.java" timestamp="1482392025421">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/common/Talk.java" timestamp="1482293351820">
         <mark key="[" line="17" column="59" />
         <mark key="]" line="17" column="58" />
@@ -454,7 +423,6 @@
       <file name="/New Kotlin Secondary Constructor Body.txt.ft" timestamp="1482228545010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/tij4ImportToIDEA/initialization/Overloading.java" timestamp="1484040665607" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1482228527096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -491,6 +459,7 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/com/sun/crypto/provider/AESConstants.class" timestamp="1484204684784" />
       <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482292928303">
         <mark key="[" line="46" column="19" />
         <mark key="]" line="46" column="19" />
