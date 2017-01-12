@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="task Mutator" />
+      <item value="mutate" />
+      <item value="Closure" />
       <item value="seedling" />
       <item value="initialization" />
       <item value="anonymous" />
@@ -48,9 +51,6 @@
       <item value="Atomic Long" />
       <item value="have Next Next Gaussian" />
       <item value="polymorphism" />
-      <item value="notfication Listener" />
-      <item value="protocol" />
-      <item value="protocal" />
     </histories>
   </component>
 </application>
