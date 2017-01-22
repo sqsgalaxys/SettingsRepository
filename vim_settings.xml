@@ -275,6 +275,12 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/meTestCodeProject/src/Main.java" timestamp="1484384601628">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="8" column="55" />
+      </file>
       <file name="/JavaScript File.txt.ft" timestamp="1482228448909">
         <mark key="[" line="0" column="0" />
       </file>
@@ -448,6 +454,7 @@
       <file name="/JUnit4 SetUp Method.txt.ft" timestamp="1482228543668">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/lib/dt.jar!/sun/swing/BeanInfoUtils.class" timestamp="1484385115236" />
       <file name="/I18nized JSP Expression.txt.ft" timestamp="1482228540671">
         <mark key="[" line="0" column="0" />
       </file>
@@ -663,10 +670,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'sqsgalaxys744748744'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'sqsgalaxys744748744'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXJldFBvc2l0aW9uXD4=</text>
@@ -675,7 +682,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IHRlbXBTdHJpbmcuc3BsaXQoIlxcfCIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKHNwbGl0WzFdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBmaWxlTmFtZSA9ICIvVXNlcnMvc3FzZ2FsYXh5cy9Eb2N1bWVudHMvT25lRHJpdmUvVklNL29uZXRhYiI7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gV29ybGQhIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -689,28 +696,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBnZXR0ZXJzICYgc2V0dGVycyBvbWl0dGVkIGZvciBicmV2aXR5Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBmaWxlTmFtZSA9ICIvVXNlcnMvc3FzZ2FsYXh5cy9Eb2N1bWVudHMvT25lRHJpdmUvVklNL29uZXRhYiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBnZXR0ZXJzICYgc2V0dGVycyBvbWl0dGVkIGZvciBicmV2aXR5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAzMC8xMi8yMDE2IHJlZHVjZSB0ZW1wU3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGdldERvbWFpbk5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAzMC8xMi8yMDE2IHJlZHVjZSB0ZW1wU3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgIC8vIGdldERvbWFpbk5hbWUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiDku6XooYzkuLrljZXkvY3or7vlj5bmlofku7bvvIzluLjnlKjkuo7or7vpnaLlkJHooYznmoTmoLzlvI/ljJbmlofku7YK</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgKiDku6XooYzkuLrljZXkvY3or7vlj5bmlofku7bvvIzluLjnlKjkuo7or7vpnaLlkJHooYznmoTmoLzlvI/ljJbmlofku7YK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
