@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicated" />
+      <item value="categories" />
       <item value="caret Position" />
       <item value="Constants" />
       <item value="with Closeable" />
@@ -49,8 +51,6 @@
       <item value="PRIMARY" />
       <item value="CATALINA" />
       <item value="实现" />
-      <item value="public" />
-      <item value="Impl" />
     </histories>
   </component>
 </application>
