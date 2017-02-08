@@ -18,7 +18,7 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1484208447047">
+      <file name="/a.dummy" timestamp="1486534137376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1482228436204">
@@ -179,7 +179,6 @@
         <mark key="^" line="94" column="16" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/main/java/com/zhangguo/bookstore/action/BaseController.java" timestamp="1486525958328" />
       <file name="/Mobile I18N Concatenation.txt.ft" timestamp="1482228544898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,6 +206,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/main/resources/db.properties" timestamp="1486534491330">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/meDoc/Learn/LearnMaven/ch-12/account-parent/account-service/src/test/resources/account-service.properties .properties" timestamp="1480903114402">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -219,6 +223,7 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/test/java/com/zhangguo/bookstore/test/TestBookService.java" timestamp="1486532719263" />
       <file name="/I18nized Expression.txt.ft" timestamp="1482228538689">
         <mark key="[" line="0" column="0" />
       </file>
@@ -273,10 +278,10 @@
       <file name="$USER_HOME$/Downloads/gitClone/spring-boot/mvnw" timestamp="1483431850052">
         <mark key="'" line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/pom.xml" timestamp="1486528786417">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/pom.xml" timestamp="1486534381367">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/I18nized Groovy string.txt.ft" timestamp="1482228539133">
         <mark key="[" line="0" column="0" />
@@ -314,7 +319,6 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/main/webapp/WEB-INF/web.xml" timestamp="1486528275003" />
       <file name="/Groovy JUnit Test Case.txt.ft" timestamp="1482228536213">
         <mark key="[" line="0" column="0" />
       </file>
@@ -404,11 +408,6 @@
       </file>
       <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1482228541467">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/main/java/com/zhangguo/bookstore/action/BookController.java" timestamp="1486527498377">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="/resourceFile.txt.ft" timestamp="1482228435154">
         <mark key="[" line="0" column="0" />
@@ -527,7 +526,11 @@
       <file name="/TestNG Test Method.txt.ft" timestamp="1482228545934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/main/webapp/index.jsp" timestamp="1486527169814" />
+      <file name="$USER_HOME$/Downloads/GitClone/Spring_BookStore/src/main/webapp/index.jsp" timestamp="1486533820021">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="666" column="31" filename="$USER_HOME$/gitCode/commons-lang/pom.xml" />
@@ -635,20 +638,20 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>BookService.class</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>Paste</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlib29rc2VydmljZSA9IEN0eFV0aWwuZ2V0QmVhbihCb29rU2VydmljZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">amRiYy5wd2Q9cm9vdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHBhZ2UgbGFuZ3VhZ2U9ImphdmEiIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -662,28 +665,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlib29rc2VydmljZSA9IEN0eFV0aWwuZ2V0QmVhbihCb29rU2VydmljZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">cGFnZUVuY29kaW5nPSJVVEYtOCIlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludChhTGlzdCArICJcbiIpOyAvLyDpgJrov4dsaXN0LmdldCjntKLlvJUp55qE5pa55rOV5Y+W5Ye66ZuG5ZCI5Lit55qE5YC8Cg==</text>
+        <text encoding="base64">PCUtLTxqc3A6Zm9yd2FyZCBwYWdlPSJCb29rQ29udHJvbGxlci5kbz9hY3Q9TGlzdEJvb2siPjwvanNwOmZvcndhcmQ+LS0lPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoU2V0IGggPSBuZXcgSGFzaFNldChsaXN0KTsKICAgICAgICBsaXN0LmNsZWFyKCk7CiAgICAgICAgbGlzdC5hZGRBbGwoaCk7CiAgICAgICAgZm9yIChPYmplY3QgYUxpc3QgOiBsaXN0KSB7CiAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGFMaXN0ICsgIlxuIik7IC8vIOmAmui/h2xpc3QuZ2V0KOe0ouW8lSnnmoTmlrnms5Xlj5blh7rpm4blkIjkuK3nmoTlgLwKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">PGpzcDpmb3J3YXJkIHBhZ2U9IkJvb2tDb250cm9sbGVyLmRvIj48L2pzcDpmb3J3YXJkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGFMaXN0OgogICAgICAgICAgICAgbGlzdCkgewogICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">PGpzcDpmb3J3YXJkIHBhZ2U9IkJvb2tDb250cm9sbGVyLmRvP2FjdD1MaXN0Qm9vayI+PC9qc3A6Zm9yd2FyZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBhTGlzdCA6IGxpc3QpIHsKICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoYUxpc3QgKyAiXG4iKTsgLy8g6YCa6L+HbGlzdC5nZXQo57Si5byVKeeahOaWueazleWPluWHuumbhuWQiOS4reeahOWAvAogICAgICAgIH0KCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlib29rc2VydmljZSA9IEN0eFV0aWwuZ2V0QmVhbihCb29rU2VydmljZS5jbGFzcyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludChhTGlzdCArICJcbiIpOyAvLyDpgJrov4dsaXN0LmdldCjntKLlvJUp55qE5pa55rOV5Y+W5Ye66ZuG5ZCI5Lit55qE5YC8Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpbmspOwo=</text>
+        <text encoding="base64">ICAgICAgICBIYXNoU2V0IGggPSBuZXcgSGFzaFNldChsaXN0KTsKICAgICAgICBsaXN0LmNsZWFyKCk7CiAgICAgICAgbGlzdC5hZGRBbGwoaCk7CiAgICAgICAgZm9yIChPYmplY3QgYUxpc3QgOiBsaXN0KSB7CiAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGFMaXN0ICsgIlxuIik7IC8vIOmAmui/h2xpc3QuZ2V0KOe0ouW8lSnnmoTmlrnms5Xlj5blh7rpm4blkIjkuK3nmoTlgLwKICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
