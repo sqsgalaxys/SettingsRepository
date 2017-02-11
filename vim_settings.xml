@@ -161,11 +161,9 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" timestamp="1486777534269">
-        <mark key="[" line="71" column="48" />
-        <mark key="]" line="71" column="47" />
-        <mark key="." line="71" column="47" />
-        <mark key="^" line="71" column="49" />
+      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" timestamp="1486779125812">
+        <mark key="'" line="67" column="39" />
+        <mark key="[" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/LinkFilter.java" timestamp="1486777082572">
         <mark key="[" line="6" column="29" />
@@ -554,9 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-      <jump line="19" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-      <jump line="160" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
       <jump line="85" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="4492" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="14" column="8" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Main.java" />
@@ -654,25 +649,28 @@
       <jump line="8" column="0" filename="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/DownLoadFile.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/DownLoadFile.java" />
       <jump line="88" column="1" filename="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/HtmlParserTool.java" />
+      <jump line="34" column="39" filename="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" />
+      <jump line="68" column="38" filename="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" />
+      <jump line="67" column="39" filename="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f:\\spider\\</text>
+        <text>argsss</text>
       </register>
       <register name="-" type="4">
-        <text>f:\\spider\\</text>
+        <text>argsss</text>
       </register>
       <register name="/" type="4">
-        <text>Paste</text>
+        <text encoding="base64">XDxiYWlkdVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">amRiYy5wd2Q9cm9vdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -686,45 +684,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSB3ZWJzcGlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEh0bWxQYXJzZXJUb29sIHsKfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">cGFja2FnZSB3ZWJzcGlkZXI7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEh0bWxQYXJzZXJUb29sIHsKfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpbmtRdWV1ZSB7Cn0K</text>
+        <text encoding="base64">cGFja2FnZSB3ZWJzcGlkZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgbGFuZ3VhZ2U9ImphdmEiIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExpbmtRdWV1ZSB7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFnZUVuY29kaW5nPSJVVEYtOCIlPgo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgbGFuZ3VhZ2U9ImphdmEiIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUtLTxqc3A6Zm9yd2FyZCBwYWdlPSJCb29rQ29udHJvbGxlci5kbz9hY3Q9TGlzdEJvb2siPjwvanNwOmZvcndhcmQ+LS0lPgo=</text>
+        <text encoding="base64">cGFnZUVuY29kaW5nPSJVVEYtOCIlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGpzcDpmb3J3YXJkIHBhZ2U9IkJvb2tDb250cm9sbGVyLmRvIj48L2pzcDpmb3J3YXJkPgo=</text>
+        <text encoding="base64">PCUtLTxqc3A6Zm9yd2FyZCBwYWdlPSJCb29rQ29udHJvbGxlci5kbz9hY3Q9TGlzdEJvb2siPjwvanNwOmZvcndhcmQ+LS0lPgo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
       </register>
     </registers>
     <search>
-      <last-search>Paste</last-search>
+      <last-search encoding="base64">XDxiYWlkdVw+</last-search>
       <last-offset />
-      <last-pattern>Paste</last-pattern>
+      <last-pattern encoding="base64">XDxiYWlkdVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG10XD4=</entry>
         <entry>Logg</entry>
         <entry>rs</entry>
         <entry>out.</entry>
@@ -744,6 +741,7 @@
         <entry encoding="base64">XDxKQVZBUk9PVFw+</entry>
         <entry encoding="base64">XDxBUFBfUEFDS0FHRVw+</entry>
         <entry>Paste</entry>
+        <entry encoding="base64">XDxiYWlkdVw+</entry>
       </history-search>
       <history-cmd>
         <entry>51t.</entry>
