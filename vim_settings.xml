@@ -18,7 +18,7 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1486534137376">
+      <file name="/a.dummy" timestamp="1486776807826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1482228436204">
@@ -161,13 +161,13 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" timestamp="1486748146053">
-        <mark key="[" line="71" column="49" />
-        <mark key="]" line="71" column="49" />
-        <mark key="." line="71" column="49" />
+      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/MyCrawler.java" timestamp="1486777534269">
+        <mark key="[" line="71" column="48" />
+        <mark key="]" line="71" column="47" />
+        <mark key="." line="71" column="47" />
         <mark key="^" line="71" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/LinkFilter.java" timestamp="1486747125055">
+      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/LinkFilter.java" timestamp="1486777082572">
         <mark key="[" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Arrays/Ex3(2).java" timestamp="1480563905518">
@@ -450,11 +450,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/DownLoadFile.java" timestamp="1486745653917">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/DownLoadFile.java" timestamp="1486777171598">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="85" column="18" />
+        <mark key="]" line="85" column="26" />
+        <mark key="." line="85" column="26" />
+        <mark key="^" line="85" column="26" />
       </file>
       <file name="$USER_HOME$/Downloads/Talk/src/pers/netcan/talk/server/TalkServerWorker.java" timestamp="1482292928303">
         <mark key="[" line="46" column="19" />
@@ -659,10 +660,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>google</text>
+        <text>f:\\spider\\</text>
       </register>
       <register name="-" type="4">
-        <text>google</text>
+        <text>f:\\spider\\</text>
       </register>
       <register name="/" type="4">
         <text>Paste</text>
@@ -671,7 +672,7 @@
         <text encoding="base64">amRiYy5wd2Q9cm9vdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSB3ZWJzcGlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -685,28 +686,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEh0bWxQYXJzZXJUb29sIHsKfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">cGFja2FnZSB3ZWJzcGlkZXI7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEh0bWxQYXJzZXJUb29sIHsKfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpbmtRdWV1ZSB7Cn0K</text>
+        <text encoding="base64">cGFja2FnZSB3ZWJzcGlkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgbGFuZ3VhZ2U9ImphdmEiIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExpbmtRdWV1ZSB7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFnZUVuY29kaW5nPSJVVEYtOCIlPgo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgbGFuZ3VhZ2U9ImphdmEiIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCUtLTxqc3A6Zm9yd2FyZCBwYWdlPSJCb29rQ29udHJvbGxlci5kbz9hY3Q9TGlzdEJvb2siPjwvanNwOmZvcndhcmQ+LS0lPgo=</text>
+        <text encoding="base64">cGFnZUVuY29kaW5nPSJVVEYtOCIlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGpzcDpmb3J3YXJkIHBhZ2U9IkJvb2tDb250cm9sbGVyLmRvIj48L2pzcDpmb3J3YXJkPgo=</text>
+        <text encoding="base64">PCUtLTxqc3A6Zm9yd2FyZCBwYWdlPSJCb29rQ29udHJvbGxlci5kbz9hY3Q9TGlzdEJvb2siPjwvanNwOmZvcndhcmQ+LS0lPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGpzcDpmb3J3YXJkIHBhZ2U9IkJvb2tDb250cm9sbGVyLmRvP2FjdD1MaXN0Qm9vayI+PC9qc3A6Zm9yd2FyZD4K</text>
+        <text encoding="base64">PGpzcDpmb3J3YXJkIHBhZ2U9IkJvb2tDb250cm9sbGVyLmRvIj48L2pzcDpmb3J3YXJkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
