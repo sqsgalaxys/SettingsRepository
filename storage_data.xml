@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="containers" />
       <item value="indicated" />
       <item value="categories" />
       <item value="caret Position" />
@@ -50,7 +51,6 @@
       <item value="secondary" />
       <item value="PRIMARY" />
       <item value="CATALINA" />
-      <item value="实现" />
     </histories>
   </component>
 </application>
