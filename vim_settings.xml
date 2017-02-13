@@ -18,7 +18,7 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1486973267067">
+      <file name="/a.dummy" timestamp="1486989943378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1482228436204">
@@ -121,11 +121,15 @@
       <file name="/Spock Test Method.txt.ft" timestamp="1482228545434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/tij4ImportToIDEA/exceptions/OnOffException2.java" timestamp="1486990004366" />
       <file name="$USER_HOME$/meDoc/book_source_code/mvn_in_action/ch-12/account-parent/account-web/src/main/resources/account-service.properties" timestamp="1480925935892">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
+      </file>
+      <file name="/a.txt" timestamp="1486989819854">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Access/FourWays.java" timestamp="1480568599571">
         <mark key="[" line="7" column="0" />
@@ -506,6 +510,9 @@
         <mark key="^" line="4" column="8" />
       </file>
       <file name="/JUnit3 Test Class.txt.ft" timestamp="1482228542284">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1486989813837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/jax-rs2-guide/sample/2/0simple-service-webapp-jetty/src/main/java/com/example/MyResource.java" timestamp="1482228593612">
