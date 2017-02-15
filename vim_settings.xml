@@ -129,11 +129,12 @@
       <file name="/TestNG TearDown Method.txt.ft" timestamp="1482228545834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t2/MyArray.java" timestamp="1487137683754">
-        <mark key="[" line="17" column="63" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t2/MyArray.java" timestamp="1487139186859">
+        <mark key="'" line="8" column="34" />
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="44" column="38" />
       </file>
       <file name="/Clipboard.txt" timestamp="1480915039815">
         <mark key="[" line="0" column="0" />
@@ -149,6 +150,12 @@
         <mark key="]" line="10" column="18" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t3/Test.java" timestamp="1487140457688">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+        <mark key="^" line="15" column="8" />
       </file>
       <file name="/I18nized GSP Expression with injections.txt.ft" timestamp="1482228540300">
         <mark key="[" line="0" column="0" />
@@ -210,7 +217,6 @@
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1482228535581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1487135777068" />
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Drive.java" timestamp="1487130862713">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="30" />
@@ -580,6 +586,12 @@
       <file name="/Enum.txt.ft" timestamp="1482228450763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t3/MyException.java" timestamp="1487139271521">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="/Class.txt.ft" timestamp="1482228451906">
         <mark key="[" line="0" column="0" />
       </file>
@@ -608,7 +620,7 @@
       <file name="/JUnit3 Test Method.txt.ft" timestamp="1482228542958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1487137518712">
+      <file name="/fragment.java" timestamp="1487140363010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Method.txt.ft" timestamp="1482228545934">
@@ -616,10 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" />
-      <jump line="3" column="30" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
-      <jump line="36" column="6" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
       <jump line="9" column="1" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
       <jump line="14" column="43" filename="$USER_HOME$/Downloads/meJDBC/meMyBatis.sql" />
@@ -716,25 +724,29 @@
       <jump line="14" column="5" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" />
       <jump line="30" column="4" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person1.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person1.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t2/MyArray.java" />
+      <jump line="20" column="4" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t2/MyArray.java" />
+      <jump line="4" column="12" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t2/MyArray.java" />
+      <jump line="8" column="34" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t2/MyArray.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>下</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>下</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>20</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChtPDEpIHRocm93IG5ldyBNeUFycmF5SW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbigi5pWw57uE5bC65a+45LiL55WM5byC5bi4Iik7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5Yik5pat6L6T5YWl55qEIOaVsCDnmoTnsbvlnosiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -748,45 +760,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihpbnB1dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEJ5dGVCdWZmZXIgYnl0ZUJ1ZmZlciA9IG5ldyBCeXRlQnVmZmVyKCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgc2xpY2UoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQnl0ZUJ1ZmZlciBkdXBsaWNhdGUoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQnl0ZUJ1ZmZlciBhc1JlYWRPbmx5QnVmZmVyKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGJ5dGUgZ2V0KCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgcHV0KGJ5dGUgYikgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGJ5dGUgZ2V0KGludCBpbmRleCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgcHV0KGludCBpbmRleCwgYnl0ZSBiKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQnl0ZUJ1ZmZlciBjb21wYWN0KCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGJvb2xlYW4gaXNEaXJlY3QoKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGNoYXIgZ2V0Q2hhcigpIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCeXRlQnVmZmVyIHB1dENoYXIoY2hhciB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGNoYXIgZ2V0Q2hhcihpbnQgaW5kZXgpIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCeXRlQnVmZmVyIHB1dENoYXIoaW50IGluZGV4LCBjaGFyIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQ2hhckJ1ZmZlciBhc0NoYXJCdWZmZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgc2hvcnQgZ2V0U2hvcnQoKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQnl0ZUJ1ZmZlciBwdXRTaG9ydChzaG9ydCB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIHNob3J0IGdldFNob3J0KGludCBpbmRleCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgcHV0U2hvcnQoaW50IGluZGV4LCBzaG9ydCB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIFNob3J0QnVmZmVyIGFzU2hvcnRCdWZmZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgaW50IGdldEludCgpIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCeXRlQnVmZmVyIHB1dEludChpbnQgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBpbnQgZ2V0SW50KGludCBpbmRleCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgcHV0SW50KGludCBpbmRleCwgaW50IHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgSW50QnVmZmVyIGFzSW50QnVmZmVyKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGxvbmcgZ2V0TG9uZygpIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCeXRlQnVmZmVyIHB1dExvbmcobG9uZyB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGxvbmcgZ2V0TG9uZyhpbnQgaW5kZXgpIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCeXRlQnVmZmVyIHB1dExvbmcoaW50IGluZGV4LCBsb25nIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgTG9uZ0J1ZmZlciBhc0xvbmdCdWZmZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgZmxvYXQgZ2V0RmxvYXQoKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQnl0ZUJ1ZmZlciBwdXRGbG9hdChmbG9hdCB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGZsb2F0IGdldEZsb2F0KGludCBpbmRleCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgcHV0RmxvYXQoaW50IGluZGV4LCBmbG9hdCB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEZsb2F0QnVmZmVyIGFzRmxvYXRCdWZmZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgZG91YmxlIGdldERvdWJsZSgpIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCeXRlQnVmZmVyIHB1dERvdWJsZShkb3VibGUgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBkb3VibGUgZ2V0RG91YmxlKGludCBpbmRleCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJ5dGVCdWZmZXIgcHV0RG91YmxlKGludCBpbmRleCwgZG91YmxlIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgRG91YmxlQnVmZmVyIGFzRG91YmxlQnVmZmVyKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGJvb2xlYW4gaXNSZWFkT25seSgpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIChzY2FubmVyLmhhc05leHRMaW5lKCkpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2Nhbm5lci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjYW5uZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>20</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern>20</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rs</entry>
         <entry>out.</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
         <entry>getH</entry>
@@ -806,6 +817,7 @@
         <entry>Paste</entry>
         <entry encoding="base64">XDxiYWlkdVw+</entry>
         <entry>null</entry>
+        <entry>20</entry>
       </history-search>
       <history-cmd>
         <entry>60t.</entry>
