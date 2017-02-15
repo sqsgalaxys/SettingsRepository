@@ -391,6 +391,12 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person2.java" timestamp="1487131279719">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
       <file name="/Spock cleanup Method.txt.ft" timestamp="1482228545131">
         <mark key="[" line="0" column="0" />
       </file>
@@ -452,6 +458,12 @@
       <file name="/JUnit4 SetUp Method.txt.ft" timestamp="1482228543668">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Taxi.java" timestamp="1487131567244">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="/I18nized JSP Expression.txt.ft" timestamp="1482228540671">
         <mark key="[" line="0" column="0" />
       </file>
@@ -483,8 +495,8 @@
         <mark key="." line="85" column="26" />
         <mark key="^" line="85" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" timestamp="1487130994957">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" timestamp="1487131008209">
+        <mark key="'" line="14" column="5" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="42" column="15" />
         <mark key="^" line="42" column="15" />
@@ -566,6 +578,13 @@
       <file name="/Class.txt.ft" timestamp="1482228451906">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person1.java" timestamp="1487131216861">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/gitProject/spring-wind/spring-wind/src/test/java/com/baomidou/framework/FileHashTest.java" timestamp="1481612992210">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="6" />
@@ -592,9 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Main.java" />
-      <jump line="34" column="4" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Main.java" />
-      <jump line="39" column="31" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Client.java" />
       <jump line="3" column="30" filename="$USER_HOME$/Downloads/meTestJava/src/com/sqsgalaxys/meTest/Test18.java" />
@@ -692,25 +708,28 @@
       <jump line="35" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" />
       <jump line="10" column="53" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" />
+      <jump line="14" column="5" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person1.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person1.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIGludml0ZShwZXJzb24xKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Gear</text>
+        <text>String[] args</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYWJzdHJhY3Qgdm9pZCB1c2VHZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgIGludml0ZShwZXJzb24xKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBhZ2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -729,26 +748,26 @@
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgZG91YmxlIGdldFRpbWUoKSB7CiAgfQoKICBwdWJsaWMgaW50IGdldFYoKSB7CiAgICByZXR1cm4gYSpiL2M7CiAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxMDAwIC8gZ2V0VigpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCB2Owo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBhZ2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgZG91YmxlIGdldFRpbWUoKSB7CiAgfQoKICBwdWJsaWMgaW50IGdldFYoKSB7CiAgICByZXR1cm4gYSpiL2M7CiAgfQ==</text>
+      </register>
       <register name=":" type="4">
-        <text>15</text>
+        <text>31</text>
       </register>
     </registers>
     <search>
@@ -784,11 +803,6 @@
         <entry>null</entry>
       </history-search>
       <history-cmd>
-        <entry>51t.</entry>
-        <entry>45</entry>
-        <entry>53</entry>
-        <entry>set nu</entry>
-        <entry>52t.</entry>
         <entry>60t.</entry>
         <entry>69t.</entry>
         <entry>94t.</entry>
@@ -804,6 +818,11 @@
         <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>w</entry>
         <entry>15</entry>
+        <entry>set nu</entry>
+        <entry>19</entry>
+        <entry>14</entry>
+        <entry>25</entry>
+        <entry>31</entry>
       </history-cmd>
       <history-expr />
       <history-input />
