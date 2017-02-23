@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validation" />
       <item value="continue" />
       <item value="输入的数值必须大于100" />
       <item value="containers" />
@@ -50,7 +51,6 @@
       <item value="absent" />
       <item value="$ PRGDIR" />
       <item value="executable" />
-      <item value="secondary" />
     </histories>
   </component>
 </application>
