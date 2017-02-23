@@ -15,7 +15,7 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1487324074865">
+      <file name="/a.dummy" timestamp="1487826527130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1482228436204">
@@ -189,8 +189,18 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
+      <file name="/usr/local/Cellar/tomcat/8.5.9/libexec/lib/servlet-api.jar!/javax/servlet/annotation/WebServlet.class" timestamp="1487828407064">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="21" />
+      </file>
       <file name="/I18nized GSP Expression with injections.txt.ft" timestamp="1482228540300">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/Practice/src/com/test/controller/TestServlet.java" timestamp="1487827420006">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/ThinkingInJavaExercise/Strings/Ex17(1).java" timestamp="1480563150000">
         <mark key="[" line="10" column="17" />
@@ -215,6 +225,12 @@
         <mark key="]" line="16" column="3" />
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/Practice/src/com/test/controller/TestExServlet.java" timestamp="1487828419418">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="61" />
       </file>
       <file name="$USER_HOME$/meDoc/book_source_code/tij4ImportToIDEA/generics/Manipulation.java" timestamp="1480559272242">
         <mark key="[" line="9" column="13" />
@@ -652,9 +668,6 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1487152605041">
-        <mark key="'" line="131" column="27" />
-      </file>
       <file name="/Dummy.txt" timestamp="1486543253931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -678,6 +691,12 @@
       </file>
       <file name="/a.regexp" timestamp="1486989813837">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/Practice/web/WEB-INF/web.xml" timestamp="1487828339474">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/jax-rs2-guide/sample/2/0simple-service-webapp-jetty/src/main/java/com/example/MyResource.java" timestamp="1482228593612">
         <mark key="[" line="21" column="25" />
@@ -736,7 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="11" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
       <jump line="9" column="7" filename="$USER_HOME$/Downloads/getUrl/src/Main.java" />
       <jump line="67" column="20" filename="$USER_HOME$/Downloads/GitClone/tij4ImportToIDEA/initialization/PrimitiveOverloading.java" />
       <jump line="82" column="10" filename="$USER_HOME$/Downloads/GitClone/tij4ImportToIDEA/initialization/PrimitiveOverloading.java" />
@@ -836,22 +854,23 @@
       <jump line="72" column="0" filename="$USER_HOME$/Downloads/MeProjects/RTS/src/com/winstar/exam/InputUtils.java" />
       <jump line="45" column="7" filename="$USER_HOME$/Downloads/MeProjects/RTS/src/com/winstar/exam/InputUtils.java" />
       <jump line="68" column="22" filename="$USER_HOME$/Downloads/MeProjects/RTS/src/com/winstar/exam/InputUtils.java" />
+      <jump line="17" column="18" filename="/usr/local/Cellar/tomcat/8.5.9/libexec/lib/servlet-api.jar!/javax/servlet/annotation/WebServlet.class" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>next</text>
+        <text>urlPatters</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>urlPatters</text>
       </register>
       <register name="/" type="4">
-        <text>getU</text>
+        <text>url</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUSUNLRVRGSUxFUEFUSCA9ICJUaWNrZXQudHh0IjsK</text>
+      <register name="0" type="4">
+        <text>urlPatterns</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -867,38 +886,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+VGVzdEV4U2VydmxldDwvc2VydmxldC1uYW1lPgogICAgICAgIDxzZXJ2bGV0LWNsYXNzPmNvbS50ZXN0LmNvbnRyb2xsZXIuVGVzdEV4U2VydmxldDwvc2VydmxldC1jbGFzcz4KICAgIDwvc2VydmxldD4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIDxzZXJ2bGV0LW1hcHBpbmc+CiAgICAgICAgPHNlcnZsZXQtbmFtZT5UZXN0RXhTZXJ2bGV0PC9zZXJ2bGV0LW5hbWU+CiAgICAgICAgPHVybC1wYXR0ZXJuPi9UZXN0RXhTZXJ2bGV0PC91cmwtcGF0dGVybj4KICAgIDwvc2VydmxldC1tYXBwaW5nPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGZsYWcgPSBmYWxzZTsKICAgICAgICBmb3IgKFN0cmluZyB0cmFpbiA6IHRyYWlucyApIHsKICAgICAgICAgIGlmIChsaW5lLmVxdWFscyh0cmFpbikpIHsKICAgICAgICAgICAgZmxhZyA9IHRydWU7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnNldENvbnRlbnRUeXBlKCJ0ZXh0L2h0bWwiKTsKCiAgICBQcmludFdyaXRlciBvdXQgPSByZXNwb25zZS5nZXRXcml0ZXIoKTsKICAgIG91dC5wcmludGxuKCI8aDE+IiArIG1lc3NhZ2UgKyAiPC9oMT4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBjaGFyIGdldFVzZXJBY3Rpb24oKSB7CiAgICBjaGFyW10gdmFsaWRLZXkgPSB7JzEnLCAnMicsICczJywgJ1knLCAnTid9OwogICAgY2hhciBrZXkgPSAwOwogICAgCiAgICB3aGlsZSAoc2Nhbm5lci5oYXNOZXh0KCkpIHsKICAgICAgU3RyaW5nIHN0cmluZyA9IHNjYW5uZXIubmV4dCgpOwogICAgICBpZiAoc3RyaW5nLmxlbmd0aCgpICE9IDEpIHsKICAgICAgICAvL25vaW5zcGVjdGlvbiBVbm5lY2Vzc2FyeUNvbnRpbnVlCiAgICAgICAgY29udGludWU7CiAgICAgICAgCiAgICAgIH0KICAgICAgICBrZXkgPSBzdHJpbmcudG9VcHBlckNhc2UoKS5jaGFyQXQoMCk7CiAgICAgICAgZm9yIChjaGFyIGlucHV0IDogdmFsaWRLZXkpIHsKICAgICAgICAgIC8vIFRPRE86IDIxLzAyLzIwMTcgaWYtZWxzZSDmiorpgInmi6nnmoTpg6jliIbmt7vliqDliLDliKTmlq3kvY3nva4KICAgICAgICAgIGlmIChrZXkgPT0gaW5wdXQpIHsKICAgICAgICAgICAgcmV0dXJuIGtleTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICByZXR1cm4ga2V5OwogIH0KCiAgcHVibGljIGJvb2xlYW4gcmVhZFJldHVybigpIHsKICAgIHdoaWxlIChzY2FubmVyLmhhc05leHQoKSkgewogICAgICBpZiAoc2Nhbm5lci5uZXh0KCkubGVuZ3RoKCkgPCAxKSB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0KICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9CgogIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHJlYWRTdHJpbmcoU2V0PFN0cmluZz4gdHJhaW5zKSB7CiAgICByZWFkCiAgfQoKICBwdWJsaWMgc3RhdGljIFN0cmluZyByZWFkS2V5Qm9hcmQoU2V0PFN0cmluZz4gdHJhaW5zKSB7CiAgICBTdHJpbmcgbGluZSA9ICIiOwoKICAgIHdoaWxlIChzY2FubmVyLmhhc05leHRMaW5lKCkpIHsKICAgICAgbGluZSA9IHNjYW5uZXIubmV4dExpbmUoKS50b1VwcGVyQ2FzZSgpOwogICAgICBpZiAobGluZS5sZW5ndGgoKSA9PSAwKSB7CiAgICAgICAgaWYgKHRyYWlucyA9PSBudWxsKSB7CiAgICAgICAgICByZXR1cm4gbGluZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgY29udGludWU7CiAgICAgICAgfQogICAgICAgIGJvb2xlYW4gZmxhZyA9IGZhbHNlOwogICAgICAgIGZvciAoU3RyaW5nIHRyYWluIDoKICAgICAgICAgICAgdHJhaW5zKSB7CiAgICAgICAgICBpZiAobGluZS5lcXVhbHModHJhaW4pKSB7CiAgICAgICAgICAgIGZsYWcgPSB0cnVlOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIH0KICAgICAgICB9CgogICAgICB9CiAgICB9CiAgfQoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNoYXIgZ2V0VXNlckFjdGlvbigpIHsKICAgIGNoYXJbXSBjaGFycyA9IHsnMScsICcyJywgJzMnLCAnWScsICdOJ307CiAgICBjaGFyIGtleSA9IDA7CiAgICB3aGlsZSAoc2Nhbm5lci5oYXNOZXh0KCkpIHsKICAgICAgU3RyaW5nIHN0cmluZyA9IHNjYW5uZXIubmV4dCgpOwogICAgICBpZiAoc3RyaW5nLmxlbmd0aCgpICE9IDEpIHsKICAgICAgICAvL25vaW5zcGVjdGlvbiBVbm5lY2Vzc2FyeUNvbnRpbnVlCiAgICAgICAgY29udGludWU7CiAgICAgIH0gZWxzZSB7CiAgICAgICAga2V5ID0gc3RyaW5nLnRvVXBwZXJDYXNlKCkuY2hhckF0KDApOwogICAgICAgIGZvciAoY2hhciBpbnB1dCA6IGNoYXJzKSB7CiAgICAgICAgICAvLyBUT0RPOiAyMS8wMi8yMDE3IGlmLWVsc2Ug5oqK6YCJ5oup55qE6YOo5YiG5re75Yqg5Yiw5Yik5pat5L2N572uCiAgICAgICAgICBpZiAoa2V5ID09IGlucHV0KSB7CiAgICAgICAgICAgIHJldHVybiBrZXk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgICByZXR1cm4ga2V5OwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
       </register>
     </registers>
     <search>
-      <last-search>getU</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>getU</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxGSUxURVJTXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -906,7 +925,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBQYWNrYWdlRm9sZGVyXD4=</entry>
         <entry encoding="base64">XDxKQVZBUk9PVFw+</entry>
         <entry encoding="base64">XDxBUFBfUEFDS0FHRVw+</entry>
         <entry>Paste</entry>
@@ -926,6 +944,7 @@
         <entry>main</entry>
         <entry>final</entry>
         <entry>getU</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
