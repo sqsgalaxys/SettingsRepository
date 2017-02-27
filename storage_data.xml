@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="price" />
       <item value="interoperability" />
       <item value="sentence" />
       <item value="句子" />
@@ -50,7 +51,6 @@
       <item value="Daemon" />
       <item value="expected" />
       <item value="either" />
-      <item value="Catalina" />
     </histories>
   </component>
 </application>
