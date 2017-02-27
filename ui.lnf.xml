@@ -9,6 +9,7 @@
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
