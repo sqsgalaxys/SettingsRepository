@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test" />
+      <item value="科学" />
       <item value="price" />
       <item value="interoperability" />
       <item value="sentence" />
@@ -49,8 +51,6 @@
       <item value="processed" />
       <item value="reference" />
       <item value="Daemon" />
-      <item value="expected" />
-      <item value="either" />
     </histories>
   </component>
 </application>
