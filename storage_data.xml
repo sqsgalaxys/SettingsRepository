@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="snapshot" />
       <item value="test" />
       <item value="科学" />
       <item value="price" />
@@ -50,7 +51,6 @@
       <item value="touched" />
       <item value="processed" />
       <item value="reference" />
-      <item value="Daemon" />
     </histories>
   </component>
 </application>
