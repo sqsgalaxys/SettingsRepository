@@ -321,6 +321,12 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/Practice/src/com/test/Listen/OnlineListener.java" timestamp="1488444057532">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1482228541467">
         <mark key="[" line="0" column="0" />
       </file>
@@ -600,11 +606,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaT48L2xpPgo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>$Title$</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRTZXRcPg==</text>
