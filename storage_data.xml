@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation" />
       <item value="Ancestor" />
       <item value="snapshot" />
       <item value="test" />
@@ -50,7 +51,6 @@
       <item value="Roles Allowed" />
       <item value="optimization" />
       <item value="touched" />
-      <item value="processed" />
     </histories>
   </component>
 </application>
