@@ -9,5 +9,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
