@@ -26,7 +26,7 @@
       <file name="/Activity.txt.ft" timestamp="1482228436204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1488769226542">
+      <file name="/a.dummy" timestamp="1488771367816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JUnit5 Test Class.txt.ft" timestamp="1482228544109">
@@ -38,6 +38,12 @@
         <mark key="]" line="35" column="27" />
         <mark key="." line="35" column="27" />
         <mark key="^" line="30" column="107" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/bookInfo.jsp" timestamp="1488771027698">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="10" />
       </file>
       <file name="/I18nized Concatenation.txt.ft" timestamp="1482228538173">
         <mark key="[" line="0" column="0" />
@@ -66,7 +72,7 @@
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/ListBooks.jsp" timestamp="1488769697912">
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/ListBooks.jsp" timestamp="1488771075446">
         <mark key="'" line="28" column="13" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -160,11 +166,11 @@
       <file name="/ClojureFile.txt.ft" timestamp="1488357558495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookRegisterServlet.java" timestamp="1488769859909">
-        <mark key="[" line="23" column="120" />
-        <mark key="]" line="59" column="40" />
-        <mark key="^" line="57" column="42" />
-        <mark key="." line="59" column="40" />
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookRegisterServlet.java" timestamp="1488772488038">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="11" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/javacrawler/src/com/sqsgalaxys/webspider/LinkFilter.java" timestamp="1486777082572">
         <mark key="[" line="6" column="29" />
@@ -322,7 +328,7 @@
       <file name="/Groovy JUnit Test Case.txt.ft" timestamp="1482228536213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" timestamp="1488359454585">
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" timestamp="1488772339155">
         <mark key="'" line="21" column="54" />
         <mark key="[" line="46" column="29" />
         <mark key="]" line="47" column="23" />
@@ -455,6 +461,13 @@
       <file name="/Entity Bean Class BMP.txt.ft" timestamp="1488357485179">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookDetails.jsp" timestamp="1488771692142">
+        <mark key="'" line="14" column="48" />
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="49" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/domain/Book.java" timestamp="1488360233952">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="11" column="0" />
@@ -475,9 +488,9 @@
         <mark key="." line="85" column="26" />
         <mark key="^" line="85" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" timestamp="1488768966379">
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" timestamp="1488771783100">
         <mark key="'" line="175" column="23" />
-        <mark key="[" line="64" column="13" />
+        <mark key="[" line="179" column="68" />
         <mark key="]" line="64" column="13" />
         <mark key="." line="64" column="13" />
         <mark key="^" line="64" column="13" />
@@ -489,7 +502,7 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1488769285759">
+      <file name="/dummy.sql" timestamp="1488771988817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Main/src/com/sqsgalaxys/main000/Pair.java" timestamp="1488158720550">
@@ -575,7 +588,7 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1488768181658">
+      <file name="/fragment.java" timestamp="1488771666567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Method.txt.ft" timestamp="1482228545934">
@@ -590,7 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="9" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="60" column="8" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookRegisterServlet.java" />
       <jump line="20" column="40" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/index.jsp" />
       <jump line="23" column="52" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/index.jsp" />
@@ -690,25 +702,26 @@
       <jump line="178" column="95" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="174" column="23" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="29" column="14" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookService.java" />
+      <jump line="13" column="48" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookDetails.jsp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBib29rX3ByaWNlID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImJvb2tfcHJpY2UiKS50cmltKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZFw+</text>
+        <text encoding="base64">XDxib29rSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGEgaHJlZj0iaW5kZXguanNwIj7pppbpobU8L2E+Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBib29rX3ByaWNlID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImJvb2tfY291bnQiKS50cmltKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBib29rX3ByaWNlID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImJvb2tfcHJpY2UiKS50cmltKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -722,37 +735,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">ICAgICR7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgPCU9aW5mby50b1N0cmluZyU+IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IDAxLzAzLzIwMTcgIOi3s+i9rOmhtemdoiDmmL7npLog5piv5ZCm5re75Yqg5oiQ5YqfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFJlcXVlc3REaXNwYXRjaGVyKCJCb29rUmVnU3VjYy5qc3AiKS5mb3J3YXJkKHJlcXVlc3QsIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">PGJyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuZ2V0UmVxdWVzdERpc3BhdGNoZXIoIkJvb2tSZWdTdWNjLmpzcCIpLmZvcndhcmQocmVxdWVzdCwgcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IDAxLzAzLzIwMTcgIOi3s+i9rOmhtemdoiDmmL7npLog5piv5ZCm5re75Yqg5oiQ5YqfCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZFw+</last-search>
+      <last-search encoding="base64">XDxib29rSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxib29rSWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -774,12 +787,12 @@
         <entry>**</entry>
         <entry>getnex</entry>
         <entry>ID</entry>
-        <entry encoding="base64">XDxib29rSWRcPg==</entry>
         <entry>Int</entry>
         <entry>clo</entry>
         <entry encoding="base64">XDxnZXRJbnRcPg==</entry>
         <entry>final</entry>
         <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxib29rSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
