@@ -96,12 +96,12 @@
         <mark key="^" line="34" column="10" />
         <mark key="." line="34" column="10" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" timestamp="1488877987600">
-        <mark key="'" line="32" column="88" />
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="32" column="92" />
-        <mark key="." line="32" column="92" />
-        <mark key="^" line="32" column="92" />
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" timestamp="1488881310819">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="29" column="70" />
+        <mark key="]" line="29" column="78" />
+        <mark key="." line="29" column="78" />
+        <mark key="^" line="29" column="78" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l2/t2/TestAnimals.java" timestamp="1487207008196">
         <mark key="'" line="37" column="15" />
@@ -188,7 +188,7 @@
       <file name="/ClojureFile.txt.ft" timestamp="1488357558495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookRegisterServlet.java" timestamp="1488854836412">
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookRegisterServlet.java" timestamp="1488880092122">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="73" column="81" />
         <mark key="]" line="74" column="7" />
@@ -525,12 +525,12 @@
         <mark key="." line="85" column="26" />
         <mark key="^" line="85" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" timestamp="1488877893021">
-        <mark key="'" line="223" column="32" />
-        <mark key="[" line="223" column="26" />
-        <mark key="]" line="223" column="33" />
-        <mark key="." line="223" column="33" />
-        <mark key="^" line="223" column="33" />
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" timestamp="1488882491960">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="251" column="27" />
+        <mark key="]" line="251" column="27" />
+        <mark key="^" line="243" column="39" />
+        <mark key="." line="251" column="38" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP3-4天分阶/l1/t1/Person.java" timestamp="1487131008209">
         <mark key="'" line="14" column="5" />
@@ -539,12 +539,7 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/LoginService.java" timestamp="1488865491407">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1488795139206">
+      <file name="/dummy.sql" timestamp="1488882746814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Main/src/com/sqsgalaxys/main000/Pair.java" timestamp="1488158720550">
@@ -566,7 +561,7 @@
       <file name="/JUnit3 Test Class.txt.ft" timestamp="1482228542284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1488866522359">
+      <file name="/a.regexp" timestamp="1488878620820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Practice/web/WEB-INF/web.xml" timestamp="1488506262319">
@@ -643,8 +638,18 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1488864953520">
+      <file name="/fragment.java" timestamp="1488881503607">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookUpdateServlet.java" timestamp="1488882465234">
+        <mark key="'" line="68" column="45" />
+        <mark key="[" line="80" column="38" />
+        <mark key="]" line="80" column="41" />
+        <mark key="." line="80" column="41" />
+        <mark key="^" line="80" column="41" />
       </file>
       <file name="/TestNG Test Method.txt.ft" timestamp="1482228545934">
         <mark key="[" line="0" column="0" />
@@ -658,33 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="18" filename="$USER_HOME$/Downloads/MeProjects/DAOExample/web/insert_do.jsp" />
-      <jump line="21" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAOExample/web/insert_do.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAOExample/web/insert_do.jsp" />
-      <jump line="51" column="6" filename="$USER_HOME$/Downloads/MeProjects/DAOExample/web/list.jsp" />
-      <jump line="7" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/MessageUtils.class" />
-      <jump line="43" column="3" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="8" column="3" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/utils/BookException.java" />
-      <jump line="10" column="2" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/utils/BookException.java" />
-      <jump line="106" column="3" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="46" column="14" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="31" column="58" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="59" column="27" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="60" column="30" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="65" column="37" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="83" column="6" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="78" column="19" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="112" column="11" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="132" column="22" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="146" column="5" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="22" column="17" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="21" column="17" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="145" column="5" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="95" column="9" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="67" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="187" column="28" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="180" column="33" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
@@ -758,25 +736,52 @@
       <jump line="48" column="15" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="223" column="32" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
       <jump line="32" column="88" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="47" column="33" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="95" column="27" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="49" column="40" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="131" column="64" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="121" column="64" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="111" column="64" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="102" column="64" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="99" column="22" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="93" column="63" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="152" column="37" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="149" column="77" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="158" column="77" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="167" column="92" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="45" column="31" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="87" column="60" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookUpdateServlet.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookUpdateServlet.java" />
+      <jump line="24" column="49" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookUpdateServlet.java" />
+      <jump line="68" column="45" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookUpdateServlet.java" />
+      <jump line="225" column="3" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
+      <jump line="70" column="10" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
+      <jump line="45" column="13" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
+      <jump line="175" column="49" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="14" column="16" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="173" column="15" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.getInfo()</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>.getInfo()</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>Book</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCUKICAgIFN0cmluZyBpbmZvID0gbnVsbDsKICAgIEludGVnZXIgbm8gPSBJbnRlZ2VyLnZhbHVlT2YocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIm5vIikpOwoKICAgIHRyeSB7CiAgICAgICAgaW5mbyA9IEJvb2tEQU8uZ2V0SW5zdGFuY2UoKS5zZWxlY3RCb29rKG5vKS5nZXRJbmZvKCk7CiAgICB9IGNhdGNoIChCb29rRXhjZXB0aW9uIGUpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRNZXNzYWdlKCkgKyAi6I635Y+W5Lmm57GN6K+m5oOF5aSx6LSlIik7CiAgICB9CiU+Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IHJlc3VsdCA9IGJvb2tEQU8udXBkYXRlQm9vayhJbnRlZ2VyLnZhbHVlT2YocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIm5vIikpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBpbmZvID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIEJvb2sgYm9vayA9IHNlbGVjdEJvb2soaWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -789,65 +794,65 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPgo8aGVhZD4KICAgIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PWdiMjMxMiIvPgogICAgPHRpdGxlPuS5puexjeW6k+WtmOeZu+iusOezu+e7nzrlhaXlupPnmbvorrA8L3RpdGxlPjwvaGVhZD4KPGJvZHk+CjxjZW50ZXI+CiAgICA8JS0tc3VwcHJlc3MgSHRtbFVua25vd25BdHRyaWJ1dGUgLS0lPgogICAgPHRhYmxlIHdpZHRoPSI4MCUiIGJvcmRlcj0iMSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBib3JkZXJjb2xvcj0iI0ZGMDAwMCI+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8JS0tc3VwcHJlc3MgQ2hlY2tJbWFnZVNpemUgLS0lPgogICAgICAgICAgICA8dGQgY29sc3Bhbj0iMiI+PGltZyBzcmM9IlJlc291cmNlL2Jhbm5lci5wbmciIGFsdD0i5Lmm57GN5bqT5a2Y55m76K6w57O757ufIiB3aWR0aD0iMTAwJSIvPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCB3aWR0aD0iMjIlIiBoZWlnaHQ9IjQ4MCIgdmFsaWduPSJ0b3AiIGJhY2tncm91bmQ9IlJlc291cmNlL2JnX2xlZnQucG5nIj48YnIvPjxici8+CiAgICAgICAgICAgICAgICA8Y2VudGVyPjxwPjxmb250IGNvbG9yPSIjMTM1OThiIiBzaXplPSI0Ij4gPGltZyBzcmM9IlJlc291cmNlL2ljb25fbGlzdGxpYS5naWYiLz4gPGEKICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iaW5kZXguanNwIj48Qj7pppYmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDvpobU8L0I+PC9hPgogICAgICAgICAgICAgICAgPC9mb250PjwvcD48L2NlbnRlcj4KICAgICAgICAgICAgICAgIDxjZW50ZXI+PHA+PGZvbnQgY29sb3I9IiMxMzU5OGIiIHNpemU9IjQiPiA8aW1nIHNyYz0iUmVzb3VyY2UvaWNvbl9saXN0bGlhLmdpZiIvPiA8YQogICAgICAgICAgICAgICAgICAgICAgICBocmVmPSJCb29rUmVnaXN0ZXIuanNwIj48Qj7lhaXlupPnmbvorrA8L0I+PC9hPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZm9udD48L3A+PC9jZW50ZXI+CiAgICAgICAgICAgICAgICA8Y2VudGVyPjxwPjxmb250IGNvbG9yPSIjMTM1OThiIiBzaXplPSI0Ij4gPGltZyBzcmM9IlJlc291cmNlL2ljb25fbGlzdGxpYS5naWYiLz4gPGEKICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iQm9va0xpc3QuanNwIj48Qj7lupPlrZjliJfooag8L0I+PC9hPiA8L2ZvbnQ+PC9wPjwvY2VudGVyPgogICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LnNldCgibm8iLG5vKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDwvdGFibGU+CiAgICAgICAgICAgICAgICA8L2Zvcm0+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgPC90cj4KICAgIDwvdGFibGU+CjwvY2VudGVyPgo8L2JvZHk+CjwvaHRtbD4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCUtLXN1cHByZXNzIEVMVmFsaWRhdGlvbkluSlNQIC0tJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCUtLXN1cHByZXNzIENoZWNrSW1hZ2VTaXplIC0tJT4K</text>
+        <text encoding="base64">ICAgIEludGVnZXIgbm8gPSAyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCUtLXN1cHByZXNzIEVMVmFsaWRhdGlvbkluSlNQIC0tJT4K</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgICAgYm9vayA9IEJvb2tEQU8uZ2V0SW5zdGFuY2UoKS5zZWxlY3RCb29rKG5vKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUtLXN1cHByZXNzIEVMVmFsaWRhdGlvbkluSlNQIC0tJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEludGVnZXIgbm8gPSAyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>222</text>
       </register>
     </registers>
     <search>
-      <last-search>Book</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern>Book</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>**</entry>
-        <entry>getnex</entry>
-        <entry>ID</entry>
-        <entry>Int</entry>
-        <entry>clo</entry>
-        <entry encoding="base64">XDxnZXRJbnRcPg==</entry>
-        <entry>final</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry encoding="base64">XDxib29rSWRcPg==</entry>
-        <entry>name</entry>
-        <entry>请</entry>
-        <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">PGxhYg==</entry>
         <entry encoding="base64">XDx0ZFw+</entry>
         <entry encoding="base64">PHRkPg==</entry>
         <entry>cate</entry>
-        <entry>form</entry>
         <entry>&quot;)</entry>
         <entry>sp</entry>
         <entry>Book</entry>
+        <entry>check</entry>
+        <entry>全价</entry>
+        <entry>count</entry>
+        <entry>book</entry>
+        <entry>&quot;&quot;</entry>
+        <entry>info</entry>
+        <entry>super</entry>
+        <entry>req</entry>
+        <entry>resp</entry>
+        <entry>insert</entry>
+        <entry>upda</entry>
+        <entry encoding="base64">XDxub1w+</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
