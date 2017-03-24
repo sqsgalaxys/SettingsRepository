@@ -1,6 +1,6 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
   <component name="TodoConfiguration">
