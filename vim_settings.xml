@@ -824,6 +824,11 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="70" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/other/Test.java" timestamp="1490622496218">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+      </file>
       <file name="/JUnit5 Test Method.txt.ft" timestamp="1482228544600">
         <mark key="[" line="0" column="0" />
       </file>
@@ -991,19 +996,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>index.html</text>
+        <text encoding="base64">dGhyb3dzIFBhcnNlRXhjZXB0aW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>index.html</text>
+        <text encoding="base64">dGhyb3dzIFBhcnNlRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text>xxx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFzdGVyLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9zcHJpbmdib290ZGI/dXNldW5pY29kZT10cnVlJmNoYXJhY3RlcmVuY29kaW5nPXV0ZjgKbWFzdGVyLmRhdGFzb3VyY2UucGFzc3dvcmQ9MTIzNDU2Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBQYXJzZUV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFzdGVyLmRhdGFzb3VyY2UucGFzc3dvcmQ9MTIzNDU2Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihUZXN0LmNsYXNzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1017,28 +1022,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UucGFzc3dvcmQ9SGVsbG8xMjMhQAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly86MzMwNi9zcHJpbmdib290ZGI/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0ZjgK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">bWFzdGVyLmRhdGFzb3VyY2UucGFzc3dvcmQ9MTIzNDU2Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UucGFzc3dvcmQ9SGVsbG8xMjMhQAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly86MzMwNi9zcHJpbmdib290ZGI/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0ZjgK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bWFzdGVyLmRhdGFzb3VyY2UucGFzc3dvcmQ9MTIzNDU2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RHJpdmVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5qZGJjLkRyaXZlcjsK</text>
+        <text encoding="base64">RHJpdmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGhpcyA9ICIgKyB0aGlzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5qZGJjLkRyaXZlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVhbiA9IFsiICsgYmVhbiArICJdLCBiZWFuTmFtZSA9IFsiICsgYmVhbk5hbWUgKyAiXSIpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGhpcyA9ICIgKyB0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50MjU=</text>
