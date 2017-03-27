@@ -537,6 +537,12 @@
       <file name="/Arquillian TestNG Test Class.txt.ft" timestamp="1482228531006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0c314b7-1e57-4b00-9b98-356e2b0c09fb/console.sql" timestamp="1490579795156">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Main/src/shell_sort.java" timestamp="1490438866232">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="6" />
@@ -706,7 +712,7 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1490481255330">
+      <file name="/dummy.sql" timestamp="1490579679653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/WEB-INF/context.xml" timestamp="1488944473166">
@@ -724,7 +730,7 @@
       <file name="$USER_HOME$/Downloads/MeProjects/Main/src/com/sqsgalaxys/main000/Pair.java" timestamp="1488158720550">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490578075478">
+      <file name="/Dummy.txt" timestamp="1490579732361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Class.txt.ft" timestamp="1482228545883">
