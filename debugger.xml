@@ -1,11 +1,6 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
@@ -74,7 +69,7 @@
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration captureAsyncStackTraces="false">
           <custom-object-presentation />
         </configuration>
       </debugger>
