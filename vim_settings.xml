@@ -67,6 +67,7 @@
       <file name="/Dynamic Method Body.txt.ft" timestamp="1482228533779">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/ssm-demo/ssm-maven/src/main/java/com/ssm/maven/core/admin/UserController.java" timestamp="1490605972628" />
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,7 +187,6 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/TNA(04)/src/com/oracle/tna/controller/user/LoginController.java" timestamp="1490599490976" />
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/Person.java" timestamp="1490576330796">
         <mark key="[" line="31" column="37" />
         <mark key="]" line="31" column="38" />
@@ -201,6 +201,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="68" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/ssm-demo/ssm-maven/src/main/resources/applicationContext.xml" timestamp="1490605621280">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Practice/src/com/test/utils/HelloTag.java" timestamp="1488511307722">
         <mark key="'" line="32" column="5" />
@@ -394,6 +400,7 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/ssm-demo/ssm-maven/src/main/resources/db/ssm_db_book.sql" timestamp="1490605383416" />
       <file name="/I18nized Groovy string.txt.ft" timestamp="1482228539133">
         <mark key="[" line="0" column="0" />
       </file>
@@ -720,7 +727,7 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1490600567312">
+      <file name="/dummy.sql" timestamp="1490605779846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/WEB-INF/context.xml" timestamp="1488944473166">
@@ -741,13 +748,12 @@
       <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-mybatis-mutil-datasource/src/main/resources/mapper/cluster/CityMapper.xml" timestamp="1490581537060">
         <mark key="[" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490600581301">
+      <file name="/Dummy.txt" timestamp="1490605534495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Class.txt.ft" timestamp="1482228545883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-dubbo-client/pom.xml" timestamp="1490598084644" />
       <file name="$USER_HOME$/Downloads/MeProjects/Practice/web/readParams.html" timestamp="1487836546531">
         <mark key="'" line="16" column="7" />
         <mark key="[" line="8" column="14" />
@@ -981,10 +987,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>xxxx</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>xxxx</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
