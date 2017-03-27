@@ -147,6 +147,12 @@
       <file name="/a.txt" timestamp="1486989819854">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/MeBeanPostProcessor.java" timestamp="1490576552318">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+      </file>
       <file name="/TestNG TearDown Method.txt.ft" timestamp="1482228545834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -189,11 +195,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/applicationContext.xml" timestamp="1490574025452">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="46" />
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/Person.java" timestamp="1490576330796">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/applicationContext.xml" timestamp="1490576137786">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="3" column="71" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Practice/src/com/test/utils/HelloTag.java" timestamp="1488511307722">
         <mark key="'" line="32" column="5" />
@@ -319,11 +332,10 @@
       <file name="/JavaScript File.txt.ft" timestamp="1482228448909">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/Main.java" timestamp="1490574345149">
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="8" column="154" />
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/Main.java" timestamp="1490575419968">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/DAOExample/src/com/sqsgalaxys/demo/util/MydemoTest.java" timestamp="1488528535070">
         <mark key="'" line="36" column="24" />
@@ -483,6 +495,13 @@
         <mark key="]" line="29" column="55" />
         <mark key="." line="29" column="55" />
         <mark key="^" line="29" column="55" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/MyBeanPostProcessor.java" timestamp="1490576066002">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/ListDemo2.java" timestamp="1490440494319">
         <mark key="'" line="1" column="0" />
@@ -807,9 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="73" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
-      <jump line="59" column="73" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
-      <jump line="60" column="73" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
       <jump line="64" column="54" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
       <jump line="74" column="59" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
       <jump line="92" column="67" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
@@ -907,25 +923,28 @@
       <jump line="22" column="8" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
       <jump line="39" column="10" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
       <jump line="67" column="15" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/MyBeanPostProcessor.java" />
+      <jump line="9" column="34" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/MyBeanPostProcessor.java" />
+      <jump line="10" column="7" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/applicationContext.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ain/resources/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic291dHA6Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ain/resources/</text>
+        <text>arg0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTeXN0ZW1cPg==</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgYWMgPSBuZXcgQ2xhc3NQYXRoWG1sQXBwbGljYXRpb25Db250ZXh0KCIvVXNlcnMvc3FzZ2FsYXh5cy9Eb3dubG9hZHMvTWVQcm9qZWN0cy9NZU1haW4vc3JjL21haW4vcmVzb3VyY2VzL2FwcGxpY2F0aW9uQ29udGV4dC54bWwiKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic291dHA6Iik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/Pgo8YmVhbnMgeG1sbnM9Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMiCiAgICAgICB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIgogICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZCI+Cgo8L2JlYW5zPgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGhpcyA9ICIgKyB0aGlzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -939,47 +958,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVhbiA9IFsiICsgYmVhbiArICJdLCBiZWFuTmFtZSA9IFsiICsgYmVhbk5hbWUgKyAiXSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBMaW5lTnVtPS0xOwogICAgZG91YmxlIGRsPU1hdGguY2VpbCgxK01hdGgucmFuZG9tKCkqKExpbmVOdW0tMSkpOwogICAgaW50IExpbmVSZWFkPShpbnQpZGw7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTXlCZWFuUG9zdFByb2Nlc3Nvci5wb3N0UHJvY2Vzc0JlZm9yZUluaXRpYWxpemF0aW9uIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW50IGxpbmVOdW1iZXIgPSA0NDsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVhbiA9ICIgKyBiZWFuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBsaW5lTnVtYmVyID0gNDQ7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXJnMCA9IFsiICsgYmUgKyAiXSwgYXJnMSA9IFsiICsgYXJnMSArICJdIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldFRvdGFsTGluZXMoInVybFRleHQudHh0Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jayAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAvLyBAT3ZlcnJpZGUKICAvLyBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQmVmb3JlSW5pdGlhbGl6YXRpb24oT2JqZWN0IGFyZzAsIFN0cmluZyBhcmcxKSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogIC8vICAgU3lzdGVtLm91dC5wcmludGxuKCLosIPnlKjpobrluo8iICsgNCArICLosIPnlKhwb3N0UHJvY2Vzc0JlZm9yZUluaXRpYWxpemF0aW9uIik7CiAgLy8gICBTeXN0ZW0ub3V0LnByaW50bG4oIk15QmVhblBvc3RQcm9jZXNzb3IucG9zdFByb2Nlc3NCZWZvcmVJbml0aWFsaXphdGlvbiIpOwogIC8vICAgU3lzdGVtLm91dC5wcmludGxuKCJhcmcwID0gWyIgKyBhcmcwICsgIl0sIGFyZzEgPSBbIiArIGFyZzEgKyAiXSIpOwogIC8vICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aGlzID0gIiArIHRoaXMpOwogIC8vICAgcmV0dXJuIGFyZzA7CiAgLy8gfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkV3JpdGVyICBidz1uZXcgQnVmZmVyZWRXcml0ZXIob3N3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGVPdXRwdXRTdHJlYW0gZm9zPW5ldyBGaWxlT3V0cHV0U3RyZWFtKG5ldyBGaWxlKCJ1cmxUZXh0LnR4dCIpKTsKICAgIE91dHB1dFN0cmVhbVdyaXRlciBvc3c9bmV3IE91dHB1dFN0cmVhbVdyaXRlcihmb3MsICJVVEYtOCIpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgLy8gQE92ZXJyaWRlCiAgLy8gcHVibGljIE9iamVjdCBwb3N0UHJvY2Vzc0FmdGVySW5pdGlhbGl6YXRpb24oT2JqZWN0IGFyZzAsIFN0cmluZyBhcmcxKSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogIC8vICAgU3lzdGVtLm91dC5wcmludGxuKCLosIPnlKjpobrluo8iICsgNSArICLosIPnlKhwb3N0UHJvY2Vzc0FmdGVySW5pdGlhbGl6YXRpb24iKTsKICAvLyAgIHJldHVybiBhcmcwOwogIC8vIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>14t.-1</text>
+        <text encoding="base64">JzwsJz50MjU=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTeXN0ZW1cPg==</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTeXN0ZW1cPg==</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sp</entry>
-        <entry>Book</entry>
-        <entry>check</entry>
         <entry>全价</entry>
         <entry>count</entry>
         <entry>book</entry>
@@ -997,15 +1013,14 @@
         <entry>TEXT</entry>
         <entry>url</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZWRcPg==</entry>
+        <entry>3</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
-        <entry>29</entry>
-        <entry>37</entry>
         <entry>13</entry>
         <entry>w</entry>
         <entry>18</entry>
-        <entry>34</entry>
         <entry>7</entry>
         <entry>16</entry>
         <entry>46</entry>
@@ -1015,10 +1030,14 @@
         <entry>sort</entry>
         <entry>open .</entry>
         <entry>L</entry>
-        <entry>reg</entry>
         <entry>222</entry>
         <entry>8</entry>
         <entry>14t.-1</entry>
+        <entry>28</entry>
+        <entry>reg</entry>
+        <entry>34</entry>
+        <entry>t9</entry>
+        <entry encoding="base64">JzwsJz50MjU=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
