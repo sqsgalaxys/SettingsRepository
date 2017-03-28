@@ -18,6 +18,11 @@
       <file name="/JUnit5 Test Class.txt.ft" timestamp="1482228544109">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/dao/UserDao.java" timestamp="1490680942756">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/bookInfo.jsp" timestamp="1488771027698">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="24" column="10" />
@@ -30,11 +35,29 @@
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1482228534814">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/database.properties" timestamp="1490681865262">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/meProject/accountpersist/src/main/java/account-service.properties" timestamp="1480832174616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JUnit4 Test Class.txt.ft" timestamp="1482228543953">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/main.jsp" timestamp="1490678057315">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/service/UserService.java" timestamp="1490677777851">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Dynamic Method Body.txt.ft" timestamp="1482228533779">
         <mark key="[" line="0" column="0" />
@@ -44,6 +67,17 @@
       </file>
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/support/SqlSessionDaoSupport.class" timestamp="1490679485978">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="51" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/META-INF/context.xml" timestamp="1490679868548">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/com.gnc.mapper/UserDaoMapper.xml" timestamp="1490671447742">
         <mark key="[" line="19" column="24" />
@@ -65,6 +99,12 @@
       <file name="/New Method Body.txt.ft" timestamp="1482228545053">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/mapper/UserMapper.java" timestamp="1490682494263">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="/Spock Test Method.txt.ft" timestamp="1482228545434">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,6 +122,12 @@
         <mark key="]" line="14" column="38" />
         <mark key="." line="14" column="38" />
         <mark key="^" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/generatorConfig.xml" timestamp="1490681600888">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="/TestNG TearDown Method.txt.ft" timestamp="1482228545834">
         <mark key="[" line="0" column="0" />
@@ -101,12 +147,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/config.properties" timestamp="1490671552534">
-        <mark key="'" line="1" column="23" />
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/GitClone/ssm-demo/ssm-login/WebRoot/WEB-INF/web.xml" timestamp="1490610390096">
         <mark key="[" line="7" column="22" />
@@ -163,15 +203,35 @@
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1482228535581">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/spring-mvc.xml" timestamp="1490679108536">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="4" column="71" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1488763338756">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/web.xml" timestamp="1490677879374">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/WEB-INF/web.xml" timestamp="1490681048402" />
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/Logger.class" timestamp="1490673730034" />
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/Login.jsp" timestamp="1488866295207">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" timestamp="1490682887342">
+        <mark key="'" line="26" column="41" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-mybatis-mutil-datasource/src/main/resources/application.properties" timestamp="1490584995967">
         <mark key="[" line="1" column="0" />
@@ -227,8 +287,22 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/model/User.java" timestamp="1490683230349">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Groovy JUnit Test Case.txt.ft" timestamp="1482228536213">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/dao/UserMapper.xml" timestamp="1490682433577">
+        <mark key="'" line="35" column="3" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="4" column="76" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Main/src/com/sqsgalaxys/main000/PingPONG.java" timestamp="1490308430017">
         <mark key="[" line="32" column="24" />
@@ -260,11 +334,25 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/pom.xml" timestamp="1490683264841">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/userMapper.xml" timestamp="1490578435195">
         <mark key="[" line="7" column="57" />
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
         <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/applicationContext.xml" timestamp="1490679529009">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1488357461663">
         <mark key="[" line="0" column="0" />
@@ -416,6 +504,12 @@
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP1-2天分阶/l1/t2/Rectangle.java" timestamp="1487130456729">
         <mark key="[" line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/controller/UserController.java" timestamp="1490679507293">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegSucc.jsp" timestamp="1488792444154">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="32" />
@@ -453,7 +547,7 @@
       <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-mybatis-mutil-datasource/src/main/resources/mapper/cluster/CityMapper.xml" timestamp="1490581537060">
         <mark key="[" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490669261144">
+      <file name="/Dummy.txt" timestamp="1490681040841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Class.txt.ft" timestamp="1482228545883">
@@ -522,7 +616,7 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1490624733155">
+      <file name="/fragment.java" timestamp="1490682350227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -533,24 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="52" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/LoginServlet.java" />
-      <jump line="60" column="35" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/AdminDAO.java" />
-      <jump line="14" column="22" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/AdminDAO.java" />
-      <jump line="55" column="57" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/AdminDAO.java" />
-      <jump line="26" column="56" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/LoginFilter.java" />
-      <jump line="74" column="80" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookList.jsp" />
-      <jump line="221" column="11" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="2" column="30" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="219" column="16" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="214" column="18" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="202" column="20" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="15" column="1" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
-      <jump line="36" column="30" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
-      <jump line="20" column="0" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegister.jsp" />
-      <jump line="48" column="15" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
-      <jump line="223" column="32" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/BookDAO.java" />
-      <jump line="32" column="88" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
-      <jump line="47" column="33" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="95" column="27" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="49" column="40" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="131" column="64" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
@@ -633,25 +709,43 @@
       <jump line="9" column="0" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/test/UserServiceTest.java" />
       <jump line="1" column="23" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/config.properties" />
       <jump line="18" column="36" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/log4j.properties" />
+      <jump line="6" column="2" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/controller/UserController.java" />
+      <jump line="1" column="65" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" />
+      <jump line="14" column="32" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" />
+      <jump line="23" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/spring-mvc.xml" />
+      <jump line="41" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/applicationContext.xml" />
+      <jump line="59" column="8" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/pom.xml" />
+      <jump line="0" column="15" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/pom.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/META-INF/context.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/database.properties" />
+      <jump line="6" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/database.properties" />
+      <jump line="22" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/database.properties" />
+      <jump line="3" column="19" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/database.properties" />
+      <jump line="32" column="3" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/dao/UserMapper.xml" />
+      <jump line="25" column="41" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" />
+      <jump line="26" column="41" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" />
+      <jump line="30" column="5" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/model/User.java" />
+      <jump line="23" column="11" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/model/User.java" />
+      <jump line="3" column="31" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/model/User.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>TestMyBatis.class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90TnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>TestMyBatis.class</text>
+        <text>NotEmpty</text>
       </register>
       <register name="/" type="4">
-        <text>xxx</text>
+        <text encoding="base64">XDxOb3ROdWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nNGouYXBwZW5kZXIuRmlsZS5UaHJlc2hvbGQgPSBBTEwK</text>
+        <text encoding="base64">ICAgIEBOb3RFbXB0eShtZXNzYWdlPSJOb3RFbXB0eSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90TnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -665,37 +759,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmcuc3ByaW5nZnJhbWV3b3JrLmpkYmMuZGF0YXNvdXJjZS5EYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICBvcmcuc3ByaW5nZnJhbWV3b3JrLmpkYmMuZGF0YXNvdXJjZS5EYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm15c3FsPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm15c3FsLWNvbm5lY3Rvci1qYXZhPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjUuMS4zODwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ubWNoYW5nZS52Mi5jM3AwLkNvbWJvUG9vbGVkRGF0YVNvdXJjZS4gICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tY2hhbmdlLnYyLmMzcDAuQ29tYm9Qb29sZWREYXRhU291cmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXBwZXJGYWN0b3J5QmVhbgo=</text>
+        <text encoding="base64">ICAgIDxkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5teWJhdGlzLnNwcmluZy5tYXBwZXIuTWFwcGVyRmFjdG9yeUJlYW47Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz50MjU=</text>
+        <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search>xxx</last-search>
+      <last-search encoding="base64">XDxOb3ROdWxsXD4=</last-search>
       <last-offset />
-      <last-pattern>xxx</last-pattern>
+      <last-pattern encoding="base64">XDxOb3ROdWxsXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -703,9 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
-        <entry>book</entry>
-        <entry>&quot;&quot;</entry>
         <entry>info</entry>
         <entry>super</entry>
         <entry>req</entry>
@@ -723,9 +814,11 @@
         <entry>3</entry>
         <entry>http</entry>
         <entry>xxx</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
+        <entry>usern</entry>
+        <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
         <entry>w</entry>
         <entry>18</entry>
         <entry>7</entry>
@@ -745,6 +838,7 @@
         <entry>34</entry>
         <entry>t9</entry>
         <entry encoding="base64">JzwsJz50MjU=</entry>
+        <entry encoding="base64">JzwsJz50Lg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
