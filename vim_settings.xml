@@ -362,11 +362,12 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1490787322234">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="47" column="2" />
-        <mark key="." line="47" column="2" />
-        <mark key="^" line="47" column="2" />
+      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1490788973257">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="/Groovy JUnit Test Case.txt.ft" timestamp="1482228536213">
         <mark key="[" line="0" column="0" />
@@ -455,9 +456,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1490787378778">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="46" />
+      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1490787887280">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="74" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/conf.xml" timestamp="1490578698524">
         <mark key="[" line="11" column="49" />
@@ -715,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="77" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="167" column="92" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="45" column="31" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookChange.jsp" />
       <jump line="87" column="60" filename="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/BookUpdateServlet.java" />
@@ -815,25 +815,26 @@
       <jump line="75" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/resources/spring-mybatis.xml" />
       <jump line="16" column="23" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/webapp/login.jsp" />
       <jump line="166" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/pom.xml" />
+      <jump line="46" column="0" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>openUrlInBrowser</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3ROdWxsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEZpbGUgc291cmNlRmlsZSA9IG5ldyBGaWxlKCJ1cmxUZXh0LnR4dCIpOwo=</text>
+      <register name="0" type="4">
+        <text>in = new FileReader(file)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRlci5jbG9zZSgpOwogICAgaW4uY2xvc2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -846,29 +847,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gZG8gd2hhdCB5b3Ugd2FudCB3aXRoIHRoaXMK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEZpbGVSZWFkZXIgaW4gPSBuZXcgRmlsZVJlYWRlcihmaWxlKTsKICAgIExpbmVOdW1iZXJSZWFkZXIgcmVhZGVyID0gbmV3IExpbmVOdW1iZXJSZWFkZXIoaW4pOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIG9wZW5VUkwoU3RyaW5nIHVybCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOivu+WPliDkuIDooYwK</text>
+        <text encoding="base64">ICAgIHJldHVybiB1cmw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
