@@ -571,6 +571,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-mybatis/src/main/resources/application.properties" timestamp="1490915742921" />
       <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/test/UserServiceTest.java" timestamp="1490672062030">
         <mark key="[" line="13" column="52" />
         <mark key="]" line="22" column="14" />
@@ -602,6 +603,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="39" column="30" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-helloworld/pom.xml" timestamp="1490915454618">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP1-2天分阶/l1/t2/Rectangle.java" timestamp="1487130456729">
         <mark key="[" line="14" column="21" />
@@ -677,6 +684,9 @@
       </file>
       <file name="/Class.txt.ft" timestamp="1482228451906">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-freemarker/src/main/resources/application.properties" timestamp="1490915869781">
+        <mark key="[" line="1" column="101" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/collectiondemo/VectorDemo.java" timestamp="1490739129961">
         <mark key="[" line="10" column="9" />
@@ -842,10 +852,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>台</text>
+        <text>4.12</text>
       </register>
       <register name="-" type="4">
-        <text>台</text>
+        <text>4.12</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3ROdWxsXD4=</text>
