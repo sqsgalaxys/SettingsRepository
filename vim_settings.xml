@@ -79,6 +79,7 @@
       <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/dao/UserDao.java" timestamp="1490670097558">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/src/com/oracle/soccerleague/dao/AdminDAO.java" timestamp="1490877801095" />
       <file name="/Implemented Method Body.txt.ft" timestamp="1482228541092">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,6 +119,7 @@
         <mark key="^" line="92" column="50" />
         <mark key="." line="92" column="50" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/src/com/oracle/soccerleague/controller/AdminLoginController.java" timestamp="1490877642824" />
       <file name="/New Method Body.txt.ft" timestamp="1482228545053">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,12 +248,6 @@
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1482228535581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/spring-mvc.xml" timestamp="1490679108536">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="4" column="71" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="4" column="71" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1488763338756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -278,6 +274,9 @@
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/META-INF/context.xml" timestamp="1490876687623">
+        <mark key="[" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-mybatis-mutil-datasource/src/main/resources/application.properties" timestamp="1490584995967">
         <mark key="[" line="1" column="0" />
@@ -319,6 +318,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP1-2天分阶/l1/t2/Square.java" timestamp="1487130127301">
         <mark key="[" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/ApplicationContext.xml" timestamp="1490876580646">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+        <mark key="^" line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/resources/mapping/UserMapper.xml" timestamp="1490693995689">
         <mark key="[" line="3" column="16" />
@@ -385,6 +390,11 @@
         <mark key="]" line="4" column="76" />
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/src/com/oracle/soccerleague/web/LoginFilter.java" timestamp="1490878231903">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/webapp/WEB-INF/web.xml" timestamp="1490689693418">
         <mark key="[" line="27" column="0" />
@@ -545,6 +555,12 @@
       <file name="/JUnit4 SetUp Method.txt.ft" timestamp="1482228543668">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/src/com/oracle/soccerleague/domain/Admin.java" timestamp="1490876903973">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/DAOExample/src/com/sqsgalaxys/demo/dao/IMyemDAO.java" timestamp="1488521345020">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="20" />
@@ -592,12 +608,6 @@
       <file name="$USER_HOME$/Downloads/Works/盈佳/盈佳学习资料/分阶练习/OOP1-2天分阶/l1/t2/Rectangle.java" timestamp="1487130456729">
         <mark key="[" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/controller/UserController.java" timestamp="1490695321969">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/BookRegSucc.jsp" timestamp="1488792444154">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="32" />
@@ -621,7 +631,7 @@
       <file name="/JavaScript Console" timestamp="1490610415496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1490694693670">
+      <file name="/dummy.sql" timestamp="1490877560815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/dao/userMapper.xml" timestamp="1490578492058">
@@ -635,7 +645,7 @@
       <file name="$USER_HOME$/Downloads/GitClone/springboot-learning-example/springboot-mybatis-mutil-datasource/src/main/resources/mapper/cluster/CityMapper.xml" timestamp="1490581537060">
         <mark key="[" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490826745469">
+      <file name="/Dummy.txt" timestamp="1490877016986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Class.txt.ft" timestamp="1482228545883">
@@ -834,19 +844,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzdGF0aWMgY29tLnN1bi54bWwuaW50ZXJuYWwud3MuZHVtcC5Mb2dnaW5nRHVtcFR1YmUuUG9zaXRpb24uQmVmb3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>adminn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3ROdWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuYXNzZXJ0ajphc3NlcnRqLWNvcmU6My42LjInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzdGF0aWMgY29tLnN1bi54bWwuaW50ZXJuYWwud3MuZHVtcC5Mb2dnaW5nRHVtcFR1YmUuUG9zaXRpb24uQmVmb3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -863,25 +873,25 @@
         <text encoding="base64">ICAgIGltcG9ydCBzdGF0aWMgY29tLnN1bi54bWwuaW50ZXJuYWwud3MuZHVtcC5Mb2dnaW5nRHVtcFR1YmUuUG9zaXRpb24uQmVmb3JlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzdGF0aWMgY29tLnN1bi54bWwuaW50ZXJuYWwud3MuZHVtcC5Mb2dnaW5nRHVtcFR1YmUuUG9zaXRpb24uQmVmb3JlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
