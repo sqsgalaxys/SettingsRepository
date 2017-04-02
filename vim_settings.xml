@@ -187,6 +187,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/Retrofit/example0/GitHubServiceTest.java" timestamp="1491131572302">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/collectiondemo/Student.java" timestamp="1490922985076">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -563,10 +568,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>import okhttp3.HttpUrl;
-import okhttp3.Interceptor;
-import okhttp3.Request;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -577,10 +580,8 @@ import okhttp3.Request;</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>import okhttp3.HttpUrl;
-import okhttp3.Interceptor;
-import okhttp3.Request;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -593,29 +594,31 @@ import okhttp3.Request;</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBva2h0dHAzLkh0dHBVcmw7Cg==</text>
+      <register name="2" type="4">
+        <text>import okhttp3.HttpUrl;
+import okhttp3.Interceptor;
+import okhttp3.Request;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASW0K</text>
+        <text encoding="base64">CmltcG9ydCBva2h0dHAzLkh0dHBVcmw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICBASW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGUK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9jb20uZ29vZ2xlLmluamVjdC9ndWljZSAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz50Lg==</text>
