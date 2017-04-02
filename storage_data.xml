@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Natives" />
+      <item value="SYNTHETIC" />
       <item value="supplier" />
       <item value="winning" />
       <item value="guaranteed" />
@@ -49,8 +51,6 @@
       <item value="aggregator" />
       <item value="concepts" />
       <item value="paradigms" />
-      <item value="providing" />
-      <item value="Quality" />
     </histories>
   </component>
 </application>
