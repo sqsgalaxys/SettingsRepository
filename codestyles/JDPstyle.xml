@@ -1,4 +1,5 @@
 <code_scheme name="JDPstyle">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
