@@ -55,11 +55,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491215402398">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="58" column="45" />
-        <mark key="^" line="58" column="48" />
-        <mark key="." line="58" column="45" />
+      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491216713243">
+        <mark key="[" line="58" column="78" />
+        <mark key="]" line="58" column="79" />
+        <mark key="^" line="58" column="79" />
+        <mark key="." line="58" column="79" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/smmbook/web/WEB-INF/springmvc-config.xml" timestamp="1490479374782">
         <mark key="[" line="24" column="19" />
@@ -317,10 +317,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text encoding="base64">ICwib2YgLWci</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">ICwib2YgLWci</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpI3liLbku6PnoIFcPg==</text>
