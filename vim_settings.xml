@@ -15,25 +15,11 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/webapp/login.jsp" timestamp="1490695290297">
-        <mark key="'" line="16" column="23" />
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/DAO/src/Column.java" timestamp="1491142298961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/database.properties" timestamp="1490681865262">
-        <mark key="'" line="3" column="19" />
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/webapp/WEB-INF/web.xml" timestamp="1490695194976">
         <mark key="[" line="62" column="23" />
@@ -65,27 +51,13 @@
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/META-INF/context.xml" timestamp="1490679868548">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/com.gnc.mapper/UserDaoMapper.xml" timestamp="1490671447742">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/controller/UserController.java" timestamp="1490695523275">
-        <mark key="'" line="27" column="88" />
-        <mark key="[" line="27" column="104" />
-        <mark key="]" line="27" column="104" />
-        <mark key="." line="27" column="104" />
-        <mark key="^" line="27" column="77" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/pom.xml" timestamp="1491146566039">
-        <mark key="[" line="41" column="21" />
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/pom.xml" timestamp="1491179007098">
+        <mark key="[" line="42" column="21" />
         <mark key="]" line="41" column="21" />
         <mark key="." line="41" column="21" />
       </file>
@@ -100,13 +72,6 @@
         <mark key="]" line="92" column="50" />
         <mark key="^" line="92" column="50" />
         <mark key="." line="92" column="50" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/resources/spring-mybatis.xml" timestamp="1490694148648">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="63" column="44" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="61" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/mapper/UserMapper.java" timestamp="1490682494263">
         <mark key="[" line="5" column="28" />
@@ -144,43 +109,16 @@
         <mark key="." line="51" column="26" />
         <mark key="^" line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/DAO/src/Test.java" timestamp="1491142514595">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/TestClass.java" timestamp="1491146369581">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/log4j.properties" timestamp="1490671916553">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="18" column="36" />
-        <mark key="^" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/LoginServlet.java" timestamp="1488866446496">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/dao/UserMapper.java" timestamp="1490692595077">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="25" />
-        <mark key="." line="57" column="25" />
-        <mark key="^" line="57" column="25" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/resources/jdbc.properties" timestamp="1490692307241">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java" timestamp="1491176195293">
         <mark key="'" line="661" column="23" />
@@ -241,13 +179,6 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" timestamp="1490682887342">
-        <mark key="'" line="26" column="41" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/weknow/src/com/sqsgalaxys/weknow/Ques0301.java" timestamp="1488416339748">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="16" column="38" />
@@ -269,13 +200,6 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/pom.xml" timestamp="1490694640917">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="164" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/ApplicationContext.xml" timestamp="1490876580646">
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="43" />
@@ -288,13 +212,6 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/service/UserService.java" timestamp="1490692557107">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/Retrofit/example0/GitHubServiceTest.java" timestamp="1491131572302">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -304,13 +221,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/jdeferred/example0/App.java" timestamp="1491134478746">
-        <mark key="'" line="17" column="1" />
-        <mark key="[" line="137" column="30" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-        <mark key="^" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/utils/BookException.java" timestamp="1488762455408">
         <mark key="[" line="14" column="10" />
@@ -323,13 +233,6 @@
         <mark key="]" line="12" column="15" />
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/DAO/src/ReturnQuery.java" timestamp="1491142429570">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/debytecode/TestReflect.java" timestamp="1491178196069">
         <mark key="[" line="7" column="41" />
@@ -355,24 +258,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1490911403481">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-      </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/src/com/oracle/soccerleague/web/LoginFilter.java" timestamp="1490878231903">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/dao/UserMapper.xml" timestamp="1490682433577">
-        <mark key="'" line="35" column="3" />
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="76" />
-        <mark key="^" line="4" column="76" />
-        <mark key="." line="4" column="76" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/webapp/WEB-INF/web.xml" timestamp="1490689693418">
         <mark key="[" line="27" column="0" />
@@ -406,20 +295,6 @@
         <mark key="]" line="26" column="19" />
         <mark key="^" line="26" column="12" />
         <mark key="." line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/pom.xml" timestamp="1490692476610">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="50" column="6" />
-        <mark key="." line="50" column="6" />
-        <mark key="^" line="50" column="20" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/applicationContext.xml" timestamp="1490690061801">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="18" column="66" />
-        <mark key="]" line="22" column="68" />
-        <mark key="." line="22" column="68" />
-        <mark key="^" line="22" column="68" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/userMapper.xml" timestamp="1490578435195">
         <mark key="[" line="7" column="57" />
