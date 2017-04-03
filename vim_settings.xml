@@ -132,6 +132,9 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1491221507140">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/com.gnc.mapper/UserDaoMapper.xml" timestamp="1490671447742">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="25" />
