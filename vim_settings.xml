@@ -55,11 +55,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491217328578">
-        <mark key="[" line="58" column="71" />
-        <mark key="]" line="58" column="71" />
-        <mark key="^" line="58" column="79" />
-        <mark key="." line="58" column="71" />
+      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491222189592">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/smmbook/web/WEB-INF/springmvc-config.xml" timestamp="1490479374782">
         <mark key="[" line="24" column="19" />
@@ -212,6 +212,9 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
       </file>
+      <file name="/fragment.java" timestamp="1491222531543">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="95" column="6" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
@@ -320,10 +323,10 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Test</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpI3liLbku6PnoIFcPg==</text>
