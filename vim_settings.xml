@@ -58,20 +58,6 @@
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/Test.java" timestamp="1491208108982">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="51" column="30" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Temp/JavaCode/src/Main03.java" timestamp="1491225543554">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Main.java" timestamp="1491144550520">
         <mark key="[" line="17" column="60" />
       </file>
@@ -88,15 +74,19 @@
         <mark key="^" line="35" column="5" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" timestamp="1491258574827">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="68" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
+      <file name="/dummy.sql" timestamp="1491279035993">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/web/WEB-INF/context.xml" timestamp="1491279195107">
+        <mark key="[" line="7" column="47" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/DAO/src/java/Column.java" timestamp="1491267685134">
         <mark key="'" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/service/AdminDAO.java" timestamp="1491280838009">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/show_json.html" timestamp="1491195052706">
         <mark key="[" line="8" column="23" />
@@ -106,10 +96,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1491221507140">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/RepeatedTwoRandomNumbers.java" timestamp="1491256509495">
-        <mark key="'" line="13" column="33" />
-        <mark key="[" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/hearst.html" timestamp="1491267212778">
         <mark key="[" line="7" column="15" />
@@ -126,17 +112,24 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" timestamp="1491276270480">
-        <mark key="[" line="23" column="70" />
-        <mark key="]" line="23" column="78" />
-        <mark key="." line="23" column="70" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" timestamp="1491277313819">
+        <mark key="'" line="8" column="66" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/JavaCode/src/Main02.java" timestamp="1491225673572">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="42" />
         <mark key="^" line="21" column="21" />
         <mark key="." line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/DAOExample/src/com/sqsgalaxys/demo/util/DatabaseConnection.java" timestamp="1491277639957">
+        <mark key="[" line="13" column="75" />
+        <mark key="]" line="13" column="76" />
+        <mark key="^" line="13" column="76" />
+        <mark key="." line="13" column="76" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/web.xml" timestamp="1491187383617">
         <mark key="[" line="1" column="224" />
@@ -147,13 +140,17 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/LoginServlet.java" timestamp="1491279353106">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="5" />
+        <mark key="^" line="51" column="5" />
+        <mark key="." line="51" column="5" />
+      </file>
       <file name="/fragment.java" timestamp="1491222531543">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="34" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/spring/bean/MyBeanPostProcessor.java" />
-      <jump line="10" column="7" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/applicationContext.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/collectiondemo/shell_sort.java" />
       <jump line="30" column="5" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/dao/User.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/dao/User.java" />
@@ -252,25 +249,27 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/java/ReturnQuery.java" />
       <jump line="56" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/java/ReturnQuery.java" />
       <jump line="8" column="18" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/java/Column.java" />
+      <jump line="25" column="25" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" />
+      <jump line="8" column="66" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9sYWJlbD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9sYWJlbD4=</text>
+        <text>changeID</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzlpI3liLbku6PnoIFcPg==</text>
+        <text encoding="base64">XDxjaGFuZ2VJRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0bk9iai52YWx1ZT0i5pi+56S6IjsKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJtZVRleHQiKS5oaWRkZW4gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -284,37 +283,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIGJ0bk9iaik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGJ0bk9iai5jb25zdHJ1Y3Rvcik7CiAgICAgICAgICAgIGJ0bk9iai52YWx1ZT0i5pi+56S6IjsKICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lVGV4dCIpLmhpZGRlbiA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIGJ0bk9iaik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGJ0bk9iai5jb25zdHJ1Y3Rvcik7CiAgICAgICAgICAgIGJ0bk9iai52YWx1ZT0i5pi+56S6IjsKICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lVGV4dCIpLmhpZGRlbiA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gNC4zLiDmi7zmjqUgc3FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzlpI3liLbku6PnoIFcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VJRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzlpI3liLbku6PnoIFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VJRFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
         <entry>xxx</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>usern</entry>
@@ -342,6 +340,7 @@
         <entry>user</entry>
         <entry encoding="base64">XDxhbGVydFw+</entry>
         <entry encoding="base64">XDzlpI3liLbku6PnoIFcPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VJRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
