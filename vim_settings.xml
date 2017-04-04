@@ -109,6 +109,13 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" timestamp="1491258574827">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+      </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/show_json.html" timestamp="1491195052706">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="26" />
@@ -135,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
       <jump line="22" column="8" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
       <jump line="39" column="10" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
       <jump line="67" column="15" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" />
@@ -235,16 +241,17 @@
       <jump line="13" column="14" filename="$USER_HOME$/Downloads/Temp/JavaCode/src/Main03.java" />
       <jump line="13" column="33" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/RepeatedTwoRandomNumbers.java" />
       <jump line="13" column="29" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/randomOneOrMinusOne.java" />
+      <jump line="26" column="6" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAkRU5EJAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIHNpemU9IjUwIiBpZD0ia2V5d29yZCIvPg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIHNpemU9IjUwIiBpZD0ia2V5d29yZCIvPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpI3liLbku6PnoIFcPg==</text>
