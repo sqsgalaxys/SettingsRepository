@@ -18,11 +18,12 @@
       <file name="/a.dummy" timestamp="1491257040857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" timestamp="1491290286751">
-        <mark key="[" line="20" column="91" />
-        <mark key="]" line="20" column="97" />
-        <mark key="^" line="20" column="97" />
-        <mark key="." line="20" column="97" />
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" timestamp="1491291498343">
+        <mark key="'" line="44" column="5" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="72" column="9" />
+        <mark key="." line="72" column="9" />
+        <mark key="^" line="72" column="9" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
         <mark key="'" line="0" column="0" />
@@ -85,6 +86,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="35" column="5" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkLogin.html" timestamp="1491291161264">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="/dummy.sql" timestamp="1491285777172">
         <mark key="[" line="0" column="0" />
@@ -169,16 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="67" filename="$USER_HOME$/Downloads/GitClone/ssm-demo/ssm-login/src/applicationContext.xml" />
-      <jump line="31" column="54" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/test/UserServiceTest.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/test/UserServiceTest.java" />
-      <jump line="32" column="72" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/test/UserServiceTest.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/java/com/gnc/test/UserServiceTest.java" />
-      <jump line="1" column="23" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/config.properties" />
-      <jump line="18" column="36" filename="$USER_HOME$/Downloads/MeProjects/spring_mybatis_transaction/src/main/resources/log4j.properties" />
-      <jump line="6" column="2" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/java/com/sqsgalaxys/ssm_login/controller/UserController.java" />
-      <jump line="1" column="65" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" />
-      <jump line="14" column="32" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/webapp/login.jsp" />
       <jump line="23" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/spring-mvc.xml" />
       <jump line="41" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/src/main/resources/applicationContext.xml" />
       <jump line="59" column="8" filename="$USER_HOME$/Downloads/MeProjects/ssm_login/pom.xml" />
@@ -269,25 +266,35 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" />
       <jump line="21" column="7" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/changeColor.html" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/changeColor.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="14" column="72" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="24" column="121" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="27" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="28" column="89" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="33" column="92" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="39" column="21" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="42" column="6" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
+      <jump line="40" column="5" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZWxuby5jaGVja1ZhbGlkaXR5KCkpIHsKICAgICAgICAgICAgICAgIHRlbG5vLnNldEN1c3RvbVZhbGlkaXR5KCLmiYvmnLrlj7fnoIHkuI3nrKblkIjmoLzlvI/opoHmsYIiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>167</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VJRFw+</text>
+        <text>sub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiciAvPgo=</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0idXNlcm5hbWUiIHZhbHVlPSIiIHJlcXVpcmVkLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZWxuby5jaGVja1ZhbGlkaXR5KCkpIHsKICAgICAgICAgICAgICAgIHRlbG5vLnNldEN1c3RvbVZhbGlkaXR5KCLmiYvmnLrlj7fnoIHkuI3nrKblkIjmoLzlvI/opoHmsYIiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -301,37 +308,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZWxuby5jaGVja1ZhbGlkaXR5KCkpIHsKICAgICAgICAgICAgICAgIHRlbG5vLnNldEN1c3RvbVZhbGlkaXR5KCLmiYvmnLrlj7fnoIHkuI3nrKblkIjmoLzlvI/opoHmsYIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF1c2VybmFtZS5jaGVja1ZhbGlkaXR5KCkpIHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lLnNldEN1c3RvbVZhbGlkaXR5KCLor7fovpPlhaXnlKjmiLflkI0iKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsLnNldEN1c3RvbVZhbGlkaXR5KCJFbWFpbOS4jeespuWQiOagvOW8j+imgeaxgiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpcm1Qd2Quc2V0Q3VzdG9tVmFsaWRpdHkoIiIpOwogICAgYWdyZWVUb1Rlcm1zLnNldEN1c3RvbVZhbGlkaXR5KCIiKTsKICAgIGlmICghZW1haWwuY2hlY2tWYWxpZGl0eSgpKSB7CiAgICB9CiAgICBpZiAoIXBhc3N3b3JkLmNoZWNrVmFsaWRpdHkoKSkgewogICAgICAgIGlmICghdXNlcm5hbWUuY2hlY2tWYWxpZGl0eSgpKSB7CiAgICAgICAgICAgIHVzZXJuYW1lLnNldEN1c3RvbVZhbGlkaXR5KCLor7fovpPlhaXnlKjmiLflkI0iKTsKICAgICAgICAgICAgZW1haWwuc2V0Q3VzdG9tVmFsaWRpdHkoIkVtYWls5LiN56ym5ZCI5qC85byP6KaB5rGCIik7CiAgICAgICAgfQogICAgICAgIGlmICghdGVsbm8uY2hlY2tWYWxpZGl0eSgpKSB7CiAgICAgICAgICAgIHRlbG5vLnNldEN1c3RvbVZhbGlkaXR5KCLmiYvmnLrlj7fnoIHkuI3nrKblkIjmoLzlvI/opoHmsYIiKTsKICAgICAgICAgICAgcGFzc3dvcmQuc2V0Q3VzdG9tVmFsaWRpdHkoIuivt+i+k+WFpeWvhueggSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maXJtUHdkLnNldEN1c3RvbVZhbGlkaXR5KCIiKTsKICAgICAgICBhZ3JlZVRvVGVybXMuc2V0Q3VzdG9tVmFsaWRpdHkoIiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICDoh6rlrprkuYnplJnor6/kv6Hmga/npLrkvosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAxNjcgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGZvcm0+PC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAxNTYKICAgICAxNTcKICAgICAxNTgKICAgICAxNTkKICAgICAgICAgLi4uLi4uCiAgICAgMTY2Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz50Lg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VJRFw+</last-search>
+      <last-search>sub</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VJRFw+</last-pattern>
+      <last-pattern>sub</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -339,12 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xxx</entry>
-        <entry encoding="base64">XDwuXD4=</entry>
-        <entry>usern</entry>
-        <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
-        <entry>set</entry>
-        <entry>Filter</entry>
         <entry encoding="base64">XDxuZXdQcm94eUluc3RhbmNlXD4=</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry encoding="base64">XDxzdWJtaXRGb3JtXD4=</entry>
@@ -359,6 +360,12 @@
         <entry encoding="base64">XDxhbGVydFw+</entry>
         <entry encoding="base64">XDzlpI3liLbku6PnoIFcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VJRFw+</entry>
+        <entry>email</entry>
+        <entry>size</entry>
+        <entry>150</entry>
+        <entry>password</entry>
+        <entry encoding="base64">XDxjb25maXJtX3Bhc3N3b3JkXD4=</entry>
+        <entry>sub</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
@@ -375,12 +382,12 @@
         <entry>34</entry>
         <entry>t9</entry>
         <entry encoding="base64">JzwsJz50MjU=</entry>
-        <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>20</entry>
         <entry>reg</entry>
         <entry>open .</entry>
         <entry>32</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz50Lg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
