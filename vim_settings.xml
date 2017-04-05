@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/aop/annotation/Action.java" timestamp="1491410055592" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1491257040857">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,39 +17,6 @@
         <mark key="]" line="72" column="9" />
         <mark key="." line="72" column="9" />
         <mark key="^" line="72" column="9" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" timestamp="1491358927305">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/bean/scope/PrototypeService.java" timestamp="1491410801085" />
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" timestamp="1491272105773">
-        <mark key="'" line="12" column="42" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/bean_init_destroy/beanway/Main.java" timestamp="1491412100905">
-        <mark key="'" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Main.java" timestamp="1491144550520">
-        <mark key="[" line="17" column="60" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/el/DemoELService.java" timestamp="1491408948608">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1491350403504">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/ball.html" timestamp="1491360789497">
         <mark key="'" line="60" column="13" />
@@ -60,20 +31,42 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" timestamp="1491358927305">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" timestamp="1491272105773">
+        <mark key="'" line="12" column="42" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/bean_init_destroy/beanway/Main.java" timestamp="1491412100905">
+        <mark key="'" line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/stop.txt" timestamp="1491358687094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/combination/annotation/CombinationConfiguration.java" timestamp="1491411706238" />
       <file name="/JavaScript Console" timestamp="1491268683433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/aop/annotation/Main.java" timestamp="1491409549642" />
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" timestamp="1491358719085">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="1023" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Main.java" timestamp="1491144550520">
+        <mark key="[" line="17" column="60" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/el/DemoELService.java" timestamp="1491408948608">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/DAO/src/java/ReturnQuery.java" timestamp="1491267669958">
         <mark key="'" line="56" column="0" />
@@ -103,7 +96,11 @@
       <file name="/Dummy.txt" timestamp="1491412102132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/RandomName.java" timestamp="1491375124267" />
+      <file name="$USER_HOME$/Downloads/GitClone/myResume/src/main/java/tk/liaohongdong/app/RobotApp.java" timestamp="1491427984251">
+        <mark key="[" line="54" column="20" />
+        <mark key="]" line="54" column="20" />
+        <mark key="." line="54" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/changeColor.html" timestamp="1491287551760">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="20" column="0" />
@@ -111,7 +108,6 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/combination/annotation/DemoConfig.java" timestamp="1491411712862" />
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" timestamp="1491277313819">
         <mark key="'" line="8" column="66" />
         <mark key="[" line="25" column="25" />
@@ -121,6 +117,9 @@
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/web.xml" timestamp="1491187383617">
         <mark key="[" line="1" column="224" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1491350403504">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1491358765706">
         <mark key="[" line="0" column="0" />
@@ -232,11 +231,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBWYWx1ZSgiY2xhc3NwYXRoOmNvbS96ZWx1bGkvZWwvdGVzdC50eHQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>圳</text>
       </register>
       <register name="-" type="4">
-        <text>classpath:</text>
+        <text>圳</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZWRcPg==</text>
