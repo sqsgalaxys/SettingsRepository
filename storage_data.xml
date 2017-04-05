@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=". stereo" />
       <item value="register Natives" />
       <item value="SYNTHETIC" />
       <item value="supplier" />
@@ -50,7 +51,6 @@
       <item value="Reactive" />
       <item value="aggregator" />
       <item value="concepts" />
-      <item value="paradigms" />
     </histories>
   </component>
 </application>

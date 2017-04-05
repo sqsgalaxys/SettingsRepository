@@ -3,23 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/comment.jsp" timestamp="1491188843450">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/untitled/src/RandomIsGreaterThan.java" timestamp="1491255085137">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/aop/annotation/Action.java" timestamp="1491410055592" />
       <file name="/a.dummy" timestamp="1491257040857">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,25 +14,13 @@
         <mark key="." line="72" column="9" />
         <mark key="^" line="72" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/ball.html" timestamp="1491360789497">
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="65" column="5" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" timestamp="1491358927305">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/bean/scope/PrototypeService.java" timestamp="1491410801085" />
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" timestamp="1491272105773">
         <mark key="'" line="12" column="42" />
         <mark key="[" line="12" column="0" />
@@ -68,6 +40,89 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.html" timestamp="1491189664459">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Main.java" timestamp="1491144550520">
+        <mark key="[" line="17" column="60" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/untitled/src/Main02.java" timestamp="1491225917846">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/el/DemoELService.java" timestamp="1491408948608">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/WEB-INF/web.xml" timestamp="1491347147092">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/jdk/dynamic/proxy/Run.java" timestamp="1491171539160">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/save_storage.html" timestamp="1491293574103">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/showJSON.jsp" timestamp="1491194637717">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1491350403504">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/LoginServlet.java" timestamp="1491281584673">
+        <mark key="[" line="24" column="120" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/comment.jsp" timestamp="1491188843450">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/untitled/src/RandomIsGreaterThan.java" timestamp="1491255085137">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/ball.html" timestamp="1491360789497">
+        <mark key="'" line="60" column="13" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="65" column="5" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/RandomIsGreaterThan.java" timestamp="1491256193874">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -86,12 +141,7 @@
       <file name="/JavaScript Console" timestamp="1491268683433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.html" timestamp="1491189664459">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="30" column="35" />
-        <mark key="^" line="30" column="35" />
-      </file>
+      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/aop/annotation/Main.java" timestamp="1491409549642" />
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" timestamp="1491358719085">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="0" column="24" />
@@ -99,26 +149,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="1023" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Main.java" timestamp="1491144550520">
-        <mark key="[" line="17" column="60" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/untitled/src/Main02.java" timestamp="1491225917846">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="54" />
-        <mark key="^" line="8" column="54" />
-        <mark key="." line="8" column="54" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/DAO/src/java/ReturnQuery.java" timestamp="1491267669958">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="35" column="5" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/GitClone/SpringDemo/src/main/java/com/zeluli/el/DemoELService.java" timestamp="1491408948608">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomBigIntegerValue.java" timestamp="1491343823152">
         <mark key="[" line="20" column="66" />
@@ -173,24 +209,6 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/WEB-INF/web.xml" timestamp="1491347147092">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/jdk/dynamic/proxy/Run.java" timestamp="1491171539160">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="19" column="5" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/save_storage.html" timestamp="1491293574103">
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-      </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" timestamp="1491277313819">
         <mark key="'" line="8" column="66" />
         <mark key="[" line="25" column="25" />
@@ -212,21 +230,6 @@
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/web.xml" timestamp="1491187383617">
         <mark key="[" line="1" column="224" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/showJSON.jsp" timestamp="1491194637717">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1491350403504">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/BookRegisterEx/src/com/oracle/book/controller/LoginServlet.java" timestamp="1491281584673">
-        <mark key="[" line="24" column="120" />
-        <mark key="]" line="23" column="1" />
-        <mark key="^" line="23" column="1" />
-        <mark key="." line="23" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1491358765706">
         <mark key="[" line="0" column="0" />
