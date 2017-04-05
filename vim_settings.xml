@@ -25,6 +25,13 @@
         <mark key="." line="72" column="9" />
         <mark key="^" line="72" column="9" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/ball.html" timestamp="1491360789497">
+        <mark key="'" line="60" column="13" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="65" column="5" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="0" />
@@ -221,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="54" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/jdeferred/example0/App.java" />
       <jump line="17" column="1" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/jdeferred/example0/App.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/Column.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/User.java" />
@@ -321,13 +327,14 @@
       <jump line="57" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" />
       <jump line="58" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" />
+      <jump line="60" column="13" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/resources/ball.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Helloworld</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Helloworld</text>
@@ -339,7 +346,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgICB4bWxIdHRwLnNlbmQobnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -353,7 +360,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
