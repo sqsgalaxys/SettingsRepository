@@ -31,6 +31,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" timestamp="1491358927305">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" timestamp="1491272105773">
         <mark key="'" line="12" column="42" />
         <mark key="[" line="12" column="0" />
@@ -62,6 +68,9 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/stop.txt" timestamp="1491358687094">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1491268683433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,6 +79,13 @@
         <mark key="]" line="25" column="18" />
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" timestamp="1491358719085">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="1023" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Main.java" timestamp="1491144550520">
         <mark key="[" line="17" column="60" />
@@ -194,7 +210,7 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1491222531543">
+      <file name="/fragment.java" timestamp="1491358765706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/searchServlet.java" timestamp="1491351568392">
@@ -205,20 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/service/UserService.java" />
-      <jump line="57" column="25" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/dao/UserMapper.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/dao/UserMapper.java" />
-      <jump line="26" column="88" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/java/com/sqsgalaxys/controller/UserController.java" />
-      <jump line="43" column="34" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/resources/spring-mybatis.xml" />
-      <jump line="75" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/resources/spring-mybatis.xml" />
-      <jump line="16" column="23" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/src/main/webapp/login.jsp" />
-      <jump line="166" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmLogin/pom.xml" />
-      <jump line="46" column="0" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" />
-      <jump line="23" column="8" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" />
-      <jump line="4" column="1" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/guice/HelloGuiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/guice/HelloGuiceModule.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/guice/TestGuice.java" />
       <jump line="96" column="54" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/jdeferred/example0/App.java" />
       <jump line="17" column="1" filename="$USER_HOME$/Downloads/MeProjects/jevsejev/src/main/java/test/jdeferred/example0/App.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/Column.java" />
@@ -305,25 +307,39 @@
       <jump line="111" column="12" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="38" column="12" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="51" column="19" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
+      <jump line="5" column="4" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="41" column="21" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="28" column="17" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="54" column="5" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="50" column="50" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="0" column="12" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="24" column="30" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="25" column="27" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/Stop.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>Helloworld</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Helloworld</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDxDb3VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB4bWxIdHRwLnNlbmQobnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLmRvR2V0KHJlcSwgcmVzcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,37 +353,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihrZXl3b3JkKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBrZXl3b3JkID0gcmVxLmdldFBhcmFtZXRlcigia2V5d29yZCIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQEAiICsga2V5d29yZCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIkBAIik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeG1sSHR0cCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDxDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb3VudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tZW50XD4=</entry>
         <entry encoding="base64">XDxudW1iZXIxXD4=</entry>
         <entry>2</entry>
         <entry>result</entry>
@@ -395,6 +410,7 @@
         <entry encoding="base64">XDx4bWxIdHRwXD4=</entry>
         <entry encoding="base64">XDxnZXRNb3JlQ29udGVudHNcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
@@ -414,9 +430,9 @@
         <entry>reg</entry>
         <entry>open .</entry>
         <entry>32</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>22</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
