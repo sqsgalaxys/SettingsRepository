@@ -29,6 +29,13 @@
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/src/main/java/Main.java" timestamp="1491453635151">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="23" />
@@ -124,6 +131,12 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ServerEx.java" timestamp="1491465461877">
+        <mark key="[" line="57" column="52" />
+        <mark key="]" line="58" column="17" />
+        <mark key="." line="58" column="17" />
+        <mark key="^" line="58" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/main/java/InputBoxPromptInformationServlet.java" timestamp="1491448285792">
         <mark key="'" line="32" column="27" />
         <mark key="[" line="0" column="0" />
@@ -162,12 +175,11 @@
       <file name="/Clipboard.txt" timestamp="1491449987978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1491358765706">
+      <file name="/fragment.java" timestamp="1491464387348">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="25" filename="$USER_HOME$/Downloads/MeProjects/DAO/src/Test.java" />
       <jump line="702" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java" />
       <jump line="778" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java" />
       <jump line="57" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java" />
@@ -267,25 +279,26 @@
       <jump line="33" column="27" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/main/java/InputBoxPromptInformationServlet.java" />
       <jump line="31" column="7" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/pom.xml" />
       <jump line="40" column="68" filename="$USER_HOME$/Downloads/MeProjects/mybatisExampleEx/src/main/java/cn/edu/bupt/wen/mapper/MyBatisTest.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBzZXJ2ZXJTb2NrZXRFeGFtcGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgaW5wdXQgOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>BufferedReader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3VzZU92ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CUBWYWx1ZSgiY2xhc3NwYXRoOmNvbS96ZWx1bGkvZWwvdGVzdC50eHQiKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">QnVmZmVyZWRSZWFkZXIgaW5wdXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBzZXJ2ZXJTb2NrZXRFeGFtcGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgaW5wdXQgOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,28 +312,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5Bc3NlcnRpb25zLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGlucHV0ID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihzb2NrZXQuZ2V0SW5wdXRTdHJlYW0oKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3FzZ2FsYXh5cyAoQVQpIGdtYWlsIChET1QpIGNvbQogKiBvbiAwNi8wNC8yMDE3LgogKi8KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgaW5wdXQgOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCiAqIEF1dGhvciB3ZW56aGlxdWFuCiAqIENyZWF0ZWQgb24gMTYvNC8xMiDkuIvljYgxMjoyNQogKiBGaWxlIG5hbWU6IEluZGV4Q29udHJvbGxlci5qYXZhCiAqIERlc2NyaXB0aW9uOiBudWxsCiAqLwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmNsb3NlKCk7CiAgICAgICAgICAgIGlucHV0LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZFJlYWRlciBpbnB1dCA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoc29ja2V0LmdldElucHV0U3RyZWFtKCkpKTsKICAgICAgICBTdHJpbmcgY2xpZW50SW5wdXRTdHIgPSBpbnB1dC5yZWFkTGluZSgpOy8v6L+Z6YeM6KaB5rOo5oSP5ZKM5a6i5oi356uv6L6T5Ye65rWB55qE5YaZ5pa55rOV5a+55bqULOWQpuWImeS8muaKmyBFT0ZFeGNlcHRpb24KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuWuouaIt+err+WPkei/h+adpeeahOWGheWuuToiICsgY2xpZW50SW5wdXRTdHIpOwogICAgICAgIGNsaWVudElucHV0U3Rycy5hZGQoY2xpZW50SW5wdXRTdHIpOwogICAgICAgIGlmIChjbGllbnRJbnB1dFN0cnMuc2l6ZSgpID49IDUpIHsKICAgICAgICAgIFByaW50U3RyZWFtIG91dCA9IG5ldyBQcmludFN0cmVhbShzb2NrZXQuZ2V0T3V0cHV0U3RyZWFtKCkpOwogICAgICAgICAgb3V0LnByaW50bG4oY2xpZW50SW5wdXRTdHJzLnRvU3RyaW5nKCkpOwogICAgICAgICAgb3V0LmNsb3NlKCk7CiAgICAgICAgICBpbnB1dC5jbG9zZSgpOwogICAgICAgIH0KICAgICAgICBUaHJlYWQuc2xlZXAoMjAwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5ldyBUaHJlYWQodGhpcykucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IG5ldC5zZi5qc29uLkpTT05BcnJheTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWkhOeQhuWuouaIt+err+aVsOaNriAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
