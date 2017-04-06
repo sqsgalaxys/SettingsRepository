@@ -3,31 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1491448337387">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/note" timestamp="1491518817476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" timestamp="1491358927305">
         <mark key="'" line="58" column="0" />
@@ -48,15 +31,6 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/build.gradle" timestamp="1491448998714">
-        <mark key="[" line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/MeHistory.java" timestamp="1491454128210">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491454121042">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="21" />
@@ -67,17 +41,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/stop.txt" timestamp="1491358687094">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/main.java" timestamp="1491448917834">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1491268683433">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/ZipUtil.java" timestamp="1491487669759">
         <mark key="'" line="62" column="6" />
@@ -94,6 +57,97 @@
         <mark key="]" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/resources/config/mybatis/jdbc-mysql.properties" timestamp="1491450717039">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" timestamp="1491513423695">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ServerEx.java" timestamp="1491468441930">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+        <mark key="^" line="46" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExampleEx/src/main/java/cn/edu/bupt/wen/mapper/MyBatisTest.java" timestamp="1491451696693">
+        <mark key="'" line="38" column="68" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/WEB-INF/web.xml" timestamp="1491447619580">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/one/TestMain.java" timestamp="1491518364902">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" timestamp="1491487675314">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/reflection/example/three/TestMain.java" timestamp="1491520112105">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1491449987978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/build.gradle" timestamp="1491448998714">
+        <mark key="[" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/MeHistory.java" timestamp="1491454128210">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/stop.txt" timestamp="1491358687094">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/main.java" timestamp="1491448917834">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1491268683433">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/InputBoxPromptInformationServlet.java" timestamp="1491447291951">
         <mark key="[" line="38" column="38" />
         <mark key="]" line="38" column="37" />
@@ -104,11 +158,6 @@
         <mark key="[" line="20" column="66" />
         <mark key="]" line="20" column="66" />
         <mark key="." line="20" column="66" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/resources/config/mybatis/jdbc-mysql.properties" timestamp="1491450717039">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExampleEx/src/main/java/cn/edu/bupt/wen/model/Person.java" timestamp="1491451638001">
         <mark key="[" line="7" column="35" />
@@ -130,13 +179,6 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" timestamp="1491513423695">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="11" column="60" />
-      </file>
       <file name="/Dummy.txt" timestamp="1491455806695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,18 +186,6 @@
         <mark key="[" line="54" column="20" />
         <mark key="]" line="54" column="20" />
         <mark key="." line="54" column="20" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ServerEx.java" timestamp="1491468441930">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="23" />
-        <mark key="." line="46" column="23" />
-        <mark key="^" line="46" column="23" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/main/java/InputBoxPromptInformationServlet.java" timestamp="1491448285792">
         <mark key="'" line="32" column="27" />
@@ -166,33 +196,18 @@
       <file name="$USER_HOME$/Downloads/MeProjects/gradleTest/src/main/java/MyBatisTest.java" timestamp="1491448637792">
         <mark key="[" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExampleEx/src/main/java/cn/edu/bupt/wen/mapper/MyBatisTest.java" timestamp="1491451696693">
-        <mark key="'" line="38" column="68" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/WEB-INF/web.xml" timestamp="1491447619580">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/Main.java" timestamp="1491520101667">
+        <mark key="'" line="5" column="54" />
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomNumberBetweenMultipleRanges.java" timestamp="1491429241974">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="31" column="25" />
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/one/TestMain.java" timestamp="1491518364902">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" timestamp="1491487675314">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/web.xml" timestamp="1491187383617">
         <mark key="[" line="1" column="224" />
@@ -203,15 +218,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1491449987978">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1491464387348">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" />
       <jump line="11" column="42" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" />
       <jump line="21" column="74" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/show_xml.html" />
       <jump line="22" column="20" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/show_xml.html" />
@@ -311,16 +322,17 @@
       <jump line="62" column="33" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" />
+      <jump line="4" column="54" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53aW5zdGFyLm9uZS5PdXRlckNsYXNzLklubmVyQ2xhc3M7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53aW5zdGFyLm9uZS5Qcm9kdWN0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -329,7 +341,7 @@
         <text encoding="base64">QnVmZmVyZWRSZWFkZXIgaW5wdXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53aW5zdGFyLm9uZS5PdXRlckNsYXNzLklubmVyQ2xhc3M7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53aW5zdGFyLm9uZS5Qcm9kdWN0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,28 +355,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53aW5zdGFyLm9uZS5PdXRlckNsYXNzLklubmVyQ2xhc3M7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2cgPSBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoWmlwVXRpbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGhvdG9TZXJ2aWNlLmFkZFVzZXJQaG90byhwaG90b3MpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2cgPSBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoWmlwVXRpbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOWwgeijheaIkCB1c2VyX3Bob3RvIOWvueixoQo=</text>
+        <text encoding="base64">ICAgICAgcGhvdG9TZXJ2aWNlLmFkZFVzZXJQaG90byhwaG90b3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOS4iuS8oAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWwgeijheaIkCB1c2VyX3Bob3RvIOWvueixoQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBob3Rvcy5hZGQocGhvdG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOS4iuS8oAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBob3RvLnNldElzRGVsKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBob3Rvcy5hZGQocGhvdG8pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBob3RvLnNldFN0YXRlKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBob3RvLnNldElzRGVsKDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
