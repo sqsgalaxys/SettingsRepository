@@ -124,6 +124,13 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" timestamp="1491513423695">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+      </file>
       <file name="/Dummy.txt" timestamp="1491455806695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="70" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.html" />
       <jump line="8" column="17" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" />
       <jump line="11" column="42" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/add.jsp" />
       <jump line="21" column="74" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/show_xml.html" />
@@ -293,16 +299,17 @@
       <jump line="62" column="6" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/ZipUtil.java" />
       <jump line="62" column="33" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IOOAgOOAgOOAgOOAgOOAgOOAgA==</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOOAgOOAgOOAgOOAgOOAgOOAgA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
