@@ -50,6 +50,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/Client.java" timestamp="1491463713375">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/test/stop.txt" timestamp="1491358687094">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,7 +150,6 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/pom.xml" timestamp="1491453675038" />
       <file name="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/WEB-INF/web.xml" timestamp="1491187383617">
         <mark key="[" line="1" column="224" />
       </file>
@@ -268,8 +272,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Main</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBzZXJ2ZXJTb2NrZXRFeGFtcGxlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Main</text>
@@ -281,7 +285,7 @@
         <text encoding="base64">CUBWYWx1ZSgiY2xhc3NwYXRoOmNvbS96ZWx1bGkvZWwvdGVzdC50eHQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5Bc3NlcnRpb25zLio7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBzZXJ2ZXJTb2NrZXRFeGFtcGxlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -295,16 +299,16 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5Bc3NlcnRpb25zLio7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3FzZ2FsYXh5cyAoQVQpIGdtYWlsIChET1QpIGNvbQogKiBvbiAwNi8wNC8yMDE3LgogKi8KCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyoqCiAqIEF1dGhvciB3ZW56aGlxdWFuCiAqIENyZWF0ZWQgb24gMTYvNC8xMiDkuIvljYgxMjoyNQogKiBGaWxlIG5hbWU6IEluZGV4Q29udHJvbGxlci5qYXZhCiAqIERlc2NyaXB0aW9uOiBudWxsCiAqLwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -313,10 +317,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IG5ldC5zZi5qc29uLkpTT05BcnJheTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IG5ldC5zZi5qc29uLkpTT05BcnJheTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
