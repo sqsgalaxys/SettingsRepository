@@ -4,12 +4,11 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
 </application>
