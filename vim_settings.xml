@@ -105,6 +105,13 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/OtherService.java" timestamp="1491536217527">
+        <mark key="'" line="16" column="49" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="23" />
@@ -151,6 +158,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ClientTest.java" timestamp="1491536235280">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/LearnJava.java" timestamp="1491397511130">
         <mark key="[" line="15" column="0" />
@@ -215,6 +228,20 @@
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/AccountService.java" timestamp="1491536080649">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/StandardService.java" timestamp="1491536147010">
+        <mark key="'" line="21" column="50" />
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1491529708748">
         <mark key="[" line="0" column="0" />
@@ -282,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="72" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
-      <jump line="24" column="121" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
-      <jump line="27" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="28" column="89" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="33" column="92" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="39" column="21" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
@@ -382,22 +406,25 @@
       <jump line="17" column="31" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" />
       <jump line="38" column="37" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
+      <jump line="9" column="21" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/AccountService.java" />
+      <jump line="21" column="50" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/StandardService.java" />
+      <jump line="16" column="49" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/OtherService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cunkuan</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>cunkuan</text>
       </register>
       <register name="/" type="4">
         <text>Abs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywzLDMsMywzLDMsMywzLDMsMywzLDMsMywzLDMsMywzMywgNCwgNSk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjdW5rdWFuKCl7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSk7Cg==</text>
