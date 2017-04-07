@@ -14,12 +14,6 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/asm/test/Helloworld.java" timestamp="1491358927305">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/ShapeFactory.java" timestamp="1491527095703">
         <mark key="^" line="7" column="10" />
       </file>
@@ -46,12 +40,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/BuilderPattern/Main.java" timestamp="1491526965171">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/ZipUtil.java" timestamp="1491487669759">
         <mark key="'" line="62" column="6" />
@@ -121,7 +109,6 @@
         <mark key="." line="46" column="23" />
         <mark key="^" line="46" column="23" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/network/ClientDemo1.java" timestamp="1491529482216" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ServiceAdapter.java" timestamp="1491536922183">
         <mark key="'" line="26" column="25" />
         <mark key="[" line="14" column="30" />
@@ -129,16 +116,15 @@
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/mybatisExampleEx/src/main/java/cn/edu/bupt/wen/mapper/MyBatisTest.java" timestamp="1491451696693">
-        <mark key="'" line="38" column="68" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/WEB-INF/web.xml" timestamp="1491447619580">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/Computer.java" timestamp="1491541708701">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/Main.java" timestamp="1491521434575">
         <mark key="'" line="20" column="17" />
@@ -151,12 +137,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" timestamp="1491487675314">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/reflection/example/three/TestMain.java" timestamp="1491520112105">
         <mark key="[" line="7" column="0" />
@@ -181,17 +161,17 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/TestMain.java" timestamp="1491541813638">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" timestamp="1491283901218">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" timestamp="1491533646084">
         <mark key="'" line="0" column="0" />
@@ -255,18 +235,6 @@
         <mark key="]" line="54" column="20" />
         <mark key="." line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ScreenPrinter.java" timestamp="1491521395889">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/main/java/InputBoxPromptInformationServlet.java" timestamp="1491448285792">
-        <mark key="'" line="32" column="27" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/CallRoll/ConcreteIterator.java" timestamp="1491528980968">
         <mark key="[" line="2" column="51" />
       </file>
@@ -277,11 +245,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/InboxTestMain.java" timestamp="1491531885509">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/InboxTestMain.java" timestamp="1491541672844">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomNumberBetweenMultipleRanges.java" timestamp="1491429241974">
         <mark key="[" line="31" column="62" />
@@ -307,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="92" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="39" column="21" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="42" column="6" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
@@ -407,16 +375,17 @@
       <jump line="21" column="50" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/StandardService.java" />
       <jump line="16" column="49" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/OtherService.java" />
       <jump line="26" column="25" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ServiceAdapter.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/InboxTestMain.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRTZXJ2aWNlLmRlcG9zaXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Abs</text>
@@ -424,8 +393,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBjdW5rdWFuKCl7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRTZXJ2aWNlLmRlcG9zaXQoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8vIDEuIEluZGl2aWR1YWwgdmFsdWVzCiAgICBTdHJlYW0gc3RyZWFtID0gU3RyZWFtLm9mKCJhIiwgImIiLCAiYyIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHN0cmVhbSk7CiAgICAvLyAyLiBBcnJheXMKICAgIFN0cmluZyBbXSBzdHJBcnJheSA9IG5ldyBTdHJpbmdbXSB7ImEiLCAiYiIsICJjIn07CiAgICBzdHJlYW0gPSBTdHJlYW0ub2Yoc3RyQXJyYXkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHN0cmVhbSk7CiAgICBzdHJlYW0gPSBBcnJheXMuc3RyZWFtKHN0ckFycmF5KTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHJlYW0pOwogICAgLy8gMy4gQ29sbGVjdGlvbnMKICAgIExpc3Q8U3RyaW5nPiBsaXN0ID0gQXJyYXlzLmFzTGlzdChzdHJBcnJheSk7CiAgICBzdHJlYW0gPSBsaXN0LnN0cmVhbSgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHN0cmVhbS50b1N0cmluZygpKTs=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,31 +408,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRmKCIiKTsK</text>
+        <text encoding="base64">ICAgIGFjY291bnRTZXJ2aWNlLmRlcG9zaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhbmRhcmRTZXJ2aWNlLmRlcG9zaXQiKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRmKCIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VBZGFwdGVyCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhbmRhcmRTZXJ2aWNlLmRlcG9zaXQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VBZGFwdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvdXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -514,11 +483,11 @@
         <entry>open .</entry>
         <entry>32</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
-        <entry>w</entry>
         <entry>36</entry>
         <entry>50</entry>
         <entry>22</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
