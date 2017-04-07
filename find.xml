@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '... - [untitled]'" />
-    <option name="defaultScopeName" value="Directory '... - [untitled]'" />
+    <option name="customScope" value="Directory '.../src/gof - [untitled]'" />
+    <option name="defaultScopeName" value="Directory '.../src/gof - [untitled]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [untitled]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/gof - [untitled]'" />
   </component>
 </application>

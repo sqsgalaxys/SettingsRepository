@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="FORCE_CLASSIC_VM" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
