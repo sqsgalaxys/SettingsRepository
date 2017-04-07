@@ -14,9 +14,6 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/ShapeFactory.java" timestamp="1491527095703">
-        <mark key="^" line="7" column="10" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="34" column="20" />
@@ -142,6 +139,13 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/JavaLambdaInternals-master/perf/StreamBenchmark/src/lee/ReductionTest.java" timestamp="1491545878518">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="96" column="21" />
+        <mark key="." line="96" column="21" />
+        <mark key="^" line="96" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ClientTest.java" timestamp="1491536859939">
         <mark key="[" line="10" column="31" />
@@ -277,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="5" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="20" column="16" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="27" column="18" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="28" column="15" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
@@ -377,19 +380,20 @@
       <jump line="2" column="21" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/Computer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/Computer.java" />
       <jump line="24" column="27" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/TestMain.java" />
+      <jump line="101" column="4" filename="$USER_HOME$/Downloads/JavaLambdaInternals-master/perf/StreamBenchmark/src/lee/ReductionTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+      <register name="&quot;" type="4">
+        <text>WeakerAccess</text>
       </register>
       <register name="-" type="4">
-        <text>accountService</text>
+        <text>WeakerAccess</text>
       </register>
       <register name="/" type="4">
-        <text>Abs</text>
+        <text>Weak</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBjdW5rdWFuKCl7Cg==</text>
@@ -437,17 +441,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Abs</last-search>
+      <last-search>Weak</last-search>
       <last-offset />
-      <last-pattern>Abs</last-pattern>
+      <last-pattern>Weak</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzlpI3liLbku6PnoIFcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VJRFw+</entry>
         <entry>email</entry>
         <entry>size</entry>
@@ -467,6 +470,7 @@
         <entry encoding="base64">XDxVcGxvYWRJbWFnZVV0aWxcPg==</entry>
         <entry>file</entry>
         <entry>Abs</entry>
+        <entry>Weak</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
