@@ -14,6 +14,13 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/Service.java" timestamp="1491566915850">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="34" column="20" />
@@ -130,7 +137,6 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" timestamp="1491550781296" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/one/TestMain.java" timestamp="1491518364902">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -264,7 +270,6 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/EnumIvoryTower.java" timestamp="1491551250204" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" timestamp="1491522041981">
         <mark key="'" line="8" column="18" />
         <mark key="[" line="8" column="11" />
@@ -278,13 +283,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/dao/src/main/java/com/iluwatar/dao/App.java" timestamp="1491551667879" />
       <file name="/fragment.java" timestamp="1491536665429">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="16" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="27" column="18" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="28" column="15" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="29" column="27" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
@@ -384,6 +387,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/Computer.java" />
       <jump line="24" column="27" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/TestMain.java" />
       <jump line="101" column="4" filename="$USER_HOME$/Downloads/JavaLambdaInternals-master/perf/StreamBenchmark/src/lee/ReductionTest.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/Service.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
