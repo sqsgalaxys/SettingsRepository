@@ -109,12 +109,10 @@
         <mark key="." line="46" column="23" />
         <mark key="^" line="46" column="23" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ServiceAdapter.java" timestamp="1491536922183">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ServiceAdapter.java" timestamp="1491543596048">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/WEB-INF/web.xml" timestamp="1491447619580">
         <mark key="[" line="5" column="0" />
@@ -384,11 +382,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>WeakerAccess</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="-" type="4">
-        <text>WeakerAccess</text>
+        <text>accountService</text>
       </register>
       <register name="/" type="4">
         <text>Abs</text>
@@ -396,8 +394,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBjdW5rdWFuKCl7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIC8vIDEuIEluZGl2aWR1YWwgdmFsdWVzCiAgICBTdHJlYW0gc3RyZWFtID0gU3RyZWFtLm9mKCJhIiwgImIiLCAiYyIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHN0cmVhbSk7CiAgICAvLyAyLiBBcnJheXMKICAgIFN0cmluZyBbXSBzdHJBcnJheSA9IG5ldyBTdHJpbmdbXSB7ImEiLCAiYiIsICJjIn07CiAgICBzdHJlYW0gPSBTdHJlYW0ub2Yoc3RyQXJyYXkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHN0cmVhbSk7CiAgICBzdHJlYW0gPSBBcnJheXMuc3RyZWFtKHN0ckFycmF5KTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHJlYW0pOwogICAgLy8gMy4gQ29sbGVjdGlvbnMKICAgIExpc3Q8U3RyaW5nPiBsaXN0ID0gQXJyYXlzLmFzTGlzdChzdHJBcnJheSk7CiAgICBzdHJlYW0gPSBsaXN0LnN0cmVhbSgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHN0cmVhbS50b1N0cmluZygpKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,28 +409,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRTZXJ2aWNlLmRlcG9zaXQoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRmKCIiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhbmRhcmRTZXJ2aWNlLmRlcG9zaXQiKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VBZGFwdGVyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YWNjb3VudFNlcnZpY2UudHJhbnNmZXIoKTsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgZGVwb3NpdChpbnQgaSkgewogICAgYWNjb3VudFNlcnZpY2UuZGVwb3NpdChpKTsKICB9CgoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCB3aXRoZHJhdygpIHsKICAgIGFjY291bnRTZXJ2aWNlLndpdGhkcmF3KCk7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCB0cmFuc2ZlcigpIHsKICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
