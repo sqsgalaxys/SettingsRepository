@@ -86,6 +86,13 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" timestamp="1491533059696">
+        <mark key="'" line="17" column="31" />
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" timestamp="1491513423695">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="11" column="60" />
@@ -169,6 +176,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" timestamp="1491533646084">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/MeHistory.java" timestamp="1491454128210">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="23" />
@@ -232,6 +246,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/InboxTestMain.java" timestamp="1491531885509">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomNumberBetweenMultipleRanges.java" timestamp="1491429241974">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="31" column="25" />
@@ -262,13 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="25" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" />
-      <jump line="8" column="66" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/hiddenExample.html" />
-      <jump line="16" column="10" filename="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/Practice/Note.java" />
-      <jump line="21" column="7" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/changeColor.html" />
-      <jump line="14" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/changeColor.html" />
-      <jump line="23" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="14" column="72" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="24" column="121" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
       <jump line="27" column="0" filename="$USER_HOME$/Downloads/Works/盈佳/J007-RIA/J007.2-案例代码/module-04/SoccerLeagueCSS/WebRoot/checkedForm.html" />
@@ -362,25 +375,32 @@
       <jump line="44" column="15" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/BuilderPattern/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/BuilderPattern/Main.java" />
       <jump line="19" column="8" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ShapeFactory.java" />
+      <jump line="4" column="10" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
+      <jump line="7" column="37" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
+      <jump line="11" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" />
+      <jump line="17" column="31" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" />
+      <jump line="38" column="37" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LyoKICogyrnvv73vv71Tb2NrZXTvv73vv73vv73Kte+/vda/zbvvv73vv73Lus2377+977+977+977+977+977+9y7Pvv73vv73vv70K77+9yb/Nu++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vTXvv73vv73vv73Wt++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vdW177+9w7/vv73vv73vv73Wt++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vdOh77+977+977+977+977+977+9Csuv77+977+9Mu+/ve+/ve+/vdOj77+977+977+977+977+977+977+977+977+977+977+90rvvv73vv73vv73Wt++/ve+/ve+/ve+/ve+/vQrvv73vv70177+977+977+91rfvv73vv73vv73Iq++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vc+686Osve+/ve+/ve+/ve+/vce077+977+977+977+977+977+977+977+92LTvv73vv73vv73vv73Nu++/ve+/vcuh77+9Cu+/vc2777+977+977+977+91bXvv73vv73zo6y077+906Hvv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73NqNG277+977+9CgogKi8=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>Abs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGdldFByaW50ZXIoU3RyaW5nIHR5cGUpewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywzLDMsMywzLDMsMywzLDMsMywzLDMsMywzLDMsMywzMywgNCwgNSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoKICogyrnvv73vv71Tb2NrZXTvv73vv73vv73Kte+/vda/zbvvv73vv73Lus2377+977+977+977+977+977+9y7Pvv73vv73vv70K77+9yb/Nu++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vTXvv73vv73vv73Wt++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vdW177+9w7/vv73vv73vv73Wt++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vdOh77+977+977+977+977+977+9Csuv77+977+9Mu+/ve+/ve+/vdOj77+977+977+977+977+977+977+977+977+977+977+90rvvv73vv73vv73Wt++/ve+/ve+/ve+/ve+/vQrvv73vv70177+977+977+91rfvv73vv73vv73Iq++/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vc+686Osve+/ve+/ve+/ve+/vce077+977+977+977+977+977+977+977+92LTvv73vv73vv73vv73Nu++/ve+/vcuh77+9Cu+/vc2777+977+977+977+91bXvv73vv73zo6y077+906Hvv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73NqNG277+977+9CgogKi8=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,31 +414,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gbnVtYmVycyA9IEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB1c2UgZ2V0U2hhcGUgbWV0aG9kIHRvIGdldCBvYmplY3Qgb2YgdHlwZSBzaGFwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFRvb2xCYXIgdG9vbGJhcjsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKS1zdGFydCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbldpbmRvd3sKICBwcml2YXRlIHN0YXRpYyBNYWluV2luZG93IGluc3RhbmNlID0gbmV3IE1haW5XaW5kb3coKTsKCiAgcHJpdmF0ZSBNYWluV2luZG93KCl7fQoKICBwdWJsaWMgc3RhdGljIE1haW5XaW5kb3cgZ2V0SW5zdGFuY2UoKXsKICAgIHJldHVybiBpbnN0YW5jZTsKICB9CgogIHB1YmxpYyB2b2lkIHNob3dNZXNzYWdlKCl7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIHdvcmxkISIpOwogIH0KCgp9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKS1zdGFydCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgTWFpbnsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpewogICAgICBNYWluV2luZG93IG9iamVjdCA9IE1haW5XaW5kb3cuZ2V0SW5zdGFuY2UoKTsKICAgICAgb2JqZWN0LnNob3dNZXNzYWdlKCk7CiAgICB9CiAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdvZi5GYWN0b3J5UGF0dGVybi5TaGFwZUZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBnb2YuQWJzdHJhY3RGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgIE15TW9iaWUgbXlNb2JpZSA9IE15TW9iaWUuZ2V0TXlNb2JpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
@@ -454,8 +474,6 @@
         <entry>Abs</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
-        <entry>set nu</entry>
         <entry>147</entry>
         <entry>sort</entry>
         <entry>L</entry>
@@ -474,6 +492,8 @@
         <entry>22</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>36</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
