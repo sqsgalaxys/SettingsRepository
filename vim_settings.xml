@@ -130,6 +130,7 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="20" column="14" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" timestamp="1491550781296" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/one/TestMain.java" timestamp="1491518364902">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -263,6 +264,7 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/EnumIvoryTower.java" timestamp="1491551250204" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" timestamp="1491522041981">
         <mark key="'" line="8" column="18" />
         <mark key="[" line="8" column="11" />
@@ -276,6 +278,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/dao/src/main/java/com/iluwatar/dao/App.java" timestamp="1491551667879" />
       <file name="/fragment.java" timestamp="1491536665429">
         <mark key="[" line="0" column="0" />
       </file>
@@ -473,7 +476,6 @@
         <entry>Weak</entry>
       </history-search>
       <history-cmd>
-        <entry>147</entry>
         <entry>sort</entry>
         <entry>L</entry>
         <entry>222</entry>
@@ -493,6 +495,7 @@
         <entry>22</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>E</entry>
       </history-cmd>
       <history-expr />
       <history-input />
