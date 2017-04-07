@@ -14,13 +14,6 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/Service.java" timestamp="1491566915850">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="34" column="20" />
@@ -198,6 +191,9 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ThreadA.java" timestamp="1491569375957">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/main.java" timestamp="1491448917834">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="14" />
@@ -288,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="18" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="28" column="15" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="29" column="27" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
       <jump line="33" column="15" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
@@ -388,6 +383,7 @@
       <jump line="24" column="27" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/TestMain.java" />
       <jump line="101" column="4" filename="$USER_HOME$/Downloads/JavaLambdaInternals-master/perf/StreamBenchmark/src/lee/ReductionTest.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/Service.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ThreadA.java" />
     </jumps>
     <registers>
       <register name="a" type="2">

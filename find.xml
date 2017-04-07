@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'java-design-patterns'" />
-    <option name="defaultScopeName" value="Project 'java-design-patterns'" />
+    <option name="customScope" value="Project 'untitled'" />
+    <option name="defaultScopeName" value="Project 'untitled'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'java-design-patterns'" />
+    <option name="SEARCH_SCOPE" value="Project 'untitled'" />
   </component>
 </application>
