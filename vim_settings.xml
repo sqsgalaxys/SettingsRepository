@@ -71,6 +71,13 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/MyAudioPlayer.java" timestamp="1491632913148">
+        <mark key="'" line="5" column="1" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" timestamp="1491533059696">
         <mark key="'" line="17" column="31" />
         <mark key="[" line="16" column="45" />
@@ -84,6 +91,13 @@
         <mark key="]" line="11" column="60" />
         <mark key="^" line="11" column="60" />
         <mark key="." line="11" column="60" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/Myplayer.java" timestamp="1491633029230">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/OtherService.java" timestamp="1491536838860">
         <mark key="'" line="16" column="49" />
@@ -167,6 +181,13 @@
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/AudioPlayer.java" timestamp="1491632817534">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/UseOptionalInt.java" timestamp="1491615758765">
         <mark key="[" line="17" column="0" />
@@ -290,6 +311,13 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/VideoPlayer.java" timestamp="1491632943374">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" timestamp="1491522041981">
         <mark key="'" line="8" column="18" />
         <mark key="[" line="8" column="11" />
@@ -308,10 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="20" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/web/index.jsp" />
-      <jump line="33" column="27" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/main/java/InputBoxPromptInformationServlet.java" />
-      <jump line="31" column="7" filename="$USER_HOME$/Downloads/MeProjects/ajaxTest/pom.xml" />
-      <jump line="40" column="68" filename="$USER_HOME$/Downloads/MeProjects/mybatisExampleEx/src/main/java/cn/edu/bupt/wen/mapper/MyBatisTest.java" />
       <jump line="56" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" />
       <jump line="107" column="43" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
       <jump line="109" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
@@ -408,16 +432,20 @@
       <jump line="34" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/AudioPlayer.java" />
+      <jump line="2" column="10" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/VideoPlayer.java" />
+      <jump line="5" column="1" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/MyAudioPlayer.java" />
+      <jump line="13" column="22" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/Myplayer.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>audioType</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>audioType</text>
       </register>
       <register name="/" type="4">
         <text>0,</text>
@@ -426,7 +454,7 @@
         <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHN0ciA9IE9wdGlvbmFsLm9mKCJqYXZhMnMuY29tIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW57Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -440,28 +468,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICBAT3ZlcnJpZGUKICAgICBwdWJsaWMgdm9pZCBwbGF5QXVkaW8oU3RyaW5nIGZpbGVOYW1lKXsKICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNoYXBlUHJvdG9UeXBlLmxvYWRDYWNoZSgpOwoKICAgIFNoYXBlIGNsb25lZFNoYXBlID0gKFNoYXBlKSBTaGFwZVByb3RvVHlwZS5nZXRTaGFwZSgiMSIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJTaGFwZTogIiArIGNsb25lZFNoYXBlLmdldFR5cGUoKSk7CgoKICAgIFNoYXBlIGNsb25lZFNoYXBlMiA9IChTaGFwZSkgU2hhcGVQcm90b1R5cGUuZ2V0U2hhcGUoIjIiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU2hhcGU6ICIgKyBjbG9uZWRTaGFwZS5nZXRUeXBlKCkpOwoKCiAgICBTaGFwZSBjbG9uZWRTaGFwZTMgPSAoU2hhcGUpIFNoYXBlUHJvdG9UeXBlLmdldFNoYXBlKCIzIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNoYXBlOiAiICsgY2xvbmVkU2hhcGUuZ2V0VHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJQbGF5aW5nLiBOYW1lOiAiK2ZpbGVOYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgU2hhcGVQcm90b1R5cGUgewoKICBwcml2YXRlIHN0YXRpYyBIYXNodGFibGU8U3RyaW5nLCBTaGFwZT4gc2hhcGVNYXAKICAgICAgPSBuZXcgSGFzaHRhYmxlPFN0cmluZywgU2hhcGU+KCk7CgogIHB1YmxpYyBzdGF0aWMgU2hhcGUgZ2V0U2hhcGUoU3RyaW5nIHNoYXBlSWQpIHsKICAgIFNoYXBlIGNhY2hlZFNoYXBlID0gc2hhcGVNYXAuZ2V0KHNoYXBlSWQpOwogICAgcmV0dXJuIChTaGFwZSkgY2FjaGVkU2hhcGUuY2xvbmUoKTsKICB9CgogIHB1YmxpYyBzdGF0aWMgdm9pZCBsb2FkQ2FjaGUoKSB7CiAgICBDaXJjbGUgY2lyY2xlID0gbmV3IENpcmNsZSgpOwogICAgY2lyY2xlLnNldElkKCIxIik7CiAgICBzaGFwZU1hcC5wdXQoY2lyY2xlLmdldElkKCksIGNpcmNsZSk7CgoKICAgIFNxdWFyZSBzcXVhcmUgPSBuZXcgU3F1YXJlKCk7CiAgICBzcXVhcmUuc2V0SWQoIjIiKTsKICAgIHNoYXBlTWFwLnB1dChzcXVhcmUuZ2V0SWQoKSwgc3F1YXJlKTsKCgogICAgUmVjdGFuZ2xlIHJlY3RhbmdsZSA9IG5ldyBSZWN0YW5nbGUoKTsKICAgIHJlY3RhbmdsZS5zZXRJZCgiMyIpOwogICAgc2hhcGVNYXAucHV0KHJlY3RhbmdsZS5nZXRJZCgpLCByZWN0YW5nbGUpOwogIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2Fsc3MgTWFpbnsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluIChTdHJpbmdbXSBhcmdzKSB7CiAgICAgIFNoYXBlUHJvdG9UeXBlLmxvYWRDYWNoZSgpOwoKICAgICAgU2hhcGUgY2xvbmVkU2hhcGUgPSAoU2hhcGUpU2hhcGVQcm90b1R5cGUuZ2V0U2hhcGUoIjEiKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTaGFwZTogIitjbG9uZWRTaGFwZS5nZXRUeXBlKCkpOwoKCiAgICAgIFNoYXBlIGNsb25lZFNoYXBlMiA9IChTaGFwZSlTaGFwZVByb3RvVHlwZS5nZXRTaGFwZSgiMiIpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNoYXBlOiAiK2Nsb25lZFNoYXBlLmdldFR5cGUoKSk7CgoKICAgICAgU2hhcGUgY2xvbmVkU2hhcGUzID0gKFNoYXBlKVNoYXBlUHJvdG9UeXBlLmdldFNoYXBlKCIzIik7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU2hhcGU6ICIrY2xvbmVkU2hhcGUuZ2V0VHlwZSgpKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBsYXlpbmcuTmFtZToiK2ZpbGVOYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW57Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
