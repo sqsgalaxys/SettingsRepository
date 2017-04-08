@@ -71,6 +71,13 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="20" column="14" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/CompositePattern/Main.java" timestamp="1491646164499">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="47" column="22" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ClientTest.java" timestamp="1491536859939">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="31" />
@@ -360,10 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/MeMain/src/main/java/unzip/PhotoTaskService.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" />
-      <jump line="4" column="54" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/Main.java" />
-      <jump line="2" column="20" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ScreenPrinter.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ScreenPrinter.java" />
       <jump line="3" column="20" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/Main.java" />
       <jump line="18" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/Main.java" />
@@ -460,16 +463,20 @@
       <jump line="41" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FilterPattern/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FilterPattern/Main.java" />
       <jump line="171" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FilterPattern/Main.java" />
+      <jump line="2" column="6" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/CompositePattern/Main.java" />
+      <jump line="4" column="6" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/CompositePattern/Main.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/CompositePattern/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/CompositePattern/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
