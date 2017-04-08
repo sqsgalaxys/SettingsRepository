@@ -25,9 +25,6 @@
         <mark key="^" line="60" column="65" />
         <mark key="." line="60" column="65" />
       </file>
-      <file name="/a.dummy" timestamp="1491602637150">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="34" column="20" />
@@ -82,8 +79,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DAOPattern/Main.java" timestamp="1491668564022">
-        <mark key="[" line="6" column="19" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DAOPattern/Main.java" timestamp="1491670147274">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="66" />
+        <mark key="." line="35" column="66" />
+        <mark key="^" line="35" column="66" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/InterpreterPattern/Main.java" timestamp="1491664515642">
         <mark key="'" line="33" column="13" />
@@ -91,9 +91,6 @@
         <mark key="]" line="33" column="13" />
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Shape.java" timestamp="1491621897234">
-        <mark key="[" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/Main.java" timestamp="1491521434575">
         <mark key="'" line="20" column="17" />
@@ -421,9 +418,6 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491529708748">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Main.java" timestamp="1491622404004">
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="47" />
@@ -443,9 +437,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/CallRoll/ConcreteIterator.java" timestamp="1491528980968">
-        <mark key="[" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/Main.java" timestamp="1491527157330">
         <mark key="'" line="5" column="54" />
@@ -488,12 +479,8 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1491617167403">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
       <jump line="1" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/Main.java" />
       <jump line="32" column="22" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/BuilderPattern/Main.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/BuilderPattern/Main.java" />
@@ -593,16 +580,17 @@
       <jump line="41" column="41" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
       <jump line="23" column="27" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
       <jump line="8" column="10" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
+      <jump line="49" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DAOPattern/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRyZWUuVHJlZU5vZGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getId</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>getId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
