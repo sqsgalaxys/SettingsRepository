@@ -19,6 +19,15 @@
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ServiceEx.java" timestamp="1491569469812">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
+        <mark key="[" line="60" column="65" />
+        <mark key="]" line="60" column="65" />
+        <mark key="^" line="60" column="65" />
+        <mark key="." line="60" column="65" />
+      </file>
+      <file name="/a.dummy" timestamp="1491602637150">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="34" column="20" />
@@ -73,12 +82,18 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DAOPattern/Main.java" timestamp="1491668564022">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/InterpreterPattern/Main.java" timestamp="1491664515642">
         <mark key="'" line="33" column="13" />
         <mark key="[" line="33" column="56" />
         <mark key="]" line="33" column="13" />
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Shape.java" timestamp="1491621897234">
+        <mark key="[" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/Main.java" timestamp="1491521434575">
         <mark key="'" line="20" column="17" />
@@ -99,6 +114,12 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/TemplatePattern/Main.java" timestamp="1491667179240">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="49" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ShapeFactory.java" timestamp="1491527314366">
         <mark key="'" line="19" column="8" />
@@ -129,6 +150,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" timestamp="1491667850863">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/Commandpattern/Main.java" timestamp="1491661965712">
         <mark key="[" line="16" column="11" />
@@ -290,6 +318,12 @@
         <mark key="." line="46" column="23" />
         <mark key="^" line="46" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/NullObjectPattern/Main.java" timestamp="1491666091759">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/annotations/one/Computer.java" timestamp="1491541905916">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="19" />
@@ -324,12 +358,12 @@
         <mark key="^" line="49" column="28" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern/Main.java" timestamp="1491664636834">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern/Main.java" timestamp="1491665313242">
+        <mark key="'" line="6" column="3" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="42" column="29" />
+        <mark key="." line="31" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/MeHistory.java" timestamp="1491454128210">
         <mark key="[" line="10" column="22" />
@@ -387,6 +421,9 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
+      <file name="/Dummy.txt" timestamp="1491529708748">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Main.java" timestamp="1491622404004">
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="47" />
@@ -406,6 +443,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/CallRoll/ConcreteIterator.java" timestamp="1491528980968">
+        <mark key="[" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/FactoryPattern/Main.java" timestamp="1491527157330">
         <mark key="'" line="5" column="54" />
@@ -448,11 +488,11 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="32" column="8" />
       </file>
+      <file name="/fragment.java" timestamp="1491617167403">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
-      <jump line="2" column="6" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
       <jump line="7" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
       <jump line="1" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/Main.java" />
       <jump line="32" column="22" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/BuilderPattern/Main.java" />
@@ -550,16 +590,19 @@
       <jump line="16" column="16" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/list" />
       <jump line="33" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/InterpreterPattern/Main.java" />
       <jump line="9" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern/Main.java" />
+      <jump line="41" column="41" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
+      <jump line="23" column="27" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
+      <jump line="8" column="10" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRyZWUuVHJlZU5vZGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
@@ -568,7 +611,7 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEV4cHJlc3Npb24gc2VsZWN0ID0gbmV3IElzSW5FeHByZXNzaW9uKCJTZWxlY3QiKTsKICAgIEV4cHJlc3Npb24gZnJvbSA9IG5ldyBJc0luRXhwcmVzc2lvbigiRnJvbSIpOwogICAgRXhwcmVzc2lvbiBpc1NlbGVjdEZyb20gPSBuZXcgQW5kRXhwcmVzc2lvbihzZWxlY3QsZnJvbSk7CgoKICAgIEV4cHJlc3Npb24gaW5zZXJ0ID0gbmV3IElzSW5FeHByZXNzaW9uKCJJbnNlcnQiKTsKICAgIEV4cHJlc3Npb24gdXBkYXRlID0gbmV3IElzSW5FeHByZXNzaW9uKCJVcGRhdGUiKTsKICAgIEV4cHJlc3Npb24gaXNJbnNlcnRPclVwZGF0ZSA9IG5ldyBPckV4cHJlc3Npb24oaW5zZXJ0LHVwZGF0ZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKGlzU2VsZWN0RnJvbS5ldmFsdWF0ZSgiU2VsZWN0IikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGlzSW5zZXJ0T3JVcGRhdGUuZXZhbHVhdGUoIkluc2VydCIpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihpc1NlbGVjdEZyb20uZXZhbHVhdGUoIlNlbGVjdCBGcm9tIikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGlzSW5zZXJ0T3JVcGRhdGUuZXZhbHVhdGUoIlVwZGF0ZSIpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRyZWUuVHJlZU5vZGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,28 +625,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRyZWUuVHJlZU5vZGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
+        <text encoding="base64">ICAgIEV4cHJlc3Npb24gc2VsZWN0ID0gbmV3IElzSW5FeHByZXNzaW9uKCJTZWxlY3QiKTsKICAgIEV4cHJlc3Npb24gZnJvbSA9IG5ldyBJc0luRXhwcmVzc2lvbigiRnJvbSIpOwogICAgRXhwcmVzc2lvbiBpc1NlbGVjdEZyb20gPSBuZXcgQW5kRXhwcmVzc2lvbihzZWxlY3QsZnJvbSk7CgoKICAgIEV4cHJlc3Npb24gaW5zZXJ0ID0gbmV3IElzSW5FeHByZXNzaW9uKCJJbnNlcnQiKTsKICAgIEV4cHJlc3Npb24gdXBkYXRlID0gbmV3IElzSW5FeHByZXNzaW9uKCJVcGRhdGUiKTsKICAgIEV4cHJlc3Npb24gaXNJbnNlcnRPclVwZGF0ZSA9IG5ldyBPckV4cHJlc3Npb24oaW5zZXJ0LHVwZGF0ZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKGlzU2VsZWN0RnJvbS5ldmFsdWF0ZSgiU2VsZWN0IikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGlzSW5zZXJ0T3JVcGRhdGUuZXZhbHVhdGUoIkluc2VydCIpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihpc1NlbGVjdEZyb20uZXZhbHVhdGUoIlNlbGVjdCBGcm9tIikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGlzSW5zZXJ0T3JVcGRhdGUuZXZhbHVhdGUoIlVwZGF0ZSIpKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7fQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
