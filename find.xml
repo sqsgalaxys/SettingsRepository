@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Package java2s" />
-    <option name="defaultScopeName" value="Package java2s" />
+    <option name="customScope" value="Package java2s.gof.PrototypePattern" />
+    <option name="defaultScopeName" value="Package java2s.gof.PrototypePattern" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Package java2s" />
+    <option name="SEARCH_SCOPE" value="Package java2s.gof.PrototypePattern" />
   </component>
 </application>
