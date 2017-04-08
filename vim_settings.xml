@@ -73,6 +73,13 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/InterpreterPattern/Main.java" timestamp="1491664515642">
+        <mark key="'" line="33" column="13" />
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/Main.java" timestamp="1491521434575">
         <mark key="'" line="20" column="17" />
         <mark key="[" line="20" column="13" />
@@ -317,6 +324,13 @@
         <mark key="^" line="49" column="28" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern/Main.java" timestamp="1491664636834">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/MeHistory.java" timestamp="1491454128210">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="23" />
@@ -409,6 +423,12 @@
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseStream.java" timestamp="1491602503036">
         <mark key="'" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern.java" timestamp="1491664586587">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/Main.java" timestamp="1491640286761">
         <mark key="'" line="80" column="41" />
         <mark key="[" line="50" column="3" />
@@ -430,8 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="18" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" />
-      <jump line="9" column="30" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/FactoryProducer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
       <jump line="2" column="6" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
@@ -530,16 +548,18 @@
       <jump line="39" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
       <jump line="30" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
       <jump line="16" column="16" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/list" />
+      <jump line="33" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/InterpreterPattern/Main.java" />
+      <jump line="9" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
@@ -548,7 +568,7 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
+        <text encoding="base64">ICAgIEV4cHJlc3Npb24gc2VsZWN0ID0gbmV3IElzSW5FeHByZXNzaW9uKCJTZWxlY3QiKTsKICAgIEV4cHJlc3Npb24gZnJvbSA9IG5ldyBJc0luRXhwcmVzc2lvbigiRnJvbSIpOwogICAgRXhwcmVzc2lvbiBpc1NlbGVjdEZyb20gPSBuZXcgQW5kRXhwcmVzc2lvbihzZWxlY3QsZnJvbSk7CgoKICAgIEV4cHJlc3Npb24gaW5zZXJ0ID0gbmV3IElzSW5FeHByZXNzaW9uKCJJbnNlcnQiKTsKICAgIEV4cHJlc3Npb24gdXBkYXRlID0gbmV3IElzSW5FeHByZXNzaW9uKCJVcGRhdGUiKTsKICAgIEV4cHJlc3Npb24gaXNJbnNlcnRPclVwZGF0ZSA9IG5ldyBPckV4cHJlc3Npb24oaW5zZXJ0LHVwZGF0ZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKGlzU2VsZWN0RnJvbS5ldmFsdWF0ZSgiU2VsZWN0IikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGlzSW5zZXJ0T3JVcGRhdGUuZXZhbHVhdGUoIkluc2VydCIpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihpc1NlbGVjdEZyb20uZXZhbHVhdGUoIlNlbGVjdCBGcm9tIikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGlzSW5zZXJ0T3JVcGRhdGUuZXZhbHVhdGUoIlVwZGF0ZSIpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -567,23 +587,23 @@
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB7fQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIlNxdWFyZTo6ZHJhdygpIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
