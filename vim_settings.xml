@@ -111,6 +111,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/Commandpattern/Main.java" timestamp="1491661011401">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" timestamp="1491658906457">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="26" column="4" />
@@ -308,6 +314,13 @@
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" timestamp="1491660963555">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/domain/HasModel.java" timestamp="1491641433183" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/AccountService.java" timestamp="1491536080649">
         <mark key="'" line="9" column="21" />
@@ -371,8 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="19" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/AbstractFactory.java" />
-      <jump line="5" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/FactoryProducer.java" />
       <jump line="19" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" />
       <jump line="18" column="12" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ShapeFactory.java" />
       <jump line="0" column="12" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ShapeFactory.java" />
@@ -471,16 +482,18 @@
       <jump line="40" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DecoratorPattern/Main.java" />
       <jump line="12" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" />
       <jump line="26" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" />
+      <jump line="15" column="29" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
+      <jump line="8" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
       </register>
       <register name="-" type="4">
-        <text>@Override</text>
+        <text>Iterator();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
@@ -488,8 +501,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -503,28 +516,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIlNxdWFyZTo6ZHJhdygpIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9U3lzdGVtLm91dC5wcmludGxuKCJTcXVhcmU6OmRyYXcoKSIpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIlNxdWFyZTo6ZHJhdygpIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9U3lzdGVtLm91dC5wcmludGxuKCJTcXVhcmU6OmRyYXcoKSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUmVjdGFuZ2xlOjpkcmF3KCkiKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByaW50ZXIgcGxhc3RpY1ByaW50ZXIgPSBuZXcgUGxhc3RpY1ByaW50ZXIoKTsKICAgIFByaW50ZXIgcGxhc3RpYzNEUHJpbnRlciA9IG5ldyBQcmludGVyM0QobmV3IFBsYXN0aWNQcmludGVyKCkpOwogICAgUHJpbnRlciBwYXBlcjNEUHJpbnRlciA9IG5ldyBQcmludGVyM0QobmV3IFBhcGVyUHJpbnRlcigpKTsKICAgIHBsYXN0aWNQcmludGVyLnByaW50KCk7CiAgICBwbGFzdGljM0RQcmludGVyLnByaW50KCk7CiAgICBwYXBlcjNEUHJpbnRlci5wcmludCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
