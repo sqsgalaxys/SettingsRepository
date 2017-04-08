@@ -3,12 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/MainExss.java" timestamp="1491603062088">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/CreateStreamsFromSingleManyValue.java" timestamp="1491615573097">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ServiceEx.java" timestamp="1491569469812">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/serverSocketExample/ClientEx.java" timestamp="1491465112738">
         <mark key="'" line="56" column="0" />
@@ -98,6 +107,9 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStreamExs.java" timestamp="1491603067145">
+        <mark key="'" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/AdapterPattern/AudioPlayer.java" timestamp="1491632817534">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="3" column="37" />
@@ -111,11 +123,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/Commandpattern/Main.java" timestamp="1491661011401">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/Commandpattern/Main.java" timestamp="1491661965712">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="41" column="1" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="41" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" timestamp="1491658906457">
         <mark key="'" line="26" column="4" />
@@ -128,6 +140,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/Test.java" timestamp="1491569464551">
+        <mark key="'" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/MainEx.java" timestamp="1491602489911">
         <mark key="[" line="2" column="16" />
@@ -146,6 +161,13 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" timestamp="1491662770026">
+        <mark key="'" line="29" column="17" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/InboxTestMain.java" timestamp="1491541672844">
         <mark key="'" line="10" column="0" />
@@ -189,6 +211,9 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseFor.java" timestamp="1491602551003">
+        <mark key="'" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491454121042">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="21" />
@@ -214,6 +239,9 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStreamEx.java" timestamp="1491602655659">
+        <mark key="'" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomNumberFromArray.java" timestamp="1491513423695">
         <mark key="'" line="13" column="0" />
@@ -295,6 +323,15 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/list" timestamp="1491663717159">
+        <mark key="'" line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ThreadA.java" timestamp="1491569375957">
+        <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStream.java" timestamp="1491602587431">
+        <mark key="'" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/InputBoxPromptInformationServlet.java" timestamp="1491447291951">
         <mark key="[" line="38" column="38" />
         <mark key="]" line="38" column="37" />
@@ -369,6 +406,9 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseStream.java" timestamp="1491602503036">
+        <mark key="'" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/Main.java" timestamp="1491640286761">
         <mark key="'" line="80" column="41" />
         <mark key="[" line="50" column="3" />
@@ -382,11 +422,14 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MediatorPattern/Main.java" timestamp="1491663202284">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="8" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="32" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" />
-      <jump line="18" column="12" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ShapeFactory.java" />
-      <jump line="0" column="12" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/ShapeFactory.java" />
       <jump line="8" column="18" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" />
       <jump line="9" column="30" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/FactoryProducer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/SingletonPattern/MainWindom.java" />
@@ -484,16 +527,19 @@
       <jump line="26" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" />
       <jump line="15" column="29" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
       <jump line="8" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
+      <jump line="30" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
+      <jump line="16" column="16" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/list" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi77+977+977+977+977+90b/vv70s77+93rfvv73vv73vv73vv73vv70hIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Iterator();</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
@@ -501,8 +547,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -516,28 +562,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7fQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y2xhc3MgTmFtZWl0ZXJhdG9yIGltcGxlbWVudHMgSXRlcmF0b3IgewogIGludCBpbmRleDsKICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCl7CiAgICBpZihpbmRleCA8bmFtZXMubGVuZ3RoKXsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgT2JqZWN0IG5leHQoKXsKICAgIGlmKHRoaXMuaGFzTmV4dCgpKXsKICAgICAgcmV0dXJuIG5hbWVzW2luZGV4KytdCiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIlNxdWFyZTo6ZHJhdygpIik7Cg==</text>
+        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIkNpcmNsZTo6ZHJhdygpIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9U3lzdGVtLm91dC5wcmludGxuKCJTcXVhcmU6OmRyYXcoKSIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oIlNxdWFyZTo6ZHJhdygpIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".ReturnQuery.java.swp" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="springmvc-config" type="XML" />
     </extensionMap>
