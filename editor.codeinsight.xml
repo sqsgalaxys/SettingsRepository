@@ -1,6 +1,8 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_FILE_HEADER" value="false" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
