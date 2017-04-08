@@ -3,21 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/MainExss.java" timestamp="1491603062088">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/CreateStreamsFromSingleManyValue.java" timestamp="1491615573097">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ServiceEx.java" timestamp="1491569469812">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1491602637150">
         <mark key="[" line="0" column="0" />
@@ -48,9 +39,6 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseFor.java" timestamp="1491602551003">
-        <mark key="'" line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491454121042">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="21" />
@@ -64,13 +52,6 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="63" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamTrean.java" timestamp="1491602982054">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="10" column="1" />
@@ -83,9 +64,6 @@
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStreamEx.java" timestamp="1491602655659">
-        <mark key="'" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" timestamp="1491533059696">
         <mark key="'" line="17" column="31" />
@@ -174,9 +152,6 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStreamExs.java" timestamp="1491603067145">
-        <mark key="'" line="4" column="35" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="3" />
@@ -201,12 +176,6 @@
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/ThreadA.java" timestamp="1491569375957">
-        <mark key="'" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStream.java" timestamp="1491602587431">
-        <mark key="'" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/InputBoxPromptInformationServlet.java" timestamp="1491447291951">
         <mark key="[" line="38" column="38" />
@@ -237,9 +206,6 @@
       <file name="/Dummy.txt" timestamp="1491529708748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/synchronized/test/Test.java" timestamp="1491569464551">
-        <mark key="'" line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/MainExs.java" timestamp="1491602579639">
         <mark key="'" line="8" column="20" />
         <mark key="[" line="2" column="13" />
@@ -252,6 +218,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/OptionalIfPresent.java" timestamp="1491616967647">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/OptionalNonNull.java" timestamp="1491610663797">
         <mark key="'" line="9" column="9" />
@@ -277,21 +249,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamType.java" timestamp="1491602649547">
-        <mark key="'" line="8" column="25" />
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomNumberBetweenMultipleRanges.java" timestamp="1491429241974">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="31" column="25" />
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="62" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseStream.java" timestamp="1491602503036">
-        <mark key="'" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" timestamp="1491522041981">
         <mark key="'" line="8" column="18" />
@@ -306,7 +268,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1491536665429">
+      <file name="/fragment.java" timestamp="1491617167403">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
