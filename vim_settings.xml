@@ -449,6 +449,13 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" timestamp="1491776733223">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="52" />
+        <mark key="." line="62" column="52" />
+        <mark key="^" line="62" column="52" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/AbstractFactory/PrinterFactory.java" timestamp="1491522041981">
         <mark key="'" line="8" column="18" />
         <mark key="[" line="8" column="11" />
@@ -477,9 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" />
-      <jump line="17" column="31" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/gof/MyMobie.java" />
-      <jump line="38" column="37" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Main.java" />
       <jump line="9" column="21" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/AccountService.java" />
       <jump line="21" column="50" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/StandardService.java" />
@@ -577,6 +581,9 @@
       <jump line="5" column="38" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/stream/StreamIterate.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/stream/StreamIterate.java" />
       <jump line="8" column="53" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/stream/StreamIterate.java" />
+      <jump line="31" column="31" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
+      <jump line="68" column="15" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
+      <jump line="9" column="15" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -593,20 +600,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Main</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZW1wb2x5ZWVzLmFkZChuZXcgRW1wb2x5ZWUoIkx1Y3kiLDEpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>Lucy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Stream.iterate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZW1wb2x5ZWVzLmFkZCgiTHVjeSIsMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSYWJiaXRTZXJpZXMuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">ICAgICAgZW1wb2x5ZWVzLmFkZChuZXcgRW1wb2x5ZWUoIkx1Y3kiLDEpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -620,52 +627,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW08TG9uZz4gUmFiYml0U2VyaWVzID0gU3RyZWFtLml0ZXJhdGUoMkwsIG4gLT4gKG4tMSkgKyAobi0yKSkubGltaXQoMTApOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVtcG9seWVlcy5hZGQoKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiTnVsbE9iamVjdFBhdHRlcm4iLAo=</text>
+        <text encoding="base64">ICAgIEVtcG9seWVlRGFvSW1wbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGVtcG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgIGVtCg==</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;      AbstractFactory&quot;,
-&quot;          AdapterPattern&quot;,
-&quot;      BridgePattern&quot;,
-&quot;          BuilderPattern&quot;,
-&quot;      ChainOfResponsibility&quot;,
-&quot;          Commandpattern&quot;,
-&quot;      CompositePattern&quot;,
-&quot;          DecoratorPattern&quot;,
-&quot;      FacadePattern&quot;,
-&quot;          FactoryPattern&quot;,
-&quot;      FilterPattern&quot;,
-
-      IteratorPattern
-          MediatorPattern
-      NullObjectPattern
-          ObserverPattern
-      PrototypePattern
-          ProxyPattern
-      SingletonPattern
-          StatePattern
-      Strategy
-          TemplatePattern
-      VisitorPattern
-          MVCPattern
-      DAOPattern</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIHN1cGVyLnRvU3RyaW5nKCk7CiAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewpBYnN0cmFjdEZhY3RvcnkKQWRhcHRlclBhdHRlcm4KQnJpZGdlUGF0dGVybgpCdWlsZGVyUGF0dGVybgpDaGFpbk9mUmVzcG9uc2liaWxpdHkKQ29tbWFuZHBhdHRlcm4KQ29tcG9zaXRlUGF0dGVybgpEZWNvcmF0b3JQYXR0ZXJuCkZhY2FkZVBhdHRlcm4KRmFjdG9yeVBhdHRlcm4KRmlsdGVyUGF0dGVybgpJbnRlcnByZXRlclBhdHRlcm4KSXRlcmF0b3JQYXR0ZXJuCk1lZGlhdG9yUGF0dGVybgpOdWxsT2JqZWN0UGF0dGVybgpPYnNlcnZlclBhdHRlcm4KUHJvdG90eXBlUGF0dGVybgpQcm94eVBhdHRlcm4KU2luZ2xldG9uUGF0dGVybgpTdGF0ZVBhdHRlcm4KU3RyYXRlZ3kKVGVtcGxhdGVQYXR0ZXJuClZpc2l0b3JQYXR0ZXJuCk1WQ1BhdHRlcm4KREFPUGF0dGVybgp9Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgc2VsZWN0IChFbXBvbHllZSBlbXBvbHllZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
