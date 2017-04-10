@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Selected Files" />
-    <option name="defaultScopeName" value="Selected Files" />
+    <option name="customScope" value="Project 'EBP'" />
+    <option name="defaultScopeName" value="Project 'EBP'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected Files" />
+    <option name="SEARCH_SCOPE" value="Project 'EBP'" />
   </component>
 </application>
