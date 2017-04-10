@@ -193,18 +193,17 @@
         <mark key="^" line="39" column="32" />
         <mark key="." line="39" column="32" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/filter/LoginFilter.java" timestamp="1491808319962" />
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/applicationContext.xml" timestamp="1491812263443">
-        <mark key="[" line="49" column="58" />
-        <mark key="]" line="30" column="57" />
-        <mark key="." line="30" column="57" />
-        <mark key="^" line="30" column="57" />
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/applicationContext.xml" timestamp="1491813719042">
+        <mark key="[" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/AdminUser.java" timestamp="1491803748685">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/target/classes/applicationContext.xml" timestamp="1491813764127">
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
         <mark key="[" line="8" column="4" />
