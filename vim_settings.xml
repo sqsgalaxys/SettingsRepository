@@ -25,11 +25,11 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/TicketMapper.xml" timestamp="1491834564535">
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="^" line="12" column="49" />
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/TicketMapper.xml" timestamp="1491842128913">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/src/main/java/Main.java" timestamp="1491453635151">
         <mark key="[" line="10" column="22" />
@@ -79,11 +79,11 @@
         <mark key="." line="35" column="66" />
         <mark key="^" line="35" column="66" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" timestamp="1491834542507">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="64" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="23" />
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" timestamp="1491841723897">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
         <mark key="[" line="5" column="13" />
@@ -145,18 +145,21 @@
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/target/classes/applicationContext.xml" timestamp="1491813764127">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" timestamp="1491835367332">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="64" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="20" column="64" />
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" timestamp="1491842121408">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="138" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/PageBean.java" timestamp="1491842123965">
+        <mark key="'" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/UseOptionalInt.java" timestamp="1491615758765">
         <mark key="[" line="17" column="0" />
@@ -215,12 +218,12 @@
       <file name="/HTML File.txt.ft" timestamp="1491809444743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/dao/TicketMapper.java" timestamp="1491834002394">
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/dao/TicketMapper.java" timestamp="1491841273166">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/cn/edu/bupt/wen/controller/IndexController.java" timestamp="1491450342961">
         <mark key="[" line="5" column="0" />
@@ -228,7 +231,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1491834684568">
+      <file name="/dummy.sql" timestamp="1491840046121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Main.java" timestamp="1491622404004">
@@ -237,10 +240,12 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/Ticket.java" timestamp="1491812673216">
-        <mark key="'" line="102" column="20" />
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/Ticket.java" timestamp="1491838110343">
+        <mark key="'" line="15" column="19" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491814577817">
+      <file name="/Dummy.txt" timestamp="1491838602960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/adminTicket.js" timestamp="1491830337445">
@@ -302,11 +307,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" timestamp="1491835702383">
-        <mark key="'" line="120" column="12" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="8" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" timestamp="1491842200570">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="185" column="33" />
+        <mark key="]" line="185" column="33" />
+        <mark key="^" line="179" column="50" />
+        <mark key="." line="185" column="36" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/src/main/java/HttpAsyncClientTest.java" timestamp="1491453688350">
         <mark key="[" line="9" column="0" />
@@ -323,33 +329,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1491834774218">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/admincommon.js" timestamp="1491809103364">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1491834658242">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="32" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStream.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamType.java" />
-      <jump line="8" column="25" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamType.java" />
-      <jump line="4" column="34" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStreamEx.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamTrean.java" />
-      <jump line="9" column="12" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamTrean.java" />
-      <jump line="10" column="19" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/StreamTrean.java" />
-      <jump line="4" column="35" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/SumUseParallelStreamExs.java" />
-      <jump line="9" column="9" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/OptionalNonNull.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/CreateStreamsFromSingleManyValue.java" />
-      <jump line="4" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/CreateStreamsFromSingleManyValue.java" />
-      <jump line="7" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/stream/test/UseStreamOptional.java" />
-      <jump line="2" column="14" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Circle.java" />
-      <jump line="3" column="21" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Circle.java" />
-      <jump line="3" column="23" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Rectangle.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
-      <jump line="2" column="6" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Rectangle.java" />
       <jump line="29" column="15" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/ShapeProtoType.java" />
@@ -433,6 +417,23 @@
       <jump line="25" column="14" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
       <jump line="120" column="12" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
       <jump line="19" column="38" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
+      <jump line="166" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
+      <jump line="113" column="15" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
+      <jump line="106" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
+      <jump line="38" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
+      <jump line="15" column="19" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/Ticket.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" />
+      <jump line="38" column="31" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" />
+      <jump line="40" column="38" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" />
+      <jump line="41" column="20" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" />
+      <jump line="24" column="35" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/TicketMapper.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/TicketMapper.xml" />
+      <jump line="26" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/TicketMapper.xml" />
+      <jump line="44" column="4" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
+      <jump line="57" column="2" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
+      <jump line="19" column="16" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/PageBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -449,20 +450,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getCitys.action</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>getCitys.action</text>
       </register>
       <register name="/" type="4">
-        <text>d\.</text>
+        <text>City</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiU3RyaW5nIGRlZmF1bHRWYWx1ZSgpIGRlZmF1bHQgXG5cdFx0XG5cdFx0XG5cdWUwMDBcdWUwMDFcdWUwMDJcblx0XHRcdFx0XG4vIik7Cg==</text>
+        <text encoding="base64">ICAgIG12LmFkZE9iamVjdCgicGFnZUJlYW4iLCB0aWNrZXRTZXJ2aWNlLmdldFRpY2tldHNQYWdpbmcoY3VycmVudFBhZ2UscGFnZVNpemUscmVjb3JkQ291bnQpKTsKICAgIG12LnNldFZpZXdOYW1lKCJhZG1pbi9hZG1pblRpY2tldCIpOwogICAgcmV0dXJuIG12Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -476,37 +477,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHRhYmxlPgo=</text>
+        <text encoding="base64">Z3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2cuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEFHID0gIkFkbWluVGlja2V0Q29udHJvbGxlciI7Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgidGlja2V0TGlzdCIsIHRpY2tldHNGcm9tVGltZVJhbmdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nLigi5rWL6K+VIik7Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgidGlja2V0TGlzdCIsIHRpY2tldHNGcm9tVGltZVJhbmdlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2cuCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJAQCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoueG1sLkRPTUNvbmZpZ3VyYXRvcjsK</text>
+        <text encoding="base64">ICAgIExpc3Q8VGlja2V0PiB0aWNrZXRMaXN0ID0gdGlja2V0U2VydmljZS5nZXRBbGxUaWNrZXRzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouUHJvcGVydHlDb25maWd1cmF0b3I7Cg==</text>
+        <text encoding="base64">ICBAUmVxdWVzdE1hcHBpbmcodmFsdWU9Ii9nZXRDaXR5cy5hY3Rpb24iKQogIHB1YmxpYyBNb2RlbEFuZFZpZXcgZ2V0Q2l0eXMoSW50ZWdlciBjdXJyZW50UGFnZSwgSW50ZWdlciBwYWdlU2l6ZSwgSW50ZWdlciByZWNvcmRDb3VudCl7CiAgICBpZiAoY3VycmVudFBhZ2U9PW51bGwgfHwgY3VycmVudFBhZ2U8PTApIGN1cnJlbnRQYWdlPTE7CiAgICBpZihwYWdlU2l6ZT09bnVsbClwYWdlU2l6ZT0xMDsKICAgIGlmKHJlY29yZENvdW50PT1udWxsKXJlY29yZENvdW50PTA7CiAgICBNb2RlbEFuZFZpZXcgbXY9bmV3IE1vZGVsQW5kVmlldygpOwogICAgbXYuYWRkT2JqZWN0KCJwYWdlQmVhbiIsIHRpY2tldFNlcnZpY2UuZ2V0VGlja2V0c1BhZ2luZyhjdXJyZW50UGFnZSxwYWdlU2l6ZSxyZWNvcmRDb3VudCkpOwogICAgbXYuc2V0Vmlld05hbWUoImFkbWluL2FkbWluVGlja2V0Iik7CiAgICByZXR1cm4gbXY7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>d\.</last-search>
+      <last-search>City</last-search>
       <last-offset />
-      <last-pattern>d\.</last-pattern>
+      <last-pattern>City</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -514,10 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRNb3JlQ29udGVudHNcPg==</entry>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
-        <entry encoding="base64">XDxDb3VudFw+</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZWRcPg==</entry>
         <entry encoding="base64">XDxtb3VzZU92ZXJcPg==</entry>
         <entry>log.</entry>
         <entry encoding="base64">XDxVc2VyUGhvdG9cPg==</entry>
@@ -534,6 +531,10 @@
         <entry>d.</entry>
         <entry>\d.</entry>
         <entry>d\.</entry>
+        <entry>forea</entry>
+        <entry>table</entry>
+        <entry>forEach</entry>
+        <entry>City</entry>
       </history-search>
       <history-cmd>
         <entry>sort</entry>
