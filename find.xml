@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Package java2s.gof.AdapterPattern" />
-    <option name="defaultScopeName" value="Package java2s.gof.AdapterPattern" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="customScope" value="Selected Files" />
+    <option name="defaultScopeName" value="Selected Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Package java2s.gof.AdapterPattern" />
+    <option name="SEARCH_SCOPE" value="Selected Files" />
   </component>
 </application>
