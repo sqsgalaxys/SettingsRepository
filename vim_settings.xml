@@ -227,6 +227,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/AdminUser.java" timestamp="1491803748685">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/TemplatePattern/Main.java" timestamp="1491667179240">
         <mark key="[" line="49" column="24" />
         <mark key="]" line="49" column="24" />
@@ -613,20 +619,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVhbHNJZ25vcmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1c2VybmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -640,28 +646,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJpbnRlci5wcmludCgpOwo=</text>
+        <text encoding="base64">Y2wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgIHZvaWQgcHJpbnQoKXsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiM0QgcHJpbnRlciIpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJpbnRlci5wcmludCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgIHZvaWQgcHJpbnQoKXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiM0QgcHJpbnRlciIpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBwcmludCgpIHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
