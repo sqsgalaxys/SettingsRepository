@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Present" />
       <item value="puml" />
       <item value="bald" />
       <item value="bow" />
@@ -50,7 +51,6 @@
       <item value="considered" />
       <item value="hierarchy" />
       <item value="inception Year" />
-      <item value="after Properties Set" />
     </histories>
   </component>
 </application>
