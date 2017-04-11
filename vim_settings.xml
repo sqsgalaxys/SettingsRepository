@@ -15,6 +15,13 @@
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" timestamp="1491916869475">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
         <mark key="[" line="60" column="65" />
         <mark key="]" line="60" column="65" />
@@ -139,7 +146,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Optional.java" timestamp="1491887216338" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ex5Main.java" timestamp="1491916594007">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/ClassroomPractice/AdapterPatternPractice/ClientTest.java" timestamp="1491536859939">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="31" />
@@ -351,9 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" />
-      <jump line="26" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/FacadePattern/Main.java" />
-      <jump line="15" column="29" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
       <jump line="8" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
       <jump line="30" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
@@ -451,6 +461,9 @@
       <jump line="221" column="27" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
       <jump line="181" column="6" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
       <jump line="67" column="32" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
+      <jump line="16" column="25" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ex5Main.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
+      <jump line="20" column="33" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,10 +481,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>admin</text>
+        <text>ArrayList</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>ArrayList</text>
       </register>
       <register name="/" type="4">
         <text>nable</text>
@@ -480,7 +493,7 @@
         <text encoding="base64">bG9nZ2VyLmluZm8oIkBAIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vZGVsQW5kVmlldyBtdiA9IG5ldyBNb2RlbEFuZFZpZXcoKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBmaWxlTmFtZSA9ICIvVXNlcnMvc3FzZ2FsYXh5cy9Eb2N1bWVudHMvT25lRHJpdmUvVklNL29uZXRhYiI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -494,31 +507,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtdjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9kZWwgbW9kZWwsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBsb2dnZXIuaW5mbygiQEAiKTsKICAgIGxvZ2dlci5kZWJ1ZygiQEAiKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIHRpdGxlID0gaHRtbHZpc2l0b3IuZ2V0VGl0bGUoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgSHRtbFBhZ2UgaHRtbHZpc2l0b3IgPSBuZXcgSHRtbFBhZ2UobXlQYXJzZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdHJpbmcgZGVmYXVsdFZhbHVlKCkgZGVmYXVsdCBcdWUwMDBcdWUwMDFcdWUwMDIvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgUGFyc2VyID0gUGFyc2VyLmNyZWF0ZVBhcnNlcihzYi50b1N0cmluZygpLCAiR0JLIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiQEAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>20</text>
       </register>
     </registers>
     <search>
@@ -563,7 +576,6 @@
         <entry>34</entry>
         <entry>t9</entry>
         <entry encoding="base64">JzwsJz50MjU=</entry>
-        <entry>20</entry>
         <entry>reg</entry>
         <entry>open .</entry>
         <entry>32</entry>
@@ -574,6 +586,7 @@
         <entry>wq</entry>
         <entry>E</entry>
         <entry>w</entry>
+        <entry>20</entry>
       </history-cmd>
       <history-expr />
       <history-input />
