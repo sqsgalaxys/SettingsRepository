@@ -9,11 +9,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/stream/StreamExample.java" timestamp="1491888080059">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/stream/StreamExample.java" timestamp="1491888740633">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
         <mark key="[" line="60" column="65" />
@@ -463,10 +463,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtXD4=</text>
