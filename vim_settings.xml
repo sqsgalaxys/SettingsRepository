@@ -15,12 +15,12 @@
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" timestamp="1491916869475">
-        <mark key="'" line="20" column="33" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" timestamp="1491945669374">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="41" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
         <mark key="[" line="60" column="65" />
@@ -64,6 +64,12 @@
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" timestamp="1491948722574">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
@@ -145,6 +151,9 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1491948655165">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ex5Main.java" timestamp="1491916594007">
         <mark key="'" line="17" column="25" />
@@ -364,14 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/IteratorPattern/Main.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
-      <jump line="30" column="17" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/ObserverPattern/Main.java" />
-      <jump line="16" column="16" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/list" />
-      <jump line="33" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/InterpreterPattern/Main.java" />
-      <jump line="9" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/StatePattern/Main.java" />
-      <jump line="41" column="41" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
-      <jump line="23" column="27" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
       <jump line="8" column="10" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/VisitorPattern/Main.java" />
       <jump line="49" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DAOPattern/Main.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/list" />
@@ -464,6 +465,14 @@
       <jump line="16" column="25" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ex5Main.java" />
       <jump line="8" column="13" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
       <jump line="20" column="33" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" />
+      <jump line="34" column="21" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -480,20 +489,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ArrayList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList</text>
+        <text>if(computerDraw==gesture.getType())</text>
       </register>
       <register name="/" type="4">
         <text>nable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oIkBAIik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGhvdyB0byBnZXQgcmFuZG9tIGxldHRlcnMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBmaWxlTmFtZSA9ICIvVXNlcnMvc3FzZ2FsYXh5cy9Eb2N1bWVudHMvT25lRHJpdmUvVklNL29uZXRhYiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,31 +516,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSBjaGFyIHZvaWQgcGlja1JhbmRvbShjaGFyLi4uIGxldHRlcnMpewogICAgICBSYW5kb20gciA9IG5ldyBSYW5kb20oKTsKICAgIHJldHVybiBsZXR0ZXJzW3IubmV4dEludChsZXR0ZXJzLmxlbmd0aCldfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC8vIDYxMjEwNzA0NDAzMzU2NDY1Mzc0MDIzMjAwNjQ5NTA4NjQ5OTAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIDEwMjk0MDM2NjE0MDY2MjM2MjkwNzIwMTM3NzUzNjM4NDkxMDUyCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHRpdGxlID0gaHRtbHZpc2l0b3IuZ2V0VGl0bGUoKTsK</text>
+        <text encoding="base64">ICAgIGkrKzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSHRtbFBhZ2UgaHRtbHZpc2l0b3IgPSBuZXcgSHRtbFBhZ2UobXlQYXJzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUGFyc2VyID0gUGFyc2VyLmNyZWF0ZVBhcnNlcihzYi50b1N0cmluZygpLCAiR0JLIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>20</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -585,8 +594,8 @@
         <entry>22</entry>
         <entry>wq</entry>
         <entry>E</entry>
-        <entry>w</entry>
         <entry>20</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
