@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../src/main/webapp/admin/adminTicket.jsp - [EBP]'" />
-    <option name="defaultScopeName" value="File '.../src/main/webapp/admin/adminTicket.jsp - [EBP]'" />
+    <option name="customScope" value="Directory '... - [EBP]'" />
+    <option name="defaultScopeName" value="Directory '... - [EBP]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/webapp/admin/adminTicket.jsp - [EBP]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... - [EBP]'" />
   </component>
 </application>
