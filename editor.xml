@@ -19,4 +19,7 @@
       <option name="EFFECT_TYPE" value="5" />
     </pattern>
   </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>
