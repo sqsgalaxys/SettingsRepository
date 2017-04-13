@@ -205,6 +205,12 @@
       <file name="/Clipboard.txt" timestamp="1491948655165">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Works/盈佳/EBP-1/pom.xml" timestamp="1492074400941">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ex5Main.java" timestamp="1491916594007">
         <mark key="'" line="17" column="25" />
         <mark key="[" line="8" column="13" />
@@ -580,17 +586,17 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${srping.version}</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>${srping.version}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>listCriterialsAdminOrder</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPHNycGluZy52ZXJzaW9uPjQuMC4yLlJFTEVBU0U8L3NycGluZy52ZXJzaW9uPiAgLS0+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
