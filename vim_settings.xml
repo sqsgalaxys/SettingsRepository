@@ -104,7 +104,8 @@
         <mark key="." line="76" column="5" />
         <mark key="^" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" timestamp="1492245072550">
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" timestamp="1492252436346">
+        <mark key="'" line="49" column="46" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -500,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="24" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminUser.jsp" />
       <jump line="15" column="29" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/TimeUtils.java" />
       <jump line="33" column="2" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/TimeUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/TimeUtils.java" />
@@ -600,6 +600,7 @@
       <jump line="136" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
       <jump line="66" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
+      <jump line="49" column="46" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,7 +624,7 @@
         <text encoding="base64">IGFzYmM=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1ByZWNpc2lvblw+</text>
+        <text>;\.{2,}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3Bhc3N3b3JkPXhpYXh1bnd1MTk5Ni4K</text>
@@ -671,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja1ByZWNpc2lvblw+</last-search>
+      <last-search>;\.{2,}</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1ByZWNpc2lvblw+</last-pattern>
+      <last-pattern>;\.{2,}</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -681,8 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
-        <entry encoding="base64">Pmlu</entry>
         <entry>span</entry>
         <entry encoding="base64">XDxseV9kZXBhcnRtZW50XD4=</entry>
         <entry encoding="base64">XDxsaWRcPg==</entry>
@@ -701,6 +700,8 @@
         <entry encoding="base64">XDxhZGRUaWNrZXRcPg==</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry encoding="base64">XDxjaGVja1ByZWNpc2lvblw+</entry>
+        <entry>ig</entry>
+        <entry>;\.{2,}</entry>
       </history-search>
       <history-cmd>
         <entry>sort</entry>
