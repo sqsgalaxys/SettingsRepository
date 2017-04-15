@@ -104,12 +104,10 @@
         <mark key="." line="76" column="5" />
         <mark key="^" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" timestamp="1492240298663">
-        <mark key="'" line="66" column="4" />
-        <mark key="[" line="137" column="65" />
-        <mark key="]" line="138" column="15" />
-        <mark key="^" line="138" column="15" />
-        <mark key="." line="138" column="15" />
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" timestamp="1492245072550">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
@@ -619,7 +617,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNNb25leVN0cmluZ0J1ZmZlci5yZXBsYWNlKGluZGV4T2ZEb3QsIGluZGV4T2ZEb3QgKyAxLCBZVUFOKTt9Cg==</text>
+        <text encoding="base64">cGFja2FnZSB0ZXN0LmZvcm1hdDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGFzYmM=</text>
@@ -631,7 +629,7 @@
         <text encoding="base64">I3Bhc3N3b3JkPXhpYXh1bnd1MTk5Ni4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNNb25leVN0cmluZ0J1ZmZlci5yZXBsYWNlKGluZGV4T2ZEb3QsIGluZGV4T2ZEb3QgKyAxLCBZVUFOKTt9Cg==</text>
+        <text encoding="base64">cGFja2FnZSB0ZXN0LmZvcm1hdDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,22 +643,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGNNb25leVN0cmluZ0J1ZmZlci5yZXBsYWNlKGluZGV4T2ZEb3QsIGluZGV4T2ZEb3QgKyAxLCBZVUFOKTt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IGNNb25leVN0cmluZ0J1ZmZlci5yZXBsYWNlKGluZGV4T2ZEb3QsIGluZGV4T2ZEb3QgKyAxLCBZVUFOKTsgYXNiYwogCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAogc2RsZmphbGRzamZsYWtkCiA7Cg==</text>
+        <text encoding="base64">IGNNb25leVN0cmluZ0J1ZmZlci5yZXBsYWNlKGluZGV4T2ZEb3QsIGluZGV4T2ZEb3QgKyAxLCBZVUFOKTsgYXNiYwogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXNkamZsYWoK</text>
+        <text encoding="base64">IAogc2RsZmphbGRzamZsYWtkCiA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAogCiAKIAogCiAKIAo=</text>
+        <text encoding="base64">YXNkamZsYWoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
