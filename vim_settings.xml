@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/pom.xml" timestamp="1492177425297">
         <mark key="[" line="144" column="25" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Excalibur.java" timestamp="1492264867796">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="5" />
+        <mark key="." line="38" column="5" />
+        <mark key="^" line="34" column="77" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
         <mark key="[" line="60" column="65" />
         <mark key="]" line="60" column="65" />
@@ -103,6 +109,9 @@
         <mark key="]" line="76" column="5" />
         <mark key="." line="76" column="5" />
         <mark key="^" line="76" column="5" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" timestamp="1492263727297">
+        <mark key="'" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
@@ -309,6 +318,7 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Downloads/GitClone/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/FlyingMagicWeapon.java" timestamp="1492264936277" />
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/User.java" timestamp="1492135667339">
         <mark key="'" line="32" column="7" />
         <mark key="[" line="12" column="0" />
@@ -321,11 +331,6 @@
         <mark key="]" line="41" column="1" />
         <mark key="^" line="40" column="0" />
         <mark key="." line="41" column="1" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/dao/UserMapper.java" timestamp="1492136764955">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ajaxTest/src/InputBoxPromptInformationServlet.java" timestamp="1491447291951">
         <mark key="[" line="38" column="38" />
@@ -495,8 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/TimeUtils.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/util/TimeUtils.java" />
       <jump line="31" column="4" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminUserController.java" />
       <jump line="25" column="136" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminUserController.java" />
       <jump line="24" column="17" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/TicketService.java" />
@@ -595,6 +598,8 @@
       <jump line="49" column="46" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
       <jump line="133" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
       <jump line="135" column="3" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
+      <jump line="36" column="4" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,13 +617,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>Excalibur.class</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Excalibur.class</text>
       </register>
       <register name="/" type="4">
-        <text>;\.{2,}</text>
+        <text encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3Bhc3N3b3JkPXhpYXh1bnd1MTk5Ni4K</text>
@@ -666,9 +671,9 @@
       </register>
     </registers>
     <search>
-      <last-search>;\.{2,}</last-search>
+      <last-search encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</last-search>
       <last-offset />
-      <last-pattern>;\.{2,}</last-pattern>
+      <last-pattern encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>span</entry>
         <entry encoding="base64">XDxseV9kZXBhcnRtZW50XD4=</entry>
         <entry encoding="base64">XDxsaWRcPg==</entry>
         <entry>subs</entry>
@@ -696,6 +700,7 @@
         <entry encoding="base64">XDxjaGVja1ByZWNpc2lvblw+</entry>
         <entry>ig</entry>
         <entry>;\.{2,}</entry>
+        <entry encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sort</entry>
