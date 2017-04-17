@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discretion" />
+      <item value="Executor" />
+      <item value="latency" />
+      <item value="eliminating" />
       <item value="exposed" />
       <item value="Present" />
       <item value="puml" />
@@ -47,10 +51,6 @@
       <item value="Build" />
       <item value="reduce" />
       <item value="common" />
-      <item value="Vector" />
-      <item value="end" />
-      <item value="considered" />
-      <item value="hierarchy" />
     </histories>
   </component>
 </application>
