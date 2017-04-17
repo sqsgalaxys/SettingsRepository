@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="velocity" />
       <item value="Producer" />
       <item value="concurrent" />
       <item value="commenced" />
@@ -50,7 +51,6 @@
       <item value="mutate" />
       <item value="seedling" />
       <item value="initialization" />
-      <item value="anonymous" />
     </histories>
   </component>
 </application>
