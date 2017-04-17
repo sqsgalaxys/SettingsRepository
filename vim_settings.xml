@@ -85,6 +85,12 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/main.jsp" timestamp="1492394132539">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" timestamp="1492068377185">
         <mark key="'" line="24" column="25" />
         <mark key="[" line="20" column="0" />
@@ -199,6 +205,16 @@
         <mark key="." line="143" column="5" />
         <mark key="^" line="143" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" timestamp="1492394326262">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/pom.xml" timestamp="1492392651388">
+        <mark key="[" line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/GenerateRandomNumbersString.java" timestamp="1491884597479">
         <mark key="'" line="13" column="88" />
         <mark key="[" line="10" column="18" />
@@ -240,6 +256,13 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/domain/User.java" timestamp="1492392394438">
+        <mark key="'" line="2" column="24" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/TemplatePattern/Main.java" timestamp="1491667179240">
         <mark key="[" line="49" column="24" />
@@ -321,6 +344,13 @@
         <mark key="." line="53" column="51" />
         <mark key="^" line="53" column="51" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserService.java" timestamp="1492392512882">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1491985757049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -333,6 +363,12 @@
         <mark key="]" line="24" column="20" />
         <mark key="^" line="20" column="26" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/controller/UserController.java" timestamp="1492392352861">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/Commandpattern/Main.java" timestamp="1491661965712">
         <mark key="[" line="16" column="11" />
@@ -362,8 +398,14 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1492134330824">
+      <file name="/dummy.sql" timestamp="1492391853903">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/main/java/codeRose/controller/UserController.java" timestamp="1492393367167">
+        <mark key="'" line="28" column="46" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Main.java" timestamp="1491622404004">
         <mark key="[" line="21" column="46" />
@@ -380,10 +422,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1492195136103">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/Ticket.java" timestamp="1492150326008">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/OrderList.java" timestamp="1491804221904">
         <mark key="[" line="85" column="17" />
@@ -447,6 +485,13 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="70" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserServiceImpl.java" timestamp="1492392561370">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="11" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomNumberBetweenMultipleRanges.java" timestamp="1491429241974">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="31" column="25" />
@@ -468,6 +513,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" timestamp="1492152939077">
         <mark key="'" line="71" column="74" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/main/java/codeRose/mapper/UserMapper.java" timestamp="1492392741332">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="8" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/src/main/java/HttpAsyncClientTest.java" timestamp="1491453688350">
         <mark key="[" line="9" column="0" />
@@ -508,13 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" />
-      <jump line="124" column="6" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/adminTicket.js" />
-      <jump line="126" column="2" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/adminTicket.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/adminTicket.js" />
-      <jump line="15" column="35" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
-      <jump line="28" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/AdminUserService.java" />
-      <jump line="30" column="32" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
       <jump line="31" column="68" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
       <jump line="28" column="34" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
       <jump line="42" column="29" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/AdminUserService.java" />
@@ -608,6 +652,13 @@
       <jump line="18" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
       <jump line="39" column="30" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
       <jump line="58" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
+      <jump line="16" column="4" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/controller/UserController.java" />
+      <jump line="2" column="24" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/domain/User.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserService.java" />
+      <jump line="14" column="25" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserServiceImpl.java" />
+      <jump line="28" column="46" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/main/java/codeRose/controller/UserController.java" />
+      <jump line="28" column="75" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" />
+      <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -624,11 +675,11 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0idXNlcm5hbWUiIGNsYXNzPSJjb250cm9sLWxhYmVsIGZhLWxhYmVsIj48aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmYSBmYS11c2VyIGZhLW1lZGl1bSI+PC9pPjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwYXNzd29yZCIgY2xhc3M9ImNvbnRyb2wtbGFiZWwgZmEtbGFiZWwiPjxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZhIGZhLWxvY2sgZmEtbWVkaXVtIj48L2k+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iTG9nIGluIiBjbGFzcz0iYnRuIGJ0bi1pbmZvIj4KCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxocj4KCgogICAgPC9kaXY+CjwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>loginname</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</text>
@@ -637,7 +688,7 @@
         <text encoding="base64">ICBwcml2YXRlIGludCB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigieCA9IFsiICsgeCArICJdLCB5ID0gWyIgKyB5ICsgIl0sIHogPSBbIiArIHogKyAiXSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0idXNlcm5hbWUiIGNsYXNzPSJjb250cm9sLWxhYmVsIGZhLWxhYmVsIj48aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmYSBmYS11c2VyIGZhLW1lZGl1bSI+PC9pPjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwYXNzd29yZCIgY2xhc3M9ImNvbnRyb2wtbGFiZWwgZmEtbGFiZWwiPjxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZhIGZhLWxvY2sgZmEtbWVkaXVtIj48L2k+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iTG9nIGluIiBjbGFzcz0iYnRuIGJ0bi1pbmZvIj4KCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxocj4KCgogICAgPC9kaXY+CjwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -651,28 +702,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgcHJpbnQoaW50ICkgewogICAgU3lzdGVtLm91dC5wcmludGxuKCJDb2xvciIrIiAiKyApOwogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8Zm9ybSBjbGFzcz0iZm9ybS1ob3Jpem9udGFsIHRlbXBsYXRlbW8tY29udGFpbmVyIHRlbXBsYXRlbW8tbG9naW4tZm9ybS0xIG1hcmdpbi1ib3R0b20tMzAiIHJvbGU9ImZvcm0iIGFjdGlvbj0ibG9naW4iIG1ldGhvZD0icG9zdCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSLnmbvlvZXlr4bnoIEiIG5hbWU9InBhc3N3b3JkIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJ1c2VybmFtZSIgcGxhY2Vob2xkZXI9IueuoeeQhuWRmOeUqOaIt+WQjSIgbmFtZT0ibG9naW5uYW1lIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJpbnQoKSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBwcmludCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Zm9udCBjb2xvcj0icmVkIj4ke3JlcXVlc3RTY29wZS5tZXNzYWdlIH08L2ZvbnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
