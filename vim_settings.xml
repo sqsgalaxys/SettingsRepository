@@ -244,6 +244,13 @@
       <file name="/HTML File.txt.ft" timestamp="1491809444743">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/loginForm.jsp" timestamp="1492412130858">
+        <mark key="'" line="14" column="26" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/meconcurrent/BlockingQueueExample.java" timestamp="1492398381237">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -330,6 +337,13 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/WEB-INF/web.xml" timestamp="1492411225867">
+        <mark key="'" line="26" column="35" />
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="14" column="30" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GetURL.java" timestamp="1491945669374">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="40" column="5" />
@@ -363,11 +377,12 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/BridgePattern/Main.java" timestamp="1492384391826">
-        <mark key="'" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/SimpleMoneyFormat.java" timestamp="1492263727297">
-        <mark key="'" line="39" column="4" />
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/resources/applicationContext.xml" timestamp="1492412568838">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" timestamp="1492153396796">
         <mark key="'" line="61" column="95" />
@@ -382,6 +397,13 @@
         <mark key="]" line="57" column="28" />
         <mark key="^" line="57" column="28" />
         <mark key="." line="57" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/controller/UserController.java" timestamp="1492411933380">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
         <mark key="[" line="5" column="13" />
@@ -401,8 +423,19 @@
         <mark key="^" line="39" column="32" />
         <mark key="." line="39" column="32" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/mapper/UserMapper.java" timestamp="1492412012223">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/smmbook/pom.xml" timestamp="1492392651388">
         <mark key="[" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/service/UserServiceImpl.java" timestamp="1492412029390">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Works/盈佳/EBP-1/pom.xml" timestamp="1492137026655">
         <mark key="[" line="14" column="24" />
@@ -438,6 +471,11 @@
         <mark key="]" line="38" column="48" />
         <mark key="^" line="42" column="26" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/controller/FormController.java" timestamp="1492412195939">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
         <mark key="[" line="8" column="4" />
@@ -485,7 +523,7 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1492391853903">
+      <file name="/dummy.sql" timestamp="1492411262175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Main.java" timestamp="1491622404004">
@@ -494,7 +532,7 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="21" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492195136103">
+      <file name="/Dummy.txt" timestamp="1492411420202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/OrderList.java" timestamp="1491804221904">
@@ -523,12 +561,25 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/main.jsp" timestamp="1492412144376">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserServiceImpl.java" timestamp="1492392561370">
         <mark key="'" line="14" column="25" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" timestamp="1492412275647">
+        <mark key="'" line="31" column="10" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/GenerateRandomNumberBetweenMultipleRanges.java" timestamp="1491429241974">
         <mark key="[" line="31" column="62" />
@@ -541,9 +592,6 @@
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" timestamp="1492152939077">
-        <mark key="'" line="71" column="74" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/src/main/java/HttpAsyncClientTest.java" timestamp="1491453688350">
         <mark key="[" line="9" column="0" />
@@ -566,26 +614,8 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/zhuce.jsp" timestamp="1492157474272">
-        <mark key="'" line="47" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="34" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
-      <jump line="42" column="29" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/AdminUserService.java" />
-      <jump line="32" column="37" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
-      <jump line="33" column="20" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
-      <jump line="13" column="14" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/css/adiminUser.css" />
-      <jump line="8" column="13" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/css/adiminUser.css" />
-      <jump line="26" column="24" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminOrderController.java" />
-      <jump line="8" column="7" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" />
-      <jump line="22" column="8" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/service/AdminOrderService.java" />
-      <jump line="15" column="19" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/dao/AdminOrderMapper.java" />
-      <jump line="24" column="25" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminUserMapper.xml" />
-      <jump line="8" column="22" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminOrderMapper.xml" />
-      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/23a118f2-58fe-4f80-944d-d1e37768c3ba/console.sql" />
-      <jump line="35" column="13" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/AdminOrder.java" />
-      <jump line="87" column="60" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" />
       <jump line="88" column="56" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" />
       <jump line="89" column="54" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" />
       <jump line="90" column="58" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" />
@@ -671,6 +701,21 @@
       <jump line="28" column="75" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" />
       <jump line="19" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/main.jsp" />
+      <jump line="40" column="25" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="56" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="42" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="26" column="35" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="20" column="12" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/resources/applicationContext.xml" />
+      <jump line="29" column="11" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/controller/UserController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/controller/UserController.java" />
+      <jump line="16" column="10" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/service/UserServiceImpl.java" />
+      <jump line="13" column="20" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/loginForm.jsp" />
+      <jump line="14" column="26" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/loginForm.jsp" />
+      <jump line="31" column="9" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="35" column="10" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/resources/applicationContext.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -687,20 +732,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5Db25zdW1lcjsK</text>
+      <register name="&quot;" type="4">
+        <text>codeRos</text>
       </register>
       <register name="-" type="4">
-        <text>loginname</text>
+        <text>codeRos</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</text>
+        <text encoding="base64">XDxkZXBlbmRlbmN5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PGhyLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5Db25zdW1lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -714,37 +759,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0idXNlcm5hbWUiIGNsYXNzPSJjb250cm9sLWxhYmVsIGZhLWxhYmVsIj48aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmYSBmYS11c2VyIGZhLW1lZGl1bSI+PC9pPjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwYXNzd29yZCIgY2xhc3M9ImNvbnRyb2wtbGFiZWwgZmEtbGFiZWwiPjxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZhIGZhLWxvY2sgZmEtbWVkaXVtIj48L2k+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iTG9nIGluIiBjbGFzcz0iYnRuIGJ0bi1pbmZvIj4KCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxocj4KCgogICAgPC9kaXY+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9ybSBjbGFzcz0iZm9ybS1ob3Jpem9udGFsIHRlbXBsYXRlbW8tY29udGFpbmVyIHRlbXBsYXRlbW8tbG9naW4tZm9ybS0xIG1hcmdpbi1ib3R0b20tMzAiIHJvbGU9ImZvcm0iIGFjdGlvbj0ibG9naW4iIG1ldGhvZD0icG9zdCI+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm15YmF0aXM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7bXliYXRpcy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSLnmbvlvZXlr4bnoIEiIG5hbWU9InBhc3N3b3JkIj4K</text>
+        <text encoding="base64">Ly/liqjmgIHpobXpnaLot7PovazmjqfliLblmagK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJ1c2VybmFtZSIgcGxhY2Vob2xkZXI9IueuoeeQhuWRmOeUqOaIt+WQjSIgbmFtZT0ibG9naW5uYW1lIj4K</text>
+        <text encoding="base64">6K6/6ZeuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9sLXdyYXBwZXIiPgo=</text>
+        <text encoding="base64">QFJlc291cmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</last-search>
+      <last-search encoding="base64">XDxkZXBlbmRlbmN5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXBlbmRlbmN5XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -752,7 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxseV9kZXBhcnRtZW50XD4=</entry>
         <entry encoding="base64">XDxsaWRcPg==</entry>
         <entry>subs</entry>
         <entry>0,10</entry>
@@ -772,9 +816,9 @@
         <entry>ig</entry>
         <entry>;\.{2,}</entry>
         <entry encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</entry>
+        <entry encoding="base64">XDxkZXBlbmRlbmN5XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>sort</entry>
         <entry>L</entry>
         <entry>222</entry>
         <entry>8</entry>
@@ -794,6 +838,7 @@
         <entry>E</entry>
         <entry>20</entry>
         <entry>w</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
