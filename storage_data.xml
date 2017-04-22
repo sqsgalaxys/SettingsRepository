@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precision" />
+      <item value="Ditto" />
       <item value="candidates" />
       <item value="velocity" />
       <item value="Producer" />
@@ -49,8 +51,6 @@
       <item value="Closure" />
       <item value="Communications (" />
       <item value="task Mutator" />
-      <item value="mutate" />
-      <item value="seedling" />
     </histories>
   </component>
 </application>
