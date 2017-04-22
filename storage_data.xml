@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="candidates" />
       <item value="velocity" />
       <item value="Producer" />
       <item value="concurrent" />
@@ -50,7 +51,6 @@
       <item value="task Mutator" />
       <item value="mutate" />
       <item value="seedling" />
-      <item value="initialization" />
     </histories>
   </component>
 </application>

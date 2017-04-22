@@ -22,6 +22,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十二日/EratosthenesAlgorithm.java" timestamp="1492821955391">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="5" column="95" />
+        <mark key="^" line="5" column="95" />
+        <mark key="." line="5" column="95" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/pom.xml" timestamp="1492177425297">
         <mark key="[" line="144" column="25" />
       </file>
@@ -166,13 +172,20 @@
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/Readme.md" timestamp="1492398924041">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十二日/ComputePrime.java" timestamp="1492821825894">
+        <mark key="'" line="52" column="31" />
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Returnlt.java" timestamp="1492430914733">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1492136810404">
+      <file name="/Clipboard.txt" timestamp="1492821714082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/ParseMathematical.java" timestamp="1492724426476">
@@ -707,7 +720,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1492012817743">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1492384291176">
+      <file name="/fragment.java" timestamp="1492820934366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -715,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="58" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminOrderMapper.xml" />
       <jump line="42" column="14" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminOrderMapper.xml" />
       <jump line="17" column="80" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/AdminOrderMapper.xml" />
       <jump line="123" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" />
@@ -815,6 +827,7 @@
       <jump line="35" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/RandomRestrictions.java" />
       <jump line="36" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/RandomRestrictions.java" />
       <jump line="37" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/RandomRestrictions.java" />
+      <jump line="52" column="31" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十二日/ComputePrime.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -831,20 +844,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ln</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>ln</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ln</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW0wKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHEgPSBuIC8gcHJpbWVba107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW0wKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -861,25 +874,25 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW0wKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG51bTEgPSBudW0ubmV4dEludCg4KTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW0wKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIG51bTEgPSBudW0ubmV4dEludCg4KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3FzZ2FsYXh5cyAoQVQpIGdtYWlsIChET1QpIGNvbQogKiBvbiAyMS8wNC8yMDE3LgogKiBXZSB3b3VsZCBsaWtlIHRvIGtub3cgaG93IHRvIHBsb3QgdGhlIHNpbmUgYW5kIGNvc2luZSBmdW5jdGlvbnMuCiAqLwo=</text>
+        <text encoding="base64">ICAgIG51bTEgPSBudW0ubmV4dEludCg4KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3FzZ2FsYXh5cyAoQVQpIGdtYWlsIChET1QpIGNvbQogKiBvbiAyMS8wNC8yMDE3LgogKiBXZSB3b3VsZCBsaWtlIHRvIGtub3cgaG93IHRvIHBsb3QgdGhlIHNpbmUgYW5kIGNvc2luZSBmdW5jdGlvbnMuCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldExhCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUGxvdFNpbmVDb3NpbmUoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHNldExhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlBvaW50OwppbXBvcnQgamF2YS5hd3QuZ2VvbS5BZmZpbmVUcmFuc2Zvcm07CmltcG9ydCBqYXZhLmF3dC5nZW9tLlBvaW50MkQ7CmltcG9ydCBqYXZhLnV0aWwuUmFuZG9tOwovL2Zyb20gIHcgIHcgIHcuamF2ICBhIDJzICAuICBjICBvIG0K</text>
+        <text encoding="base64">ICBwdWJsaWMgUGxvdFNpbmVDb3NpbmUoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
