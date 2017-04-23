@@ -178,6 +178,11 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="38" column="20" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Palindrome.java" timestamp="1492920588004">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/GenerateRandomNumbersString.java" timestamp="1491884597479">
         <mark key="'" line="13" column="88" />
         <mark key="[" line="10" column="18" />
@@ -207,7 +212,7 @@
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1492821714082">
+      <file name="/Clipboard.txt" timestamp="1492921451491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/ParseMathematical.java" timestamp="1492724426476">
@@ -339,6 +344,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Anagrams.java" timestamp="1492921432146">
+        <mark key="'" line="58" column="28" />
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+        <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/cn/edu/bupt/wen/controller/IndexController.java" timestamp="1492408762233">
         <mark key="[" line="5" column="0" />
@@ -696,6 +708,13 @@
       <file name="/dummy.sql" timestamp="1492411262175">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" timestamp="1492920417389">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="56" column="62" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="^" line="57" column="26" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/PrototypePattern/Main.java" timestamp="1491622404004">
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="47" />
@@ -736,6 +755,13 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Soundex.java" timestamp="1492922279097">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="132" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserServiceImpl.java" timestamp="1492392561370">
         <mark key="'" line="14" column="25" />
@@ -786,14 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="1" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" />
-      <jump line="94" column="20" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
-      <jump line="103" column="1" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" />
-      <jump line="163" column="6" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" />
-      <jump line="185" column="9" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" />
-      <jump line="62" column="27" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/VIPmessage.jsp" />
-      <jump line="83" column="67" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" />
-      <jump line="71" column="74" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminTicket.jsp" />
       <jump line="57" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/VIPmessage.jsp" />
       <jump line="47" column="0" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/VIPmessage.jsp" />
       <jump line="61" column="95" filename="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" />
@@ -886,6 +904,14 @@
       <jump line="38" column="21" filename="$USER_HOME$/Downloads/GitClone/httpclient/httpclient5-testing/docker/apache-httpd/Dockerfile" />
       <jump line="39" column="26" filename="$USER_HOME$/Downloads/GitClone/httpclient/httpclient5-testing/docker/apache-httpd/Dockerfile" />
       <jump line="324" column="37" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java" />
+      <jump line="45" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
+      <jump line="42" column="10" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
+      <jump line="38" column="17" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Anagrams.java" />
+      <jump line="58" column="28" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Anagrams.java" />
+      <jump line="132" column="21" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Soundex.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Soundex.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -902,20 +928,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEh0dHBDbGllbnRDb250ZXh0IGNvbnRleHQgPSBIdHRwQ2xpZW50Q29udGV4dC5jcmVhdGUoKTsgSHR0cENsaWVudENvbm5lY3Rpb25NYW5hZ2VyIGNvbm5NcmcgPSBuZXcgQmFzaWNIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIoKTsgSHR0cFJvdXRlIHJvdXRlID0gbmV3IEh0dHBSb3V0ZShuZXcgSHR0cEhvc3QoImxvY2FsaG9zdCIsIDgwKSk7IC8vIFJlcXVlc3QgbmV3IGNvbm5lY3Rpb24uIFRoaXMgY2FuIGJlIGEgbG9uZyBwcm9jZXNzCiAgIENvbm5lY3Rpb25SZXF1ZXN0IGNvbm5SZXF1ZXN0ID0gY29ubk1yZy5yZXF1ZXN0Q29ubmVjdGlvbihyb3V0ZSwgbnVsbCk7IC8vIFdhaXQgZm9yIGNvbm5lY3Rpb24gdXAgdG8gMTAgc2VjIAogICAgIEh0dHBDbGllbnRDb25uZWN0aW9uIGNvbm4gPSBjb25uUmVxdWVzdC5nZXQoMTAsIFRpbWVVbml0LlNFQ09ORFMpOwogICAgIHRyeSB7CgogICAgLy8gSWYgbm90IG9wZW4KCiAgICBpZiAoIWNvbm4uaXNPcGVuKCkpIHsKCiAgICAgIC8vIGVzdGFibGlzaCBjb25uZWN0aW9uIGJhc2VkIG9uIGl0cyByb3V0ZSBpbmZvCgogICAgICBjb25uTXJnLmNvbm5lY3QoY29ubiwgcm91dGUsIDEwMDAsIGNvbnRleHQpOwoKICAgICAgLy8gYW5kIG1hcmsgaXQgYXMgcm91dGUgY29tcGxldGUKCiAgICAgIGNvbm5Ncmcucm91dGVDb21wbGV0ZShjb25uLCByb3V0ZSwgY29udGV4dCk7CgogICAgfQoKICAgIC8vIERvIHVzZWZ1bCB0aGluZ3Mgd2l0aCB0aGUgY29ubmVjdGlvbi4gfSBmaW5hbGx5IHsKCiAgICBjb25uTXJnLnJlbGVhc2VDb25uZWN0aW9uKGNvbm4sIG51bGwsIDEsIFRpbWVVbml0Lk1JTlVURVMpOyB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZTFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGFmLCBiZiwgY2Y7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuID0gImxldmVsIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEh0dHBDbGllbnRDb250ZXh0IGNvbnRleHQgPSBIdHRwQ2xpZW50Q29udGV4dC5jcmVhdGUoKTsgSHR0cENsaWVudENvbm5lY3Rpb25NYW5hZ2VyIGNvbm5NcmcgPSBuZXcgQmFzaWNIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIoKTsgSHR0cFJvdXRlIHJvdXRlID0gbmV3IEh0dHBSb3V0ZShuZXcgSHR0cEhvc3QoImxvY2FsaG9zdCIsIDgwKSk7IC8vIFJlcXVlc3QgbmV3IGNvbm5lY3Rpb24uIFRoaXMgY2FuIGJlIGEgbG9uZyBwcm9jZXNzCiAgIENvbm5lY3Rpb25SZXF1ZXN0IGNvbm5SZXF1ZXN0ID0gY29ubk1yZy5yZXF1ZXN0Q29ubmVjdGlvbihyb3V0ZSwgbnVsbCk7IC8vIFdhaXQgZm9yIGNvbm5lY3Rpb24gdXAgdG8gMTAgc2VjIAogICAgIEh0dHBDbGllbnRDb25uZWN0aW9uIGNvbm4gPSBjb25uUmVxdWVzdC5nZXQoMTAsIFRpbWVVbml0LlNFQ09ORFMpOwogICAgIHRyeSB7CgogICAgLy8gSWYgbm90IG9wZW4KCiAgICBpZiAoIWNvbm4uaXNPcGVuKCkpIHsKCiAgICAgIC8vIGVzdGFibGlzaCBjb25uZWN0aW9uIGJhc2VkIG9uIGl0cyByb3V0ZSBpbmZvCgogICAgICBjb25uTXJnLmNvbm5lY3QoY29ubiwgcm91dGUsIDEwMDAsIGNvbnRleHQpOwoKICAgICAgLy8gYW5kIG1hcmsgaXQgYXMgcm91dGUgY29tcGxldGUKCiAgICAgIGNvbm5Ncmcucm91dGVDb21wbGV0ZShjb25uLCByb3V0ZSwgY29udGV4dCk7CgogICAgfQoKICAgIC8vIERvIHVzZWZ1bCB0aGluZ3Mgd2l0aCB0aGUgY29ubmVjdGlvbi4gfSBmaW5hbGx5IHsKCiAgICBjb25uTXJnLnJlbGVhc2VDb25uZWN0aW9uKGNvbm4sIG51bGwsIDEsIFRpbWVVbml0Lk1JTlVURVMpOyB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,28 +955,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciB3cml0ZXIgPSByZXNwLmdldFdyaXRlcigpOwogICAgICAgIFBhcnQgcGFydCA9IHJlcS5nZXRQYXJ0KCJtRmlsZSIpOwogICAgICAgIHdyaXRlci5wcmludGxuKCLmlofku7bnsbvlnovvvJoiK3BhcnQuZ2V0Q29udGVudFR5cGUoKSsiPGJyIC8+Iik7CiAgICAgICAgd3JpdGVyLnByaW50bG4oIuaWh+S7tuWQje+8miIrcGFydC5nZXROYW1lKCkrIjxiciAvPiIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciB3cml0ZXIgPSByZXNwLmdldFdyaXRlcigpOwogICAgICAgIFBhcnQgcGFydCA9IHJlcS5nZXRQYXJ0KCJtRmlsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2JvZHk+Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcmVzLmxlbmd0aCgpOyBpKyspIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkRU5EJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8Ym9keT4K</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

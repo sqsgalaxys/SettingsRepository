@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Anagrams" />
+      <item value="innermost" />
+      <item value="Palindrome" />
+      <item value="prematurely" />
       <item value="instantiated" />
       <item value="proper" />
       <item value="precision" />
@@ -47,10 +51,6 @@
       <item value="containers" />
       <item value="indicated" />
       <item value="categories" />
-      <item value="caret Position" />
-      <item value="Constants" />
-      <item value="with Closeable" />
-      <item value="Closure" />
     </histories>
   </component>
 </application>
