@@ -8,6 +8,9 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
     <option name="collapseObjectLiterals" value="true" />

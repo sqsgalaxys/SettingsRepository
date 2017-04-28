@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inventory" />
       <item value="Anagrams" />
       <item value="innermost" />
       <item value="Palindrome" />
@@ -50,7 +51,6 @@
       <item value="输入的数值必须大于100" />
       <item value="containers" />
       <item value="indicated" />
-      <item value="categories" />
     </histories>
   </component>
 </application>
