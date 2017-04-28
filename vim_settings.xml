@@ -53,6 +53,12 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/SubSetArray.java" timestamp="1493358631191">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="63" />
+        <mark key="^" line="7" column="63" />
+        <mark key="." line="7" column="63" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/httpcomponents/src/main/java/Main.java" timestamp="1491453635151">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="23" />
@@ -103,6 +109,12 @@
         <mark key="]" line="76" column="5" />
         <mark key="." line="76" column="5" />
         <mark key="^" line="76" column="5" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/AlphabeticalOrder.java" timestamp="1493358531728">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="7" column="64" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
@@ -465,6 +477,13 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/SortedIntegersBinarySearch.java" timestamp="1493358854890">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="84" />
+        <mark key="." line="7" column="84" />
+        <mark key="^" line="7" column="84" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" timestamp="1492384675608">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="7" column="7" />
@@ -812,6 +831,13 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" timestamp="1493358968415">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="63" />
+        <mark key="^" line="7" column="63" />
+        <mark key="." line="7" column="63" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/VIPmessage.jsp" timestamp="1492153375575">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="57" column="60" />
@@ -913,10 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="53" column="46" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/GetRandomDP.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/BridgePattern/Main.java" />
       <jump line="40" column="23" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
@@ -1013,6 +1035,10 @@
       <jump line="17" column="63" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十七日/SortArray.java" />
       <jump line="22" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十七日/SortArray.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十七日/SortArray.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/SortedIntegersBinarySearch.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" />
+      <jump line="11" column="40" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,20 +1055,20 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
-        <text>'a</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvbmcgbCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1056,37 +1082,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+        <text encoding="base64">ICAgIOS9oOWlvQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKSB7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoOgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">S0tLS0tLCg==</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHMgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'a</last-search>
+      <last-search>0</last-search>
       <last-offset />
-      <last-pattern>'a</last-pattern>
+      <last-pattern>0</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -1094,7 +1120,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RBZG1pblw+</entry>
         <entry encoding="base64">XDxzZWxlY3RBZG1pbk9yZGVyXD4=</entry>
         <entry>idCard</entry>
         <entry>telno</entry>
@@ -1114,6 +1139,7 @@
         <entry encoding="base64">XDxwcml2YXRlX2Rpclw+</entry>
         <entry encoding="base64">XDxjYWNoZTFcPg==</entry>
         <entry>'a</entry>
+        <entry>0</entry>
       </history-search>
       <history-cmd>
         <entry>L</entry>
