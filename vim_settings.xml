@@ -484,6 +484,13 @@
         <mark key="." line="7" column="84" />
         <mark key="^" line="7" column="84" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyGenerate.java" timestamp="1493396930621">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="17" column="36" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" timestamp="1492384675608">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="7" column="7" />
@@ -602,6 +609,13 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomizeShuffleArray.java" timestamp="1493396726375">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="18" column="39" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" timestamp="1492153396796">
         <mark key="'" line="61" column="95" />
         <mark key="[" line="82" column="58" />
@@ -653,6 +667,13 @@
         <mark key="]" line="39" column="32" />
         <mark key="^" line="39" column="32" />
         <mark key="." line="39" column="32" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShake.java" timestamp="1493397058520">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十二日/Palindrome.java" timestamp="1492824406555">
         <mark key="'" line="44" column="70" />
@@ -710,6 +731,13 @@
         <mark key="]" line="38" column="48" />
         <mark key="^" line="42" column="26" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShuffledInRange.java" timestamp="1493397266830">
+        <mark key="'" line="24" column="41" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="41" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十日/Matrix2Angle.java" timestamp="1492653133058">
         <mark key="[" line="7" column="36" />
@@ -939,14 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/BridgePattern/Main.java" />
-      <jump line="40" column="23" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="18" column="2" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="39" column="30" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled/src/repeateCode/MainEx.java" />
-      <jump line="16" column="4" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/controller/UserController.java" />
-      <jump line="2" column="24" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/domain/User.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserService.java" />
       <jump line="14" column="25" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserServiceImpl.java" />
       <jump line="28" column="46" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/main/java/codeRose/controller/UserController.java" />
@@ -1039,6 +1059,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" />
       <jump line="6" column="13" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" />
       <jump line="11" column="40" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/ArraysEquality.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomizeShuffleArray.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomizeShuffleArray.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomizeShuffleArray.java" />
+      <jump line="17" column="16" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyGenerate.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyGenerate.java" />
+      <jump line="19" column="16" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyGenerate.java" />
+      <jump line="5" column="2" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShake.java" />
+      <jump line="24" column="41" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShuffledInRange.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1056,10 +1084,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>ArrayList.</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>ArrayList.</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
@@ -1068,7 +1096,7 @@
         <text encoding="base64">ICAgIGxvbmcgbCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1082,28 +1110,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIOS9oOWlvQo=</text>
+        <text encoding="base64">ICAgIGludFtdIGkgPSBzaHVmZmxlKG5ldykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIK</text>
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHBlb3BsZXMgPSB7IiJ9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIOS9oOWlvQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoOgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
