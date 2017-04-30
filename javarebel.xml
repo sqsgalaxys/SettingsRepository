@@ -1,0 +1,9 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+      </map>
+    </option>
+  </component>
+</application>
