@@ -812,6 +812,12 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
+      <file name="$USER_HOME$/Downloads/tg-cms/tg-cms/gradle/wrapper/gradle-wrapper.properties" timestamp="1493530607321">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/dao/TicketMapper.java" timestamp="1491977815811">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="25" column="2" />
@@ -1067,10 +1073,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
