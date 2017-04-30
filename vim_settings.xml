@@ -40,6 +40,12 @@
         <mark key="^" line="60" column="65" />
         <mark key="." line="60" column="65" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/UsingListShuffleArray.java" timestamp="1493523483639">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/resources/com/oracle/ebp/dao/TicketMapper.xml" timestamp="1492008747057">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -168,12 +174,6 @@
         <mark key="^" line="8" column="68" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十六日/OutputArray.java" timestamp="1493160146947">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/css/adiminUser.css" timestamp="1492038613139">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="10" column="60" />
@@ -293,6 +293,12 @@
         <mark key="^" line="12" column="75" />
         <mark key="." line="11" column="67" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleElements.java" timestamp="1493523826677">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="22" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="18" column="28" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/controller/AdminTicketController.java" timestamp="1492158446880">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="106" column="0" />
@@ -332,7 +338,6 @@
         <mark key="^" line="70" column="48" />
         <mark key="." line="70" column="48" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Arrays.class" timestamp="1493454069409" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/GetRandomDP.java" timestamp="1492383910144">
         <mark key="[" line="53" column="51" />
         <mark key="]" line="53" column="51" />
@@ -390,6 +395,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" timestamp="1493523672548">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/adminTicket.js" timestamp="1492007946572">
         <mark key="'" line="0" column="0" />
@@ -671,7 +683,6 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Arrays.java" timestamp="1493454143350" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/SaveDecimal.java" timestamp="1492724128783">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="62" />
@@ -767,6 +778,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShiftingElements.java" timestamp="1493523317994">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/PrimeNumber.java" timestamp="1492724552255">
         <mark key="'" line="14" column="9" />
@@ -933,9 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserService.java" />
-      <jump line="14" column="25" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/service/UserServiceImpl.java" />
-      <jump line="28" column="46" filename="$USER_HOME$/Downloads/MeProjects/smmbook/src/main/java/codeRose/controller/UserController.java" />
       <jump line="28" column="75" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/loginForm.jsp" />
       <jump line="19" column="0" filename="$USER_HOME$/Downloads/MeProjects/smmbook/web/content/main.jsp" />
@@ -1033,6 +1047,9 @@
       <jump line="19" column="16" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyGenerate.java" />
       <jump line="5" column="2" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShake.java" />
       <jump line="24" column="41" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShuffledInRange.java" />
+      <jump line="25" column="15" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1050,19 +1067,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ArrayList.</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList.</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvbmcgbCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoYXJyYXkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1076,28 +1093,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludFtdIGkgPSBzaHVmZmxlKG5ldykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHBlb3BsZXMgPSB7IiJ9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIOS9oOWlvQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGludFtdIGkgPSBzaHVmZmxlKG5ldykK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHBlb3BsZXMgPSB7IiJ9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
