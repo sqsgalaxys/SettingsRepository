@@ -274,6 +274,9 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="20" column="42" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1493675792241">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ex5Main.java" timestamp="1491916594007">
         <mark key="'" line="17" column="25" />
         <mark key="[" line="8" column="13" />
@@ -370,6 +373,9 @@
         <mark key="]" line="31" column="68" />
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" timestamp="1493675761121">
+        <mark key="'" line="13" column="33" />
       </file>
       <file name="/a.sql" timestamp="1493534912503">
         <mark key="[" line="0" column="0" />
@@ -1020,8 +1026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="26" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/loginForm.jsp" />
-      <jump line="31" column="9" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
       <jump line="35" column="10" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/resources/applicationContext.xml" />
       <jump line="17" column="5" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/resources/applicationContext.xml" />
@@ -1120,6 +1124,8 @@
       <jump line="22" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
       <jump line="10" column="11" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
       <jump line="12" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/FillArray.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
+      <jump line="13" column="33" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
