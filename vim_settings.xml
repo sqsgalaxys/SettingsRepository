@@ -116,6 +116,13 @@
         <mark key="^" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" timestamp="1493673671421">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="10" column="1" />
@@ -148,6 +155,12 @@
         <mark key="]" line="68" column="65" />
         <mark key="." line="68" column="65" />
         <mark key="^" line="60" column="82" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/ScannerFillArray.java" timestamp="1493673398318">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十七日/CleanSortingArray.java" timestamp="1493296947153">
         <mark key="'" line="16" column="46" />
@@ -423,6 +436,12 @@
         <mark key="]" line="120" column="8" />
         <mark key="." line="120" column="8" />
         <mark key="^" line="120" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/FillWithSpecific.java" timestamp="1493674004083">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="8" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="8" column="74" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Test.java" timestamp="1492430178190">
         <mark key="'" line="9" column="23" />
@@ -903,6 +922,13 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/FillArray.java" timestamp="1493673845601">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="65" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/main.jsp" timestamp="1492412144376">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="19" column="1" />
@@ -994,9 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/controller/UserController.java" />
-      <jump line="16" column="10" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/service/UserServiceImpl.java" />
-      <jump line="13" column="20" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/loginForm.jsp" />
       <jump line="14" column="26" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/webapp/loginForm.jsp" />
       <jump line="31" column="9" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
       <jump line="35" column="10" filename="$USER_HOME$/Downloads/MeProjects/ssmlogin/pom.xml" />
@@ -1094,6 +1117,9 @@
       <jump line="31" column="68" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
+      <jump line="22" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
+      <jump line="10" column="11" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/FillArray.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1111,13 +1137,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>random</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>random</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1iZXJzXD4=</text>
+        <text encoding="base64">XDxhbkFycmF5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVycy5sZW5ndGg7IGkrKykgewogICAgICBpbnQgcmFuZG9tUG9zaXRpb24gPSBpZC5uZXh0SW50KDQpOwogICAgICBsb25nIHRlbXAgPSBudW1iZXJzW2ldOwogICAgICBudW1iZXJzW2ldID0gbnVtYmVyc1tyYW5kb21Qb3NpdGlvbl07CiAgICAgIG51bWJlcnNbcmFuZG9tUG9zaXRpb25dID0gdGVtcDsKICAgIH0K</text>
@@ -1165,9 +1191,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1iZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxhbkFycmF5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1iZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbkFycmF5XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -1175,7 +1201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>idCard</entry>
         <entry>telno</entry>
         <entry encoding="base64">XDx0ZWxub1w+</entry>
         <entry encoding="base64">XDxvcmRlcklEXD4=</entry>
@@ -1195,6 +1220,7 @@
         <entry>'a</entry>
         <entry>0</entry>
         <entry encoding="base64">XDxudW1iZXJzXD4=</entry>
+        <entry encoding="base64">XDxhbkFycmF5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>L</entry>
