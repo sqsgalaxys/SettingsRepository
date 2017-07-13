@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[hb] - ...'" />
-    <option name="defaultScopeName" value="Directory '[hb] - ...'" />
-    <option name="SEARCH_SCOPE" value="Directory '[hb] - ...'" />
+    <option name="customScope" value="File '[hb-admin] - ...\hb-admin\src\main\resources\log4j2.xml'" />
+    <option name="defaultScopeName" value="File '[hb-admin] - ...\hb-admin\src\main\resources\log4j2.xml'" />
+    <option name="SEARCH_SCOPE" value="File '[hb-admin] - ...\hb-admin\src\main\resources\log4j2.xml'" />
   </component>
 </application>
