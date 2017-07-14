@@ -203,7 +203,6 @@
         <mark key="^" line="85" column="22" />
         <mark key="." line="85" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/web.xml" timestamp="1500029558661" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/NullObjectPattern/Main.java" timestamp="1491666091759">
         <mark key="[" line="39" column="32" />
         <mark key="]" line="39" column="32" />
@@ -393,9 +392,12 @@
         <mark key="^" line="14" column="73" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" timestamp="1500029838299">
-        <mark key="'" line="51" column="11" />
-        <mark key="." line="0" column="2629" />
+      <file name="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" timestamp="1500032566312">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="2" column="138" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
         <mark key="[" line="60" column="65" />
@@ -770,7 +772,6 @@
         <mark key="^" line="28" column="54" />
         <mark key="." line="28" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/index.jsp" timestamp="1500029650621" />
       <file name="$USER_HOME$/Downloads/MeProjects/mybatisExample/src/main/java/testpackage/Main.java" timestamp="1491448924048">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="3" />
@@ -1111,7 +1112,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/secure.jsp" timestamp="1500029576006" />
       <file name="$USER_HOME$/Downloads/MeProjects/ssmlogin/src/main/java/codeRose/controller/UserController.java" timestamp="1492411933380">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
