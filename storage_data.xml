@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filter" />
+      <item value="param" />
       <item value="providers" />
       <item value="Acegi" />
       <item value="Rolling" />
@@ -49,8 +51,6 @@
       <item value="interoperability" />
       <item value="sentence" />
       <item value="句子" />
-      <item value="Senction" />
-      <item value="validation" />
     </histories>
   </component>
 </application>
