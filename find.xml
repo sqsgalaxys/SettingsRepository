@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml - [Acegi0]'" />
+    <option name="defaultScopeName" value="File '.../WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml - [Acegi0]'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml - [Acegi0]'" />
   </component>
 </application>

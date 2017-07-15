@@ -289,7 +289,7 @@
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1493675792241">
+      <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/ParseMathematical.java" timestamp="1492724426476">
@@ -401,6 +401,12 @@
         <mark key="]" line="16" column="25" />
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" timestamp="1500102826539">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminOder.jsp" timestamp="1492134196107">
         <mark key="'" line="74" column="15" />
@@ -533,6 +539,13 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Acegi0/Source/acegisample/WEB-INF/web.xml" timestamp="1500100486579" />
+      <file name="$USER_HOME$/Downloads/OneDrive/Acegi0/Source/acegisample/WEB-INF/acegi-config.xml" timestamp="1500100347217">
+        <mark key="[" line="132" column="94" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminindex.jsp" timestamp="1491806551051">
         <mark key="[" line="2" column="40" />
@@ -728,6 +741,12 @@
         <mark key="^" line="24" column="42" />
         <mark key="." line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" timestamp="1500100771849">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminaddTicket.jsp" timestamp="1492153396796">
         <mark key="'" line="61" column="95" />
         <mark key="[" line="82" column="58" />
@@ -834,6 +853,7 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/login.jsp" timestamp="1500100305773" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/SaveDecimal.java" timestamp="1492724128783">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="62" />
@@ -1076,6 +1096,13 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500100835721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/ReverseCharacters.java" timestamp="1493000298478">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="23" column="42" />
@@ -1168,23 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled1/web/index.jsp" />
-      <jump line="37" column="15" filename="$USER_HOME$/Downloads/GitClone/httpclient/httpclient5-testing/docker/apache-httpd/Dockerfile" />
-      <jump line="38" column="21" filename="$USER_HOME$/Downloads/GitClone/httpclient/httpclient5-testing/docker/apache-httpd/Dockerfile" />
-      <jump line="39" column="26" filename="$USER_HOME$/Downloads/GitClone/httpclient/httpclient5-testing/docker/apache-httpd/Dockerfile" />
-      <jump line="324" column="37" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java" />
-      <jump line="45" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
-      <jump line="42" column="10" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
-      <jump line="38" column="17" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/BracketChecker.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Anagrams.java" />
-      <jump line="58" column="28" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Anagrams.java" />
-      <jump line="132" column="21" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Soundex.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十三日/Soundex.java" />
-      <jump line="23" column="15" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/SplitString.java" />
-      <jump line="19" column="39" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/ReverseString.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/ReverseString.java" />
-      <jump line="25" column="3" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/ReverseString.java" />
       <jump line="43" column="43" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/ReverseString.java" />
       <jump line="36" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十四日/ReverseString.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/untitled1/src/Test/package-info.java" />
@@ -1268,6 +1278,23 @@
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" />
       <jump line="11" column="64" filename="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" />
       <jump line="51" column="11" filename="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" />
+      <jump line="48" column="44" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
+      <jump line="10" column="11" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
+      <jump line="26" column="19" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
+      <jump line="13" column="19" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" />
+      <jump line="23" column="0" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" />
+      <jump line="33" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="64" column="52" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="20" column="41" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="96" column="43" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="8" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="83" column="18" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="168" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="27" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="22" column="28" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1285,19 +1312,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>acegisecurity</text>
+        <text encoding="base64">PGJlYW4gaWQ9ImxvZ291dEZpbHRlciIKCQkgIGNsYXNzPSJvcmcuYWNlZ2lzZWN1cml0eS51aS5sb2dvdXQuTG9nb3V0RmlsdGVyIj4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSJodHRwczovLzEwLjEwMC4yLjEyOjg0NDMvY2FzL2xvZ291dCIgLz4KCQk8IS0tIFVSTCByZWRpcmVjdGVkIHRvIGFmdGVyIGxvZ291dCAtLT4KCQk8Y29uc3RydWN0b3ItYXJnPgoJCQk8bGlzdD4KCQkJCTxyZWYgYmVhbj0icmVtZW1iZXJNZVNlcnZpY2VzIiAvPgoJCQkJPGJlYW4KCQkJCQkJY2xhc3M9Im9yZy5hY2VnaXNlY3VyaXR5LnVpLmxvZ291dC5TZWN1cml0eUNvbnRleHRMb2dvdXRIYW5kbGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9jb25zdHJ1Y3Rvci1hcmc+Cgk8L2JlYW4+</text>
       </register>
       <register name="-" type="4">
-        <text>acegisecurity</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VTY29yZVw+</text>
+        <text encoding="base64">XDxkYW9BdXRoZW50aWNhdGlvblByb3ZpZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBzcHJpbmcucmFiYml0bXEuYWRkcmVzc2VzPTE5Mi4xNjguNTguMTI4OjU2NzIK</text>
+        <text encoding="base64">CSAgICAgICAgPC9pbml0LXBhcmFtPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBzcHJpbmcucmFiYml0bXEuYWRkcmVzc2VzPTE5Mi4xNjguNTguMTI4OjU2NzIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGJlYW4gaWQ9ImxvZ291dEZpbHRlciIKCQkgIGNsYXNzPSJvcmcuYWNlZ2lzZWN1cml0eS51aS5sb2dvdXQuTG9nb3V0RmlsdGVyIj4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSJodHRwczovLzEwLjEwMC4yLjEyOjg0NDMvY2FzL2xvZ291dCIgLz4KCQk8IS0tIFVSTCByZWRpcmVjdGVkIHRvIGFmdGVyIGxvZ291dCAtLT4KCQk8Y29uc3RydWN0b3ItYXJnPgoJCQk8bGlzdD4KCQkJCTxyZWYgYmVhbj0icmVtZW1iZXJNZVNlcnZpY2VzIiAvPgoJCQkJPGJlYW4KCQkJCQkJY2xhc3M9Im9yZy5hY2VnaXNlY3VyaXR5LnVpLmxvZ291dC5TZWN1cml0eUNvbnRleHRMb2dvdXRIYW5kbGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9jb25zdHJ1Y3Rvci1hcmc+Cgk8L2JlYW4+</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1311,37 +1338,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8IS0tIFVzZXJDYWNoZSBwcm9wZXJ0eSB3aWxsIGFjdGl2YXRlIHRoZSBjYWNoZSwgaXQgaXMgbm90CgkJbWFuZGF0b3J5IGJ1dCBpbmNyZWFzZXMgcGVyZm9ybWFuY2UgYnkgY2FjaGVpbmcgdGhlIHVzZXIKCQlkZXRhaWxzIHJldHJpZXZlZCBmcm9tIHVzZXItYmFzZSAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KnNldEZpeGVkKCk7Cmlvc1Njb2xsU3RvcCgpOwoKCi8v6L6T5YWl5qGG5LiK77+9PwpmdW5jdGlvbiBqdW1wX3RvcCgpeyAKCXZhciB1ID0gbmF2aWdhdG9yLnVzZXJBZ2VudDsKCXZhciBpc0FuZHJvaWQgPSB1LmluZGV4T2YoJ0FuZHJvaWQnKSA+IC0xIHx8IHUuaW5kZXhPZignQWRyJykgPiAtMTsgLy9hbmRyb2lk57uI56uvCgl2YXIgaXNpT1MgPSAhIXUubWF0Y2goL1woaVteO10rOyggVTspPyBDUFUuK01hYyBPUyBYLyk7IC8vaW9z57uI56uvCglpZihpc0FuZHJvaWQpewoJCSQoImJvZHkiKS5jc3MoImhlaWdodCIsIjBweCIpOwoJCSQoImJvZHkiKS5jc3MoImhlaWdodCIsZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwoJCSQoJ1tqdW1wPXRydWVdJykuYmluZCgiZm9jdXMiLGZ1bmN0aW9uKGV2ZW50KXsKCQkJaWYoJChldmVudC50YXJnZXQpLmF0dHIoInR5cGUiKT09ImJ1dHRvbiIpcmV0dXJuOwoJCQkkKCJib2R5IikuY3NzKCJtYXJnaW4tYm90dG9tIiwiNTAwcHgiKTsKCQkJJCh3aW5kb3cpLnNjcm9sbFRvcCgkKGV2ZW50LnRhcmdldCkub2Zmc2V0KCkudG9wLTUzKTsKCQkJY29uc29sZS5sb2coImhpZGUiKTsKCQkJZXZlbnQucHJldmVudERlZmF1bHQoKTsKCQl9KTsKCQkkKCJib2R5IikuYmluZCgiY2xpY2siLGZ1bmN0aW9uKGV2ZW50KXsKCQkJaWYoJChldmVudC50YXJnZXQpLmF0dHIoInR5cGUiKT09ImJ1dHRvbiIpcmV0dXJuOwoJCQkkKCJib2R5IikuY3NzKCJoZWlnaHQiLCIwcHgiKTsKCQkJJCgiYm9keSIpLmNzcygiaGVpZ2h0Iixkb2N1bWVudC5ib2R5LnNjcm9sbEhlaWdodCk7CgkJCSQoImJvZHkiKS5jc3MoIm1hcmdpbi1ib3R0b20iLCIwcHgiKTsKCQkJY29uc29sZS5sb2coInNob3ciKTsKCQkJZXZlbnQucHJldmVudERlZmF1bHQoKTsKCQl9KTsgCgl9OwoJCn0KCi8v6K6+572uaW9z5Lit6Ze05YaF5a655Li65Zu65a6a5a6a5L2N77yM6Ziy5q2i5bqV6YOo5YaF5a655LiK6LezCmZ1bmN0aW9uIHNldEZpeGVkKCl7Cgl2YXIgdSA9IG5hdmlnYXRvci51c2VyQWdlbnQ7Cgl2YXIgaXNpT1MgPSAhIXUubWF0Y2goL1woaVteO10rOyggVTspPyBDUFUuK01hYyBPUyBYLyk7IAoJaWYoaXNpT1MpewoJCSRtYWluRml4ZWQ9JCgiLm1haW4tZml4ZWQiKTsKCQkkbWFpbkZpeGVkLmNzcygicG9zaXRpb24iLCJmaXhlZCIpOwoJCSRtYWluRml4ZWQuY3NzKCJ0b3AiLCIwLjQzcmVtIik7CgkJJG1haW5GaXhlZC5jc3MoImJvdHRvbSIsIjByZW0iKTsKCQkkbWFpbkZpeGVkLmNzcygib3ZlcmZsb3ciLCJzY3JvbGwiKTsKCQkkbWFpbkZpeGVkLmNzcygid2lkdGgiLCIxMDAlIik7CgkJJG1haW5GaXhlZC5jc3MoIm92ZXJmbG93LXgiLCJoaWRkZW4iKTsKCQkkbWFpbkZpeGVkLmNzcygicGFkZGluZy1ib3R0b20iLCIwLjU4cmVtIik7Cgl9Cn0KCgovL2lvc+i2heWHuua7keWKqOemgeatogpmdW5jdGlvbiBpb3NTY29sbFN0b3AoKXsKCXZhciBTY3JvbGxGaXggPSBmdW5jdGlvbihlbGVtKSB7CgkgICAgLy8gVmFyaWFibGVzIHRvIHRyYWNrIGlucHV0cwoJICAgIHZhciBzdGFydFksIHN0YXJ0VG9wU2Nyb2xsOwoJICAgIGVsZW0gPSBlbGVtIHx8IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoZWxlbSk7CgkgICAgLy8gSWYgdGhlcmUgaXMgbm8gZWxlbWVudCwgdGhlbiBkbyBub3RoaW5nICAgIAoJICAgIGlmKCFlbGVtKQoJICAgICAgICByZXR1cm47CgkgICAgLy8gSGFuZGxlIHRoZSBzdGFydCBvZiBpbnRlcmFjdGlvbnMKCSAgICBlbGVtLmFkZEV2ZW50TGlzdGVuZXIoJ3RvdWNoc3RhcnQnLCBmdW5jdGlvbihldmVudCl7CgkgICAgICAgIHN0YXJ0WSA9IGV2ZW50LnRvdWNoZXNbMF0ucGFnZVk7CgkgICAgICAgIHN0YXJ0VG9wU2Nyb2xsID0gZWxlbS5zY3JvbGxUb3A7CgkgICAgICAgIGlmKHN0YXJ0VG9wU2Nyb2xsIDw9IDApCgkgICAgICAgICAgICBlbGVtLnNjcm9sbFRvcCA9IDE7CgkgICAgICAgIGlmKHN0YXJ0VG9wU2Nyb2xsICsgZWxlbS5vZmZzZXRIZWlnaHQgPj0gZWxlbS5zY3JvbGxIZWlnaHQpCgkgICAgICAgICAgICBlbGVtLnNjcm9sbFRvcCA9IGVsZW0uc2Nyb2xsSGVpZ2h0IC0gZWxlbS5vZmZzZXRIZWlnaHQgLSAxOwoJICAgIH0sIGZhbHNlKTsKCX07CgnliKTmlq3orr7lpIfosIPnlKhTY3JvbGxGaXgKCXZhciBzVXNlckFnZW50PW5hdmlnYXRvci51c2VyQWdlbnQudG9Mb3dlckNhc2UoKTsKCWlmKHNVc2VyQWdlbnQubWF0Y2goL2lwaG9uZSBvcy9pKSA9PSAiaXBob25lIG9zIil7CgkgICAgJCgnLndyYXBwZXInKS5hZGRDbGFzcygnd3JhcHBlci1pb3MnKTsKCSAgICBTY3JvbGxGaXgoJCgnLndyYXBwZXItaW9zJylbMF0pOyAKCX0KCemYu+atoueUqOaIt+WPjOWHu+S9v+Wxj+W5leS4iu+/vT8KCXZhciBhZ2VudCA9IG5hdmlnYXRvci51c2VyQWdlbnQudG9Mb3dlckNhc2UoKTsgICAgICAgIC8v77+9P+a1i+aYr+WQpuaYr2lvcwoJdmFyIGlMYXN0VG91Y2ggPSBudWxsOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy/nvJPlrZjkuIrkuIDmrKF0YXDnmoTml7bvv70/CglpZiAoYWdlbnQuaW5kZXhPZignaXBob25lJykgPj0gMCB8fCBhZ2VudC5pbmRleE9mKCdpcGFkJykgPj0gMCkKCXsKCSAgICBkb2N1bWVudC5ib2R5LmFkZEV2ZW50TGlzdGVuZXIoJ3RvdWNoZW5kJywgZnVuY3Rpb24oZXZlbnQpCgkgICAgewoJICAgICAgICB2YXIgaU5vdyA9IG5ldyBEYXRlKCkKCSAgICAgICAgICAgIC5nZXRUaW1lKCk7CgkgICAgICAgIGlMYXN0VG91Y2ggPSBpTGFzdFRvdWNoIHx8IGlOb3cgKyAxICovLyoqIOesrOS4gOasoeaXtuWwhmlMYXN0VG91Y2jorr7kuLrlvZPliY3ml7bpl7QrMSAqLy8qIDsKCSAgICAgICAgdmFyIGRlbHRhID0gaU5vdyAtIGlMYXN0VG91Y2g7CgkgICAgICAgIGlmIChkZWx0YSA8IDUwMCAmJiBkZWx0YSA+IDApCgkgICAgICAgIHsKCSAgICAgICAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CgkgICAgICAgICAgICByZXR1cm4gZmFsc2U7CgkgICAgICAgIH0KCSAgICAgICAgaUxhc3RUb3VjaCA9IGlOb3c7CgkgICAgfSwgZmFsc2UpOwoJfQoJCn0KKi8K</text>
+        <text encoding="base64">CTwhLS0g6L+H5ruk6ZO+LCDmjInpobrluo/mnaXosIPnlKjph4zpnaLnmoTlkITkuKrov4fmu6TlmaggLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5zZWN1cml0eS5wcm92aWRlci5jZXJ0cGF0aC5WZXJ0ZXg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgU2V0PFByb2R1Y3Q+IHByb2RMaXN0ID0gbmV3IFRyZWVTZXQ8UHJvZHVjdD4oKTsKICAgICAgcHJvZExpc3QuYWRkKG5ldyBQcm9kdWN0KCJBIiwxMzU0NikpOwogICAgICBwcm9kTGlzdC5hZGQobmV3IFByb2R1Y3QoIkEiLDEzNTQ2KSk7CiAgICAgIHByb2RMaXN0LmFkZChuZXcgUHJvZHVjdCgiQSIsMTM1NDYpKTsKICAgICAgcHJvZExpc3QuYWRkKG5ldyBQcm9kdWN0KCJBIiwxMzU0NikpOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CTxiZWFuIGlkPSJodHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlciIKCQljbGFzcz0ib3JnLmFjZWdpc2VjdXJpdHkuY29udGV4dC5IdHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlciI+Cgk8L2JlYW4+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3R1ZGVudChTKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">bG9nNGoubG9nZ2VyLm9yZy5hY2VnaXNlY3VyaXR5PURFQlVHCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VTY29yZVw+</last-search>
+      <last-search encoding="base64">XDxkYW9BdXRoZW50aWNhdGlvblByb3ZpZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VTY29yZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYW9BdXRoZW50aWNhdGlvblByb3ZpZGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,11 +1376,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlcklEXD4=</entry>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDwxXD4=</entry>
-        <entry>java</entry>
-        <entry encoding="base64">XDxhZGRUaWNrZXRcPg==</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry encoding="base64">XDxjaGVja1ByZWNpc2lvblw+</entry>
         <entry>ig</entry>
@@ -1369,9 +1391,13 @@
         <entry encoding="base64">XDxhbkFycmF5XD4=</entry>
         <entry encoding="base64">XDwxMzU0Nlw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VTY29yZVw+</entry>
+        <entry encoding="base64">XDxDb250ZXh0TG9hZGVyTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbk1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxIdHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlclw+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJDaGFpblByb3h5XD4=</entry>
+        <entry encoding="base64">XDxkYW9BdXRoZW50aWNhdGlvblByb3ZpZGVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>L</entry>
         <entry>222</entry>
         <entry>8</entry>
         <entry>14t.-1</entry>
@@ -1390,6 +1416,7 @@
         <entry>E</entry>
         <entry>20</entry>
         <entry>17</entry>
+        <entry>sort u</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
