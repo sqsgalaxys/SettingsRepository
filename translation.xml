@@ -1,5 +1,8 @@
 <application>
   <component name="TranslationSettings">
-    <option name="disableApiKeyNotification" value="true" />
+    <option name="appId" value="4b007d2d44adaf29" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
+    <option name="privateKeyConfigured" value="true" />
   </component>
 </application>
