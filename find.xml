@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml - [Acegi0]'" />
-    <option name="defaultScopeName" value="File '.../WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml - [Acegi0]'" />
-    <option name="SEARCH_SCOPE" value="File '.../WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml - [Acegi0]'" />
+    <option name="customScope" value="File '[acegisample] - ...\login.jsp'" />
+    <option name="defaultScopeName" value="File '[acegisample] - ...\login.jsp'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[acegisample] - ...\login.jsp'" />
   </component>
 </application>
