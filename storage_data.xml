@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filter" />
+      <item value="param" />
+      <item value="providers" />
+      <item value="Acegi" />
+      <item value="Rolling" />
       <item value="v" />
       <item value="Inventory" />
       <item value="Anagrams" />
@@ -46,11 +51,6 @@
       <item value="interoperability" />
       <item value="sentence" />
       <item value="句子" />
-      <item value="Senction" />
-      <item value="validation" />
-      <item value="continue" />
-      <item value="输入的数值必须大于100" />
-      <item value="containers" />
     </histories>
   </component>
 </application>
