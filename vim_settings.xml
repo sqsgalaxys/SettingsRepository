@@ -588,6 +588,13 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Acegi0/pom.xml" timestamp="1500193063060">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/Wrapper2Primitive.java" timestamp="1493076359119">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="92" column="5" />
@@ -919,7 +926,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" timestamp="1500191695198">
+      <file name="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" timestamp="1500192909416">
         <mark key="'" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/seckill-master/src/main/resources/jdbc.properties" timestamp="1492197660801">
@@ -1196,7 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/Wrapper2Primitive.java" />
       <jump line="96" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/Wrapper2Primitive.java" />
       <jump line="31" column="41" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/findMedianIn2DArrays.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/findMedianIn2DArrays.java" />
@@ -1296,36 +1302,26 @@
       <jump line="131" column="14" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
       <jump line="14" column="78" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
       <jump line="4" column="14" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
+      <jump line="9" column="18" filename="$USER_HOME$/OneDrive/Acegi0/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-          <key char="65" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-        </keys>
+        <text>k.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGJlYW4gaWQ9ImxvZ291dEZpbHRlciIKCQkgIGNsYXNzPSJvcmcuYWNlZ2lzZWN1cml0eS51aS5sb2dvdXQuTG9nb3V0RmlsdGVyIj4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSJodHRwczovLzEwLjEwMC4yLjEyOjg0NDMvY2FzL2xvZ291dCIgLz4KCQk8IS0tIFVSTCByZWRpcmVjdGVkIHRvIGFmdGVyIGxvZ291dCAtLT4KCQk8Y29uc3RydWN0b3ItYXJnPgoJCQk8bGlzdD4KCQkJCTxyZWYgYmVhbj0icmVtZW1iZXJNZVNlcnZpY2VzIiAvPgoJCQkJPGJlYW4KCQkJCQkJY2xhc3M9Im9yZy5hY2VnaXNlY3VyaXR5LnVpLmxvZ291dC5TZWN1cml0eUNvbnRleHRMb2dvdXRIYW5kbGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9jb25zdHJ1Y3Rvci1hcmc+Cgk8L2JlYW4+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">ICAgICAgICAzOTQgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRpb25UcmFuc2xhdGlvbkZpbHRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICAgICAgPC9pbml0LXBhcmFtPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGJlYW4gaWQ9ImxvZ291dEZpbHRlciIKCQkgIGNsYXNzPSJvcmcuYWNlZ2lzZWN1cml0eS51aS5sb2dvdXQuTG9nb3V0RmlsdGVyIj4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSJodHRwczovLzEwLjEwMC4yLjEyOjg0NDMvY2FzL2xvZ291dCIgLz4KCQk8IS0tIFVSTCByZWRpcmVjdGVkIHRvIGFmdGVyIGxvZ291dCAtLT4KCQk8Y29uc3RydWN0b3ItYXJnPgoJCQk8bGlzdD4KCQkJCTxyZWYgYmVhbj0icmVtZW1iZXJNZVNlcnZpY2VzIiAvPgoJCQkJPGJlYW4KCQkJCQkJY2xhc3M9Im9yZy5hY2VnaXNlY3VyaXR5LnVpLmxvZ291dC5TZWN1cml0eUNvbnRleHRMb2dvdXRIYW5kbGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9jb25zdHJ1Y3Rvci1hcmc+Cgk8L2JlYW4+</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1338,29 +1334,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQk8IS0tIFVzZXJDYWNoZSBwcm9wZXJ0eSB3aWxsIGFjdGl2YXRlIHRoZSBjYWNoZSwgaXQgaXMgbm90CgkJbWFuZGF0b3J5IGJ1dCBpbmNyZWFzZXMgcGVyZm9ybWFuY2UgYnkgY2FjaGVpbmcgdGhlIHVzZXIKCQlkZXRhaWxzIHJldHJpZXZlZCBmcm9tIHVzZXItYmFzZSAtLT4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGJlYW4gaWQ9ImxvZ291dEZpbHRlciIKCQkgIGNsYXNzPSJvcmcuYWNlZ2lzZWN1cml0eS51aS5sb2dvdXQuTG9nb3V0RmlsdGVyIj4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSJodHRwczovLzEwLjEwMC4yLjEyOjg0NDMvY2FzL2xvZ291dCIgLz4KCQk8IS0tIFVSTCByZWRpcmVjdGVkIHRvIGFmdGVyIGxvZ291dCAtLT4KCQk8Y29uc3RydWN0b3ItYXJnPgoJCQk8bGlzdD4KCQkJCTxyZWYgYmVhbj0icmVtZW1iZXJNZVNlcnZpY2VzIiAvPgoJCQkJPGJlYW4KCQkJCQkJY2xhc3M9Im9yZy5hY2VnaXNlY3VyaXR5LnVpLmxvZ291dC5TZWN1cml0eUNvbnRleHRMb2dvdXRIYW5kbGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9jb25zdHJ1Y3Rvci1hcmc+Cgk8L2JlYW4+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTwhLS0g6L+H5ruk6ZM/LCDmjInpobrluo/mnaXosIPnlKjph4zpnaLnmoTlkITkuKrov4fmu6TlmaggLS0+Cg==</text>
+        <text encoding="base64">CQk8IS0tIFVzZXJDYWNoZSBwcm9wZXJ0eSB3aWxsIGFjdGl2YXRlIHRoZSBjYWNoZSwgaXQgaXMgbm90CgkJbWFuZGF0b3J5IGJ1dCBpbmNyZWFzZXMgcGVyZm9ybWFuY2UgYnkgY2FjaGVpbmcgdGhlIHVzZXIKCQlkZXRhaWxzIHJldHJpZXZlZCBmcm9tIHVzZXItYmFzZSAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTwhLS0g6L+H5ruk6ZM/LCDmjInpobrluo/mnaXosIPnlKjph4zpnaLnmoTlkITkuKrov4fmu6TlmaggLS0+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CTxiZWFuIGlkPSJodHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlciIKCQljbGFzcz0ib3JnLmFjZWdpc2VjdXJpdHkuY29udGV4dC5IdHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlciI+Cgk8L2JlYW4+</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">CTxiZWFuIGlkPSJodHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlciIKCQljbGFzcz0ib3JnLmFjZWdpc2VjdXJpdHkuY29udGV4dC5IdHRwU2Vzc2lvbkNvbnRleHRJbnRlZ3JhdGlvbkZpbHRlciI+Cgk8L2JlYW4+</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nNGoubG9nZ2VyLm9yZy5hY2VnaXNlY3VyaXR5PURFQlVHCg==</text>
+        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
