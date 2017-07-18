@@ -1,15 +1,16 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-07-03T08:41:32</property>
+    <property name="created">2017-03-27T22:25:20</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-15T15:09:45</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-07-16T14:43:21</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="10" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
 </scheme>
