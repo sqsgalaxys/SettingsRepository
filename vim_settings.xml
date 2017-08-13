@@ -36,13 +36,6 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2ddd0ee-caba-4e28-81a5-676a90079b46/console.sql" timestamp="1499847860143">
-        <mark key="'" line="56" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="56" column="44" />
-        <mark key="^" line="56" column="44" />
-        <mark key="." line="56" column="44" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" timestamp="1491950306380">
         <mark key="[" line="76" column="5" />
         <mark key="]" line="76" column="5" />
@@ -253,6 +246,13 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c2ddd0ee-caba-4e28-81a5-676a90079b46/console.sql" timestamp="1499847860143">
+        <mark key="'" line="56" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="56" column="44" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+      </file>
       <file name="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" timestamp="1500029838299">
         <mark key="'" line="51" column="11" />
         <mark key="." line="0" column="2629" />
@@ -364,6 +364,13 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/23a118f2-58fe-4f80-944d-d1e37768c3ba/console.sql" timestamp="1492134292279">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillArray.java" timestamp="1493760365532">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="14" column="28" />
@@ -390,13 +397,6 @@
         <mark key="]" line="93" column="21" />
         <mark key="." line="93" column="21" />
         <mark key="^" line="93" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/23a118f2-58fe-4f80-944d-d1e37768c3ba/console.sql" timestamp="1492134292279">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="36" />
-        <mark key="^" line="36" column="36" />
-        <mark key="." line="36" column="36" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十一日/SaveDecimal.java" timestamp="1492724128783">
         <mark key="[" line="17" column="23" />
@@ -653,7 +653,7 @@
         <mark key="." line="57" column="26" />
         <mark key="^" line="57" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500195020006">
+      <file name="/Dummy.txt" timestamp="1502602893112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/X.java" timestamp="1492434167094">
@@ -1227,21 +1227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="2" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShake.java" />
-      <jump line="24" column="41" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十九日/RandomlyShuffledInRange.java" />
-      <jump line="25" column="15" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleArrayElements.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
-      <jump line="21" column="48" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
-      <jump line="22" column="19" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
-      <jump line="15" column="55" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
-      <jump line="26" column="22" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
-      <jump line="27" column="9" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
-      <jump line="31" column="68" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
       <jump line="22" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
       <jump line="10" column="11" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
@@ -1327,25 +1312,66 @@
       <jump line="49" column="12" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="122" column="53" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/WEB-INF/acegi-config.xml" />
+      <jump line="10" column="13" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="2929" column="22" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="2916" column="0" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="3917" column="0" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="5345" column="22" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="6315" column="0" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="7399" column="22" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="8409" column="22" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="1855" column="22" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="5332" column="0" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="7373" column="0" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="8370" column="0" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="877" column="22" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="1" column="3" filename="$USER_HOME$/OneDrive/VIM/information.md" />
+      <jump line="4402" column="3" filename="$USER_HOME$/OneDrive/VIM/information.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSA9IDIgKiBpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCE=</text>
+        <text encoding="base64">XDy5pNf3z+C52LXEXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSA9IDIgKiBpOwo=</text>
+      <register name="1" type="4">
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1358,38 +1384,103 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      <register name="3" type="4">
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIDwhLS10b21jYXQ1LjUuMjMtLT4KICAgIDwhLS1hY2VnaS1zZWN1cml0eS0xLjAuNy0tPgogICAgPCEtLVNwcmluZzIuMC0tPgogICAgPCEtLUphcrD8o7otLT4KICAgIDwhLS1hY2VnaS1zZWN1cml0eS0xLjAuNy5qYXItLT4KICAgIDwhLS1TcHJpbmcuamFyLS0+CiAgICA8IS0tY29tbW9ucy1jb2RlYy5qYXItLT4=</text>
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS1KREsxLjUuMF8xMC0tPgo=</text>
+      <register name="5" type="4">
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS1FY2xpcHNlMy4yLjEtLT4K</text>
+      <register name="6" type="4">
+        <text>编辑器与笔记的比较与使用:
+
+
+包管理工具-
+语言包管理工具-
+pip
+系统包管理工具-
+brew
+apt
+yum
+scoop
+choco
+
+Get-PackageProvider / 查看系统中已经安装的 powershell 工具包</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS1NeUVjbGlwc2UgNS4wR0EtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay9zcHJpbmctY29yZSAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMy45LlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5zcHJpbmdmcmFtZXdvcmsvc3ByaW5nLWNvcmUgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjMuOS5SRUxFQVNFPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PCE=</last-search>
+      <last-search encoding="base64">XDy5pNf3z+C52LXEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCE=</last-pattern>
+      <last-pattern encoding="base64">XDy5pNf3z+C52LXEXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -1397,8 +1488,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGluZXNlTnVtYmVyTWFwXD4=</entry>
-        <entry encoding="base64">XDxkZXBlbmRlbmN5XD4=</entry>
         <entry>ln</entry>
         <entry encoding="base64">XDxwcml2YXRlX2Rpclw+</entry>
         <entry encoding="base64">XDxjYWNoZTFcPg==</entry>
@@ -1417,6 +1506,8 @@
         <entry>https</entry>
         <entry>jsp</entry>
         <entry encoding="base64">PCE=</entry>
+        <entry encoding="base64">XDyy6b+0z7XNs9bQ0tG+rbCy17C1xFw+</entry>
+        <entry encoding="base64">XDy5pNf3z+C52LXEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
