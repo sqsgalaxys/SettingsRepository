@@ -546,6 +546,12 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeProjects/ideaDockerTest/docker-dir/Dockerfile" timestamp="1503438238810">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="62" />
+        <mark key="^" line="1" column="62" />
+        <mark key="." line="1" column="62" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/User.java" timestamp="1492135667339">
         <mark key="'" line="32" column="7" />
         <mark key="[" line="12" column="0" />
