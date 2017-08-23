@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="FONT_FACE" value=".SFNSText-Regular" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
