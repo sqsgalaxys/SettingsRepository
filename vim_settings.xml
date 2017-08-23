@@ -42,7 +42,6 @@
         <mark key="^" line="1" column="62" />
         <mark key="." line="1" column="62" />
       </file>
-      <file name="$USER_HOME$/gitCode/project_shiro/src/main/java/com/steam/util/ShiroUtil.java" timestamp="1503465863182" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomExample.java" timestamp="1491950306380">
         <mark key="[" line="76" column="5" />
         <mark key="]" line="76" column="5" />
@@ -534,7 +533,6 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/gitCode/project_shiro/src/main/resources/jdbc_realm.ini" timestamp="1503465907472" />
       <file name="$USER_HOME$/Downloads/MeProjects/smmbook/src/codeRose/domain/User.java" timestamp="1492392394438">
         <mark key="'" line="2" column="24" />
         <mark key="[" line="2" column="24" />
@@ -1224,6 +1222,9 @@
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/config/IniSecurityManagerFactory.class" timestamp="1503477775581">
+        <mark key="'" line="43" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MediatorPattern/Main.java" timestamp="1491663202284">
         <mark key="[" line="32" column="7" />
         <mark key="]" line="32" column="8" />
@@ -1282,7 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="19" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
       <jump line="15" column="55" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/DoubleArraySize.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
@@ -1382,6 +1382,7 @@
       <jump line="31" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/java/me/leetcode/leetcode001.java" />
       <jump line="17" column="42" filename="$USER_HOME$/Downloads/MeProjects/leetcode/src/AddTwoNumbers.java" />
       <jump line="7" column="19" filename="$USER_HOME$/Downloads/MeProjects/leetcode/src/MedianOfTwoSortedArrays.java" />
+      <jump line="43" column="27" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/config/IniSecurityManagerFactory.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
