@@ -267,6 +267,11 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/gitCode/spring-boot-examples/spring-boot-mybatis-xml/src/main/resources/application.properties" timestamp="1503839620725">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/js/adminTicket.js" timestamp="1492007946572">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="120" column="0" />
@@ -584,7 +589,7 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="21" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503838794857">
+      <file name="/Dummy.txt" timestamp="1503839589311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/OrderList.java" timestamp="1491804221904">
@@ -887,6 +892,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/gitCode/spring-boot-examples/spring-boot-mybatis-xml/src/main/java/com/neo/web/UserController.java" timestamp="1503840264159" />
       <file name="$USER_HOME$/Desktop/hb/hb-admin/src/main/resources/application.properties" timestamp="1499945630834">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -1394,10 +1400,10 @@
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>redis</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCE=</text>
