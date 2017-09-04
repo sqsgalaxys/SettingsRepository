@@ -71,11 +71,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://shiqiushi@hbgit.guojingold.com/hongbao/hb.git" />
+          <option name="url" value="http://root@hbgit.guojingold.com/hongbao/hb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://root@hbgit.guojingold.com/hongbao/hb.git" />
+          <option name="url" value="http://shiqiushi@hbgit.guojingold.com/hongbao/hb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
