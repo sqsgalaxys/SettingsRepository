@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
@@ -20,11 +20,18 @@
       <mask>*.w'i</mask>
       <mask>*.w'i'k</mask>
       <mask>*.wiki</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.x'm</mask>
       <mask>*.x'm'l</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.p'r</mask>
+      <mask>*.p'ro</mask>
+      <mask>*.pro</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>

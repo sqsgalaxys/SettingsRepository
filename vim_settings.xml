@@ -568,7 +568,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504580289864">
+      <file name="/Dummy.txt" timestamp="1504592726918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Foo.java" timestamp="1492429492595">
@@ -616,8 +616,12 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504517088779">
         <mark key="'" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504520659488">
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504592745638">
         <mark key="'" line="76" column="0" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
         <mark key="[" line="5" column="13" />
