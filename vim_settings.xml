@@ -135,6 +135,10 @@
         <mark key="^" line="8" column="74" />
         <mark key="." line="8" column="74" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/TempCode.java" timestamp="1504594266488">
+        <mark key="'" line="14" column="21" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/random/example/GenerateRandomBigIntegerValue.java" timestamp="1491528956075">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="10" column="1" />
@@ -568,7 +572,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504592726918">
+      <file name="/Dummy.txt" timestamp="1504594325022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Foo.java" timestamp="1492429492595">
@@ -647,7 +651,7 @@
         <mark key="." line="54" column="78" />
         <mark key="^" line="54" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1504580289769">
+      <file name="/fragment.java" timestamp="1504594325001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -655,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
       <jump line="13" column="33" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
       <jump line="15" column="38" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillElementsArray.java" />
       <jump line="28" column="23" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillElementsArray.java" />
@@ -755,6 +758,7 @@
       <jump line="11" column="31" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
       <jump line="1" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
       <jump line="76" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
+      <jump line="14" column="21" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/TempCode.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
