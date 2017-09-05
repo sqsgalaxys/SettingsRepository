@@ -75,7 +75,7 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/pom.xml" timestamp="1504512732473">
+      <file name="$USER_HOME$/gitCode/hb/pom.xml" timestamp="1504519180798">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
@@ -117,7 +117,6 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/Prizes/action/PrizesAction.java" timestamp="1504514293834" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十八日/AlphabeticalOrder.java" timestamp="1493358531728">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="7" column="64" />
@@ -166,7 +165,6 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/activity/action/ActivityAction.java" timestamp="1504513566769" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十二日/Fibonacci.java" timestamp="1492824739768">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="20" />
@@ -179,7 +177,6 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/statichtml/action/HtmlGsyhAction.java" timestamp="1504517369785" />
       <file name="$USER_HOME$/Desktop/hb/hb-admin/src/main/resources/webapp/templates/index.html" timestamp="1499849076702">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -197,6 +194,9 @@
         <mark key="]" line="20" column="55" />
         <mark key="^" line="14" column="73" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/resources/application.properties" timestamp="1504520584982">
+        <mark key="'" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/MVCPattern/Main.java" timestamp="1491668474852">
         <mark key="[" line="60" column="65" />
@@ -253,7 +253,6 @@
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/draw/util/AliasMethod.java" timestamp="1504513954865" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/random/RandomNumberBetweenRange.java" timestamp="1491773467038">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="11" column="3" />
@@ -410,7 +409,7 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/showinfo/action/ShowInfoAction.java" timestamp="1504517474181" />
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/showinfo/action/ShowInfoAction.java" timestamp="1504517672576" />
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/dao/AdminUserMapper.java" timestamp="1492011382037">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="19" column="60" />
@@ -423,7 +422,6 @@
         <mark key="^" line="30" column="80" />
         <mark key="." line="30" column="80" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/Application.java" timestamp="1504512383594" />
       <file name="$USER_HOME$/Downloads/MeProjects/leetcode/src/lettcode1.java" timestamp="1502831448157">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -451,6 +449,7 @@
         <mark key="." line="143" column="5" />
         <mark key="^" line="143" column="5" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/fastdfs-client.properties" timestamp="1504518960428" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月三十日/ShuffleElements.java" timestamp="1493523826677">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
@@ -508,13 +507,13 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/users/action/WechartAction.java" timestamp="1504514144819" />
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/gof/DAOPattern/Main.java" timestamp="1491721092987">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="35" column="66" />
         <mark key="." line="35" column="66" />
         <mark key="^" line="35" column="66" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/gamescore/action/GameAction.java" timestamp="1504518676550" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月十九日/ConvertMathematical.java" timestamp="1492618112262">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="32" />
@@ -533,6 +532,7 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/login.html" timestamp="1504520134264" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/BinarySearchMethod.java" timestamp="1493159837173">
         <mark key="[" line="29" column="19" />
         <mark key="]" line="30" column="14" />
@@ -554,6 +554,7 @@
       <file name="/dummy.sql" timestamp="1504517139170">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/user/model/dto/UuserDTO.java" timestamp="1504518912939" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月十九日/ConvertPlotPolar.java" timestamp="1492618209363">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -572,7 +573,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504517342899">
+      <file name="/Dummy.txt" timestamp="1504520753285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Foo.java" timestamp="1492429492595">
@@ -620,8 +621,8 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504517088779">
         <mark key="'" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504516748692">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504520659488">
+        <mark key="'" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Main.java" timestamp="1491454145251">
         <mark key="[" line="5" column="13" />
@@ -635,7 +636,6 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/dict/action/DictAction.java" timestamp="1504514847858" />
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/java/com/oracle/ebp/domain/Order.java" timestamp="1491804052254">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="12" column="70" />
@@ -648,7 +648,7 @@
         <mark key="." line="54" column="78" />
         <mark key="^" line="54" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1504514771007">
+      <file name="/fragment.java" timestamp="1504517957418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -656,10 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇一日/ShuffleTwoArrays.java" />
-      <jump line="22" column="20" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
-      <jump line="10" column="11" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/RandomlyChosen.java" />
-      <jump line="12" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/FillArray.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
       <jump line="13" column="33" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
       <jump line="15" column="38" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillElementsArray.java" />
@@ -756,6 +752,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" />
       <jump line="39" column="36" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" />
       <jump line="64" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" />
+      <jump line="28" column="9" filename="$USER_HOME$/gitCode/hb/hb-pay/src/main/resources/application.properties" />
+      <jump line="11" column="31" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
+      <jump line="1" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
+      <jump line="76" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
