@@ -75,11 +75,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/pom.xml" timestamp="1504519180798">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="0" />
+      <file name="$USER_HOME$/gitCode/hb/pom.xml" timestamp="1504597707324">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/java2s/stream/StreamExample.java" timestamp="1491888740633">
         <mark key="[" line="42" column="24" />
@@ -515,6 +515,9 @@
         <mark key="." line="35" column="66" />
         <mark key="^" line="35" column="66" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
+        <mark key="'" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月十九日/ConvertMathematical.java" timestamp="1492618112262">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="32" />
@@ -572,7 +575,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504594325022">
+      <file name="/Dummy.txt" timestamp="1504596861693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Foo.java" timestamp="1492429492595">
@@ -617,7 +620,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504517088779">
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504597074640">
         <mark key="'" line="39" column="36" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504592745638">
@@ -659,8 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="33" filename="$USER_HOME$/Downloads/Test/meThinkingInJavaPracticeCode/CoffeeGenerator.java" />
-      <jump line="15" column="38" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillElementsArray.java" />
       <jump line="28" column="23" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillElementsArray.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇三日/FillElementsArray.java" />
       <jump line="42" column="4" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇四日/ComparableObject.java" />
@@ -759,25 +760,27 @@
       <jump line="1" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
       <jump line="76" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
       <jump line="14" column="21" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/TempCode.java" />
+      <jump line="27" column="20" filename="$USER_HOME$/gitCode/hb/pom.xml" />
+      <jump line="4" column="2" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogICAgPGphdmEuaG9tZT5DOlxQcm9ncmFtIEZpbGVzXEphdmFcamRrMS44LjBfMTQ0PC9qYXZhLmhvbWU+CiAgICA8amF2YS5ob21lPkM6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNDQ8L2phdmEuaG9tZT4KICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>C:\Program Files\Java\jdk1.8.0_144</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>44</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmluZE1lZGlhblNvcnRlZEFycmF5cyhBLCBCKSk7OyAvLyAyLjAK</text>
+        <text encoding="base64">ICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogICAgPGphdmEuaG9tZT5DOlxQcm9ncmFtIEZpbGVzXEphdmFcamRrMS44LjBfMTQ0PC9qYXZhLmhvbWU+CiAgICA8amF2YS5ob21lPkM6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNDQ8L2phdmEuaG9tZT4KICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogIDwvcHJvcGVydGllcz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+Y24ueGlleGlhbmJpbi5mYXN0ZGZzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5mYXN0ZGZzLWNsaWVudC1qYXZhPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjI1LVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,37 +794,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+Y24ueGlleGlhbmJpbi5mYXN0ZGZzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5mYXN0ZGZzLWNsaWVudC1qYXZhPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjI1LVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kTWVkaWFuU29ydGVkQXJyYXlzKEEsIEIpOyAvLyAyLjAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZpbmRNZWRpYW5Tb3J0ZWRBcnJheXMoQSwgQik7IC8vIDIuNQo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5kTWVkaWFuU29ydGVkQXJyYXlzKEEsIEIpOyAvLyAyLjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyogICovLyoqLy8qKi8vKiovLyogICovLyoqLy8qKi8vKiovLyoqLy8qKi8vKiovLyoqLy8qKgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbmRNZWRpYW5Tb3J0ZWRBcnJheXMoQSwgQik7IC8vIDIuNQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>44</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>44</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -829,7 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZTFcPg==</entry>
         <entry>'a</entry>
         <entry>0</entry>
         <entry encoding="base64">XDxudW1iZXJzXD4=</entry>
@@ -849,6 +851,7 @@
         <entry>log</entry>
         <entry>ms</entry>
         <entry>action</entry>
+        <entry>44</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
