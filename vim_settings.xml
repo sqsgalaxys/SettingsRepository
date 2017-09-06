@@ -291,9 +291,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504671593726">
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504675205795">
         <mark key="'" line="96" column="13" />
         <mark key="[" line="80" column="34" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminindex.jsp" timestamp="1491806551051">
         <mark key="[" line="2" column="40" />
@@ -571,6 +573,9 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
+        <mark key="[" line="296" column="61" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十日/evaluateMathExpressions.java" timestamp="1492651914203">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="16" column="25" />
@@ -583,7 +588,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504672175931">
+      <file name="/Dummy.txt" timestamp="1504674342236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Foo.java" timestamp="1492429492595">
@@ -631,8 +636,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504672035590">
-        <mark key="'" line="39" column="36" />
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504675215148">
+        <mark key="'" line="35" column="4" />
         <mark key="[" line="39" column="130" />
         <mark key="]" line="39" column="130" />
         <mark key="^" line="39" column="130" />
@@ -677,8 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="5" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/JS/report.js" />
-      <jump line="595" column="25" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/AuditPhone.jsp" />
       <jump line="0" column="11" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/JS/report.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/JS/report.js" />
       <jump line="4" column="6" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/JS/report.js" />
@@ -777,19 +780,21 @@
       <jump line="96" column="40" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="205" column="13" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="96" column="13" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogICAgPGphdmEuaG9tZT5DOlxQcm9ncmFtIEZpbGVzXEphdmFcamRrMS44LjBfMTQ0PC9qYXZhLmhvbWU+CiAgICA8amF2YS5ob21lPkM6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNDQ8L2phdmEuaG9tZT4KICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogIDwvcHJvcGVydGllcz4K</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>C:\Program Files\Java\jdk1.8.0_144</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGlucHV0</text>
+        <text>actionx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogICAgPGphdmEuaG9tZT5DOlxQcm9ncmFtIEZpbGVzXEphdmFcamRrMS44LjBfMTQ0PC9qYXZhLmhvbWU+CiAgICA8amF2YS5ob21lPkM6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNDQ8L2phdmEuaG9tZT4KICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogIDwvcHJvcGVydGllcz4K</text>
@@ -837,9 +842,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PGlucHV0</last-search>
+      <last-search>actionx</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGlucHV0</last-pattern>
+      <last-pattern>actionx</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +852,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxMzU0Nlw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VTY29yZVw+</entry>
         <entry encoding="base64">XDxDb250ZXh0TG9hZGVyTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbk1hbmFnZXJcPg==</entry>
@@ -867,6 +871,7 @@
         <entry>input</entry>
         <entry encoding="base64">XDxpbnB1dA==</entry>
         <entry encoding="base64">PGlucHV0</entry>
+        <entry>actionx</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
