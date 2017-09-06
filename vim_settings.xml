@@ -291,6 +291,9 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504666349288">
+        <mark key="'" line="96" column="13" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/svn/EBP/EBP/src/main/webapp/admin/adminindex.jsp" timestamp="1491806551051">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="44" />
@@ -542,7 +545,7 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/login.html" timestamp="1504666158428" />
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/login.html" timestamp="1504666338614" />
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月二十五日/BinarySearchMethod.java" timestamp="1493159837173">
         <mark key="[" line="29" column="19" />
         <mark key="]" line="30" column="14" />
@@ -582,7 +585,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504665773135">
+      <file name="/Dummy.txt" timestamp="1504666340253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeProjects/untitled/src/Ainbox/Foo.java" timestamp="1492429492595">
@@ -674,7 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="1" filename="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇五月〇七日/DirectedGraph.java" />
       <jump line="27" column="5" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/JS/report.js" />
       <jump line="595" column="25" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/AuditPhone.jsp" />
       <jump line="0" column="11" filename="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/JS/report.js" />
@@ -774,6 +776,7 @@
       <jump line="90" column="16" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="96" column="40" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="205" column="13" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
+      <jump line="96" column="13" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
