@@ -235,6 +235,9 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
+        <mark key="'" line="35" column="16" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/meHistory/src/com/sqsgalaxys/Test.java" timestamp="1491454121042">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="21" />
@@ -660,8 +663,8 @@
       <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
         <mark key="'" line="273" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" timestamp="1505119820021">
-        <mark key="'" line="1047" column="31" />
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" timestamp="1505122252835">
+        <mark key="'" line="446" column="16" />
         <mark key="[" line="138" column="11" />
         <mark key="]" line="138" column="20" />
       </file>
@@ -697,20 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="43" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="8" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="83" column="18" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="168" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="27" column="14" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="22" column="28" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="211" column="0" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="84" column="14" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="8" column="14" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="131" column="14" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="14" column="78" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="4" column="14" filename="$USER_HOME$/OneDrive/Acegi0/WebRoot/WEB-INF/classes/applicationContext-acegi-security.xml" />
-      <jump line="9" column="18" filename="$USER_HOME$/OneDrive/Acegi0/pom.xml" />
-      <jump line="11" column="12" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/pom.xml" />
       <jump line="51" column="0" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/pom.xml" />
       <jump line="48" column="19" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/pom.xml" />
       <jump line="49" column="0" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/pom.xml" />
@@ -797,6 +786,20 @@
       <jump line="138" column="20" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
       <jump line="143" column="33" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
       <jump line="1047" column="31" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="409" column="12" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="413" column="15" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="156" column="24" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
+      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
+      <jump line="35" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
+      <jump line="460" column="58" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="459" column="29" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="588" column="8" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="397" column="33" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="432" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="436" column="20" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="437" column="24" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="440" column="24" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
+      <jump line="446" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -809,7 +812,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>if</text>
       </register>
       <register name="0" type="4">
         <text>Properties</text>
@@ -853,13 +856,13 @@
         <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -867,15 +870,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PCE=</entry>
-        <entry>mysql</entry>
-        <entry>log</entry>
-        <entry>ms</entry>
-        <entry>action</entry>
-        <entry>44</entry>
-        <entry>form</entry>
-        <entry>input</entry>
-        <entry encoding="base64">XDxpbnB1dA==</entry>
         <entry encoding="base64">PGlucHV0</entry>
         <entry>actionx</entry>
         <entry>static {</entry>
@@ -887,11 +881,17 @@
         <entry>props</entry>
         <entry>list(</entry>
         <entry>list</entry>
+        <entry encoding="base64">XDxpbkNoYXJCdWZcPg==</entry>
+        <entry>Read</entry>
+        <entry>Readable</entry>
+        <entry encoding="base64">XDxpc0NvbW1lbnRMaW5lXD4=</entry>
+        <entry>\u</entry>
+        <entry>\\u</entry>
+        <entry>&quot; &quot;</entry>
+        <entry>\&quot;\ &quot;</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
-        <entry>222</entry>
-        <entry>8</entry>
-        <entry>14t.-1</entry>
         <entry>28</entry>
         <entry>34</entry>
         <entry>t9</entry>
@@ -909,6 +909,9 @@
         <entry>17</entry>
         <entry>sort u</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>q1</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
