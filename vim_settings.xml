@@ -175,6 +175,7 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runtime.java" timestamp="1505118352484" />
       <file name="$USER_HOME$/Desktop/hb/hb-admin/src/main/resources/webapp/templates/index.html" timestamp="1499849076702">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -527,6 +528,9 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
         <mark key="'" line="4" column="2" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" timestamp="1505118572165">
+        <mark key="'" line="130" column="22" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeProjects/everydaymaincode/src/二〇一七年〇四月十九日/ConvertMathematical.java" timestamp="1492618112262">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="32" />
@@ -682,9 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="11" filename="$USER_HOME$/Desktop/Acegi0/src/applicationContext-acegi-security.xml" />
-      <jump line="48" column="44" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
-      <jump line="25" column="0" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
       <jump line="10" column="11" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
       <jump line="26" column="19" filename="$USER_HOME$/Downloads/OneDrive/Acegi0/WebRoot/WEB-INF/web.xml" />
@@ -782,6 +783,9 @@
       <jump line="1175" column="22" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" />
       <jump line="1111" column="4" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" />
       <jump line="1121" column="36" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" />
+      <jump line="297" column="31" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" />
+      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" />
+      <jump line="130" column="22" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -794,7 +798,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text encoding="base64">XDxsb2FkTGlicmFyeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogICAgPGphdmEuaG9tZT5DOlxQcm9ncmFtIEZpbGVzXEphdmFcamRrMS44LjBfMTQ0PC9qYXZhLmhvbWU+CiAgICA8amF2YS5ob21lPkM6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNDQ8L2phdmEuaG9tZT4KICAgIDxqYXZhLmhvbWU+QzpcUHJvZ3JhbSBGaWxlc1xKYXZhXGpkazEuOC4wXzE0NDwvamF2YS5ob21lPgogIDwvcHJvcGVydGllcz4K</text>
@@ -842,9 +846,9 @@
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search encoding="base64">XDxsb2FkTGlicmFyeVw+</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkTGlicmFyeVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -852,8 +856,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYW9BdXRoZW50aWNhdGlvblByb3ZpZGVyXD4=</entry>
-        <entry encoding="base64">XDxmaWx0ZXJDaGFpblByb3h5XD4=</entry>
         <entry encoding="base64">XDxleGNlcHRpb25UcmFuc2xhdGlvbkZpbHRlclw+</entry>
         <entry>https</entry>
         <entry>jsp</entry>
@@ -872,6 +874,8 @@
         <entry>static \{</entry>
         <entry encoding="base64">XDxDb21wYXJhdG9yXD4=</entry>
         <entry>return</entry>
+        <entry>load</entry>
+        <entry encoding="base64">XDxsb2FkTGlicmFyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
