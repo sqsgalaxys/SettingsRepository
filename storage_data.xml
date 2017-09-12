@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flip" />
       <item value="filter" />
       <item value="param" />
       <item value="providers" />
@@ -50,7 +51,6 @@
       <item value="price" />
       <item value="interoperability" />
       <item value="sentence" />
-      <item value="句子" />
     </histories>
   </component>
 </application>
