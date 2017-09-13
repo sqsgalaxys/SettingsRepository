@@ -3,6 +3,7 @@
     <option name="addedPositive">
       <list>
         <option value="17:02:15 INFO  [Crawler 1] - [WebCrawler]- URL: http://news.sohu.com/20160825/n465957045.shtml" />
+        <option value="06-Sep-2017 12:51:51.341 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.webresources.Cache.backgroundProcess The background cache eviction process was unable to free [10] percent of the cache for Context [/hb-admin] - consider increasing the maximum size of the cache. After eviction approximately [9,243] KB of data remained in the cache." />
       </list>
     </option>
   </component>
