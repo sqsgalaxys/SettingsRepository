@@ -3,8 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/MeProject/testJNI/src/HelloWorld.java" timestamp="1505982936785">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
+      </file>
+      <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1505983835107">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
         <mark key="'" line="4" column="2" />
@@ -215,7 +226,7 @@
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>url</text>
@@ -227,7 +238,7 @@
         <text>System.getProperty(&quot;os.name&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -244,28 +255,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgib3MubmFtZSIpLmluZGV4T2YoIldpbmRvdyIpIT0tMSkgewo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgib3MubmFtZSIpLmluZGV4T2YoIldpbmRvdyIpIT0tMSkgewo=</text>
+      </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -317,10 +328,10 @@
         <entry>20</entry>
         <entry>17</entry>
         <entry>sort u</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>q1</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
