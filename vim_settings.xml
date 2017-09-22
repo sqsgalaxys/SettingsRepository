@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1506074509342">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
         <mark key="'" line="56" column="36" />
       </file>
@@ -15,6 +21,9 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
         <mark key="'" line="64" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1506075061915">
+        <mark key="'" line="305" column="29" />
+      </file>
       <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506061432585">
         <mark key="'" line="159" column="14" />
       </file>
@@ -22,6 +31,7 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/MeProject/testJNI/src/Thread_setUncaughtExceptionHandler.java" timestamp="1506069296350" />
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/String.java" timestamp="1506076109239" />
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,8 +44,8 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" timestamp="1506073183028">
         <mark key="'" line="826" column="79" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" timestamp="1506069739262">
-        <mark key="'" line="146" column="39" />
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" timestamp="1506074885065">
+        <mark key="'" line="1526" column="34" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
         <mark key="'" line="61" column="44" />
@@ -70,7 +80,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506070917052">
+      <file name="/Dummy.txt" timestamp="1506075211741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
@@ -90,8 +100,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1506069179163">
-        <mark key="'" line="2044" column="8" />
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
+        <mark key="'" line="151" column="33" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1506076174791">
+        <mark key="'" line="105" column="25" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
         <mark key="'" line="273" column="0" />
@@ -105,23 +118,11 @@
       <file name="$USER_HOME$/gitCode/Android_Code_Arbiter/pom.xml" timestamp="1505954515217">
         <mark key="'" line="73" column="37" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" timestamp="1506071896196">
-        <mark key="'" line="306" column="8" />
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" timestamp="1506074465449">
+        <mark key="'" line="403" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" />
-      <jump line="14" column="21" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/TempCode.java" />
-      <jump line="27" column="20" filename="$USER_HOME$/gitCode/hb/pom.xml" />
-      <jump line="4" column="2" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" />
-      <jump line="91" column="15" filename="$USER_HOME$/gitCode/hb/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/payment/thread/SendThread.java" />
-      <jump line="281" column="0" filename="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/payment/thread/SendThread.java" />
-      <jump line="113" column="37" filename="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/payment/thread/SendThread.java" />
-      <jump line="173" column="6" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="74" column="20" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="34" column="21" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="35" column="20" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="36" column="17" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="32" column="25" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
       <jump line="33" column="22" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
@@ -210,25 +211,37 @@
       <jump line="800" column="19" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
       <jump line="817" column="24" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
       <jump line="826" column="79" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
+      <jump line="125" column="24" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
+      <jump line="159" column="20" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
+      <jump line="164" column="21" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
+      <jump line="339" column="73" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
+      <jump line="403" column="22" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
+      <jump line="1526" column="34" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" />
+      <jump line="305" column="29" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" />
+      <jump line="379" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
+      <jump line="367" column="5" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
+      <jump line="349" column="5" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
+      <jump line="151" column="33" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" />
+      <jump line="105" column="25" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICBteU91dFN0cmVhbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">PC9wcmU+</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>System.getProperty(&quot;os.name&quot;)</text>
+        <text>myOutStream</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBteU91dFN0cmVhbQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -242,37 +255,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgib3MubmFtZSIpLmluZGV4T2YoIldpbmRvdyIpIT0tMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -280,9 +293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Read</entry>
-        <entry>Readable</entry>
-        <entry encoding="base64">XDxpc0NvbW1lbnRMaW5lXD4=</entry>
         <entry>\u</entry>
         <entry>\\u</entry>
         <entry>&quot; &quot;</entry>
@@ -300,6 +310,9 @@
         <entry>ReadLine</entry>
         <entry>Line</entry>
         <entry>class</entry>
+        <entry>loopback</entry>
+        <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="J Shell my Shell = J Shell . builder () . out ( my Out Stream ) . err ( my Err Stream ) . build (); } &lt;/ pre &gt;" />
       <item value="suspend" />
       <item value="Uncaught" />
       <item value="thread" />
@@ -50,7 +51,6 @@
       <item value="supplier" />
       <item value="winning" />
       <item value="guaranteed" />
-      <item value="Instantiation" />
     </histories>
   </component>
 </application>
