@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suspend" />
+      <item value="Uncaught" />
+      <item value="thread" />
+      <item value="public" />
+      <item value="INTERFACE" />
+      <item value="VAR" />
       <item value="Stopwatchs" />
       <item value="flip" />
       <item value="filter" />
@@ -45,12 +51,6 @@
       <item value="winning" />
       <item value="guaranteed" />
       <item value="Instantiation" />
-      <item value="Ancestor" />
-      <item value="snapshot" />
-      <item value="test" />
-      <item value="科学" />
-      <item value="price" />
-      <item value="interoperability" />
     </histories>
   </component>
 </application>
