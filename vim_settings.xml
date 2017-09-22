@@ -16,8 +16,16 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1506100739083">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/meProject/testJNIEx/src/com/localhost/test/TestApp.java" timestamp="1506100787990">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504675215148">
         <mark key="'" line="35" column="4" />
@@ -38,14 +46,14 @@
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" timestamp="1505118572165">
         <mark key="'" line="130" column="22" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504675205795">
-        <mark key="'" line="96" column="13" />
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="80" column="34" />
-        <mark key="." line="80" column="34" />
-      </file>
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/meProject/testJNIEx/src/cn/com/webxml/ObjectFactory.java" timestamp="1506100126375">
+        <mark key="[" line="65" column="40" />
+        <mark key="]" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+        <mark key="^" line="56" column="48" />
       </file>
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
@@ -53,7 +61,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
         <mark key="'" line="15" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504889371266">
+      <file name="/Dummy.txt" timestamp="1506100157322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
@@ -104,7 +112,11 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/meProject/testJNIEx/src/com/sqsgalaxys/TestWebService.java" timestamp="1506100153671" />
       <file name="/Clipboard.txt" timestamp="1500101992590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1506100031237">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -214,11 +226,11 @@
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>Main</text>
