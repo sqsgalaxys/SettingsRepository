@@ -11,6 +11,12 @@
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
       </file>
+      <file name="$USER_HOME$/MeProject/testJNI/src/TTT.java" timestamp="1506044496415">
+        <mark key="'" line="1" column="28" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1505983835107">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="6" column="31" />
@@ -120,8 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="45" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
-      <jump line="44" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
@@ -220,19 +224,21 @@
       <jump line="64" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="70" column="8" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="73" column="37" filename="$USER_HOME$/gitCode/Android_Code_Arbiter/pom.xml" />
+      <jump line="13" column="12" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
+      <jump line="1" column="28" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>Main</text>
+        <text encoding="base64">XDxUaW1lVW5pdFw+</text>
       </register>
       <register name="0" type="4">
         <text>System.getProperty(&quot;os.name&quot;)</text>
@@ -280,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Main</last-search>
+      <last-search encoding="base64">XDxUaW1lVW5pdFw+</last-search>
       <last-offset />
-      <last-pattern>Main</last-pattern>
+      <last-pattern encoding="base64">XDxUaW1lVW5pdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>-1</last-dir>
@@ -290,7 +296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>actionx</entry>
         <entry>static {</entry>
         <entry>static \{</entry>
         <entry encoding="base64">XDxDb21wYXJhdG9yXD4=</entry>
@@ -310,6 +315,7 @@
         <entry>\&quot;\ &quot;</entry>
         <entry>if</entry>
         <entry>Main</entry>
+        <entry encoding="base64">XDxUaW1lVW5pdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
