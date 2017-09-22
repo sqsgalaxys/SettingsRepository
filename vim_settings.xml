@@ -109,7 +109,9 @@
         <mark key="[" line="138" column="11" />
         <mark key="]" line="138" column="20" />
       </file>
-      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506059538355" />
+      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506061432585">
+        <mark key="'" line="159" column="14" />
+      </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
@@ -127,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="11" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="12" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
@@ -227,6 +228,7 @@
       <jump line="13" column="12" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
       <jump line="1" column="28" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
       <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
+      <jump line="159" column="14" filename="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -239,7 +241,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaW1lVW5pdFw+</text>
+        <text encoding="base64">XDxTZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>System.getProperty(&quot;os.name&quot;)</text>
@@ -287,9 +289,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaW1lVW5pdFw+</last-search>
+      <last-search encoding="base64">XDxTZXJ2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaW1lVW5pdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxTZXJ2ZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>-1</last-dir>
@@ -297,7 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>static {</entry>
         <entry>static \{</entry>
         <entry encoding="base64">XDxDb21wYXJhdG9yXD4=</entry>
         <entry>return</entry>
@@ -317,6 +318,7 @@
         <entry>if</entry>
         <entry>Main</entry>
         <entry encoding="base64">XDxUaW1lVW5pdFw+</entry>
+        <entry encoding="base64">XDxTZXJ2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
