@@ -11,10 +11,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
       </file>
-      <file name="$USER_HOME$/MeProject/testJNI/src/TTT.java" timestamp="1506044496415">
+      <file name="$USER_HOME$/MeProject/testJNI/src/TTT.java" timestamp="1506045180894">
         <mark key="'" line="1" column="28" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="37" />
         <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1505983835107">
@@ -231,8 +231,8 @@
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
