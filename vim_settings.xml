@@ -76,17 +76,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/api/symphony/ArticleReceiver.java" timestamp="1506058566956" />
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" timestamp="1505119559229">
         <mark key="'" line="716" column="34" />
         <mark key="[" line="716" column="15" />
         <mark key="]" line="716" column="33" />
       </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504675205795">
-        <mark key="'" line="96" column="13" />
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="80" column="34" />
-        <mark key="." line="80" column="34" />
-      </file>
+      <file name="$USER_HOME$/gitCode/solo/pom.xml" timestamp="1506058363727" />
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504675215148">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="39" column="130" />
