@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stopwatchs" />
       <item value="flip" />
       <item value="filter" />
       <item value="param" />
@@ -50,7 +51,6 @@
       <item value="科学" />
       <item value="price" />
       <item value="interoperability" />
-      <item value="sentence" />
     </histories>
   </component>
 </application>

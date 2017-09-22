@@ -67,6 +67,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
         <mark key="'" line="35" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" timestamp="1506059561049">
+        <mark key="'" line="44" column="26" />
+      </file>
       <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
         <mark key="'" line="5" column="0" />
       </file>
@@ -77,6 +80,7 @@
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/api/symphony/ArticleReceiver.java" timestamp="1506058566956" />
+      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/dev/ArticleGenerator.java" timestamp="1506059136996" />
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" timestamp="1505119559229">
         <mark key="'" line="716" column="34" />
         <mark key="[" line="716" column="15" />
@@ -105,6 +109,7 @@
         <mark key="[" line="138" column="11" />
         <mark key="]" line="138" column="20" />
       </file>
+      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506059538355" />
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
@@ -122,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="11" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
@@ -222,6 +226,7 @@
       <jump line="73" column="37" filename="$USER_HOME$/gitCode/Android_Code_Arbiter/pom.xml" />
       <jump line="13" column="12" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
       <jump line="1" column="28" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
+      <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
