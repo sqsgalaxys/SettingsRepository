@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1506100739083">
+      <file name="/a.dummy" timestamp="1506355143207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/java9-modules/testJava9module/src/module-info.java" timestamp="1506190149875">
@@ -69,8 +69,20 @@
       <file name="/HTML File.txt.ft" timestamp="1506189819528">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemoEx.java" timestamp="1506355361402">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemo.java" timestamp="1506355022248">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
         <mark key="'" line="15" column="36" />
@@ -105,7 +117,6 @@
         <mark key="[" line="716" column="15" />
         <mark key="]" line="716" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/VIM/information.md" timestamp="1506225961595" />
       <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
         <mark key="'" line="5" column="0" />
       </file>
@@ -135,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="45" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="44" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
@@ -235,25 +245,26 @@
       <jump line="64" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="70" column="8" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="0" column="13" filename="$USER_HOME$/gitCode/spring-boot-examples/testNative/src/HelloWorld.java" />
+      <jump line="9" column="26" filename="$USER_HOME$/Downloads/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IGltcG9ydCBqYXZhLmxhbmcuUHJvY2Vzc0J1aWxkZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>小明</text>
+        <text>getPid</text>
       </register>
       <register name="/" type="4">
         <text>Main</text>
       </register>
       <register name="0" type="4">
-        <text>System.getProperty(&quot;os.name&quot;)</text>
+        <text>import</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IGltcG9ydCBqYXZhLmxhbmcuUHJvY2Vzc0J1aWxkZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -267,28 +278,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgib3MubmFtZSIpLmluZGV4T2YoIldpbmRvdyIpIT0tMSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
