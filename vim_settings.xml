@@ -3,133 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitCode/spring-boot-examples/testNative/src/HelloWorld.java" timestamp="1505318534919">
-        <mark key="'" line="0" column="13" />
+      <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
+        <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/MeProject/testJNI/src/OneTab.java" timestamp="1505211012267">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="61" column="48" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
-        <mark key="'" line="323" column="6" />
-      </file>
-      <file name="/a.dummy" timestamp="1506355143207">
+      <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Test/java9-modules/testJava9module/src/module-info.java" timestamp="1506190149875">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
-        <mark key="'" line="1121" column="36" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/meProject/testJNIEx/src/com/localhost/test/TestApp.java" timestamp="1506102176370">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504675215148">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="39" column="130" />
-        <mark key="]" line="39" column="130" />
-        <mark key="^" line="39" column="130" />
-        <mark key="." line="39" column="130" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
-        <mark key="'" line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/resources/application.properties" timestamp="1504520584982">
-        <mark key="'" line="28" column="9" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" timestamp="1505118572165">
-        <mark key="'" line="130" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="/Unnamed.txt.ft" timestamp="1506189823326">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
+        <mark key="'" line="1121" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/meProject/testJNIEx/src/com/localhost/test/package-info.java" timestamp="1506102249952">
-        <mark key="[" line="2" column="2" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/meProject/testJNIEx/src/cn/com/webxml/ObjectFactory.java" timestamp="1506100126375">
-        <mark key="[" line="65" column="40" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-        <mark key="^" line="56" column="48" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1506189819528">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemoEx.java" timestamp="1506355361402">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1504752700640">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemo.java" timestamp="1506355022248">
-        <mark key="'" line="7" column="26" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
+      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/resources/application.properties" timestamp="1504520584982">
+        <mark key="'" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
         <mark key="'" line="15" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506223739170">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
-        <mark key="'" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
-        <mark key="[" line="705" column="109" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
-        <mark key="[" line="296" column="61" />
-      </file>
       <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" timestamp="1504602361284">
         <mark key="'" line="205" column="13" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504592745638">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" timestamp="1505119559229">
-        <mark key="'" line="716" column="34" />
-        <mark key="[" line="716" column="15" />
-        <mark key="]" line="716" column="33" />
-      </file>
-      <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
-        <mark key="'" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
-        <mark key="'" line="273" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
-        <mark key="'" line="4" column="2" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" timestamp="1505122252835">
-        <mark key="'" line="446" column="16" />
-        <mark key="[" line="138" column="11" />
-        <mark key="]" line="138" column="20" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/com/guojingold/hb/mapper/SysUserMapper.xml" timestamp="1504516927187">
         <mark key="'" line="16" column="22" />
@@ -138,14 +31,83 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1500101992590">
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
+        <mark key="'" line="35" column="16" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504675205795">
+        <mark key="'" line="96" column="13" />
+        <mark key="[" line="80" column="34" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
+        <mark key="'" line="323" column="6" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
+        <mark key="'" line="64" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" timestamp="1505119559229">
+        <mark key="'" line="716" column="34" />
+        <mark key="[" line="716" column="15" />
+        <mark key="]" line="716" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
+        <mark key="'" line="4" column="2" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" timestamp="1505118572165">
+        <mark key="'" line="130" column="22" />
+      </file>
+      <file name="$USER_HOME$/MeProject/testJNI/src/OneTab.java" timestamp="1505211012267">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="61" column="48" />
+      </file>
+      <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1506100031237">
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
+        <mark key="[" line="296" column="61" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504889371266">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
+        <mark key="[" line="705" column="109" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" timestamp="1504675215148">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="39" column="130" />
+        <mark key="]" line="39" column="130" />
+        <mark key="^" line="39" column="130" />
+        <mark key="." line="39" column="130" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/application.properties" timestamp="1504592745638">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
+        <mark key="'" line="273" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" timestamp="1505122252835">
+        <mark key="'" line="446" column="16" />
+        <mark key="[" line="138" column="11" />
+        <mark key="]" line="138" column="20" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="80" column="28" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/pom.xml" />
+      <jump line="34" column="45" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="44" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
@@ -244,27 +206,25 @@
       <jump line="13" column="21" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="64" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="70" column="8" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
-      <jump line="0" column="13" filename="$USER_HOME$/gitCode/spring-boot-examples/testNative/src/HelloWorld.java" />
-      <jump line="9" column="26" filename="$USER_HOME$/Downloads/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IGltcG9ydCBqYXZhLmxhbmcuUHJvY2Vzc0J1aWxkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getPid</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>Main</text>
       </register>
       <register name="0" type="4">
-        <text>import</text>
+        <text>System.getProperty(&quot;os.name&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGltcG9ydCBqYXZhLmxhbmcuUHJvY2Vzc0J1aWxkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -278,25 +238,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20iOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgib3MubmFtZSIpLmluZGV4T2YoIldpbmRvdyIpIT0tMSkgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

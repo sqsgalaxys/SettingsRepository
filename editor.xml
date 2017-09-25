@@ -1,7 +1,10 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
