@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/module-info.java" timestamp="1506328272443" />
+      <file name="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" timestamp="1506328620047">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
       </file>
@@ -58,7 +65,7 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506075211741">
+      <file name="/Dummy.txt" timestamp="1506328993758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
@@ -111,6 +118,10 @@
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" timestamp="1506329159269">
+        <mark key="[" line="167" column="38" />
+        <mark key="]" line="167" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
@@ -243,8 +254,8 @@
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>('Z' - 'A') + 1</text>
       </register>
       <register name="-" type="4">
         <text>get</text>
@@ -252,8 +263,8 @@
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIik7Cg==</text>
+      <register name="0" type="4">
+        <text>('Z' - 'A') + 1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
