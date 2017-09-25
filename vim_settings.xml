@@ -4,20 +4,68 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/module-info.java" timestamp="1506328272443" />
-      <file name="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" timestamp="1506328620047">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
-        <mark key="'" line="1121" column="36" />
-      </file>
       <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1506074509342">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/System.java" timestamp="1506331252793" />
+      <file name="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" timestamp="1506327083519">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
+        <mark key="'" line="56" column="36" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/internal/jshell/debug/InternalDebugControl.java" timestamp="1506070711655">
+        <mark key="'" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
+        <mark key="'" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
+        <mark key="'" line="64" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1506075061915">
+        <mark key="'" line="305" column="29" />
+      </file>
+      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506061432585">
+        <mark key="'" line="159" column="14" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" timestamp="1506331890103">
+        <mark key="'" line="751" column="36" />
+        <mark key="[" line="167" column="38" />
+        <mark key="]" line="167" column="52" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/MeProject/testJNI/two/src/module-info.java" timestamp="1506327010600">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1500101992590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" timestamp="1506331248303">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/StringLatin1.java" timestamp="1506331475976" />
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
+        <mark key="'" line="1121" column="36" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" timestamp="1506073183028">
         <mark key="'" line="826" column="79" />
@@ -58,13 +106,6 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" timestamp="1506327083519">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-      </file>
       <file name="/Dummy.txt" timestamp="1506328993758">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,29 +115,14 @@
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
         <mark key="'" line="35" column="16" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
-        <mark key="'" line="56" column="36" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/internal/jshell/debug/InternalDebugControl.java" timestamp="1506070711655">
-        <mark key="'" line="59" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" timestamp="1506059561049">
         <mark key="'" line="44" column="26" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/function/Supplier.java" timestamp="1506071505887">
         <mark key="'" line="40" column="14" />
       </file>
-      <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
-        <mark key="'" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
-        <mark key="'" line="64" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1506075061915">
-        <mark key="'" line="305" column="29" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
         <mark key="'" line="151" column="33" />
@@ -110,27 +136,11 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1506076174791">
         <mark key="'" line="105" column="25" />
       </file>
-      <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506061432585">
-        <mark key="'" line="159" column="14" />
-      </file>
       <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
         <mark key="'" line="273" column="0" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" timestamp="1506329159269">
-        <mark key="[" line="167" column="38" />
-        <mark key="]" line="167" column="52" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/MeProject/testJNI/two/src/module-info.java" timestamp="1506327010600">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" timestamp="1506068572428">
         <mark key="'" line="235" column="8" />
@@ -138,25 +148,14 @@
       <file name="$USER_HOME$/gitCode/Android_Code_Arbiter/pom.xml" timestamp="1505954515217">
         <mark key="'" line="73" column="37" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1500101992590">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" timestamp="1506074465449">
         <mark key="'" line="403" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
-        <mark key="[" line="24" column="0" />
+      <file name="/fragment.java" timestamp="1506331701047">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="22" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="243" column="55" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="183" column="55" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="90" column="16" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="96" column="40" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="205" column="13" filename="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" />
-      <jump line="96" column="13" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" />
       <jump line="35" column="4" filename="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/WebConfig.java" />
       <jump line="323" column="6" filename="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" />
       <jump line="15" column="36" filename="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" />
@@ -249,22 +248,30 @@
       <jump line="105" column="25" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
       <jump line="4" column="32" filename="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" />
       <jump line="7" column="0" filename="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
+      <jump line="9" column="12" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
+      <jump line="20" column="4" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
+      <jump line="852" column="4" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" />
+      <jump line="49" column="20" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
+      <jump line="751" column="36" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>('Z' - 'A') + 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxyZXBsYWNlQ3VycmVuY3lEYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>('Z' - 'A') + 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -281,37 +288,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBteU91dFN0cmVhbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHByb3BzRmlsZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiamF2YS5ob21lIikgKyBGaWxlLnNlcGFyYXRvciArICJsaWIiICsKICAgICAgICAgICAgICAgIEZpbGUuc2VwYXJhdG9yICsgImN1cnJlbmN5LnByb3BlcnRpZXMiOwogICAgICAgIAogICAgICAgIHRyeXsKICAgICAgICAgICAgRmlsZSBwcm9wRmlsZSA9IG5ldyBGaWxlKHByb3BzRmlsZSk7CiAgICAgICAgICAgIGlmIChwcm9wRmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICAgICAgUHJvcGVydGllcyBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVzKCk7CiAgICAgICAgICAgICAgICB0cnkgKEZpbGVSZWFkZXIgZnIgPSBuZXcgRmlsZVJlYWRlcihwcm9wRmlsZSkpIHsKICAgICAgICAgICAgICAgICAgICBwcm9wcy5sb2FkKGZyKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IGtleXMgPSBwcm9wcy5zdHJpbmdQcm9wZXJ0eU5hbWVzKCk7CiAgICAgICAgICAgICAgICBQYXR0ZXJuIHByb3BlcnRpZXNQYXR0ZXJuID0KICAgICAgICAgICAgICAgICAgICAgICAgUGF0dGVybi5jb21waWxlKCIoW0EtWl17M30pXFxzKixcXHMqKFxcZHszfSlcXHMqLFxccyoiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiKFxcZCspXFxzKiw/XFxzKihcXGR7NH0tXFxkezJ9LVxcZHsyfVRcXGR7Mn06IiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlxcZHsyfTpcXGR7Mn0pPyIpOwogICAgICAgICAgICAgICAgZm9yIChTdHJpbmcga2V5IDoga2V5cykgewogICAgICAgICAgICAgICAgICAgIHJlcGxhY2VDdXJyZW5jeURhdGEocHJvcGVydGllc1BhdHRlcm4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXkudG9VcHBlckNhc2UoTG9jYWxlLlJPT1QpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcHMuZ2V0UHJvcGVydHkoa2V5KS50b1VwcGVyQ2FzZShMb2NhbGUuUk9PVCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIHByb3BGaWxlID0gbmV3IEZpbGUocHJvcHNGaWxlKTsKICAgICAgICBpZiAocHJvcEZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgUHJvcGVydGllcyBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVzKCk7CiAgICAgICAgICAgIHRyeSAoRmlsZVJlYWRlciBmciA9IG5ldyBGaWxlUmVhZGVyKHByb3BGaWxlKSkgewogICAgICAgICAgICAgICAgcHJvcHMubG9hZChmcik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU2V0PFN0cmluZz4ga2V5cyA9IHByb3BzLnN0cmluZ1Byb3BlcnR5TmFtZXMoKTsKICAgICAgICAgICAgUGF0dGVybiBwcm9wZXJ0aWVzUGF0dGVybiA9CiAgICAgICAgICAgICAgICAgICAgUGF0dGVybi5jb21waWxlKCIoW0EtWl17M30pXFxzKixcXHMqKFxcZHszfSlcXHMqLFxccyoiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIoXFxkKylcXHMqLD9cXHMqKFxcZHs0fS1cXGR7Mn0tXFxkezJ9VFxcZHsyfToiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJcXGR7Mn06XFxkezJ9KT8iKTsKICAgICAgICAgICAgZm9yIChTdHJpbmcga2V5IDoga2V5cykgewogICAgICAgICAgICAgICAgcmVwbGFjZUN1cnJlbmN5RGF0YShwcm9wZXJ0aWVzUGF0dGVybiwKICAgICAgICAgICAgICAgICAgICAgICAga2V5LnRvVXBwZXJDYXNlKExvY2FsZS5ST09UKSwKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcHMuZ2V0UHJvcGVydHkoa2V5KS50b1VwcGVyQ2FzZShMb2NhbGUuUk9PVCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTIyNjIxMi9ob3ctdG8tb3Blbi10aGUtZGVmYXVsdC13ZWJicm93c2VyLXVzaW5nLWphdmEK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIHByb3BGaWxlID0gbmV3IEZpbGUocHJvcHNGaWxlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxyZXBsYWNlQ3VycmVuY3lEYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBsYWNlQ3VycmVuY3lEYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -319,7 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\u</entry>
         <entry>\\u</entry>
         <entry>&quot; &quot;</entry>
         <entry>\&quot;\ &quot;</entry>
@@ -339,6 +345,7 @@
         <entry>loopback</entry>
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
         <entry>create</entry>
+        <entry encoding="base64">XDxyZXBsYWNlQ3VycmVuY3lEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
