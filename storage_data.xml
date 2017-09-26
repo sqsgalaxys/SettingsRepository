@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="of" />
       <item value="NPE" />
       <item value="count" />
       <item value="public" />
@@ -50,7 +51,6 @@
       <item value=". stereo" />
       <item value="register Natives" />
       <item value="SYNTHETIC" />
-      <item value="supplier" />
     </histories>
   </component>
 </application>
