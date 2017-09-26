@@ -106,9 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="28" filename="$USER_HOME$/Desktop/j-acegi1/Source/acegisample/pom.xml" />
-      <jump line="34" column="45" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
-      <jump line="44" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/Acegi0/pom.xml" />
@@ -206,6 +203,9 @@
       <jump line="13" column="21" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="64" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="70" column="8" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
+      <jump line="32" column="9" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" />
+      <jump line="0" column="2007" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
