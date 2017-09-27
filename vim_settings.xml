@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/ProcessTest.java" timestamp="1506515366926">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/ProcessTest.java" timestamp="1506517498503">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Optional.java" timestamp="1506393659858">
         <mark key="'" line="148" column="19" />
@@ -205,7 +205,7 @@
         <mark key="[" line="1287" column="0" />
         <mark key="]" line="1287" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1506331701047">
+      <file name="/fragment.java" timestamp="1506517233050">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -315,11 +315,11 @@
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8g5qCF5qCP77yM6YCa6L+H5a6D5Y+v5Lul5a6e546w6K6p5LiA57uE57q/56iL562J5b6F6Iez5p+Q5Liq54q25oCB5LmL5ZCO5YaN5YWo6YOo5ZCM5pe25omn6KGMCi8vIOWFpeWIl+aAu+WSjAovLyDlh7rliJfmgLvlkowKLy8gMTAg5Liq5om/6L295Zug5a2Q77yMMTAg5Liq57q/56iL77yM6L+Q6KGMIDEwMDAwMAovLyDnrYnlvoXmiYDmnInnmoTnur/nqIvlsLHnu6oKLy8g562J5b6F5omA5pyJ55qE57q/56iL5omn6KGM5a6M5oiQCi8vIOeUn+S6p+iAhQovLyDmtojotLnogIUK</text>
+      <register name="&quot;" type="4">
+        <text>javaCmd</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>javaCmd</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
@@ -445,7 +445,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
