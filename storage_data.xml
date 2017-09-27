@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="of" />
+      <item value="NPE" />
+      <item value="count" />
       <item value="public" />
       <item value="J Shell my Shell = J Shell . builder () . out ( my Out Stream ) . err ( my Err Stream ) . build (); } &lt;/ pre &gt;" />
       <item value="suspend" />
@@ -48,9 +51,6 @@
       <item value=". stereo" />
       <item value="register Natives" />
       <item value="SYNTHETIC" />
-      <item value="supplier" />
-      <item value="winning" />
-      <item value="guaranteed" />
     </histories>
   </component>
 </application>
