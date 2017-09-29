@@ -90,8 +90,12 @@
           <option name="url" value="git@github.com:caoym/jjvm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:cloudfoundry-samples/spring-music.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads/OneDrive/MeProjects/jjvm" />
+    <option name="cloneParentDir" value="$USER_HOME$/Downloads/OneDrive/MeProjects/" />
   </component>
 </application>
