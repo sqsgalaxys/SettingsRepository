@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Counter.java" timestamp="1507552242519">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="52" column="19" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/ProcessTest.java" timestamp="1506517498503">
         <mark key="[" line="24" column="41" />
         <mark key="]" line="24" column="43" />
@@ -14,6 +20,9 @@
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Optional.java" timestamp="1506393659858">
         <mark key="'" line="148" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
+        <mark key="[" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
@@ -27,12 +36,12 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" timestamp="1507551428374">
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" timestamp="1507552328074">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="3" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
         <mark key="'" line="15" column="36" />
@@ -225,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="33" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
       <jump line="138" column="20" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
       <jump line="143" column="33" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
       <jump line="1047" column="31" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
@@ -324,6 +332,7 @@
       <jump line="283" column="12" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Process.java" />
       <jump line="83" column="1" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
+      <jump line="17" column="18" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
     </jumps>
     <registers>
@@ -331,7 +340,7 @@
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiBEdXBsaWNhdGVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>gradle-2.11-bin.zip</text>
@@ -343,7 +352,7 @@
         <text encoding="base64">ICAgICAgICAvLyBjb2xsZWN0ZWQgPSBjb2xsZWN0ZWQuc3RyZWFtKCkubWFwKHN0cmluZyAtPiBzdHJpbmcudG9VcHBlckNhc2UoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiBEdXBsaWNhdGVzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +366,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFpbgo=</text>
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8g5qCF5qCP77yM77+9P++/vei/h+Wug+WPr+S7peWunueOsOiuqe+/vT/nu4Tnur/nqIvnrYnlvoXoh7Pmn5DkuKrnirbvv70/77+95LmL5ZCO5YaN5YWo6YOo5ZCM5pe25omn6KGMCi8vIOWFpeWIl+aAu+WSjAovLyDlh7rliJfmgLvlkowKLy8gMTAg5Liq5om/6L295Zug5a2Q77yMMTAg5Liq57q/56iL77yM6L+Q6KGMIDEwMDAwMAovLyDnrYnlvoXvv70/5pyJ55qE57q/56iL5bCx57uqCi8vIOetieW+he+/vT/mnInnmoTnur/nqIvmiafooYzlrozmiJAKLy8g55Sf5Lqn77+9PwovLyDmtojotLnvv70/Cg==</text>
+        <text encoding="base64">bWFpbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8g5qCF5qCP77yM77+9P++/vei/h+Wug+WPr+S7peWunueOsOiuqe+/vT/nu4Tnur/nqIvnrYnlvoXoh7Pmn5DkuKrnirbvv70/77+95LmL5ZCO5YaN5YWo6YOo5ZCM5pe25omn6KGMCi8vIOWFpeWIl+aAu+WSjAovLyDlh7rliJfmgLvlkowKLy8gMTAg5Liq5om/6L295Zug5a2Q77yMMTAg5Liq57q/56iL77yM6L+Q6KGMIDEwMDAwMAovLyDnrYnlvoXvv70/5pyJ55qE57q/56iL5bCx57uqCi8vIOetieW+he+/vT/mnInnmoTnur/nqIvmiafooYzlrozmiJAKLy8g55Sf5Lqn77+9PwovLyDmtojotLnvv70/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZXNzQnVpbGRlciBwcm9jZXNzQnVpbGRlciA9IG5ldyBQcm9jZXNzQnVpbGRlcigiamF2YSIsICItdmVyc2lvbiIpOwogICAgICAgIFByb2Nlc3MgcHJvY2VzcyA9IHByb2Nlc3NCdWlsZGVyLmluaGVyaXRJTygpLnN0YXJ0KCk7CiAgICAgICAgUHJvY2Vzc0hhbmRsZSBwcm9jZXNzSGFuZGxlID0gcHJvY2Vzcy50b0hhbmRsZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgamF2YUNtZCA9IFByb2Nlc3NVdGlscy5nZXRKYXZhQ21kKCkuZ2V0QWJzb2x1dGVQYXRoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9jZXNzQnVpbGRlciBwcm9jZXNzQnVpbGRlciA9IG5ldyBQcm9jZXNzQnVpbGRlcigiamF2YSIsICItdmVyc2lvbiIpOwogICAgICAgIFByb2Nlc3MgcHJvY2VzcyA9IHByb2Nlc3NCdWlsZGVyLmluaGVyaXRJTygpLnN0YXJ0KCk7CiAgICAgICAgUHJvY2Vzc0hhbmRsZSBwcm9jZXNzSGFuZGxlID0gcHJvY2Vzcy50b0hhbmRsZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgamF2YUNtZCA9IFByb2Nlc3NVdGlscy5nZXRKYXZhQ21kKCkuZ2V0QWJzb2x1dGVQYXRoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
