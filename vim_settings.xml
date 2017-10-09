@@ -134,6 +134,9 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.scripting/com/sun/tools/script/shell/Main.java" timestamp="1506333436240">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" timestamp="1506074885065">
         <mark key="'" line="1526" column="34" />
       </file>
@@ -176,8 +179,18 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" timestamp="1506070283300">
         <mark key="'" line="328" column="44" />
       </file>
+      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/test/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587313990">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/HelloWorld.java" timestamp="1507586710478">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1506405383484">
         <mark key="[" line="0" column="0" />
@@ -352,11 +365,11 @@
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Messageservice</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Messageservice</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTeW5jVGhyZWFkXD4=</text>
