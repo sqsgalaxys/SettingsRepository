@@ -95,7 +95,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:symphonyoss/plexus-interop.git" />
+          <option name="url" value="git@github.com:Medicean/VulApps.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:rwynn/wellington.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
