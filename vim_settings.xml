@@ -36,12 +36,12 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" timestamp="1507552328074">
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" timestamp="1507553840265">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
         <mark key="'" line="15" column="36" />
@@ -104,6 +104,12 @@
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/package-info.java" timestamp="1507553881058">
+        <mark key="[" line="6" column="79" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
       </file>
@@ -159,6 +165,13 @@
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" timestamp="1507553925308">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="10" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" timestamp="1506070283300">
         <mark key="'" line="328" column="44" />
@@ -234,11 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="20" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="143" column="33" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="1047" column="31" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="409" column="12" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="413" column="15" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
       <jump line="156" column="24" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
       <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
       <jump line="35" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
@@ -334,25 +342,30 @@
       <jump line="29" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
       <jump line="17" column="18" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
+      <jump line="6" column="9" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
+      <jump line="3" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
+      <jump line="32" column="10" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiBEdXBsaWNhdGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>gradle-2.11-bin.zip</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text encoding="base64">XDxTeW5jVGhyZWFkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb2xsZWN0ZWQgPSBjb2xsZWN0ZWQuc3RyZWFtKCkubWFwKHN0cmluZyAtPiBzdHJpbmcudG9VcHBlckNhc2UoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiBEdXBsaWNhdGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,45 +379,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvL25vaW5zcGVjdGlvbiBEdXBsaWNhdGVzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYWluCg==</text>
+        <text encoding="base64">Y2xhc3MgUnVuIHsKCiAgLy9ub2luc3BlY3Rpb24gRHVwbGljYXRlcwogIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgIFN5bmNUaHJlYWQgc3luY1RocmVhZDEgPSBuZXcgU3luY1RocmVhZCgpOwogICAgU3luY1RocmVhZCBzeW5jVGhyZWFkMiA9IG5ldyBTeW5jVGhyZWFkKCk7CiAgICBUaHJlYWQgdGhyZWFkMSA9IG5ldyBUaHJlYWQoc3luY1RocmVhZDEsICJTeW5jVGhyZWFkMSIpOwogICAgVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHN5bmNUaHJlYWQyLCAiU3luY1RocmVhZDIiKTsKICAgIHRocmVhZDEuc3RhcnQoKTsKICAgIHRocmVhZDIuc3RhcnQoKTsKICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFpbgo=</text>
+        <text encoding="base64">ICAgIC8vbm9pbnNwZWN0aW9uIER1cGxpY2F0ZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8g5qCF5qCP77yM77+9P++/vei/h+Wug+WPr+S7peWunueOsOiuqe+/vT/nu4Tnur/nqIvnrYnlvoXoh7Pmn5DkuKrnirbvv70/77+95LmL5ZCO5YaN5YWo6YOo5ZCM5pe25omn6KGMCi8vIOWFpeWIl+aAu+WSjAovLyDlh7rliJfmgLvlkowKLy8gMTAg5Liq5om/6L295Zug5a2Q77yMMTAg5Liq57q/56iL77yM6L+Q6KGMIDEwMDAwMAovLyDnrYnlvoXvv70/5pyJ55qE57q/56iL5bCx57uqCi8vIOetieW+he+/vT/mnInnmoTnur/nqIvmiafooYzlrozmiJAKLy8g55Sf5Lqn77+9PwovLyDmtojotLnvv70/Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cnVuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZXNzQnVpbGRlciBwcm9jZXNzQnVpbGRlciA9IG5ldyBQcm9jZXNzQnVpbGRlcigiamF2YSIsICItdmVyc2lvbiIpOwogICAgICAgIFByb2Nlc3MgcHJvY2VzcyA9IHByb2Nlc3NCdWlsZGVyLmluaGVyaXRJTygpLnN0YXJ0KCk7CiAgICAgICAgUHJvY2Vzc0hhbmRsZSBwcm9jZXNzSGFuZGxlID0gcHJvY2Vzcy50b0hhbmRsZSgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgamF2YUNtZCA9IFByb2Nlc3NVdGlscy5nZXRKYXZhQ21kKCkuZ2V0QWJzb2x1dGVQYXRoKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>14t.</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search encoding="base64">XDxTeW5jVGhyZWFkXD4=</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern encoding="base64">XDxTeW5jVGhyZWFkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actionx</entry>
         <entry>static {</entry>
         <entry>static \{</entry>
         <entry encoding="base64">XDxDb21wYXJhdG9yXD4=</entry>
@@ -424,9 +436,9 @@
         <entry>\&quot;\ &quot;</entry>
         <entry>if</entry>
         <entry>Main</entry>
+        <entry encoding="base64">XDxTeW5jVGhyZWFkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>28</entry>
         <entry>34</entry>
         <entry>t9</entry>
         <entry encoding="base64">JzwsJz50MjU=</entry>
@@ -446,6 +458,7 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>14t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
