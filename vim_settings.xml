@@ -3,14 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
-        <mark key="'" line="323" column="6" />
+      <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1506074509342">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Counter.java" timestamp="1507552242519">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="52" column="19" />
-        <mark key="." line="52" column="19" />
-        <mark key="^" line="52" column="19" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/mainMethonInbox/src/TestThreadPool.java" timestamp="1506721699240">
+        <mark key="[" line="120" column="15" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Optional.java" timestamp="1506393659858">
+        <mark key="'" line="148" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" timestamp="1506515486015">
+        <mark key="'" line="92" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/ProcessTest.java" timestamp="1506517498503">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemoEx.java" timestamp="1506403942505">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
+        <mark key="'" line="56" column="36" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/internal/jshell/debug/InternalDebugControl.java" timestamp="1506070711655">
+        <mark key="'" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ReturnData.java" timestamp="1509023343591">
         <mark key="'" line="9" column="6" />
@@ -19,74 +45,20 @@
         <mark key="^" line="14" column="968" />
         <mark key="." line="14" column="968" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/ProcessTest.java" timestamp="1506517498503">
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="22" column="54" />
-        <mark key="^" line="24" column="43" />
+      <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
+        <mark key="'" line="5" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Optional.java" timestamp="1506393659858">
-        <mark key="'" line="148" column="19" />
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
+        <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
-        <mark key="[" line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
-        <mark key="[" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/mainMethonInbox/src/TestThreadPool.java" timestamp="1506721699240">
-        <mark key="[" line="120" column="15" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemo.java" timestamp="1506387654807">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" timestamp="1507553840265">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
-        <mark key="'" line="15" column="36" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" timestamp="1506059561049">
-        <mark key="'" line="44" column="26" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
-        <mark key="'" line="56" column="36" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/internal/jshell/debug/InternalDebugControl.java" timestamp="1506070711655">
-        <mark key="'" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
-        <mark key="[" line="296" column="61" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/LambdaTest.java" timestamp="1506406448398">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="113" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" timestamp="1504602361284">
-        <mark key="'" line="205" column="13" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1506075061915">
         <mark key="'" line="305" column="29" />
       </file>
-      <file name="$USER_HOME$/gitCode/Android_Code_Arbiter/pom.xml" timestamp="1505954515217">
-        <mark key="'" line="73" column="37" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" timestamp="1506406666942">
-        <mark key="'" line="175" column="16" />
-        <mark key="[" line="716" column="15" />
-        <mark key="]" line="716" column="33" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
+        <mark key="[" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" timestamp="1506061432585">
         <mark key="'" line="159" column="14" />
@@ -94,28 +66,32 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Process.java" timestamp="1506408579258">
         <mark key="'" line="283" column="12" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" timestamp="1506331890103">
-        <mark key="'" line="751" column="36" />
-        <mark key="[" line="167" column="38" />
-        <mark key="]" line="167" column="52" />
+      <file name="$USER_HOME$/MeProject/testJNI/two/src/module-info.java" timestamp="1506327010600">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1506074509342">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" timestamp="1506408628927">
         <mark key="'" line="528" column="33" />
       </file>
+      <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemo.java" timestamp="1506387654807">
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/package-info.java" timestamp="1507553881058">
-        <mark key="[" line="6" column="79" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" timestamp="1509102891898">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/Main.java" timestamp="1506500783598">
         <mark key="[" line="6" column="8" />
@@ -123,58 +99,19 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/test/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587313990">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" timestamp="1505117609556">
         <mark key="'" line="1121" column="36" />
       </file>
-      <file name="$USER_HOME$/MeProject/testJNI/two/src/module-info.java" timestamp="1506327010600">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" timestamp="1506073183028">
-        <mark key="'" line="826" column="79" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.scripting/com/sun/tools/script/shell/Main.java" timestamp="1506333436240">
-        <mark key="'" line="24" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" timestamp="1506074885065">
-        <mark key="'" line="1526" column="34" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/config/MyInterceptor.java" timestamp="1504749668957">
-        <mark key="'" line="64" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
-        <mark key="'" line="61" column="44" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" timestamp="1506067418387">
-        <mark key="'" line="52" column="43" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" timestamp="1505118572165">
-        <mark key="'" line="130" column="22" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/resources/application.properties" timestamp="1504520584982">
-        <mark key="'" line="28" column="9" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/tool/JavaShellToolBuilder.java" timestamp="1506067900756">
-        <mark key="'" line="31" column="23" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504675205795">
-        <mark key="'" line="96" column="13" />
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="80" column="34" />
-        <mark key="." line="80" column="34" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemoEx.java" timestamp="1506403942505">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/ReturnData.java" timestamp="1509065512136">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" timestamp="1507553925308">
         <mark key="'" line="0" column="0" />
@@ -183,75 +120,107 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="10" />
       </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" timestamp="1506073183028">
+        <mark key="'" line="826" column="79" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.scripting/com/sun/tools/script/shell/Main.java" timestamp="1506333436240">
+        <mark key="'" line="24" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" timestamp="1506074885065">
+        <mark key="'" line="1526" column="34" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
+        <mark key="'" line="61" column="44" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" timestamp="1506067418387">
+        <mark key="'" line="52" column="43" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
+        <mark key="'" line="4" column="2" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/AccessController.java" timestamp="1505118572165">
+        <mark key="'" line="130" column="22" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/ReturnData.java" timestamp="1509104008752">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/tool/JavaShellToolBuilder.java" timestamp="1506067900756">
+        <mark key="'" line="31" column="23" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/resources/application.properties" timestamp="1504520584982">
+        <mark key="'" line="28" column="9" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/package-info.java" timestamp="1507553881058">
+        <mark key="[" line="6" column="79" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" timestamp="1506070283300">
         <mark key="'" line="328" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/test/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587313990">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisConnect.java" timestamp="1504750663888">
+        <mark key="'" line="15" column="36" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" timestamp="1504602361284">
+        <mark key="'" line="205" column="13" />
       </file>
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/spring/bean/MeBeanPostProcessor.java" timestamp="1509639150531">
-        <mark key="[" line="20" column="78" />
-        <mark key="]" line="20" column="78" />
-        <mark key="." line="20" column="78" />
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
+        <mark key="[" line="296" column="61" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" timestamp="1509105136231">
+        <mark key="'" line="85" column="32" />
+        <mark key="[" line="118" column="13" />
+        <mark key="]" line="118" column="19" />
+        <mark key="." line="118" column="19" />
+        <mark key="^" line="118" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506405383484">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
+        <mark key="[" line="705" column="109" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/HelloWorld.java" timestamp="1507586710478">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506405383484">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Counter.java" timestamp="1507552242519">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="52" column="19" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
         <mark key="'" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
-        <mark key="[" line="705" column="109" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandle.java" timestamp="1506387807101">
-        <mark key="'" line="93" column="17" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/function/Supplier.java" timestamp="1506071505887">
-        <mark key="'" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/wellington/gradle/wrapper/gradle-wrapper.properties" timestamp="1506753156472">
         <mark key="[" line="5" column="59" />
         <mark key="]" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" timestamp="1506515486015">
-        <mark key="'" line="92" column="1" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandle.java" timestamp="1506387807101">
+        <mark key="'" line="93" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" timestamp="1506059561049">
+        <mark key="'" line="44" column="26" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/function/Supplier.java" timestamp="1506071505887">
+        <mark key="'" line="40" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
         <mark key="'" line="151" column="33" />
-      </file>
-      <file name="$USER_HOME$/MeProject/testJNI/src/Main.class" timestamp="1505209647535">
-        <mark key="'" line="5" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1506076174791">
-        <mark key="'" line="105" column="25" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
-        <mark key="'" line="273" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/common/utils/UuIdUtil.java" timestamp="1504597990476">
-        <mark key="'" line="4" column="2" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" timestamp="1505122252835">
-        <mark key="'" line="446" column="16" />
-        <mark key="[" line="138" column="11" />
-        <mark key="]" line="138" column="20" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" timestamp="1506068572428">
-        <mark key="'" line="235" column="8" />
       </file>
       <file name="$USER_HOME$/MeProject/testJNI/two/src/com/example/person/Person.java" timestamp="1506327100469">
         <mark key="[" line="5" column="0" />
@@ -259,35 +228,48 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/HqlBasicExample/HqlBasic/test/com/sqsgalaxys/lambda/LambdaTest.java" timestamp="1506406448398">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="113" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1506076174791">
+        <mark key="'" line="105" column="25" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/java/com/guojingold/hb/sysuser/action/SysUserAction.java" timestamp="1504675205795">
+        <mark key="'" line="96" column="13" />
+        <mark key="[" line="80" column="34" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/java/com/guojingold/hb/web/red/model/RedPacketSendInfo.java" timestamp="1504889464429">
+        <mark key="'" line="273" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
+        <mark key="'" line="323" column="6" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" timestamp="1506068572428">
+        <mark key="'" line="235" column="8" />
+      </file>
+      <file name="$USER_HOME$/gitCode/Android_Code_Arbiter/pom.xml" timestamp="1505954515217">
+        <mark key="'" line="73" column="37" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" timestamp="1506074465449">
         <mark key="'" line="403" column="22" />
       </file>
-      <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessBuilder.java" timestamp="1506405030332">
-        <mark key="'" line="1282" column="38" />
-        <mark key="[" line="1287" column="0" />
-        <mark key="]" line="1287" column="55" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" timestamp="1507553840265">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1509023362071">
+      <file name="/fragment.java" timestamp="1509102596736">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
-      <jump line="35" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" />
-      <jump line="460" column="58" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="459" column="29" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="588" column="8" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="397" column="33" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="432" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="436" column="20" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="437" column="24" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="440" column="24" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="446" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Properties.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/MeProject/testJNI/src/Main.class" />
-      <jump line="1" column="3" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
-      <jump line="8" column="11" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="13" column="21" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="64" column="0" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
       <jump line="70" column="8" filename="$USER_HOME$/MeProject/testJNI/src/OneTab.java" />
@@ -372,25 +354,41 @@
       <jump line="32" column="10" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
       <jump line="9" column="6" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ReturnData.java" />
+      <jump line="11" column="36" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="12" column="35" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="32" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="29" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="42" column="51" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/ReturnData.java" />
+      <jump line="86" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="3" column="22" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="91" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="7" column="13" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
+      <jump line="71" column="32" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhyb3dzIEJlYW5zRXhjZXB0aW9uIA==</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIEJlYW5zRXhjZXB0aW9uIA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTeW5jVGhyZWFkXD4=</text>
+        <text>Main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQmVmb3JlSW5pdGlhbGl6YXRpb24oT2JqZWN0IGJlYW4sIFN0cmluZyBiZWFuTmFtZSkgdGhyb3dzIEJlYW5zRXhjZXB0aW9uIHsK</text>
+      <register name="0" type="4">
+        <text>String json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBAb3J6QCwsMDA0MDAzQEDpqazov47lj4wsLDAwODg1NEBA572X5re75omNLCwwMDg4NTVAQOiLj+iZueaWhyxYMDQyMOmHkeaIiOmTgemprCxAb3J6QCwxNTQ2LCwwMDYyNzZAQOi1teWFtSwsMDA4ODQ5QEDokZvlsI/oibMsLDAwODg1M0BA5p2o5LyfLFgwNDE56KGM6ICF5oiY6ZifLEBvcnpALDE1NDUsLDAwNjI4MUBA5pmP5auj6I+yLCwwMDg4NDhAQOadjuael+mbhCxYMDQxOOmjnui3g+aImOmYnyxAb3J6QCwxNTQ0LCwwMDI1NDJAQOadqOi9qSzkupHljZflu7rooYzmsJHnlJ8sQG9yekAsMTU0MywsMDAyMzY2QEDnvZfotKEsLDAwNTQ0M0BA5p2O5pmT6aOeLFgwNDE36JqC6JqB6ZuE5YW15LiJ5aSn6ZifLEBvcnpALDE1NDIsWDA0MTbomoLomoHpm4TlhbXkuozlpKfpmJ8sQG9yekAsMTU0MSwsMDA4ODQ2QEDpu4Tlro/miawsLDAwODg0N0BA5aea6ZuE5paMLFgwNDE16JqC6JqB6ZuE5YW15LiA5aSn6ZifLEBvcnpALDE1NDAsLDAwMjU0MkBA5p2o6L2pLOS6keWNl+S4reihjOa1puWPkeWFieWkpyxAb3J6QCwxNTM5LCwwMDQ3MzJAQOW8oOi2hSwsMDA0OTc4QEDnjovpnLLmuIUsLDAwNTExMUBA5be05paH6IqzLCwwMDg4NDRAQOadjuW9puS8tiwsMDA4ODQ1QEDmnY7kuL0sWDA0MTTotoXotormiJjpmJ8sQG9yekAsMTUzOCwsMDAzNjk3QEDltJToh6rnkLwsLDAwNTE1OEBA5YiY5paH5rabLCwwMDg4NDFAQOadqOmUpuaelywsMDA4ODQyQEDmnY7mtbfnh5UsWDA0MTPngavnhLDmiJjpmJ8sQG9yekAsMTUzNywsMDAyNTQyQEDmnajovaks5LqR5Y2X5Yac6KGM5Lit5L+hLEBvcnpALDE1MzYsLDAwMTgyNkBA6ams55G2LFgwNDEy6buE6YeR5pyJ6YGTLEBvcnpALDE1MzUsLDAwNDA4NkBA5L6v6bmP6aOeLCwwMDQ5NzZAQOW+kOmTrSwsMDA1NDM5QEDlvKDmlofpnZksLDAwNTQ4M0BA546L6ZuELCwwMDU0ODZAQOWImOa0iyxYMDQxMeS6ruWJkeaImOmYnyxAb3J6QCwxNTM0LCwwMDM2OThAQOWtlOerueeHlSwsMDA1NDc5QEDlhq/otoUsLDAwNTQ4MEBA6LS65Lic5Y2OLCwwMDU0ODRAQOmrmOi0nuelpSxYMDQxMOa7h+Wlh+aImOmYnyxAb3J6QCwxNTMzLCwwMDI1NDJAQOadqOi9qSzkupHljZflt6XllYbpk7booYwsQG9yekAsMTUzMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,47 +401,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBnZXRSZXR1cm5EYXRhKFN0cmluZyBzdHIpIHsKCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL25vaW5zcGVjdGlvbiBEdXBsaWNhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwogICAgICAgIGpzb24gPSBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKG9yZ3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICAgICAgICAgICAgICAgICAganNvbiA9IG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcob3Jncyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUnVuIHsKCiAgLy9ub2luc3BlY3Rpb24gRHVwbGljYXRlcwogIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgIFN5bmNUaHJlYWQgc3luY1RocmVhZDEgPSBuZXcgU3luY1RocmVhZCgpOwogICAgU3luY1RocmVhZCBzeW5jVGhyZWFkMiA9IG5ldyBTeW5jVGhyZWFkKCk7CiAgICBUaHJlYWQgdGhyZWFkMSA9IG5ldyBUaHJlYWQoc3luY1RocmVhZDEsICJTeW5jVGhyZWFkMSIpOwogICAgVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHN5bmNUaHJlYWQyLCAiU3luY1RocmVhZDIiKTsKICAgIHRocmVhZDEuc3RhcnQoKTsKICAgIHRocmVhZDIuc3RhcnQoKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICBqc29uLnJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vbm9pbnNwZWN0aW9uIER1cGxpY2F0ZXMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cnVuCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">awo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmV0dXJuRGF0YUpzb24gPSBnZXRSZXR1cm5EYXRhKHN0cik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldHVybkRhdGFKc29uKTs=</text>
       </register>
       <register name=":" type="4">
-        <text>14t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTeW5jVGhyZWFkXD4=</last-search>
+      <last-search>Main</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTeW5jVGhyZWFkXD4=</last-pattern>
+      <last-pattern>Main</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>static {</entry>
-        <entry>static \{</entry>
         <entry encoding="base64">XDxDb21wYXJhdG9yXD4=</entry>
         <entry>return</entry>
         <entry>load</entry>
@@ -460,11 +456,12 @@
         <entry>&quot; &quot;</entry>
         <entry>\&quot;\ &quot;</entry>
         <entry>if</entry>
-        <entry>Main</entry>
         <entry encoding="base64">XDxTeW5jVGhyZWFkXD4=</entry>
+        <entry>name</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry>Main</entry>
       </history-search>
       <history-cmd>
-        <entry>34</entry>
         <entry>t9</entry>
         <entry encoding="base64">JzwsJz50MjU=</entry>
         <entry>reg</entry>
@@ -482,8 +479,9 @@
         <entry>q1</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>14t.</entry>
+        <entry>16t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
