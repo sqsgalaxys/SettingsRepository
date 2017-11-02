@@ -194,6 +194,11 @@
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/spring/bean/MeBeanPostProcessor.java" timestamp="1509639150531">
+        <mark key="[" line="20" column="78" />
+        <mark key="]" line="20" column="78" />
+        <mark key="." line="20" column="78" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/HelloWorld.java" timestamp="1507586710478">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="7" />
@@ -373,16 +378,16 @@
         <text encoding="base64">a2R0PA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@orz@,004003@@马迎双,008854@@罗添才,008855@@苏虹文,X0420金戈铁马,@orz@,1546,006276@@赵兵,008849@@葛小艳,008853@@杨伟,X0419行者战队,@orz@,1545,006281@@晏嫣菲,008848@@李林雄,X0418飞跃战队,@orz@,1544,002542@@杨轩,云南建行民生,@orz@,1543,002366@@罗贡,005443@@李晓飞,X0417蚂蚁雄兵三大队,@orz@,1542,X0416蚂蚁雄兵二大队,@orz@,1541,008846@@黄宏扬,008847@@姚雄斌,X0415蚂蚁雄兵一大队,@orz@,1540,002542@@杨轩,云南中行浦发光大,@orz@,1539,004732@@张超,004978@@王露清,005111@@巴文芳,008844@@李彦伶,008845@@李丽,X0414超越战队,@orz@,1538,003697@@崔自琼,005158@@刘文涛,008841@@杨锦林,008842@@李海燕,X0413火焰战队,@orz@,1537,002542@@杨轩,云南农行中信,@orz@,1536,001826@@马瑶,X0412黄金有道,@orz@,1535,004086@@侯鹏飞,004976@@徐铭,005439@@张文静,005483@@王雄,005486@@刘洋,X0411亮剑战队,@orz@,1534,003698@@孔竹燕,005479@@冯超,005480@@贺东华,005484@@高贞祥,X0410滇奇战队,@orz@,1533,002542@@杨轩,云南工商银行,@orz@,1532\n</text>
+        <text encoding="base64">dGhyb3dzIEJlYW5zRXhjZXB0aW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>@orz@,004003@@马迎双,008854@@罗添才,008855@@苏虹文,X0420金戈铁马,@orz@,1546,006276@@赵兵,008849@@葛小艳,008853@@杨伟,X0419行者战队,@orz@,1545,006281@@晏嫣菲,008848@@李林雄,X0418飞跃战队,@orz@,1544,002542@@杨轩,云南建行民生,@orz@,1543,002366@@罗贡,005443@@李晓飞,X0417蚂蚁雄兵三大队,@orz@,1542,X0416蚂蚁雄兵二大队,@orz@,1541,008846@@黄宏扬,008847@@姚雄斌,X0415蚂蚁雄兵一大队,@orz@,1540,002542@@杨轩,云南中行浦发光大,@orz@,1539,004732@@张超,004978@@王露清,005111@@巴文芳,008844@@李彦伶,008845@@李丽,X0414超越战队,@orz@,1538,003697@@崔自琼,005158@@刘文涛,008841@@杨锦林,008842@@李海燕,X0413火焰战队,@orz@,1537,002542@@杨轩,云南农行中信,@orz@,1536,001826@@马瑶,X0412黄金有道,@orz@,1535,004086@@侯鹏飞,004976@@徐铭,005439@@张文静,005483@@王雄,005486@@刘洋,X0411亮剑战队,@orz@,1534,003698@@孔竹燕,005479@@冯超,005480@@贺东华,005484@@高贞祥,X0410滇奇战队,@orz@,1533,002542@@杨轩,云南工商银行,@orz@,1532\n</text>
+        <text encoding="base64">dGhyb3dzIEJlYW5zRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTeW5jVGhyZWFkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb2xsZWN0ZWQgPSBjb2xsZWN0ZWQuc3RyZWFtKCkubWFwKHN0cmluZyAtPiBzdHJpbmcudG9VcHBlckNhc2UoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQmVmb3JlSW5pdGlhbGl6YXRpb24oT2JqZWN0IGJlYW4sIFN0cmluZyBiZWFuTmFtZSkgdGhyb3dzIEJlYW5zRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyBAb3J6QCwsMDA0MDAzQEDpqazov47lj4wsLDAwODg1NEBA572X5re75omNLCwwMDg4NTVAQOiLj+iZueaWhyxYMDQyMOmHkeaIiOmTgemprCxAb3J6QCwxNTQ2LCwwMDYyNzZAQOi1teWFtSwsMDA4ODQ5QEDokZvlsI/oibMsLDAwODg1M0BA5p2o5LyfLFgwNDE56KGM6ICF5oiY6ZifLEBvcnpALDE1NDUsLDAwNjI4MUBA5pmP5auj6I+yLCwwMDg4NDhAQOadjuael+mbhCxYMDQxOOmjnui3g+aImOmYnyxAb3J6QCwxNTQ0LCwwMDI1NDJAQOadqOi9qSzkupHljZflu7rooYzmsJHnlJ8sQG9yekAsMTU0MywsMDAyMzY2QEDnvZfotKEsLDAwNTQ0M0BA5p2O5pmT6aOeLFgwNDE36JqC6JqB6ZuE5YW15LiJ5aSn6ZifLEBvcnpALDE1NDIsWDA0MTbomoLomoHpm4TlhbXkuozlpKfpmJ8sQG9yekAsMTU0MSwsMDA4ODQ2QEDpu4Tlro/miawsLDAwODg0N0BA5aea6ZuE5paMLFgwNDE16JqC6JqB6ZuE5YW15LiA5aSn6ZifLEBvcnpALDE1NDAsLDAwMjU0MkBA5p2o6L2pLOS6keWNl+S4reihjOa1puWPkeWFieWkpyxAb3J6QCwxNTM5LCwwMDQ3MzJAQOW8oOi2hSwsMDA0OTc4QEDnjovpnLLmuIUsLDAwNTExMUBA5be05paH6IqzLCwwMDg4NDRAQOadjuW9puS8tiwsMDA4ODQ1QEDmnY7kuL0sWDA0MTTotoXotormiJjpmJ8sQG9yekAsMTUzOCwsMDAzNjk3QEDltJToh6rnkLwsLDAwNTE1OEBA5YiY5paH5rabLCwwMDg4NDFAQOadqOmUpuaelywsMDA4ODQyQEDmnY7mtbfnh5UsWDA0MTPngavnhLDmiJjpmJ8sQG9yekAsMTUzNywsMDAyNTQyQEDmnajovaks5LqR5Y2X5Yac6KGM5Lit5L+hLEBvcnpALDE1MzYsLDAwMTgyNkBA6ams55G2LFgwNDEy6buE6YeR5pyJ6YGTLEBvcnpALDE1MzUsLDAwNDA4NkBA5L6v6bmP6aOeLCwwMDQ5NzZAQOW+kOmTrSwsMDA1NDM5QEDlvKDmlofpnZksLDAwNTQ4M0BA546L6ZuELCwwMDU0ODZAQOWImOa0iyxYMDQxMeS6ruWJkeaImOmYnyxAb3J6QCwxNTM0LCwwMDM2OThAQOWtlOerueeHlSwsMDA1NDc5QEDlhq/otoUsLDAwNTQ4MEBA6LS65Lic5Y2OLCwwMDU0ODRAQOmrmOi0nuelpSxYMDQxMOa7h+Wlh+aImOmYnyxAb3J6QCwxNTMzLCwwMDI1NDJAQOadqOi9qSzkupHljZflt6XllYbpk7booYwsQG9yekAsMTUzMgo=</text>
