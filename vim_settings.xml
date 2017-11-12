@@ -70,12 +70,12 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/internal/jshell/debug/InternalDebugControl.java" timestamp="1506070711655">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/909b0259-bd46-45e0-ae86-1ad72c33c6b7/console.sql" timestamp="1510473453863">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/909b0259-bd46-45e0-ae86-1ad72c33c6b7/console.sql" timestamp="1510474869650">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
@@ -208,7 +208,7 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510473333760">
+      <file name="/Dummy.txt" timestamp="1510475042516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Reader.java" timestamp="1505120130872">
@@ -267,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="12" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
       <jump line="1" column="28" filename="$USER_HOME$/MeProject/testJNI/src/TTT.java" />
       <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
       <jump line="159" column="14" filename="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" />
@@ -367,6 +366,7 @@
       <jump line="3154" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/909b0259-bd46-45e0-ae86-1ad72c33c6b7/console.sql" />
       <jump line="154" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/909b0259-bd46-45e0-ae86-1ad72c33c6b7/console.sql" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/909b0259-bd46-45e0-ae86-1ad72c33c6b7/console.sql" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/909b0259-bd46-45e0-ae86-1ad72c33c6b7/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
