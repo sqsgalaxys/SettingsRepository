@@ -26,6 +26,7 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/weixinpay/src/main/resources/log4j.properties" timestamp="1510637692332" />
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
         <mark key="'" line="56" column="36" />
       </file>
@@ -51,7 +52,6 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1506075061915">
         <mark key="'" line="305" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/ReturnData.java" timestamp="1509948036359" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
       </file>
@@ -264,6 +264,7 @@
       <file name="/fragment.java" timestamp="1509948048120">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/weixinpay/src/main/java/com/weixinpay/GetOpenId.java" timestamp="1510637581050" />
     </filemarks>
     <jumps>
       <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
