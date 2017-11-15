@@ -26,7 +26,6 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/weixinpay/src/main/resources/log4j.properties" timestamp="1510637692332" />
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
         <mark key="'" line="56" column="36" />
       </file>
@@ -205,6 +204,12 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandle.java" timestamp="1506387807101">
         <mark key="'" line="93" column="17" />
       </file>
+      <file name="$USER_HOME$/OneDrive/meBin/GetURL.java" timestamp="1510744379753">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+        <mark key="^" line="13" column="65" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" timestamp="1506059561049">
         <mark key="'" line="44" column="26" />
       </file>
@@ -264,7 +269,6 @@
       <file name="/fragment.java" timestamp="1509948048120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/weixinpay/src/main/java/com/weixinpay/GetOpenId.java" timestamp="1510637581050" />
     </filemarks>
     <jumps>
       <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
@@ -383,16 +387,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
+        <text>C:\\Users\\sqsga\\OneDrive\\VIM\\TeamTextGit\\temp.txt</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>C:\\Users\\sqsga\\OneDrive\\VIM\\TeamTextGit\\temp.txt</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFN0cmluZyBuZXdSZXBvcnQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIFN0cmluZyBmaWxlTmFtZSA9ICJDOlxcVXNlcnNcXHNxc2dhXFxPbmVEcml2ZVxcVklNXFxUZWFtVGV4dEdpdFxcdGVtcC50eHQiOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
