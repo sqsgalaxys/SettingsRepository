@@ -138,6 +138,7 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
         <mark key="'" line="61" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.5.2/spark-sql_2.10-1.5.2.jar!/org/apache/spark/sql/SQLContext.class" timestamp="1510834114571" />
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" timestamp="1506067418387">
         <mark key="'" line="52" column="43" />
       </file>
@@ -265,12 +266,11 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" timestamp="1510831165306">
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" timestamp="1510834187378">
         <mark key="'" line="23" column="145" />
-        <mark key="[" line="23" column="145" />
-        <mark key="]" line="23" column="145" />
-        <mark key="^" line="23" column="145" />
-        <mark key="." line="23" column="145" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" timestamp="1506068572428">
         <mark key="'" line="235" column="8" />
@@ -295,7 +295,7 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1510831422913">
+      <file name="/fragment.java" timestamp="1510834225857">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -416,16 +416,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>users</text>
+        <text>parquetFile</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>parquetFile</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIFN0cmluZyBmaWxlTmFtZSA9ICJDOlxcVXNlcnNcXHNxc2dhXFxPbmVEcml2ZVxcVklNXFxUZWFtVGV4dEdpdFxcdGVtcC50eHQiOwo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIHBhcnF1ZXRzY2hlbWEgPSBzUUxDb250ZXh0LnBhcnF1ZXRGaWxlKCJDOlxcVXNlcnNcXHNxc2dhXFxPbmVEcml2ZVxcTWVQcm9qZWN0c1xcU2NhbGFcXHNyY1xcc3BhcmtIZWxsb1xcc3JjXFxtYWluXFxyZXNvdXJjZXNcXGlucHV0RmlsZVxcKi5wYXJxdWV0IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
