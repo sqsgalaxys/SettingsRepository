@@ -81,6 +81,12 @@
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" timestamp="1510827057203">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
       </file>
@@ -219,6 +225,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/package.scala" timestamp="1510827751793">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="37" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
         <mark key="'" line="151" column="33" />
       </file>
@@ -271,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
       <jump line="159" column="14" filename="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" />
       <jump line="52" column="43" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" />
       <jump line="31" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/tool/JavaShellToolBuilder.java" />
@@ -371,6 +380,7 @@
       <jump line="34" column="38" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
       <jump line="10" column="19" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
       <jump line="13" column="2" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -386,8 +396,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>C:\\Users\\sqsga\\OneDrive\\VIM\\TeamTextGit\\temp.txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNRTENvbnRleHQK</text>
       </register>
       <register name="-" type="4">
         <text>C:\\Users\\sqsga\\OneDrive\\VIM\\TeamTextGit\\temp.txt</text>
@@ -399,7 +409,7 @@
         <text encoding="base64">ICAgIC8vIFN0cmluZyBmaWxlTmFtZSA9ICJDOlxcVXNlcnNcXHNxc2dhXFxPbmVEcml2ZVxcVklNXFxUZWFtVGV4dEdpdFxcdGVtcC50eHQiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
+        <text encoding="base64">Cm9iamVjdCBIZWxsb1dvcmxkIHsKCn0KCkhlbGxvV29ybGQKSGVsbG9Xb3JsZA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -412,29 +422,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIMflwO0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIMflwO0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyBTdHJpbmcgbmV3UmVwb3J0ID0gIjIwMTctMTAtMDkgQU0gOzIwMTctMTEtMDggUE0gOzIwMTctMTEtMDkgQU0gIFBNIDsiOwogICAgLy8gU3RyaW5nW10gb2xkUmVwb3J0ID0gewogICAgLy8gICAgICIyMDE3LTEwLTA5IEFNICBQTSA7IiwKICAgIC8vICAgICAiMjAxNy0xMC0xOCBBTSAgUE0gOzIwMTctMTAtMTkgQU0gIFBNIDsyMDE3LTEwLTIwIEFNICBQTSA7IiwKICAgIC8vICAgICAiMjAxNy0xMC0yMyBBTSAgUE0gOyIsCiAgICAvLyAgICAgIjIwMTctMTAtMjQgQU0gIFBNIDsiLAogICAgLy8gfTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdSZXBvcnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">b2oK</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAvLyBTdHJpbmcgbmV3UmVwb3J0ID0gIjIwMTctMTAtMDkgQU0gOzIwMTctMTEtMDggUE0gOzIwMTctMTEtMDkgQU0gIFBNIDsiOwogICAgLy8gU3RyaW5nW10gb2xkUmVwb3J0ID0gewogICAgLy8gICAgICIyMDE3LTEwLTA5IEFNICBQTSA7IiwKICAgIC8vICAgICAiMjAxNy0xMC0xOCBBTSAgUE0gOzIwMTctMTAtMTkgQU0gIFBNIDsyMDE3LTEwLTIwIEFNICBQTSA7IiwKICAgIC8vICAgICAiMjAxNy0xMC0yMyBBTSAgUE0gOyIsCiAgICAvLyAgICAgIjIwMTctMTAtMjQgQU0gIFBNIDsiLAogICAgLy8gfTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vIHN0LnJlcGxhY2VBbGwoIlxccysiLCIiKQogICAgLy8gU3lzdGVtLm91dC5wcmludGxuKG5ld1JlcG9ydEV4KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdSZXBvcnQpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">b2oK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
