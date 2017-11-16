@@ -26,7 +26,12 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/weixinpay/src/main/resources/log4j.properties" timestamp="1510637692332" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/pom.xml" timestamp="1510830145753">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1506069385030">
         <mark key="'" line="56" column="36" />
       </file>
@@ -82,6 +87,12 @@
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" timestamp="1510827057203">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
       </file>
@@ -127,6 +138,7 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
         <mark key="'" line="61" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.5.2/spark-sql_2.10-1.5.2.jar!/org/apache/spark/sql/SQLContext.class" timestamp="1510834114571" />
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" timestamp="1506067418387">
         <mark key="'" line="52" column="43" />
       </file>
@@ -164,6 +176,9 @@
       <file name="$USER_HOME$/gitCode/hb/hb-web/src/main/webapp/index.html" timestamp="1504602361284">
         <mark key="'" line="205" column="13" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/CSV2Parquet.scala" timestamp="1510829252325">
+        <mark key="[" line="2" column="20" />
+      </file>
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,6 +203,9 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="/Scala Console" timestamp="1510831482334">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Counter.java" timestamp="1507552242519">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="52" column="19" />
@@ -205,6 +223,12 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandle.java" timestamp="1506387807101">
         <mark key="'" line="93" column="17" />
       </file>
+      <file name="$USER_HOME$/OneDrive/meBin/GetURL.java" timestamp="1510744379753">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+        <mark key="^" line="13" column="65" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" timestamp="1506059561049">
         <mark key="'" line="44" column="26" />
       </file>
@@ -213,6 +237,10 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/package.scala" timestamp="1510827751793">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="37" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
         <mark key="'" line="151" column="33" />
@@ -238,6 +266,12 @@
       <file name="$USER_HOME$/gitCode/hb/hb-pay/src/main/java/com/guojingold/hb/common/util/RedisCacheUtils.java" timestamp="1504750660434">
         <mark key="'" line="323" column="6" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" timestamp="1510834187378">
+        <mark key="'" line="23" column="145" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" timestamp="1506068572428">
         <mark key="'" line="235" column="8" />
       </file>
@@ -261,15 +295,11 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1509948048120">
+      <file name="/fragment.java" timestamp="1510834225857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/weixinpay/src/main/java/com/weixinpay/GetOpenId.java" timestamp="1510637581050" />
     </filemarks>
     <jumps>
-      <jump line="44" column="26" filename="$MAVEN_REPOSITORY$/org/b3log/latke/2.3.17/latke-2.3.17.jar!/org/b3log/latke/Latkes.class" />
-      <jump line="159" column="14" filename="$USER_HOME$/gitCode/solo/src/main/java/org/b3log/solo/Starter.java" />
-      <jump line="52" column="43" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" />
       <jump line="31" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/tool/JavaShellToolBuilder.java" />
       <jump line="108" column="76" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" />
       <jump line="0" column="0" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" />
@@ -367,6 +397,9 @@
       <jump line="34" column="38" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
       <jump line="10" column="19" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
       <jump line="13" column="2" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" />
+      <jump line="6" column="24" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" />
+      <jump line="23" column="145" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -383,19 +416,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
+        <text>parquetFile</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>parquetFile</text>
       </register>
       <register name="/" type="4">
-        <text>Ex</text>
+        <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFN0cmluZyBuZXdSZXBvcnQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHBhcnF1ZXRzY2hlbWEgPSBzUUxDb250ZXh0LnBhcnF1ZXRGaWxlKCJDOlxcVXNlcnNcXHNxc2dhXFxPbmVEcml2ZVxcTWVQcm9qZWN0c1xcU2NhbGFcXHNyY1xcc3BhcmtIZWxsb1xcc3JjXFxtYWluXFxyZXNvdXJjZXNcXGlucHV0RmlsZVxcKi5wYXJxdWV0IikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -409,7 +442,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIMflwO0K</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -417,29 +450,29 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyBTdHJpbmcgbmV3UmVwb3J0ID0gIjIwMTctMTAtMDkgQU0gOzIwMTctMTEtMDggUE0gOzIwMTctMTEtMDkgQU0gIFBNIDsiOwogICAgLy8gU3RyaW5nW10gb2xkUmVwb3J0ID0gewogICAgLy8gICAgICIyMDE3LTEwLTA5IEFNICBQTSA7IiwKICAgIC8vICAgICAiMjAxNy0xMC0xOCBBTSAgUE0gOzIwMTctMTAtMTkgQU0gIFBNIDsyMDE3LTEwLTIwIEFNICBQTSA7IiwKICAgIC8vICAgICAiMjAxNy0xMC0yMyBBTSAgUE0gOyIsCiAgICAvLyAgICAgIjIwMTctMTAtMjQgQU0gIFBNIDsiLAogICAgLy8gfTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdSZXBvcnQpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cm9iamVjdCBIZWxsb1dvcmxkIHsKCn0KCkhlbGxvV29ybGQKSGVsbG9Xb3JsZA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2oK</text>
+        <text encoding="base64">ICAgIC8vIMflwO0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vIHN0LnJlcGxhY2VBbGwoIlxccysiLCIiKQogICAgLy8gU3lzdGVtLm91dC5wcmludGxuKG5ld1JlcG9ydEV4KTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ex</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>Ex</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxsb2FkTGlicmFyeVw+</entry>
         <entry>props</entry>
@@ -467,10 +499,9 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>Main</entry>
         <entry>Ex</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
-        <entry>t9</entry>
-        <entry encoding="base64">JzwsJz50MjU=</entry>
         <entry>reg</entry>
         <entry>open .</entry>
         <entry>32</entry>
@@ -489,6 +520,8 @@
         <entry>14t.</entry>
         <entry>16t.</entry>
         <entry>w</entry>
+        <entry>set wrap!</entry>
+        <entry>set wrap</entry>
       </history-cmd>
       <history-expr />
       <history-input />
