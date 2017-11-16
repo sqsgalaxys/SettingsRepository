@@ -129,6 +129,12 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" timestamp="1506408628927">
         <mark key="'" line="528" column="33" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/com/test/sparkscala/scriptFile.scala" timestamp="1510851173442">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -198,11 +204,6 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" timestamp="1509102891898">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/ProcessDemoEx.java" timestamp="1506403942505">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" timestamp="1507553925308">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="7" />
@@ -213,11 +214,6 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" timestamp="1506070283300">
         <mark key="'" line="328" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/test/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587313990">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-      </file>
       <file name="/dummy.sql" timestamp="1504752700640">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,11 +223,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/HelloWorld.java" timestamp="1507586710478">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1506405383484">
         <mark key="[" line="0" column="0" />
@@ -250,11 +241,6 @@
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/function/Supplier.java" timestamp="1506071505887">
         <mark key="'" line="40" column="14" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/wellington/gradle/wrapper/gradle-wrapper.properties" timestamp="1506753156472">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
         <mark key="'" line="151" column="33" />
@@ -300,7 +286,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1510850029724">
+      <file name="/fragment.java" timestamp="1510851485314">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -421,7 +407,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>package</text>
+        <text>object test {
+  
+}</text>
       </register>
       <register name="-" type="4">
         <text>package</text>
@@ -432,8 +420,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYXJxdWV0c2NoZW1hID0gc1FMQ29udGV4dC5yZWFkLnBhcnF1ZXQoIkM6XFxVc2Vyc1xcc3FzZ2FcXE9uZURyaXZlXFxNZVByb2plY3RzXFxTY2FsYVxcc3JjXFxzcGFya0hlbGxvXFxzcmNcXG1haW5cXHJlc291cmNlc1xcaW5wdXRGaWxlXFwqLnBhcnF1ZXQiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="1" type="4">
+        <text>object test {
+  
+}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -447,28 +437,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">cGFja2FnZS5zY2FsYW9vaGhoaGhoaG9hbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cm9iamVjdCBIZWxsb1dvcmxkIHsKCn0KCkhlbGxvV29ybGQKSGVsbG9Xb3JsZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Cm9iamVjdCBIZWxsb1dvcmxkIHsKCn0KCkhlbGxvV29ybGQKSGVsbG9Xb3JsZA==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAiMjAxNy0xMC0wOSBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMTggQU0gIFBNIDsyMDE3LTEwLTE5IEFNICBQTSA7MjAxNy0xMC0yMCBBTSAgUE0gOyIsCiAgICAgICAgIjIwMTctMTAtMjMgQU0gIFBNIDsiLAogICAgICAgICIyMDE3LTEwLTI0IEFNICBQTSA7IiwKICAgIH07</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIO+/ve+/ve+/ve+/vQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
