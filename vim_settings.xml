@@ -37,6 +37,11 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/Scala/src/tstat/scalaSparkHello/pom.xml" timestamp="1510936800457">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+      </file>
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
       </file>
@@ -413,18 +418,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>object test {
-  
-}</text>
+        <text>${scala.version}</text>
       </register>
       <register name="-" type="4">
-        <text>package</text>
+        <text>${scala.version}</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJxdWV0c2NoZW1hID0gc1FMQ29udGV4dC5yZWFkLnBhcnF1ZXQoIkM6XFxVc2Vyc1xcc3FzZ2FcXE9uZURyaXZlXFxNZVByb2plY3RzXFxTY2FsYVxcc3JjXFxzcGFya0hlbGxvXFxzcmNcXG1haW5cXHJlc291cmNlc1xcaW5wdXRGaWxlXFwqLnBhcnF1ZXQiKQo=</text>
+        <text encoding="base64">ICAgICAgPCEtLTx2ZXJzaW9uPiR7c2NhbGEudmVyc2lvbn08L3ZlcnNpb24+LS0+Cg==</text>
       </register>
       <register name="1" type="4">
         <text>object test {
