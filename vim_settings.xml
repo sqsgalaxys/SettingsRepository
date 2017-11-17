@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/com/test/sparkscala/startScala.scala" timestamp="1510895614270">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/MeProject/testJNI/src/Main.java" timestamp="1506074509342">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="13" column="7" />
@@ -138,7 +144,6 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
         <mark key="'" line="61" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.5.2/spark-sql_2.10-1.5.2.jar!/org/apache/spark/sql/SQLContext.class" timestamp="1510834114571" />
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.scripting.nashorn.shell/jdk/nashorn/tools/jjs/Console.java" timestamp="1506067418387">
         <mark key="'" line="52" column="43" />
       </file>
@@ -267,10 +272,9 @@
         <mark key="'" line="323" column="6" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" timestamp="1510834187378">
-        <mark key="'" line="23" column="145" />
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" timestamp="1506068572428">
         <mark key="'" line="235" column="8" />
