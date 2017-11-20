@@ -248,6 +248,12 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" timestamp="1506075934242">
         <mark key="'" line="151" column="33" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/testssssss/aljsdflkajsdlf/src/main/scala/WordCount.scala" timestamp="1510898798881">
+        <mark key="[" line="11" column="110" />
+        <mark key="]" line="11" column="115" />
+        <mark key="." line="11" column="115" />
+        <mark key="^" line="11" column="115" />
+      </file>
       <file name="$USER_HOME$/MeProject/testJNI/two/src/com/example/person/Person.java" timestamp="1506327100469">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -418,17 +424,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHh5ei5zeWRucy5zY2FsYS5zcGFyawo=</text>
+      <register name="&quot;" type="4">
+        <text>.classpath</text>
       </register>
       <register name="-" type="4">
-        <text>com.your-package.MainClass</text>
+        <text>.classpath</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLnlvdXItcGFja2FnZS5NYWluQ2xhc3M8L21haW5DbGFzcz4K</text>
+      <register name="0" type="4">
+        <text>&quot;C:\\Users\\sqsga\\OneDrive\\MeProjects\\Scala\\src\\testssssss\\aljsdflkajsdlf\\.classpath&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHh5ei5zeWRucy5zY2FsYS5zcGFyawo=</text>
