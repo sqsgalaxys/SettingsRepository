@@ -106,6 +106,7 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" timestamp="1509102891898">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/java-8-Lambdas-exercises/src/test/resources/com/insightfullogic/java8/examples/chapter8/test_file" timestamp="1511830224340" />
       <file name="$USER_HOME$/OneDrive/meProject/java9Process/src/com/sqsgalaxys/Main.java" timestamp="1506500783598">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="7" column="26" />
@@ -137,7 +138,6 @@
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" timestamp="1506074885065">
         <mark key="'" line="1526" column="34" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/PlantUML/src/hello/test.puml" timestamp="1511167952553" />
       <file name="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.compiler/com/sun/tools/javac/resources/compiler.java" timestamp="1506070940598">
         <mark key="'" line="61" column="44" />
       </file>
@@ -202,7 +202,7 @@
         <mark key="." line="118" column="19" />
         <mark key="^" line="118" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506405383484">
+      <file name="/Dummy.txt" timestamp="1511830431536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
@@ -303,9 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/tool/JavaShellToolBuilder.java" />
-      <jump line="108" column="76" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" />
-      <jump line="0" column="0" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" />
       <jump line="225" column="8" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" />
       <jump line="235" column="8" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/Eval.java" />
       <jump line="2044" column="8" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
@@ -403,6 +400,9 @@
       <jump line="2" column="7" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" />
       <jump line="6" column="24" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" />
       <jump line="23" column="145" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" />
+      <jump line="72" column="39" filename="$USER_HOME$/Downloads/java-8-Lambdas-exercises/src/main/java/com/insightfullogic/java8/examples/chapter5/CollectorExamples.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/Downloads/java-8-Lambdas-exercises/src/main/java/com/insightfullogic/java8/examples/chapter5/CollectorExamples.java" />
+      <jump line="71" column="16" filename="$USER_HOME$/Downloads/java-8-Lambdas-exercises/src/main/java/com/insightfullogic/java8/examples/chapter5/CollectorExamples.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,13 +419,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${scala.version}</text>
+        <text>numberOfAlbums</text>
       </register>
       <register name="-" type="4">
-        <text>${scala.version}</text>
+        <text>numberOfAlbums</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPCEtLTx2ZXJzaW9uPiR7c2NhbGEudmVyc2lvbn08L3ZlcnNpb24+LS0+Cg==</text>
@@ -475,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -485,7 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry encoding="base64">XDxsb2FkTGlicmFyeVw+</entry>
         <entry>props</entry>
         <entry>list(</entry>
@@ -505,6 +504,7 @@
         <entry>Main</entry>
         <entry>Ex</entry>
         <entry>user</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
