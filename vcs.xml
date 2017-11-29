@@ -118,8 +118,12 @@
           <option name="url" value="git@github.com:XjShi/spittr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:RichardWarburton/java-8-Lambdas-exercises.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads/OneDrive/MeProjects/" />
+    <option name="cloneParentDir" value="C:\Users\sqsga\Downloads" />
   </component>
 </application>
