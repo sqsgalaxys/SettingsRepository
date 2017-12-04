@@ -9,7 +9,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/java/src/CompletableFutureTest/src/Print.java" timestamp="1512087539102" />
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/src/main/java/jpa.sql" timestamp="1511714027889">
         <mark key="'" line="15" column="0" />
       </file>
@@ -37,8 +36,15 @@
       <file name="/a.sql" timestamp="1511710637679">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/java/src/CompletableFutureTest/src/com/sqsgalaxys/java/Test.java" timestamp="1512374470589">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="53" />
+      </file>
       <file name="/sbtShell" timestamp="1510933575384">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" timestamp="1511709210470">
         <mark key="'" line="184" column="34" />
@@ -103,9 +109,6 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/Main.java" timestamp="1511973671754">
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
       </file>
@@ -130,8 +133,8 @@
         <mark key="]" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
-        <mark key="[" line="2" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/src/main/resources/jpa-category.sql" timestamp="1511708865493">
         <mark key="'" line="34" column="26" />
@@ -263,7 +266,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDYXRjaCBBbiBFeGNlcHRpb24uIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
