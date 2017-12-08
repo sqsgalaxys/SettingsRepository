@@ -133,6 +133,12 @@
         <mark key="]" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/Desktop/tomcat-cluster-redis-session-manager-master/pom.xml" timestamp="1512706287610">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="32" />
+        <mark key="^" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
@@ -265,11 +271,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDYXRjaCBBbiBFeGNlcHRpb24uIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>xml</text>
