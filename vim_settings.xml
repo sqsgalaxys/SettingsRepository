@@ -22,6 +22,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1512707262218">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="12" />
+        <mark key="." line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
@@ -52,6 +57,7 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/tomcat-cluster-redis-session-manager-master/README.md" timestamp="1512708204614" />
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/pom.xml" timestamp="1511713210887">
         <mark key="'" line="90" column="20" />
         <mark key="[" line="90" column="34" />
@@ -133,11 +139,11 @@
         <mark key="]" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/tomcat-cluster-redis-session-manager-master/pom.xml" timestamp="1512706287610">
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="49" column="32" />
-        <mark key="." line="49" column="32" />
+      <file name="$USER_HOME$/Desktop/tomcat-cluster-redis-session-manager-master/pom.xml" timestamp="1512707978678">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
@@ -271,8 +277,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -281,10 +287,10 @@
         <text>xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlDQUxMIGdldF9wZXJzb25fY291bnQoPyw/KQo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -297,29 +303,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3R1KCl7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20udGVzdC5wcm9wZXJ0aWVzOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55cy5hcnJheS5NeUFycmF5Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3R1KCl7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKiovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20udGVzdC5wcm9wZXJ0aWVzOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueXMuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55cy5hcnJheS5NeUFycmF5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9ICIiOwo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ueXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
