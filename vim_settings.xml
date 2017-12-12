@@ -57,7 +57,6 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tomcat-cluster-redis-session-manager-master/README.md" timestamp="1512708204614" />
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/pom.xml" timestamp="1511713210887">
         <mark key="'" line="90" column="20" />
         <mark key="[" line="90" column="34" />
@@ -160,6 +159,7 @@
       <file name="/fragment.java" timestamp="1512042523005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/java/src/CompletableFutureTest/src/com/sqsgalaxys/java/Base64Test.java" timestamp="1513068357598" />
     </filemarks>
     <jumps>
       <jump line="328" column="44" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" />
