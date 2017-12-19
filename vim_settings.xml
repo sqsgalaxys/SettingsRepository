@@ -61,6 +61,7 @@
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/InitialOrderTest.java" timestamp="1513689806662" />
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MyArray.java" timestamp="1511974009701">
         <mark key="[" line="90" column="19" />
         <mark key="]" line="90" column="32" />
@@ -99,6 +100,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/TestOrder.java" timestamp="1513689999277">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/pom.xml" timestamp="1511713210887">
         <mark key="'" line="90" column="20" />
         <mark key="[" line="90" column="34" />
@@ -127,6 +133,12 @@
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
       </file>
+      <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/package-info.java" timestamp="1513690024697">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="3" column="110" />
+        <mark key="^" line="3" column="110" />
+        <mark key="." line="3" column="110" />
+      </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
@@ -148,6 +160,7 @@
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
+      <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/SubClass.java" timestamp="1513690099821" />
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/Test.java" timestamp="1511974665633">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="2" column="20" />
@@ -297,8 +310,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIOmdmeaAgeWPmOmHjyAgIAogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgcF9TdGF0aWNGaWVsZCA9ICLniLbnsbstLemdmeaAgeWPmOmHjyI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -310,7 +323,7 @@
         <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9PbmVEcml2ZS9NZVByb2plY3RzL2V2ZXJ5ZGF5bWFpbmNvZGUvc3JjL+S6jOOAh+S4gOS4g+W5tOWNgeS6jOaciOWNgeS4gOaXpS9TdW1Vc2VFeHRlcm5hbEl0ZXJhdGlvbi5qYXZhCg==</text>
+        <text encoding="base64">ICAgIC8vIOmdmeaAgeWPmOmHjyAgIAogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgcF9TdGF0aWNGaWVsZCA9ICLniLbnsbstLemdmeaAgeWPmOmHjyI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -324,28 +337,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIC8vIOmdmeaAgeWPmOmHjwogICAgcHVibGljIHN0YXRpYyBUZXN0QiBiID0gbmV3IFRlc3RCKCk7CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgIC8vIOmdmeaAgeWPmOmHjyAgIAogICAgcHVibGljIHN0YXRpYyBUZXN0QiBiID0gbmV3IFRlc3RCKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9PbmVEcml2ZS9NZVByb2plY3RzL2V2ZXJ5ZGF5bWFpbmNvZGUvc3JjL+S6jOOAh+S4gOS4g+W5tOWNgeS6jOaciOWNgeS4gOaXpS9TdW1Vc2VFeHRlcm5hbEl0ZXJhdGlvbi5qYXZhCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3R1KCl7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiovCg==</text>
+        <text encoding="base64">ICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20udGVzdC5wcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55cy5hcnJheS5NeUFycmF5Owo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3R1KCl7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
