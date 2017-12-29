@@ -138,6 +138,13 @@
         <mark key="^" line="3" column="110" />
         <mark key="." line="3" column="110" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1514550264479">
+        <mark key="'" line="6" column="48" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
@@ -193,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="8" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
       <jump line="356" column="22" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
       <jump line="410" column="7" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
       <jump line="424" column="48" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
@@ -293,6 +299,7 @@
       <jump line="12" column="13" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/everydaymaincode/src/二〇一七年十二月十一日/SumUseExternalIteration.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/everydaymaincode/src/二〇一七年十二月十一日/SumUseInternalIteration.java" />
       <jump line="11" column="20" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/SpringBootLayIM-master/src/main/java/com/fyp/layim/common/util/AESUtil.java" />
+      <jump line="6" column="48" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -308,14 +315,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIOmdmeaAgeWPmOmHjyAgIAogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgcF9TdGF0aWNGaWVsZCA9ICLniLbnsbstLemdmeaAgeWPmOmHjyI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ci-spring-boot</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ci-spring-boot</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZWNyZXRLZXlcPg==</text>
+        <text encoding="base64">XDxIRVJPS1VfQVBJX0tFWVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgo=</text>
@@ -363,17 +370,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZWNyZXRLZXlcPg==</last-search>
+      <last-search encoding="base64">XDxIRVJPS1VfQVBJX0tFWVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZWNyZXRLZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxIRVJPS1VfQVBJX0tFWVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry encoding="base64">XDxpbkNoYXJCdWZcPg==</entry>
         <entry>Read</entry>
         <entry>Readable</entry>
@@ -393,6 +399,7 @@
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry>xml</entry>
         <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
+        <entry encoding="base64">XDxIRVJPS1VfQVBJX0tFWVw+</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
