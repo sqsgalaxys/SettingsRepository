@@ -138,12 +138,12 @@
         <mark key="^" line="3" column="110" />
         <mark key="." line="3" column="110" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1514550264479">
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1514551851057">
         <mark key="'" line="6" column="48" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="30" />
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
@@ -316,10 +316,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ci-spring-boot</text>
+        <text>52147704-89e6-462e-bd87-c4f1b25e1058 $HEROKU_API_KEY</text>
       </register>
       <register name="-" type="4">
-        <text>ci-spring-boot</text>
+        <text>52147704-89e6-462e-bd87-c4f1b25e1058 $HEROKU_API_KEY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIRVJPS1VfQVBJX0tFWVw+</text>
