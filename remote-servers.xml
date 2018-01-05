@@ -1,13 +1,13 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
-      <configuration>
-        <option name="apiUrl" value="unix:///var/run/docker.sock" />
-      </configuration>
-    </remote-server>
     <remote-server name="Docker_win" type="docker">
       <configuration>
         <option name="apiUrl" value="http://127.0.0.1:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
   </component>
