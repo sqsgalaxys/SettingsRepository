@@ -94,6 +94,12 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1515148894323">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,19 +135,20 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515147501188">
-        <mark key="'" line="10" column="24" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515150068633">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="16" column="51" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/src/main/resources/application-prod.properties" timestamp="1514450047907">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1514891872834">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1515148955499">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="78" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="0" />
       </file>
@@ -252,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="73" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
-      <jump line="403" column="22" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/JShell.java" />
       <jump line="1526" column="34" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" />
       <jump line="305" column="29" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" />
       <jump line="379" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
@@ -352,6 +357,8 @@
       <jump line="27" column="26" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="28" column="23" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="14" column="24" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="6" column="32" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -367,20 +374,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$()</text>
       </register>
       <register name="-" type="4">
-        <text>ENTRYPOINT</text>
+        <text>$()</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbInNoIiwgIi1jIiwgImphdmEgLURqYXZhLnNlY3VyaXR5LmVnZD1maWxlOi9kZXYvLi91cmFuZG9tIC1qYXIgL215dGFzay5qYXIiXQo=</text>
+        <text encoding="base64">ICAtIGRvY2tlciBydW4gLWQgLXAgMTI3LjAuMC4xOjgwOjgwIGVudm95cy9teXRhc2sgL2Jpbi9zaCAtYyAiamF2YSAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvbXl0YXNrLmphciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,28 +401,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>script:
+  - bundle exec rake test</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBydW4gY2FybGFkL3NpbmF0cmEgL2Jpbi9zaCAtYyAiY2QgL3Jvb3Qvc2luYXRyYTsgYnVuZGxlIGV4ZWMgcmFrZSB0ZXN0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEZW1vIGRlbW8gPSBuZXcgRGVtbygpOwogICAgICAgIGRlbW8uc2V0SWQoMSk7CiAgICAgICAgZGVtby5zZXROYW1lKCLliJjokKUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAtIGRvY2tlciBidWlsZCAtdCBjYXJsYWQvc2luYXRyYSAuCiAgLSBkb2NrZXIgcnVuIC1kIC1wIDEyNy4wLjAuMTo4MDo0NTY3IGNhcmxhZC9zaW5hdHJhIC9iaW4vc2ggLWMgImNkIC9yb290L3NpbmF0cmE7IGJ1bmRsZSBleGVjIGZvcmVtYW4gc3RhcnQ7Ig==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wb3N0Z3Jlc3FsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5wb3N0Z3Jlc3FsPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMTIxMjwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnBvc3RncmVzcWw8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBvc3RncmVzcWw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjkuNC4xMjEyPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
