@@ -135,12 +135,11 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515150068633">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="51" />
-        <mark key="^" line="16" column="51" />
-        <mark key="." line="16" column="51" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515151237098">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/src/main/resources/application-prod.properties" timestamp="1514450047907">
         <mark key="[" line="6" column="0" />
@@ -259,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1526" column="34" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SourceCodeAnalysisImpl.java" />
       <jump line="305" column="29" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" />
       <jump line="379" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
       <jump line="367" column="5" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
@@ -359,6 +357,7 @@
       <jump line="14" column="24" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="6" column="32" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="12" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -375,10 +374,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$()</text>
+        <text encoding="base64">JCA=</text>
       </register>
       <register name="-" type="4">
-        <text>$()</text>
+        <text encoding="base64">JCA=</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
@@ -387,7 +386,7 @@
         <text encoding="base64">ICAtIGRvY2tlciBydW4gLWQgLXAgMTI3LjAuMC4xOjgwOjgwIGVudm95cy9teXRhc2sgL2Jpbi9zaCAtYyAiamF2YSAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvbXl0YXNrLmphciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,33 +399,33 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">QWZ0ZXIgdGhlIGltYWdlIGhhcyBzdWNjZXNzZnVsbHkgYmVlbiBwdXNoZWQsIG9wZW4geW91ciBhcHA6CgokIGhlcm9rdSBvcGVuIC1hIDxhcHA+</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgoKCgoKCgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="4">
         <text>script:
   - bundle exec rake test</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBydW4gY2FybGFkL3NpbmF0cmEgL2Jpbi9zaCAtYyAiY2QgL3Jvb3Qvc2luYXRyYTsgYnVuZGxlIGV4ZWMgcmFrZSB0ZXN0Igo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAtIGRvY2tlciBidWlsZCAtdCBjYXJsYWQvc2luYXRyYSAuCiAgLSBkb2NrZXIgcnVuIC1kIC1wIDEyNy4wLjAuMTo4MDo0NTY3IGNhcmxhZC9zaW5hdHJhIC9iaW4vc2ggLWMgImNkIC9yb290L3NpbmF0cmE7IGJ1bmRsZSBleGVjIGZvcmVtYW4gc3RhcnQ7Ig==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBydW4gY2FybGFkL3NpbmF0cmEgL2Jpbi9zaCAtYyAiY2QgL3Jvb3Qvc2luYXRyYTsgYnVuZGxlIGV4ZWMgcmFrZSB0ZXN0Igo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zb3J0IHU=</text>
       </register>
     </registers>
     <search>
@@ -462,7 +461,6 @@
         <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>open .</entry>
         <entry>32</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>36</entry>
@@ -482,6 +480,7 @@
         <entry>set wrap!</entry>
         <entry>set wrap</entry>
         <entry>g/^$/d</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
