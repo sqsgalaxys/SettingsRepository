@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/Main.java" timestamp="1511973671754">
         <mark key="[" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/ideavim/resources/META-INF/plugin.xml" timestamp="1515340304698" />
       <file name="/a.dummy" timestamp="1511974977976">
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,10 +15,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/java/src/CompletableFutureTest/src/com/sqsgalaxys/java/Test.java" timestamp="1512374470589">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="53" />
       </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/BasicMain.java" timestamp="1511972272029">
         <mark key="[" line="10" column="0" />
@@ -101,10 +98,6 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/everydaymaincode/src/二〇一七年〇五月〇二日/FillArray.java" timestamp="1513002228706">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="65" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,7 +172,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515335611214">
+      <file name="/Dummy.txt" timestamp="1515340696304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
@@ -204,7 +197,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515338763113" />
+      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515340556535">
+        <mark key="'" line="68" column="2" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
@@ -234,10 +229,6 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/ci-spring-boot/src/main/resources/application-prod.properties" timestamp="1514450047907">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="55" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
@@ -252,9 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="33" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" />
-      <jump line="105" column="25" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
-      <jump line="4" column="32" filename="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" />
       <jump line="7" column="0" filename="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" />
       <jump line="17" column="0" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
       <jump line="9" column="12" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
@@ -352,6 +340,9 @@
       <jump line="47" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="18" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="17" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="231" column="63" filename="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" />
+      <jump line="68" column="2" filename="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -374,7 +365,7 @@
         <text>#-D</text>
       </register>
       <register name="/" type="4">
-        <text>Ex</text>
+        <text>apply</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Iy1Ec2VydmVyLnBvcnQ9JFBPUlQK</text>
@@ -422,9 +413,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Ex</last-search>
+      <last-search>apply</last-search>
       <last-offset />
-      <last-pattern>Ex</last-pattern>
+      <last-pattern>apply</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -432,8 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
-        <entry encoding="base64">XDxpbkNoYXJCdWZcPg==</entry>
         <entry>Read</entry>
         <entry>Readable</entry>
         <entry encoding="base64">XDxpc0NvbW1lbnRMaW5lXD4=</entry>
@@ -452,6 +441,8 @@
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry>xml</entry>
         <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
+        <entry>Vim</entry>
+        <entry>apply</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
