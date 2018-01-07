@@ -9,11 +9,11 @@
       <file name="/a.dummy" timestamp="1511974977976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1514557048068">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="7" column="57" />
-        <mark key="^" line="7" column="57" />
-        <mark key="." line="7" column="57" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1515325035903">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/src/main/java/jpa.sql" timestamp="1511714027889">
         <mark key="'" line="15" column="0" />
@@ -167,6 +167,12 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1515325028219">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="82" />
+        <mark key="^" line="4" column="82" />
+        <mark key="." line="4" column="82" />
+      </file>
       <file name="/dummy.sql" timestamp="1513094527247">
         <mark key="[" line="0" column="0" />
       </file>
@@ -181,7 +187,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515323756975">
+      <file name="/Dummy.txt" timestamp="1515325043684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
@@ -371,17 +377,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
+      <register name="&quot;" type="4">
+        <text>#-D</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JCA=</text>
+        <text>#-D</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBwcyAtYQo=</text>
+        <text encoding="base64">Iy1Ec2VydmVyLnBvcnQ9JFBPUlQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
