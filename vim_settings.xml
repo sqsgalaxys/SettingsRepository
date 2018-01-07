@@ -16,6 +16,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/javax/swing/table/AbstractTableModel.java" timestamp="1515343301032" />
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/BasicMain.java" timestamp="1511972272029">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -197,8 +198,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515340556535">
+      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515343680834">
         <mark key="'" line="68" column="2" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="75" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
@@ -358,8 +362,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>#-D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXlSb3dzLmFkZChuZXcgUm93KGtleVN0cm9rZSwgYWN0aW9ucy5nZXQoMCksIGVudHJ5LmdldFZhbHVlKCkpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>#-D</text>
@@ -368,7 +372,7 @@
         <text>apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Iy1Ec2VydmVyLnBvcnQ9JFBPUlQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlSb3dzLmFkZChuZXcgUm93KGtleVN0cm9rZSwgYWN0aW9ucy5nZXQoMCksIGVudHJ5LmdldFZhbHVlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
