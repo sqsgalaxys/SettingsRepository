@@ -204,12 +204,10 @@
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515258567747">
-        <mark key="'" line="6" column="48" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515322840160">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
@@ -258,10 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="29" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java" />
-      <jump line="379" column="23" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
-      <jump line="367" column="5" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
-      <jump line="349" column="5" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
       <jump line="151" column="33" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/jdk.jshell/jdk/jshell/SnippetEvent.java" />
       <jump line="105" column="25" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Thread.java" />
       <jump line="4" column="32" filename="$USER_HOME$/MeProject/testJNI/one/src/a/HelloWorld.java" />
@@ -358,6 +352,10 @@
       <jump line="6" column="32" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="12" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="11" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="47" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="18" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
+      <jump line="17" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -374,7 +372,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBydW4gZW52b3lzL215dGFzayAvYmluL3NoIC1jICJqYXZhIC1EamF2YS5zZWN1cml0eS5lZ2Q9ZmlsZTovZGV2Ly4vdXJhbmRvbSAtamFyIC9teXRhc2suamFyIgo=</text>
+        <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JCA=</text>
@@ -383,10 +381,10 @@
         <text>Ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBydW4gLWQgLXAgMTI3LjAuMC4xOjgwOjgwIGVudm95cy9teXRhc2sgL2Jpbi9zaCAtYyAiamF2YSAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvbXl0YXNrLmphciIK</text>
+        <text encoding="base64">ICAtIGRvY2tlciBwcyAtYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBydW4gZW52b3lzL215dGFzayAvYmluL3NoIC1jICJqYXZhIC1EamF2YS5zZWN1cml0eS5lZ2Q9ZmlsZTovZGV2Ly4vdXJhbmRvbSAtamFyIC9teXRhc2suamFyIgo=</text>
+        <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,28 +401,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CnN1ZG86IHJlcXVpcmVkCgpsYW5ndWFnZTogamF2YQoKamRrOgogIC0gb3JhY2xlamRrOAoKc2VydmljZXM6CiAgLSBkb2NrZXIKCmluc3RhbGw6IHRydWUKCnNjcmlwdDoKICAtIC4vZ3JhZGxldyBidWlsZAogIC0gY2Qgc3VicHJvamVjdHMvYmFja2VuZAogIC0gLi4vLi4vZ3JhZGxldyBjcmVhdGVEb2NrZXJmaWxlCiAgLSBjZCBidWlsZAogIC0gZG9ja2VyIGJ1aWxkIC10IGthaXRvZWR0ZXIvY2hhdHR5IC4KICAtIGRvY2tlciBsb2dpbiAtLXVzZXJuYW1lPSIkRE9DS0VSX1VTRVJOQU1FIiAtLXBhc3N3b3JkPSIkRE9DS0VSX1BBU1NXT1JEIgogIC0gZG9ja2VyIHB1c2gga2FpdG9lZHRlci9jaGF0dHkKICAtIGRvY2tlciBsb2dpbiAtLXVzZXJuYW1lPV8gLS1wYXNzd29yZD0iJEhFUk9LVV9BVVRIX1RPS0VOIiByZWdpc3RyeS5oZXJva3UuY29tCiAgLSBkb2NrZXIgdGFnIGthaXRvZWR0ZXIvY2hhdHR5IHJlZ2lzdHJ5Lmhlcm9rdS5jb20vY2hhdHR5NDIvd2ViCiAgLSBkb2NrZXIgcHVzaCByZWdpc3RyeS5oZXJva3UuY29tL2NoYXR0eTQyL3dlYgogIC0gY2QgLi4vLi4vLi4KCiNkZXBsb3k6CiMgIHByb3ZpZGVyOiBoZXJva3UKIyAgYXBpX2tleToKIyAgICBzZWN1cmU6IFQrMjVySWtPVDFlcmNlSTZuSjdZMWhZQVNzblR1TURxRXpMY0pITmJtdWFEWGlhaXlWczlSVW5tV0xDcEVIejRienZ3bGNvallXaXMyc0ZEMC9JdTdhalpPd1c5UHRDSDR1Q0UwWndrSFMvTmx4UFliS0RFcEdXK0JTRFNpbGR4ZEZVLzlwR1FnS3krd3Q1dzZic2xvOGoxN201Q0s0MTBodHQ2c0FpUyt0RT0KIyAgYXBwOiBjaGF0dHk0MgojICBvbjoKIyAgICByZXBvOiB0b2VkdGVyL2NoYXR0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBwcyAtYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBsb2dpbiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAtIGRvY2tlciBydW4gLWQgLXAgMTI3LjAuMC4xOjgwOjgwIGVudm95cy9teXRhc2sgL2Jpbi9zaCAtYyAiamF2YSAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvbXl0YXNrLmphciIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QWZ0ZXIgdGhlIGltYWdlIGhhcyBzdWNjZXNzZnVsbHkgYmVlbiBwdXNoZWQsIG9wZW4geW91ciBhcHA6CgokIGhlcm9rdSBvcGVuIC1hIDxhcHA+</text>
+      <register name="9" type="2">
+        <text encoding="base64">IC0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0IHU=</text>
+        <text>37t.</text>
       </register>
     </registers>
     <search>
@@ -460,8 +458,6 @@
         <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>32</entry>
-        <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>36</entry>
         <entry>50</entry>
         <entry>22</entry>
@@ -480,6 +476,8 @@
         <entry>set wrap</entry>
         <entry>g/^$/d</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
+        <entry>30t.</entry>
+        <entry>37t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
