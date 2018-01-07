@@ -82,6 +82,7 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/javax/swing/KeyStroke.java" timestamp="1515339311255" />
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1512707262218">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="12" />
@@ -203,7 +204,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515335623521" />
+      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515338763113" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
