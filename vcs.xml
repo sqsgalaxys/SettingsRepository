@@ -130,6 +130,10 @@
           <option name="url" value="git@github.com:JetBrains/ideavim.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fvegat/JavaToPuml.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sqsga\Downloads" />
