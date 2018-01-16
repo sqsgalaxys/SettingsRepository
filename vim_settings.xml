@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/Main.java" timestamp="1511973671754">
@@ -190,6 +190,12 @@
         <mark key="]" line="186" column="75" />
         <mark key="." line="186" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1516118542382">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
@@ -222,6 +228,12 @@
       </file>
       <file name="/fragment.java" timestamp="1512042523005">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/web/controller/TestAnotions.java" timestamp="1516118411363">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
