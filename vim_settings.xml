@@ -111,6 +111,12 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/spring-boot-examples-master/spring-boot-jpa-thymeleaf-curd/src/main/resources/application.properties" timestamp="1516199896480">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/pom.xml" timestamp="1514450448081">
         <mark key="[" line="56" column="23" />
         <mark key="]" line="56" column="32" />
@@ -360,16 +366,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;index&quot;</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;index&quot;</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gQFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UucGFzc3dvcmQ9cm9vdAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBHZXRNZGQK</text>
