@@ -24,10 +24,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/BasicMain.java" timestamp="1511972272029">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Downloads/nh/src/main/java/com/guojingold/cn/nh/desk/sign/service/impl/UserSignRecordServiceImpl.java" timestamp="1516203771457">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="54" />
+        <mark key="." line="56" column="54" />
+        <mark key="^" line="56" column="54" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
@@ -37,6 +38,12 @@
         <mark key="]" line="23" column="1" />
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/resources/static/nh/sign/record.js" timestamp="1516204134067">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/src/main/java/com/itdragon/mapper/PersonMapper.xml" timestamp="1511713479273">
         <mark key="[" line="98" column="13" />
@@ -53,6 +60,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/resources/static/lib/hbutil.js" timestamp="1516204345463" />
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1515148894323">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="13" />
@@ -80,11 +88,6 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1512707262218">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="12" />
-        <mark key="." line="147" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/src/main/java/com/itdragon/test/MyBatisTest.java" timestamp="1511714262738">
         <mark key="[" line="51" column="39" />
         <mark key="]" line="52" column="17" />
@@ -106,10 +109,12 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/CSV2Parquet.scala" timestamp="1510829252325">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/SpringBootLayIM-master/src/main/resources/application.yml" timestamp="1513094107501">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/Downloads/nh/src/main/resources/application.properties" timestamp="1516203224317">
+        <mark key="'" line="10" column="43" />
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/spring-boot-examples-master/spring-boot-jpa-thymeleaf-curd/src/main/resources/application.properties" timestamp="1516199896480">
         <mark key="[" line="3" column="27" />
@@ -150,13 +155,10 @@
         <mark key="^" line="4" column="82" />
         <mark key="." line="4" column="82" />
       </file>
-      <file name="/dummy.sql" timestamp="1513094527247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/TestOrder.java" timestamp="1513689999277">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/dummy.sql" timestamp="1516204020599">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1516117855424">
         <mark key="'" line="61" column="0" />
@@ -165,16 +167,11 @@
         <mark key="." line="46" column="46" />
         <mark key="^" line="46" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515340696304">
+      <file name="/Dummy.txt" timestamp="1516203989251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/Test.java" timestamp="1514556067088">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/BasicFuture.java" timestamp="1511971452447">
         <mark key="[" line="8" column="55" />
@@ -184,11 +181,6 @@
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515323752791">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/resources/templates/index.html" timestamp="1516119744021">
         <mark key="[" line="7" column="0" />
@@ -208,11 +200,18 @@
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/java/com/guojingold/cn/nh/desk/sign/controller/UserSignRecordController.java" timestamp="1516203540606" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/resources/templates/sign/record.html" timestamp="1516203546437">
+        <mark key="[" line="108" column="36" />
+        <mark key="]" line="108" column="52" />
+        <mark key="." line="108" column="52" />
+        <mark key="^" line="108" column="52" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" timestamp="1516118244078">
         <mark key="'" line="12" column="0" />
@@ -229,6 +228,10 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/java/com/guojingold/cn/nh/desk/sign/service/impl/UserSignConfigServiceImpl.java" timestamp="1516203682660">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="59" column="41" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
@@ -238,7 +241,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1512042523005">
+      <file name="/fragment.java" timestamp="1516203649820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/web/controller/TestAnotions.java" timestamp="1516120051848">
@@ -250,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
-      <jump line="852" column="4" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" />
       <jump line="49" column="20" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
       <jump line="12" column="4" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
       <jump line="751" column="36" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" />
@@ -350,6 +351,8 @@
       <jump line="13" column="6" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="28" column="15" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/web/controller/TestAnotions.java" />
+      <jump line="12" column="32" filename="$USER_HOME$/Downloads/nh/src/main/resources/application.properties" />
+      <jump line="10" column="43" filename="$USER_HOME$/Downloads/nh/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,19 +369,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>200</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>redi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UucGFzc3dvcmQ9cm9vdAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJJRCIsIFV1SWRVdGlsLmdldDMyVVVJRCgpKTsKICAgICAgICBUYWJsZVV0aWwgcGFyYW1zVXRpbCA9IG5ldyBUYWJsZVV0aWwoInNpZ25fY29uZmlnIixwYXJhbXMpOwogICAgICAgIGludCBpID0gYmFzZU1hcHBlci5pbnNlcnRCYXNlKHBhcmFtc1V0aWwpOwogICAgICAgIHJldHVybiBSZXNwTXNnVXRpbC5wYXJzZUlzVHJ1ZShpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBHZXRNZGQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,37 +395,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcjsK</text>
+        <text encoding="base64">ICAgICAgICBzaWducmVjb3JkL2luc2VydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVtbzsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzaWducmVjb3JkL2luc2VydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2RheX0iKQogICAgcHVibGljIERlbW8gdGVzdEdldE1hcHBpbmcoKSB7CiAgICAgICAgRGVtbyBkZW1vID0gbmV3IERlbW8oKTsKICAgICAgICBkZW1vLnNldElkKDEpOwogICAgICAgIGRlbW8uc2V0TmFtZSgidGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgIEBHZXRNZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEAoIi8iKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8vKgovLwovLwovLwovLwovLyAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name=":" type="4">
         <text>37t.</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>redi</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>redi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
       <last-dir>1</last-dir>
@@ -430,8 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Readable</entry>
-        <entry encoding="base64">XDxpc0NvbW1lbnRMaW5lXD4=</entry>
         <entry>\u</entry>
         <entry>\\u</entry>
         <entry>&quot; &quot;</entry>
@@ -450,6 +451,8 @@
         <entry>Vim</entry>
         <entry>apply</entry>
         <entry>get</entry>
+        <entry>192</entry>
+        <entry>redi</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
