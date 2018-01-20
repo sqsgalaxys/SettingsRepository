@@ -184,6 +184,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/src/main/java/com/sqsgalaxys/java/test/AopConfug.java" timestamp="1516438928103">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516437797229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,6 +216,12 @@
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="75" />
         <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/src/main/resources/test.xml" timestamp="1516439374850">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+        <mark key="." line="16" column="54" />
       </file>
       <file name="$USER_HOME$/Downloads/meSpringAopTest/src/test/java/Main.java" timestamp="1516434929806">
         <mark key="[" line="15" column="22" />
@@ -396,17 +408,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUodmFsdWUgPSAicGVyZm9ybWVyKG51bWJlcikiLCBhcmdOYW1lcyA9ICJudW1iZXIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUodmFsdWUgPSAicGVyZm9ybWVyKG51bWJlcikiLCBhcmdOYW1lcyA9ICJudW1iZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFvcDpwb2ludGN1dCBleHByZXNzaW9uPSJleGVjdXRpb24oKiogY29tLnNxc2dhbGF4eXMuamF2YS50ZXN0LkFvcFhtbC4qKC4uKSkiIGlkPSJhb3B4bWxsIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIEBQb2ludGN1dCgiZXhlY3V0aW9uKCoqIGNvbS50aWRhcy5zcHJpbmcuZm91cnRoLmFvcGphdmFjb25maWcuTXVzaWMucGVyZm9ybShpbnQpKSAmJiBhcmdzKG51bWJlcikiKQogICAgLy8gQFBvaW50Y3V0KCJleGVjdXRpb24oKiogY29tLnNxc2dhbGF4eXMuamF2YS50ZXN0Lk11c2ljLnBlcmZvcm0oaW50KSkgJiYgYXJncyhudW1iZXIpIikK</text>
