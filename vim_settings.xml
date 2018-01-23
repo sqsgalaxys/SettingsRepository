@@ -24,6 +24,16 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" timestamp="1516725007729">
+        <mark key="'" line="97" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" timestamp="1516726040382">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/Downloads/JavaCS/src/com/sqsgalaxys/SortMain.java" timestamp="1516454796157">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="14" />
@@ -84,12 +94,6 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/pom.xml" timestamp="1516453204023">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/JavaCS/src/com/sqsgalaxys/HeapSort.java" timestamp="1516454726826">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="5" />
@@ -124,11 +128,24 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/conf/dev/redis.properties" timestamp="1516724980376">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/JavaCS/src/com/sqsgalaxys/BubbleSort.java" timestamp="1516454869256">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2" />
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/conf/dev/db.properties" timestamp="1516724937295">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/src/main/java/com/itdragon/test/MyBatisTest.java" timestamp="1511714262738">
         <mark key="[" line="51" column="39" />
@@ -151,13 +168,6 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" timestamp="1510933626808">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Downloads/ping2-admin/src/main/resources/sqlMapperXml/ArticleManagerMapper.xml" timestamp="1516723847957" />
-      <file name="$USER_HOME$/Downloads/meSpringAopTest/src/main/java/Music.java" timestamp="1516434914233">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/CSV2Parquet.scala" timestamp="1510829252325">
         <mark key="[" line="2" column="20" />
       </file>
@@ -167,9 +177,22 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/sqlMapperXml/OrderMapper.xml" timestamp="1516725283074">
+        <mark key="'" line="33" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="10" />
+      </file>
       <file name="$USER_HOME$/Downloads/JavaCS/src/com/sqsgalaxys/MergeSort.java" timestamp="1516454837204">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/pom.xml" timestamp="1516724732436">
+        <mark key="'" line="22" column="29" />
+        <mark key="[" line="68" column="36" />
+        <mark key="]" line="68" column="8" />
+        <mark key="^" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/java/cn/com/ping2/utils/SwaggerConfig.java" timestamp="1516727642759" />
       <file name="$USER_HOME$/Downloads/nh/src/main/resources/application.properties" timestamp="1516203224317">
         <mark key="'" line="10" column="43" />
         <mark key="[" line="34" column="22" />
@@ -201,12 +224,13 @@
       <file name="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/redis.properties" timestamp="1516723303659">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1511710637679">
+      <file name="/a.sql" timestamp="1516725721011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1510933575384">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/webapp/swagger-ui/index.html" timestamp="1516727597041" />
       <file name="$USER_HOME$/Downloads/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1514451916250">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="8" column="66" />
@@ -218,6 +242,12 @@
         <mark key="]" line="4" column="82" />
         <mark key="^" line="4" column="82" />
         <mark key="." line="4" column="82" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/java/cn/com/ping2/web/interceptor/AppAuthInterceptor.java" timestamp="1516726887903">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/src/main/java/com/sqsgalaxys/java/test/AopConfug.java" timestamp="1516438928103">
         <mark key="[" line="5" column="10" />
@@ -232,7 +262,7 @@
         <mark key="." line="46" column="46" />
         <mark key="^" line="46" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516723950211">
+      <file name="/Dummy.txt" timestamp="1516725263944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -263,12 +293,6 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" timestamp="1515343680834">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="75" />
-        <mark key="." line="186" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/src/main/resources/test.xml" timestamp="1516439374850">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="54" />
@@ -292,12 +316,6 @@
         <mark key="]" line="108" column="52" />
         <mark key="." line="108" column="52" />
         <mark key="^" line="108" column="52" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" timestamp="1516118244078">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/spring_aop_demo-master/src/main/java/foo/bar/observer/brain.java" timestamp="1516441066846">
         <mark key="[" line="0" column="24" />
@@ -344,6 +362,13 @@
       <file name="/fragment.java" timestamp="1516438422535">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/springmvc-servlet.xml" timestamp="1516727216325">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="77" column="39" />
+        <mark key="]" line="77" column="39" />
+        <mark key="^" line="77" column="39" />
+        <mark key="." line="77" column="39" />
+      </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/web/controller/TestAnotions.java" timestamp="1516120051848">
         <mark key="'" line="28" column="15" />
         <mark key="[" line="28" column="15" />
@@ -353,34 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
-      <jump line="6" column="9" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
-      <jump line="3" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
-      <jump line="32" column="10" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
-      <jump line="9" column="6" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ReturnData.java" />
-      <jump line="11" column="36" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="12" column="35" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="32" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="29" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="42" column="51" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" />
-      <jump line="22" column="30" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/MainEx.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/ReturnData.java" />
-      <jump line="86" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="3" column="22" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="7" column="13" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="71" column="32" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/javaHelloWorld/src/Main.java" />
-      <jump line="23" column="2" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
-      <jump line="34" column="38" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
-      <jump line="10" column="19" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
-      <jump line="13" column="2" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
       <jump line="2" column="7" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" />
       <jump line="6" column="24" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" />
       <jump line="23" column="145" filename="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/package.scala" />
@@ -453,6 +450,34 @@
       <jump line="49" column="50" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
       <jump line="56" column="49" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
       <jump line="106" column="24" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
+      <jump line="22" column="29" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/pom.xml" />
+      <jump line="4" column="38" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/conf/dev/db.properties" />
+      <jump line="11" column="20" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/conf/dev/db.properties" />
+      <jump line="10" column="16" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/conf/dev/db.properties" />
+      <jump line="9" column="15" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/conf/dev/db.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="32" column="78" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="93" column="9" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="94" column="38" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="95" column="43" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="96" column="42" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="97" column="48" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/applicationContext.xml" />
+      <jump line="33" column="10" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/sqlMapperXml/OrderMapper.xml" />
+      <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="0" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="13" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="15" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="29" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="28" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="11" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="14" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d88e6714-5b5e-4029-93e9-3f3a47e77480/console.sql" />
+      <jump line="39" column="4" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/springmvc-servlet.xml" />
+      <jump line="20" column="7" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/resources/springmvc-servlet.xml" />
+      <jump line="34" column="103" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/java/cn/com/ping2/web/interceptor/AppAuthInterceptor.java" />
+      <jump line="33" column="7" filename="$USER_HOME$/Downloads/ping2-api-master-403994e5186968d66113c34f7ce2d6d03d2af916/ping2-api/src/main/java/cn/com/ping2/web/interceptor/AppAuthInterceptor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -469,19 +494,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>192.168.0.7</text>
+        <text>swagger-ui/inex.html</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.0.7</text>
+        <text>swagger-ui/inex.html</text>
       </register>
       <register name="/" type="4">
-        <text>pas</text>
+        <text>false</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFzdGVyX2RyaXZlclVybD1qZGJjOm15c3FsOi8vMTkyLjE2OC4wLjc6MzMwNi9hZG1pbl90ZXN0P2F1dG9SZWNvbm5lY3Q9dHJ1ZSZyZXdyaXRlQmF0Y2hlZFN0YXRlbWVudHM9dHJ1ZSZ1c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9VVRGLTgmdGlueUludDFpc0JpdD1mYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG12YzpleGNsdWRlLW1hcHBpbmcgcGF0aD0iL29yZGVyL3dlYmhvb2tzLyoqIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,56 +520,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJlYW5zPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj41LjAuMC5CVUlMRC1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgoJCUpTT05PYmplY3QgcmVzdWx0ID0gbmV3IEpTT05PYmplY3QoKTsKCQlIdHRwU2VydmxldFJlcXVlc3QgaGVhZGVycyA9IChIdHRwU2VydmxldFJlcXVlc3QpIHJlcXVlc3Q7CgkJUHJpbnRXcml0ZXIgb3V0ID0gbnVsbDsKCQl0cnkgewoJCQlTdHJpbmcgdG9rZW5TdHIgPSBnZXRBY2Nlc3NUb2tlbihoZWFkZXJzKTsKCQkJaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsodG9rZW5TdHIpKSB7CgkJCQlKU09OT2JqZWN0IHRva2VuSnNvbiA9IEpTT05PYmplY3QuZnJvbU9iamVjdCh0b2tlblN0cik7CgoJCQkJTG9uZyB0aW1lc3RhbXAgPSB0b2tlbkpzb24uZ2V0TG9uZygidGltZXN0YW1wIik7CgkJCQlTdHJpbmcgc2lnbiA9IHRva2VuSnNvbi5nZXRTdHJpbmcoInNpZ24iKTsKCgkJCQlpZiAodGltZXN0YW1wICE9IG51bGwgfHwgc2lnbiAhPSBudWxsKSB7CgkJCQkJbG9uZyByZXF1ZXN0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gdGltZXN0YW1wOwoJCQkJCS8vIOWPquaOpeWPl+aXtumXtOWGheWFgeiuuOeahOivt+axggoJCQkJCWlmIChyZXF1ZXN0VGltZSA8IERFRl9BTExPV19USU1FKSB7CgkJCQkJCVN0cmluZyBsb2NhbFNpZ24gPSBuZXcgU3RyaW5nQnVpbGRlcigpLmFwcGVuZCh0aW1lc3RhbXApLmFwcGVuZChBVVRIX1NUUikudG9TdHJpbmcoKTsKCQkJCQkJbG9jYWxTaWduID0gTUQ1VXRpbC5tZDUobG9jYWxTaWduKTsKCQkJCQkJaWYgKHNpZ24uZXF1YWxzKGxvY2FsU2lnbikpIHsKCQkJCQkJCXJldHVybiB0cnVlOwoJCQkJCQl9CgkJCQkJfQoJCQkJfQoJCQl9CgkJCXJlc3BvbnNlLnNldFN0YXR1cyhIdHRwU3RhdHVzLlNDX1VOQVVUSE9SSVpFRCk7CgkJCXJlc3VsdC5hY2N1bXVsYXRlKCJtc2ciLCAiRG9uJ3QgZXZlbiB0aGluayBhYm91dCBpdC4iKTsKCQkJb3V0ID0gcmVzcG9uc2UuZ2V0V3JpdGVyKCk7CgkJCW91dC5hcHBlbmQocmVzdWx0LnRvU3RyaW5nKCkpOwoJCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJCUxPR0dFUi5lcnJvcigiPT09PT5BcHBBdXRoSW50ZXJjZXB0b3IiLCBlKTsKCQl9IGZpbmFsbHkgewoJCQlpZiAob3V0ICE9IG51bGwpIHsKCQkJCW91dC5jbG9zZSgpOwoJCQl9CgkJfQoJCS8vIHJldHVybiBmYWxzZTsKCQlyZXR1cm4gdHJ1ZTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+NS4wLjAuQlVJTEQtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy10ZXN0PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjUuMC4wLkJVSUxELVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctY29udGV4dDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj41LjAuMC5CVUlMRC1TTkFQU0hPVDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQkJCQkJCXJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjUuMC4wLkJVSUxELVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjUuMC4wLkJVSUxELVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvbnRleHQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjUuMC4wLkJVSUxELVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAJCXVzZXJfaWQgVkFSQ0hBUigpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEBQb2ludGN1dCgiZXhlY3V0aW9uKCoqIGNvbS50aWRhcy5zcHJpbmcuZm91cnRoLmFvcGphdmFjb25maWcuTXVzaWMucGVyZm9ybShpbnQpKSAmJiBhcmdzKG51bWJlcikiKQogICAgLy8gQFBvaW50Y3V0KCJleGVjdXRpb24oKiogY29tLnNxc2dhbGF4eXMuamF2YS50ZXN0Lk11c2ljLnBlcmZvcm0oaW50KSkgJiYgYXJncyhudW1iZXIpIikK</text>
+        <text encoding="base64">IyAgICAgPHJlc3VsdCBjb2x1bW49InVzZXJfaWQiIHByb3BlcnR5PSJ1c2VySWQiIGpkYmNUeXBlPSJJTlRFR0VSIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0ib3JkZXJfc3RhdHVzIiBwcm9wZXJ0eT0ib3JkZXJTdGF0dXMiIGpkYmNUeXBlPSJJTlRFR0VSIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0iY3JlYXRlZF90aW1lIiBwcm9wZXJ0eT0iY3JlYXRlZFRpbWUiIGphdmFUeXBlPSJqYXZhLnV0aWwuRGF0ZSIgLz4KIyAgICAgPHJlc3VsdCBjb2x1bW49ImV4cGlyZV90aW1lIiBwcm9wZXJ0eT0iZXhwaXJlVGltZSIgamF2YVR5cGU9ImphdmEudXRpbC5EYXRlIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0iY29uZmlybV90aW1lIiBwcm9wZXJ0eT0iY29uZmlybVRpbWUiIGphdmFUeXBlPSJqYXZhLnV0aWwuRGF0ZSIgLz4KIyAgICAgPHJlc3VsdCBjb2x1bW49InBheV90aW1lIiBwcm9wZXJ0eT0icGF5VGltZSIgamF2YVR5cGU9ImphdmEudXRpbC5EYXRlIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0iY2hhbm5lbCIgcHJvcGVydHk9ImNoYW5uZWwiIGpkYmNUeXBlPSJWQVJDSEFSIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0iY2xpZW50X2lwIiBwcm9wZXJ0eT0iY2xpZW50SXAiIGpkYmNUeXBlPSJWQVJDSEFSIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0icHJvZHVjdF9wcmljZSIgcHJvcGVydHk9InByb2R1Y3RQcmljZSIgamRiY1R5cGU9IlZBUkNIQVIiIC8+CiMgICAgIDxyZXN1bHQgY29sdW1uPSJwb3N0YWdlIiBwcm9wZXJ0eT0icG9zdGFnZSIgamRiY1R5cGU9IlZBUkNIQVIiIC8+CiMgICAgIDxyZXN1bHQgY29sdW1uPSJ0b3RhbF9wcmljZSIgcHJvcGVydHk9InRvdGFsUHJpY2UiIGpkYmNUeXBlPSJWQVJDSEFSIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0ibm90ZSIgcHJvcGVydHk9Im5vdGUiIGpkYmNUeXBlPSJWQVJDSEFSIiAvPgojICAgICA8cmVzdWx0IGNvbHVtbj0iYnV5X3R5cGUiIHByb3BlcnR5PSJidXlUeXBlIiBqZGJjVHlwZT0iSU5URUdFUiIgLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>37t.</text>
+        <text encoding="base64">JzwsJz5zLyxcci9n</text>
       </register>
     </registers>
     <search>
-      <last-search>pas</last-search>
+      <last-search>false</last-search>
       <last-offset />
-      <last-pattern>pas</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>td</last-substitute>
+      <last-pattern>false</last-pattern>
+      <last-replace>g</last-replace>
+      <last-substitute>,\r</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Ex</entry>
-        <entry>user</entry>
-        <entry>res</entry>
-        <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
-        <entry>xml</entry>
-        <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
-        <entry>Vim</entry>
-        <entry>apply</entry>
-        <entry>get</entry>
-        <entry>192</entry>
-        <entry>redi</entry>
-        <entry>jUnit</entry>
         <entry>unit</entry>
         <entry>junit</entry>
         <entry>core</entry>
@@ -553,9 +566,20 @@
         <entry>bean</entry>
         <entry>test</entry>
         <entry>pas</entry>
+        <entry>juni</entry>
+        <entry>ju</entry>
+        <entry>192</entry>
+        <entry>dev</entry>
+        <entry>redis</entry>
+        <entry>pass</entry>
+        <entry>order</entry>
+        <entry>info</entry>
+        <entry>,\r</entry>
+        <entry>sw</entry>
+        <entry>api</entry>
+        <entry>false</entry>
       </history-search>
       <history-cmd>
-        <entry>36</entry>
         <entry>50</entry>
         <entry>22</entry>
         <entry>E</entry>
@@ -575,6 +599,7 @@
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>30t.</entry>
         <entry>37t.</entry>
+        <entry encoding="base64">JzwsJz5zLyxcci9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
