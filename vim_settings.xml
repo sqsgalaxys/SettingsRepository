@@ -111,6 +111,13 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/db.properties" timestamp="1516722944385">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
+        <mark key="^" line="37" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/Procfile" timestamp="1514465529255">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="52" />
@@ -129,6 +136,9 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" timestamp="1516723512101">
+        <mark key="'" line="106" column="24" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +151,7 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" timestamp="1510933626808">
         <mark key="[" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-admin/src/main/resources/sqlMapperXml/ArticleManagerMapper.xml" timestamp="1516723847957" />
       <file name="$USER_HOME$/Downloads/meSpringAopTest/src/main/java/Music.java" timestamp="1516434914233">
         <mark key="'" line="3" column="13" />
         <mark key="[" line="6" column="24" />
@@ -187,6 +198,9 @@
         <mark key="." line="90" column="32" />
         <mark key="^" line="90" column="32" />
       </file>
+      <file name="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/redis.properties" timestamp="1516723303659">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1511710637679">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,8 +232,11 @@
         <mark key="." line="46" column="46" />
         <mark key="^" line="46" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516437797229">
+      <file name="/Dummy.txt" timestamp="1516723950211">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/JavaCS/src/com/sqsgalaxys/Util.java" timestamp="1516454814615">
         <mark key="'" line="8" column="0" />
@@ -336,14 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="14" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="173" column="42" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="175" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="283" column="12" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Process.java" />
-      <jump line="83" column="1" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
-      <jump line="17" column="18" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
       <jump line="12" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
       <jump line="6" column="9" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
       <jump line="3" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
@@ -436,6 +445,14 @@
       <jump line="63" column="8" filename="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/JavaSpringApoLearn/meSpringAopTestEx/pom.xml" />
       <jump line="7" column="0" filename="$USER_HOME$/Downloads/JavaCS/src/com/sqsgalaxys/Util.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/db.properties" />
+      <jump line="37" column="0" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/db.properties" />
+      <jump line="25" column="22" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/redis.properties" />
+      <jump line="2" column="0" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/properties/redis.properties" />
+      <jump line="14" column="29" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
+      <jump line="49" column="50" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
+      <jump line="56" column="49" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
+      <jump line="106" column="24" filename="$USER_HOME$/Downloads/ping2-admin/src/main/resources/applicationContext.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -452,16 +469,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>排</text>
+        <text>192.168.0.7</text>
       </register>
       <register name="-" type="4">
-        <text>排</text>
+        <text>192.168.0.7</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>pas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFvcDpwb2ludGN1dCBleHByZXNzaW9uPSJleGVjdXRpb24oKiogY29tLnNxc2dhbGF4eXMuamF2YS50ZXN0LkFvcFhtbC4qKC4uKSkiIGlkPSJhb3B4bWxsIi8+Cg==</text>
+        <text encoding="base64">bWFzdGVyX2RyaXZlclVybD1qZGJjOm15c3FsOi8vMTkyLjE2OC4wLjc6MzMwNi9hZG1pbl90ZXN0P2F1dG9SZWNvbm5lY3Q9dHJ1ZSZyZXdyaXRlQmF0Y2hlZFN0YXRlbWVudHM9dHJ1ZSZ1c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9VVRGLTgmdGlueUludDFpc0JpdD1mYWxzZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
@@ -506,17 +523,16 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>pas</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>pas</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Main</entry>
         <entry>Ex</entry>
         <entry>user</entry>
         <entry>res</entry>
@@ -536,6 +552,7 @@
         <entry>fra</entry>
         <entry>bean</entry>
         <entry>test</entry>
+        <entry>pas</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
