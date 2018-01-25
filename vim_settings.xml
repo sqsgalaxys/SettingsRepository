@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/utils/PicVerification.java" timestamp="1516117741255">
         <mark key="[" line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/Downloads/SpringCache_Example/src/main/java/dan/gao/cache/implEx/CacheTest.java" timestamp="1516905007713">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/JavaUuidEx/src/main/java/com/jcg/java/package-info.java" timestamp="1515423827170">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -218,6 +221,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/Downloads/SpringCache_Example/pom.xml" timestamp="1516905082526">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+      </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/pom.xml" timestamp="1514450448081">
         <mark key="[" line="56" column="23" />
         <mark key="]" line="56" column="32" />
@@ -395,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="34" column="26" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/src/main/resources/jpa-category.sql" />
       <jump line="212" column="11" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" />
       <jump line="184" column="34" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" />
@@ -495,6 +503,7 @@
       <jump line="5" column="17" filename="$USER_HOME$/Downloads/meKotlin/build.gradle" />
       <jump line="10" column="0" filename="$USER_HOME$/Downloads/meKotlin/build.gradle" />
       <jump line="66" column="15" filename="$USER_HOME$/Downloads/Logback_Example/src/main/resources/log_conf.xml" />
+      <jump line="20" column="0" filename="$USER_HOME$/Downloads/SpringCache_Example/src/main/java/dan/gao/cache/implEx/CacheTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -511,7 +520,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgCiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>swagger-ui/inex.html</text>
@@ -523,7 +532,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPG12YzpleGNsdWRlLW1hcHBpbmcgcGF0aD0iL29yZGVyL3dlYmhvb2tzLyoqIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgCiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -540,25 +549,25 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgoJCUpTT05PYmplY3QgcmVzdWx0ID0gbmV3IEpTT05PYmplY3QoKTsKCQlIdHRwU2VydmxldFJlcXVlc3QgaGVhZGVycyA9IChIdHRwU2VydmxldFJlcXVlc3QpIHJlcXVlc3Q7CgkJUHJpbnRXcml0ZXIgb3V0ID0gbnVsbDsKCQl0cnkgewoJCQlTdHJpbmcgdG9rZW5TdHIgPSBnZXRBY2Nlc3NUb2tlbihoZWFkZXJzKTsKCQkJaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsodG9rZW5TdHIpKSB7CgkJCQlKU09OT2JqZWN0IHRva2VuSnNvbiA9IEpTT05PYmplY3QuZnJvbU9iamVjdCh0b2tlblN0cik7CgoJCQkJTG9uZyB0aW1lc3RhbXAgPSB0b2tlbkpzb24uZ2V0TG9uZygidGltZXN0YW1wIik7CgkJCQlTdHJpbmcgc2lnbiA9IHRva2VuSnNvbi5nZXRTdHJpbmcoInNpZ24iKTsKCgkJCQlpZiAodGltZXN0YW1wICE9IG51bGwgfHwgc2lnbiAhPSBudWxsKSB7CgkJCQkJbG9uZyByZXF1ZXN0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gdGltZXN0YW1wOwoJCQkJCS8vIOWPquaOpeWPl+aXtumXtOWGheWFgeiuuOeahOivt+axggoJCQkJCWlmIChyZXF1ZXN0VGltZSA8IERFRl9BTExPV19USU1FKSB7CgkJCQkJCVN0cmluZyBsb2NhbFNpZ24gPSBuZXcgU3RyaW5nQnVpbGRlcigpLmFwcGVuZCh0aW1lc3RhbXApLmFwcGVuZChBVVRIX1NUUikudG9TdHJpbmcoKTsKCQkJCQkJbG9jYWxTaWduID0gTUQ1VXRpbC5tZDUobG9jYWxTaWduKTsKCQkJCQkJaWYgKHNpZ24uZXF1YWxzKGxvY2FsU2lnbikpIHsKCQkJCQkJCXJldHVybiB0cnVlOwoJCQkJCQl9CgkJCQkJfQoJCQkJfQoJCQl9CgkJCXJlc3BvbnNlLnNldFN0YXR1cyhIdHRwU3RhdHVzLlNDX1VOQVVUSE9SSVpFRCk7CgkJCXJlc3VsdC5hY2N1bXVsYXRlKCJtc2ciLCAiRG9uJ3QgZXZlbiB0aGluayBhYm91dCBpdC4iKTsKCQkJb3V0ID0gcmVzcG9uc2UuZ2V0V3JpdGVyKCk7CgkJCW91dC5hcHBlbmQocmVzdWx0LnRvU3RyaW5nKCkpOwoJCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJCUxPR0dFUi5lcnJvcigiPT09PT5BcHBBdXRoSW50ZXJjZXB0b3IiLCBlKTsKCQl9IGZpbmFsbHkgewoJCQlpZiAob3V0ICE9IG51bGwpIHsKCQkJCW91dC5jbG9zZSgpOwoJCQl9CgkJfQoJCS8vIHJldHVybiBmYWxzZTsKCQlyZXR1cm4gdHJ1ZTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IHU=</text>
