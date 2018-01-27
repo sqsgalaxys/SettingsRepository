@@ -325,6 +325,9 @@
       <file name="$USER_HOME$/Downloads/Logback_Example/pom.xml" timestamp="1516901748273">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/JavaMailTest/src/com/sqsgalaxys/SendEmail.java" timestamp="1517041994394">
+        <mark key="'" line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1516119946775">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="43" column="28" />
@@ -404,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="26" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/src/main/resources/jpa-category.sql" />
       <jump line="212" column="11" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" />
       <jump line="184" column="34" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" />
       <jump line="97" column="34" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/src/main/webapp/WEB-INF/views/tree.jsp" />
@@ -504,6 +506,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/Downloads/meKotlin/build.gradle" />
       <jump line="66" column="15" filename="$USER_HOME$/Downloads/Logback_Example/src/main/resources/log_conf.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/Downloads/SpringCache_Example/src/main/java/dan/gao/cache/implEx/CacheTest.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Downloads/JavaMailTest/src/com/sqsgalaxys/SendEmail.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
