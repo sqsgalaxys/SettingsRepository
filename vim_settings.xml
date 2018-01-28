@@ -316,6 +316,12 @@
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
       </file>
+      <file name="$USER_HOME$/Downloads/char_code/src/com/sqsgalaxys/Main.java" timestamp="1517153459601">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/resources/templates/index.html" timestamp="1516119744021">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="3" />
@@ -532,8 +538,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -545,7 +551,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPG12YzpleGNsdWRlLW1hcHBpbmcgcGF0aD0iL29yZGVyL3dlYmhvb2tzLyoqIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaG9zdCA9ICJzbXRwLnFxLmNvbSI7ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -559,28 +565,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigiMTkyMjQwMDg3M0BxcS5jb20iLCAicXFzcXM3NDQiKTsgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigiMTkyMjQwMDg3M0BxcS5jb20iLCAicXFzcXM3NDQiKTsgCiAgICAgICAgICAgICAgICAvL+WPkeS7tuS6uumCruS7tueUqOaIt+WQjeOAgeWvhueggQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaG9zdCA9ICJzbXRwLnFxLmNvbSI7ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgCiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigiMTkyMjQwMDg3M0BxcS5jb20iLCAicXFzcXM3NDQiKTsgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFzc3dvcmRBdXRoZW50aWNhdGlvbigiMTkyMjQwMDg3M0BxcS5jb20iLCAicXFzcXM3NDQiKTsgCiAgICAgICAgICAgICAgICAvL+WPkeS7tuS6uumCruS7tueUqOaIt+WQjeOAgeWvhueggQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgCiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IHU=</text>
