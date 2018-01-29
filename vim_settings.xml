@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515323752791">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/SpringBootLayIM-master/src/main/resources/application.yml" timestamp="1513094107501">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1515325028219">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="82" />
@@ -22,21 +12,17 @@
       <file name="/a.dummy" timestamp="1511974977976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1512707262218">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="12" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/entity/Demo.java" timestamp="1517213778519">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1516119946775">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/BasicMain.java" timestamp="1511972272029">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/pom.xml" timestamp="1514450448081">
         <mark key="[" line="56" column="23" />
@@ -49,6 +35,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/Bash" timestamp="1517216734641">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1515325035903">
         <mark key="[" line="7" column="0" />
@@ -75,16 +64,17 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="37" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/templates/hello.html" timestamp="1517217582842">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application.properties" timestamp="1514794411530">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/Test.java" timestamp="1514556067088">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/src/main/resources/application.properties" timestamp="1514457261100">
         <mark key="[" line="0" column="23" />
@@ -104,15 +94,17 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1515148894323">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1517216597744">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="68" column="26" />
+        <mark key="." line="68" column="26" />
+        <mark key="^" line="68" column="26" />
       </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/Test.java" timestamp="1517213823384" />
       <file name="$USER_HOME$/Desktop/Acegi0/WebRoot/WEB-INF/classes/log4j.properties" timestamp="1500029644013">
         <mark key="[" line="24" column="0" />
       </file>
@@ -129,11 +121,15 @@
         <mark key="." line="46" column="46" />
         <mark key="^" line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1515156854771">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="23" column="1" />
-        <mark key="^" line="23" column="1" />
-        <mark key="." line="23" column="1" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517216208418">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1517217199130">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
@@ -165,11 +161,12 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" timestamp="1517209396422">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="41" column="22" />
-        <mark key="." line="41" column="22" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" timestamp="1517215260066">
+        <mark key="'" line="37" column="3" />
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="17" />
       </file>
       <file name="/dummy.sql" timestamp="1513094527247">
         <mark key="[" line="0" column="0" />
@@ -177,12 +174,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/TestOrder.java" timestamp="1513689999277">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517209891806">
+      <file name="/Dummy.txt" timestamp="1517212354778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
@@ -245,36 +237,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jscience/jscience/4.3.1/jscience-4.3.1.jar!/org/jscience/physics/amount/Amount.class" timestamp="1517215387833">
+        <mark key="'" line="37" column="17" />
+      </file>
       <file name="/fragment.java" timestamp="1512042523005">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
-      <jump line="852" column="4" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" />
-      <jump line="49" column="20" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
-      <jump line="12" column="4" filename="$USER_HOME$/MeProject/testJNI/TestModule/src/Main.java" />
-      <jump line="751" column="36" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Currency.java" />
-      <jump line="573" column="31" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.scripting/com/sun/tools/script/shell/Main.java" />
-      <jump line="24" column="0" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.scripting/com/sun/tools/script/shell/Main.java" />
-      <jump line="93" column="17" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandle.java" />
-      <jump line="280" column="31" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" />
-      <jump line="74" column="19" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" />
-      <jump line="58" column="4" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" />
-      <jump line="73" column="8" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" />
-      <jump line="528" column="33" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessHandleImpl.java" />
-      <jump line="148" column="19" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Optional.java" />
-      <jump line="1282" column="38" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/ProcessBuilder.java" />
-      <jump line="109" column="36" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="120" column="22" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="161" column="14" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="173" column="42" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="175" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java" />
-      <jump line="283" column="12" filename="C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Process.java" />
-      <jump line="83" column="1" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/HqlBasicExample/HqlBasic/src/com/sqsgalaxys/test/PutTakeTest.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
-      <jump line="17" column="18" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThread.java" />
       <jump line="12" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
       <jump line="6" column="9" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
       <jump line="3" column="16" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/SyncThreadEx.java" />
@@ -350,6 +320,31 @@
       <jump line="13" column="6" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="28" column="15" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/web/controller/TestAnotions.java" />
+      <jump line="16" column="6" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
+      <jump line="29" column="3" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
+      <jump line="28" column="19" filename="$MAVEN_REPOSITORY$/org/jscience/jscience/4.3.1/jscience-4.3.1.jar!/org/jscience/physics/amount/Amount.class" />
+      <jump line="9" column="11" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="87" column="7" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="37" column="17" filename="$MAVEN_REPOSITORY$/org/jscience/jscience/4.3.1/jscience-4.3.1.jar!/org/jscience/physics/amount/Amount.class" />
+      <jump line="23" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="4" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="40" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="8" column="16" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="38" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="16" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="65" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="137" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="58" column="44" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="30" column="9" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="29" column="9" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="28" column="9" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="62" column="8" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="110" column="36" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="37" column="36" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="108" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="41" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -365,20 +360,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;index&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;index&quot;</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text encoding="base64">XDxkZXZ0b29sc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gQFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">IyAtLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBHZXRNZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,50 +387,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcjsK</text>
+        <text encoding="base64">c3ByaW5nLnRoeW1lbGVhZi5tb2RlPUhUTUwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVtbzsKICAgIH0K</text>
+        <text encoding="base64">ge3UtKO6vPLK6Qo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2RheX0iKQogICAgcHVibGljIERlbW8gdGVzdEdldE1hcHBpbmcoKSB7CiAgICAgICAgRGVtbyBkZW1vID0gbmV3IERlbW8oKTsKICAgICAgICBkZW1vLnNldElkKDEpOwogICAgICAgIGRlbW8uc2V0TmFtZSgidGVzdCIpOwo=</text>
+        <text encoding="base64">wbS906O6aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC8zYzY0MjA2NDAyM2YK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEAoIi8iKQo=</text>
+        <text encoding="base64">1/fV36O6yu3M9c3119MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8vKgovLwovLwovLwovLwovLyAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGRvY2tlciBwdXNoIHJlZ2lzdHJ5Lmhlcm9rdS5jb20vcGVhY2VmdWwtZXZlcmdsYWRlcy02MjMyOC93ZWIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1kZXZ0b29sczwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name=":" type="4">
         <text>37t.</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search encoding="base64">XDxkZXZ0b29sc1w+</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern encoding="base64">XDxkZXZ0b29sc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>td</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Readable</entry>
-        <entry encoding="base64">XDxpc0NvbW1lbnRMaW5lXD4=</entry>
-        <entry>\u</entry>
-        <entry>\\u</entry>
-        <entry>&quot; &quot;</entry>
-        <entry>\&quot;\ &quot;</entry>
         <entry>if</entry>
         <entry encoding="base64">XDxTeW5jVGhyZWFkXD4=</entry>
         <entry>name</entry>
@@ -450,6 +439,12 @@
         <entry>Vim</entry>
         <entry>apply</entry>
         <entry>get</entry>
+        <entry>jack</entry>
+        <entry>test</entry>
+        <entry>rest</entry>
+        <entry encoding="base64">XDxGYXN0TWFwXD4=</entry>
+        <entry>web</entry>
+        <entry encoding="base64">XDxkZXZ0b29sc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
