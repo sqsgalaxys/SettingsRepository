@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="starter" />
+      <item value="boot" />
       <item value="of" />
       <item value="NPE" />
       <item value="count" />
@@ -49,8 +51,6 @@
       <item value="mage" />
       <item value="combination" />
       <item value=". stereo" />
-      <item value="register Natives" />
-      <item value="SYNTHETIC" />
     </histories>
   </component>
 </application>
