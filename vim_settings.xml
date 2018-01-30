@@ -24,6 +24,7 @@
         <mark key="^" line="4" column="146" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/屏方/ping2-admin/src/main/java/cn/com/ping2/datasource/DynamicDataSource.java" timestamp="1517328442083" />
       <file name="/a.dummy" timestamp="1511974977976">
         <mark key="[" line="0" column="0" />
       </file>
@@ -300,6 +301,7 @@
       <file name="/fragment.java" timestamp="1517321905995">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/屏方/ping2-admin/src/main/resources/sqlMapperXml/UserLoginMapper.xml" timestamp="1517328750617" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/MeProjects/MeMain/src/main/java/com/guojingold/bpm/CheckInReportUtils.java" />
