@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/utils/PicVerification.java" timestamp="1516117741255">
         <mark key="[" line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/ReaderHandlerMethodArgumentResolver.java" timestamp="1517316999442">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="63" />
+        <mark key="." line="25" column="63" />
+        <mark key="^" line="25" column="63" />
+      </file>
       <file name="$USER_HOME$/Downloads/JavaUuidEx/src/main/java/com/jcg/java/package-info.java" timestamp="1515423827170">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -65,6 +71,12 @@
         <mark key="[" line="120" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/repository/TaskRepository.java" timestamp="1517315129899" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/templates/login.html" timestamp="1517316184002">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="59" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/repository/MeUserRepository.java" timestamp="1517305954295">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -153,11 +165,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/BeanUtils.class" timestamp="1517293446993">
         <mark key="'" line="183" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/SecurityConfig.java" timestamp="1517314727479">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="26" column="53" />
-        <mark key="^" line="26" column="53" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/SecurityConfig.java" timestamp="1517316755778">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="33" />
       </file>
       <file name="/Clipboard.txt" timestamp="1500101992590">
         <mark key="[" line="0" column="0" />
@@ -189,6 +201,10 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/public/hello.html" timestamp="1517315959711">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="102" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/security/SpringBootWebSecurityConfiguration.class" timestamp="1517315441229" />
       <file name="$USER_HOME$/Downloads/ci-spring-boot/pom.xml" timestamp="1514450448081">
@@ -238,7 +254,7 @@
       <file name="/dummy.sql" timestamp="1513094527247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517294631720">
+      <file name="/Dummy.txt" timestamp="1517315801493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
@@ -252,6 +268,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/Application.java" timestamp="1517317281179">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/resources/templates/index.html" timestamp="1516119744021">
         <mark key="[" line="7" column="0" />
@@ -295,7 +317,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_144/jre/lib/resources.jar!/com/sun/xml/internal/ws/resources/management.properties" timestamp="1517293861003">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517303295769">
+      <file name="/fragment.java" timestamp="1517315801482">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -416,19 +438,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>READER</text>
+        <text>ReaderHandlerMethodArgumentResolver</text>
       </register>
       <register name="-" type="4">
-        <text>READER</text>
+        <text>ReaderHandlerMethodArgumentResolver</text>
       </register>
       <register name="/" type="4">
         <text>false</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBNZVVzZXJSZXBvc2l0b3J5IGV4dGVuZHMgQ3J1ZFJlcG9zaXRvcnk8TWVVc2VyLCBMb25nPiB7Cg==</text>
+        <text encoding="base64">PGh0bWwgeG1sbnM6dGg9Imh0dHA6Ly93d3cudGh5bWVsZWFmLm9yZyIgdGg6cmVwbGFjZT0ifntmcmFnbWVudHMvbGF5b3V0IDo6IGxheW91dCAofns6OmJvZHl9LCdkYicpfSI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">PGh0bWw+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -442,22 +464,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIC8vIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBpbnRlcmZhY2UgUmVhZGVyUmVwb3NpdG9yeSBleHRlbmRzIEpwYVJlcG9zaXRvcnk8UmVhZGVyLCBTdHJpbmc+IHsK</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBpbnRlcmZhY2UgUmVhZGVyUmVwb3NpdG9yeSBleHRlbmRzIEpwYVJlcG9zaXRvcnk8UmVhZGVyLCBTdHJpbmc+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRQYXNzd29yZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRQYXNzd29yZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
