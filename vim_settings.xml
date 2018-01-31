@@ -429,7 +429,7 @@
         <text>static</text>
       </register>
       <register name="/" type="4">
-        <text>sta</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
@@ -477,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sta</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>sta</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
@@ -487,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
         <entry>Vim</entry>
         <entry>apply</entry>
         <entry>get</entry>
@@ -507,6 +506,7 @@
         <entry>server</entry>
         <entry>glob</entry>
         <entry>sta</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
