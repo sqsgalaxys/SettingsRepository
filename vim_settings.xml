@@ -99,6 +99,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/resources/com/guojingold/cn/nh/mapper/signup/SignUpMapper.xml" timestamp="1517389394327" />
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/templates/hello.html" timestamp="1517217582842">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="41" />
@@ -184,6 +185,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.class" timestamp="1517305756748">
         <mark key="'" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/nh/src/main/resources/com/guojingold/cn/nh/mapper/BaseMapper.xml" timestamp="1517389374122" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1517217199130">
         <mark key="[" line="0" column="0" />
       </file>
@@ -268,7 +270,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/BeanUtils.class" timestamp="1517293446993">
         <mark key="'" line="183" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/nh/src/main/resources/application.properties" timestamp="1517388104474" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/utils/PicVerification.java" timestamp="1516117741255">
         <mark key="[" line="14" column="30" />
       </file>
@@ -306,7 +307,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503842154110">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Downloads/nh/pom.xml" timestamp="1517387893860" />
       <file name="$MAVEN_REPOSITORY$/org/jscience/jscience/4.3.1/jscience-4.3.1.jar!/org/jscience/physics/amount/Amount.class" timestamp="1517215387833">
         <mark key="'" line="37" column="17" />
       </file>
