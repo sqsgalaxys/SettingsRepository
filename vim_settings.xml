@@ -53,6 +53,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/js/app.js" timestamp="1517502463407" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
       </file>
@@ -248,6 +249,13 @@
       <file name="/sbtShell" timestamp="1510933575384">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LoninController.java" timestamp="1517503160469">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/RecordChecker.java" timestamp="1517475857378">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="20" column="0" />
@@ -374,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="20" filename="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/pom.xml" />
       <jump line="11" column="20" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/MyArrayTest.java" />
       <jump line="1" column="25" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/MyArrayTest.java" />
       <jump line="13" column="2" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/TestProperties.java" />
@@ -474,6 +481,7 @@
       <jump line="80" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="10" column="31" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/RecordChecker.java" />
       <jump line="29" column="44" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LoninController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -487,20 +495,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IENvbnRyb2xsZXI=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IENvbnRyb2xsZXI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbnNpXD4=</text>
+        <text>work</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKG5ldyBEYXRlKCkpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,45 +522,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIDxicj4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZygiL2xvbWJvayIpCiAgICBwdWJsaWMgTG9tYm9rIHJldHVybkxvbWJvaygpIHsKICAgICAgICBMb21ib2sgbG9tYm9rID0gbmV3IExvbWJvaygpOwogICAgICAgIGxvbWJvay5zZXRUZXN0MCgwKTsKICAgICAgICBsb21ib2suc2V0VGVzdDEoIjEiKTsKICAgICAgICBsb21ib2suc2V0VGVzdDIoIjIiKTsKICAgICAgICByZXR1cm4gbG9tYm9rOwogICAgfQp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxicj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gJ0RBVEVfRk9STUFUJyDvv73Ht++/ve+/vd+zzLDvv73Iq++/vcSj77+977+977+977+977+977+977+977+977+977+9yrnvv73Dvtay77+977+977+977+977+9CgogICAgICAgIC8vIG5vaW5zcGVjdGlvbiBBbGlBY2Nlc3NUb05vblRocmVhZFNhZmVTdGF0aWNGaWVsZEZyb21JbnN0YW5jZQoKICAgICAgICAvL25vaW5zcGVjdGlvbiBBbGlBY2Nlc3NUb05vblRocmVhZFNhZmVTdGF0aWNGaWVsZEZyb21JbnN0YW5jZQoK</text>
+        <text encoding="base64">ICAgIDxicj4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgREFURV9GT1JNQVQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiSEg6bW06c3MiKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZygiL2xvbWJvayIpCiAgICBwdWJsaWMgTG9tYm9rIHJldHVybkxvbWJvaygpIHsKICAgICAgICBMb21ib2sgbG9tYm9rID0gbmV3IExvbWJvaygpOwogICAgICAgIGxvbWJvay5zZXRUZXN0MCgwKTsKICAgICAgICBsb21ib2suc2V0VGVzdDEoIjEiKTsKICAgICAgICBsb21ib2suc2V0VGVzdDIoIjIiKTsKICAgICAgICByZXR1cm4gbG9tYm9rOwogICAgfQp9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgLy8gJ0RBVEVfRk9STUFUJyDvv73Ht++/ve+/vd+zzLDvv73Iq++/vcSj77+977+977+977+977+977+977+977+977+977+9yrnvv73Dvtay77+977+977+977+977+9CgogICAgICAgIC8vIG5vaW5zcGVjdGlvbiBBbGlBY2Nlc3NUb05vblRocmVhZFNhZmVTdGF0aWNGaWVsZEZyb21JbnN0YW5jZQoKICAgICAgICAvL25vaW5zcGVjdGlvbiBBbGlBY2Nlc3NUb05vblRocmVhZFNhZmVTdGF0aWNGaWVsZEZyb21JbnN0YW5jZQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoZml4ZWRSYXRlID0gNTAwMCkKICAgIHB1YmxpYyB2b2lkIHJlcG9ydEN1cnJlbnRUaW1lKCkgewogICAgICAgIGxvZy5pbmZvKCJUaGUgdGltZSBpcyBub3cge30iLCBkYXRlRm9ybWF0LmZvcm1hdChuZXcgRGF0ZSgpKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgREFURV9GT1JNQVQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiSEg6bW06c3MiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgZGF0ZUZvcm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJISDptbTpzcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>49t.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbnNpXD4=</last-search>
+      <last-search>work</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbnNpXD4=</last-pattern>
+      <last-pattern>work</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>false</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>res</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry>xml</entry>
         <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
@@ -572,6 +579,7 @@
         <entry>false</entry>
         <entry>idea</entry>
         <entry encoding="base64">XDxhbnNpXD4=</entry>
+        <entry>work</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
