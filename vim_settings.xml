@@ -36,6 +36,12 @@
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/public/index.html" timestamp="1517479184001">
+        <mark key="[" line="47" column="72" />
+        <mark key="]" line="48" column="3" />
+        <mark key="^" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+      </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/pom.xml" timestamp="1514450448081">
         <mark key="[" line="56" column="23" />
         <mark key="]" line="56" column="32" />
@@ -88,6 +94,7 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/public/fragments/layout.html" timestamp="1517479173799" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/db/data.sql" timestamp="1517333121446">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="261" />
@@ -249,7 +256,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517452489209">
+      <file name="/Dummy.txt" timestamp="1517479097979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
