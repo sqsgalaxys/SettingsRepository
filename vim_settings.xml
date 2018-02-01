@@ -153,12 +153,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="95" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1517300665419">
-        <mark key="'" line="57" column="29" />
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1517467770917">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="82" column="32" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/Lombok.java" timestamp="1517320240441">
         <mark key="[" line="13" column="0" />
@@ -197,11 +197,11 @@
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/logback-spring.xml" timestamp="1517466436798">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/logback-spring.xml" timestamp="1517467871484">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1515148955499">
         <mark key="[" line="4" column="18" />
@@ -353,9 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="11" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" />
-      <jump line="184" column="34" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/pom.xml" />
-      <jump line="97" column="34" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/src/main/webapp/WEB-INF/views/tree.jsp" />
       <jump line="127" column="34" filename="$USER_HOME$/Downloads/Temp/daydayup/EasyUI/EasyUI-tree/ssm-tree/src/main/webapp/WEB-INF/views/tree.jsp" />
       <jump line="15" column="0" filename="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/src/main/java/jpa.sql" />
       <jump line="90" column="20" filename="$USER_HOME$/Downloads/Temp/daydayup/mybatis/mybatis-basic/pom.xml" />
@@ -453,6 +450,9 @@
       <jump line="51" column="8" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/SecurityConfig.java" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
       <jump line="14" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/log/logback.xml" />
+      <jump line="81" column="14" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="24" column="14" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
+      <jump line="80" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -466,20 +466,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0xIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLS0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0xIA==</text>
+        <text encoding="base64">JWQg</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text encoding="base64">XDxhbnNpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gbm9pbnNwZWN0aW9uIFNxbFJlc29sdmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwYXR0ZXJuPiVkICVtc2clbjwvcGF0dGVybj4tLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS3OxLz+yuSz9sq508NlbmNvZGVyLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLS0tPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -493,45 +493,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24gc2Nhbj0idHJ1ZSIgc2NhblBlcmlvZD0iNjAgc2Vjb25kcyIgZGVidWc9ImZhbHNlIj4KCiAgICA8Y29udGV4dE5hbWU+bG9nYmFjay1kZW1vPC9jb250ZXh0TmFtZT4KCiAgICA8IS0tyuSz9rW9v9jWxsyoIENvbnNvbGVBcHBlbmRlci0tPgogICAgPGFwcGVuZGVyIG5hbWU9ImNvbnNvbGVMb2cxIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgogICAgICAgIDwhLS3Vucq+uPHKvSBsYXlvdXQtLT4KICAgICAgICA8bGF5b3V0IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLlBhdHRlcm5MYXlvdXQiPgogICAgICAgICAgICA8cGF0dGVybj4lZCAtMSAlbXNnJW48L3BhdHRlcm4+CiAgICAgICAgPC9sYXlvdXQ+CiAgICA8L2FwcGVuZGVyPgoKICAgIDwhLS3K5LP2tb2/2NbGzKggQ29uc29sZUFwcGVuZGVyLS0+CiAgICA8YXBwZW5kZXIgbmFtZT0iY29uc29sZUxvZzIiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkNvbnNvbGVBcHBlbmRlciI+CgogICAgICAgICAgICA8cGF0dGVybj4lZCAtMiAlbXNnJW48L3BhdHRlcm4+CiAgICAgICAgPC9lbmNvZGVyPgogICAgPC9hcHBlbmRlcj4KCiAgICA8IS0t1ri2qNfuu/m0obXEyNXWvsrks/a8trHwLS0+CiAgICA8cm9vdCBsZXZlbD0iSU5GTyI+CiAgICAgICAgPCEtLWFwcGVuZGVyvau74cztvNO1vdXiuPZsb2dlci0tPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlTG9nMSIvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlTG9nMiIvPgogICAgPC9yb290PgoKPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">c3ByaW5nLm91dHB1dC5hbnNpLmVuYWJsZWQ9YWx3YXlzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">ICAgIDwhLS3OxLz+yuSz9sq508NlbmNvZGVyLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24gc2Nhbj0idHJ1ZSIgc2NhblBlcmlvZD0iNjAgc2Vjb25kcyIgZGVidWc9ImZhbHNlIj4KCiAgICA8Y29udGV4dE5hbWU+bG9nYmFjay1kZW1vPC9jb250ZXh0TmFtZT4KCiAgICA8IS0tyuSz9rW9v9jWxsyoIENvbnNvbGVBcHBlbmRlci0tPgogICAgPGFwcGVuZGVyIG5hbWU9ImNvbnNvbGVMb2cxIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgogICAgICAgIDwhLS3Vucq+uPHKvSBsYXlvdXQtLT4KICAgICAgICA8bGF5b3V0IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLlBhdHRlcm5MYXlvdXQiPgogICAgICAgICAgICA8cGF0dGVybj4lZCAtMSAlbXNnJW48L3BhdHRlcm4+CiAgICAgICAgPC9sYXlvdXQ+CiAgICA8L2FwcGVuZGVyPgoKICAgIDwhLS3K5LP2tb2/2NbGzKggQ29uc29sZUFwcGVuZGVyLS0+CiAgICA8YXBwZW5kZXIgbmFtZT0iY29uc29sZUxvZzIiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkNvbnNvbGVBcHBlbmRlciI+CgogICAgICAgICAgICA8cGF0dGVybj4lZCAtMiAlbXNnJW48L3BhdHRlcm4+CiAgICAgICAgPC9lbmNvZGVyPgogICAgPC9hcHBlbmRlcj4KCiAgICA8IS0t1ri2qNfuu/m0obXEyNXWvsrks/a8trHwLS0+CiAgICA8cm9vdCBsZXZlbD0iSU5GTyI+CiAgICAgICAgPCEtLWFwcGVuZGVyvau74cztvNO1vdXiuPZsb2dlci0tPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlTG9nMSIvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlTG9nMiIvPgogICAgPC9yb290PgoKPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICDX99Xfo7ppbmtlCiAgICAgICAgwbS906O6aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9mNjdjNzIxZWVhMWIKICAgICAgICCB7dS0o7q88srpCiAgICAgICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
+      <register name="5" type="2">
+        <text encoding="base64">RlJPTSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHtkaXJ9L2lkZWFhZ2VudC0xLjAtamFyLXdpdGgtZGVwZW5kZW5jaWVzLmphcgo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICDX99Xfo7ppbmtlCiAgICAgICAgwbS906O6aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9mNjdjNzIxZWVhMWIKICAgICAgICCB7dS0o7q88srpCiAgICAgICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBNRV9VU0VSOwo=</text>
+        <text encoding="base64">JHtkaXJ9L2lkZWFhZ2VudC0xLjAtamFyLXdpdGgtZGVwZW5kZW5jaWVzLmphcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gTQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>49t.</text>
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search encoding="base64">XDxhbnNpXD4=</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern encoding="base64">XDxhbnNpXD4=</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>false</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>res</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry>xml</entry>
@@ -551,6 +550,7 @@
         <entry>R</entry>
         <entry>false</entry>
         <entry>idea</entry>
+        <entry encoding="base64">XDxhbnNpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
