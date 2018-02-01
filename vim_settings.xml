@@ -24,7 +24,7 @@
         <mark key="^" line="4" column="146" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511974977976">
+      <file name="/a.dummy" timestamp="1517504340337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/TestEx.java" timestamp="1517293411422">
@@ -164,6 +164,13 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/package-info.java" timestamp="1517504514514">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/static/style.css" timestamp="1517301498986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="1" />
@@ -181,6 +188,13 @@
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work_record/pom.xml" timestamp="1517504258393">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="48" column="7" />
+        <mark key="^" line="48" column="7" />
+        <mark key="." line="48" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/public/index.html" timestamp="1517479184001">
         <mark key="[" line="47" column="72" />
@@ -207,6 +221,12 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/Scala/src/hello/src/main/scala/xyz/sydns/scala/HelloWorld.scala" timestamp="1510933626808">
         <mark key="[" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work_record/WorkRecord.java" timestamp="1517504006920">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/Scala/src/sparkHello/src/main/scala/xyz/sydns/scala/spark/hello/CSV2Parquet.scala" timestamp="1510829252325">
         <mark key="[" line="2" column="20" />
       </file>
@@ -231,6 +251,9 @@
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/resources/application.properties" timestamp="1517503905367">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/logback-spring.xml" timestamp="1517474527635">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="75" />
@@ -249,7 +272,7 @@
       <file name="/sbtShell" timestamp="1510933575384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LoninController.java" timestamp="1517503160469">
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LoninController.java" timestamp="1517504209778">
         <mark key="'" line="15" column="4" />
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
@@ -262,6 +285,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work_record/Work.java" timestamp="1517504330419">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/src/main/resources/application-dev.properties" timestamp="1514451916250">
         <mark key="[" line="10" column="27" />
@@ -312,6 +341,9 @@
       <file name="/Dummy.txt" timestamp="1517496422560">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517504229454">
+        <mark key="'" line="139" column="38" />
+      </file>
       <file name="/Scala Console" timestamp="1510831482334">
         <mark key="[" line="0" column="0" />
       </file>
@@ -329,6 +361,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
         <mark key="[" line="705" column="109" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/java/DBInitializeConfig.java" timestamp="1517504613169">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/resources/templates/index.html" timestamp="1516119744021">
         <mark key="[" line="7" column="0" />
@@ -359,6 +397,19 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/WorkRecordController.java" timestamp="1517505392873">
+        <mark key="'" line="33" column="67" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/DBConfig.java" timestamp="1517504573067">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MainEx.java" timestamp="1511973542740">
         <mark key="[" line="4" column="21" />
       </file>
@@ -377,17 +428,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517331911399">
+      <file name="/fragment.java" timestamp="1517503939617">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="20" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/MyArrayTest.java" />
-      <jump line="1" column="25" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/MyArrayTest.java" />
-      <jump line="13" column="2" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/TestProperties.java" />
-      <jump line="0" column="18" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/Test.java" />
-      <jump line="14" column="28" filename="$USER_HOME$/Downloads/CompletableFutureTest/src/com/sqsgalaxys/java/Test.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/everydaymaincode/src/二〇一七年十二月十一日/SumUseExternalIteration.java" />
       <jump line="12" column="13" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/everydaymaincode/src/二〇一七年十二月十一日/SumUseExternalIteration.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjects/everydaymaincode/src/二〇一七年十二月十一日/SumUseInternalIteration.java" />
       <jump line="11" column="20" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/SpringBootLayIM-master/src/main/java/com/fyp/layim/common/util/AESUtil.java" />
@@ -482,6 +527,12 @@
       <jump line="10" column="31" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/RecordChecker.java" />
       <jump line="29" column="44" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
       <jump line="15" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LoninController.java" />
+      <jump line="94" column="20" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="139" column="38" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Downloads/work_record/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/package-info.java" />
+      <jump line="29" column="52" filename="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/WorkRecordController.java" />
+      <jump line="33" column="67" filename="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/WorkRecordController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -496,16 +547,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IENvbnRyb2xsZXI=</text>
+        <text>&quot;aa&quot;, &quot;bb&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENvbnRyb2xsZXI=</text>
+        <text>&quot;aa&quot;, &quot;bb&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>work</text>
+        <text>time</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKG5ldyBEYXRlKCkpLnRvU3RyaW5nKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>@PathVariable String start</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -522,37 +573,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nCiAgICBwdWJsaWMgTWFwPFN0cmluZywgU3RyaW5nPiBzYXlIZWxsbygpIHsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZygiL2xvbWJvayIpCiAgICBwdWJsaWMgTG9tYm9rIHJldHVybkxvbWJvaygpIHsKICAgICAgICBMb21ib2sgbG9tYm9rID0gbmV3IExvbWJvaygpOwogICAgICAgIGxvbWJvay5zZXRUZXN0MCgwKTsKICAgICAgICBsb21ib2suc2V0VGVzdDEoIjEiKTsKICAgICAgICBsb21ib2suc2V0VGVzdDIoIjIiKTsKICAgICAgICByZXR1cm4gbG9tYm9rOwogICAgfQp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJrZXkiLCAidmFsdWUiKTsKICAgICAgICBtYXAucHV0KCJmb28iLCAiYmFyIik7CiAgICAgICAgbWFwLnB1dCgiYWEiLCAiYmIiKTsKICAgICAgICByZXR1cm4gbWFwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gJ0RBVEVfRk9STUFUJyDvv73Ht++/ve+/vd+zzLDvv73Iq++/vcSj77+977+977+977+977+977+977+977+977+977+9yrnvv73Dvtay77+977+977+977+977+9CgogICAgICAgIC8vIG5vaW5zcGVjdGlvbiBBbGlBY2Nlc3NUb05vblRocmVhZFNhZmVTdGF0aWNGaWVsZEZyb21JbnN0YW5jZQoKICAgICAgICAvL25vaW5zcGVjdGlvbiBBbGlBY2Nlc3NUb05vblRocmVhZFNhZmVTdGF0aWNGaWVsZEZyb21JbnN0YW5jZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgREFURV9GT1JNQVQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiSEg6bW06c3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uR2V0TWFwcGluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>49t.</text>
       </register>
     </registers>
     <search>
-      <last-search>work</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>work</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
@@ -560,9 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
-        <entry>xml</entry>
-        <entry encoding="base64">XDxTZWNyZXRLZXlcPg==</entry>
         <entry>Vim</entry>
         <entry>apply</entry>
         <entry>get</entry>
@@ -580,6 +628,9 @@
         <entry>idea</entry>
         <entry encoding="base64">XDxhbnNpXD4=</entry>
         <entry>work</entry>
+        <entry>lombok</entry>
+        <entry>pass</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
