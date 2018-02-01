@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="总是" />
+      <item value="Alway" />
+      <item value="Facade" />
       <item value="observed" />
       <item value="observer" />
     </histories>
