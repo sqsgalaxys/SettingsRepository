@@ -298,11 +298,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" timestamp="1517556268140">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" timestamp="1517559134146">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="71" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/a.sql" timestamp="1511710637679">
         <mark key="[" line="0" column="0" />
@@ -473,11 +474,12 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" timestamp="1517557954849">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="17" />
-        <mark key="^" line="47" column="17" />
-        <mark key="." line="47" column="17" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" timestamp="1517558484798">
+        <mark key="'" line="48" column="17" />
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1517505652043">
         <mark key="[" line="0" column="0" />
@@ -497,15 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="26" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
-      <jump line="14" column="24" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="6" column="32" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="12" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="11" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="47" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="18" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
-      <jump line="17" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" />
       <jump line="231" column="63" filename="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" />
       <jump line="20" column="0" filename="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" />
       <jump line="68" column="2" filename="$USER_HOME$/Downloads/ideavim/src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java" />
@@ -597,6 +590,15 @@
       <jump line="5" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/stereotype/Service.class" />
       <jump line="135" column="49" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
       <jump line="211" column="7" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
+      <jump line="40" column="27" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
+      <jump line="46" column="34" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
+      <jump line="48" column="17" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
+      <jump line="33" column="26" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
+      <jump line="35" column="19" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
+      <jump line="34" column="11" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
+      <jump line="29" column="25" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
+      <jump line="26" column="18" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,17 +612,17 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ThreadPoolTaskScheduler</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>stopLoggin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3R1YXRvclw+</text>
+        <text encoding="base64">XDxUaHJlYWRQb29sVGFza1NjaGVkdWxlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHbG9iYWwuaXNTdG9wID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5KEh0dHBTdGF0dXMuT0spOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -639,23 +641,23 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBAUmVxdWVzdE1hcHBpbmcoIi9hcGkvdGFza3MiKQogICAgcHVibGljIFN0cmluZyAgaW5zZXJ0KCkgewoKICAgICAgICByZXR1cm4gImFhYWEiOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IGRhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiSEg6bW06c3MiKTsKICAgICAgICBsb2cuaW5mbygiVGhlIHRpbWUgaXMgbm93IHt9IiwgZGF0ZUZvcm1hdC5mb3JtYXQobmV3IERhdGUoKSkpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgU2NoZWR1bGVkRnV0dXJlPD8+PiBzY2hlZHVsZWRUYXNrcyA9CiAgICAgICAgICAgIG5ldyBJZGVudGl0eUhhc2hNYXA8PigpOwoK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgVGFza1NjaGVkdWxlciBwb29sU2NoZWR1bGVyKCkgewogICAgICAgIHJldHVybiBuZXcgQ3VzdG9tVGFza1NjaGVkdWxlcigpOwogICAgfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVGhyZWFkUG9vbFRhc2tTY2hlZHVsZXIgdGhyZWFkUG9vbFRhc2tTY2hlZHVsZXI7CiAgICBAQXV0b3dpcmVkCiAgICBwdWJsaWMgTG9nQ29udHJvbGxlcihUaHJlYWRQb29sVGFza1NjaGVkdWxlciB0aHJlYWRQb29sVGFza1NjaGVkdWxlcikgewogICAgICAgIHRoaXMudGhyZWFkUG9vbFRhc2tTY2hlZHVsZXIgPSB0aHJlYWRQb29sVGFza1NjaGVkdWxlcjsKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGNsYXNzIEN1c3RvbVRhc2tTY2hlZHVsZXIgZXh0ZW5kcyBUaHJlYWRQb29sVGFza1NjaGVkdWxlciB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBTY2hlZHVsZWRGdXR1cmU8Pz4gc2NoZWR1bGVBdEZpeGVkUmF0ZShSdW5uYWJsZSB0YXNrLCBsb25nIHBlcmlvZCkgewogICAgICAgICAgICBTY2hlZHVsZWRGdXR1cmU8Pz4gZnV0dXJlID0gc3VwZXIuc2NoZWR1bGVBdEZpeGVkUmF0ZSh0YXNrLCBwZXJpb2QpOwoKICAgICAgICAgICAgU2NoZWR1bGVkTWV0aG9kUnVubmFibGUgcnVubmFibGUgPSAoU2NoZWR1bGVkTWV0aG9kUnVubmFibGUpIHRhc2s7CiAgICAgICAgICAgIHNjaGVkdWxlZFRhc2tzLnB1dChydW5uYWJsZS5nZXRUYXJnZXQoKSwgZnV0dXJlKTsKCiAgICAgICAgICAgIHJldHVybiBmdXR1cmU7CiAgICAgICAgfQoKICAgICAKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVGhyZWFkUG9vbFRhc2tTY2hlZHVsZXIgdGhyZWFkUG9vbFRhc2tTY2hlZHVsZXI7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFNjaGVkdWxlZEZ1dHVyZTw/PiBzY2hlZHVsZUF0Rml4ZWRSYXRlKFJ1bm5hYmxlIHRhc2ssIERhdGUgc3RhcnRUaW1lLCBsb25nIHBlcmlvZCkgewogICAgICAgICAgICBTY2hlZHVsZWRGdXR1cmU8Pz4gZnV0dXJlID0gc3VwZXIuc2NoZWR1bGVBdEZpeGVkUmF0ZSh0YXNrLCBzdGFydFRpbWUsIHBlcmlvZCk7CgogICAgICAgICAgICBTY2hlZHVsZWRNZXRob2RSdW5uYWJsZSBydW5uYWJsZSA9IChTY2hlZHVsZWRNZXRob2RSdW5uYWJsZSkgdGFzazsKICAgICAgICAgICAgc2NoZWR1bGVkVGFza3MucHV0KHJ1bm5hYmxlLmdldFRhcmdldCgpLCBmdXR1cmUpOwoKICAgICAgICAgICAgcmV0dXJuIGZ1dHVyZTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgVGhyZWFkUG9vbFRhc2tTY2hlZHVsZXIgdGhyZWFkUG9vbFRhc2tTY2hlZHVsZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBUaHJlYWRQb29sVGFza1NjaGVkdWxlcigpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -665,9 +667,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3R1YXRvclw+</last-search>
+      <last-search encoding="base64">XDxUaHJlYWRQb29sVGFza1NjaGVkdWxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3R1YXRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxUaHJlYWRQb29sVGFza1NjaGVkdWxlclw+</last-pattern>
       <last-replace>work</last-replace>
       <last-substitute>tAppActivityLog</last-substitute>
       <last-dir>-1</last-dir>
@@ -675,10 +677,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>error</entry>
-        <entry>Grant</entry>
-        <entry>R</entry>
         <entry>false</entry>
         <entry>idea</entry>
         <entry encoding="base64">XDxhbnNpXD4=</entry>
@@ -695,6 +693,10 @@
         <entry>ac</entry>
         <entry>act</entry>
         <entry encoding="base64">XDxhY3R1YXRvclw+</entry>
+        <entry>&quot;</entry>
+        <entry>Logg</entry>
+        <entry>Thread</entry>
+        <entry encoding="base64">XDxUaHJlYWRQb29sVGFza1NjaGVkdWxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
