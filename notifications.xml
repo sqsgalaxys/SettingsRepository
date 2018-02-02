@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Lombok plugin" displayType="NONE" />
-    <notification groupId="Maven Import" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Unindexed maven repositories gradle detection" shouldLog="false" />
   </component>
 </application>

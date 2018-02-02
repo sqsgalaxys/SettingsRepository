@@ -138,6 +138,10 @@
           <option name="url" value="git@github.com:irfen/redis-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:longfeizheng/logback.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sqsga\Downloads" />
