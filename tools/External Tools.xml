@@ -1,9 +1,16 @@
 <toolSet name="External Tools">
-  <tool name="javac" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Start rabbitmq-server" description="Start rabbitmq-server" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="/usr/bin/javac" />
-      <option name="PARAMETERS" value="$FileName$ -d $OutputPath$" />
-      <option name="WORKING_DIRECTORY" value="$Sourcepath$" />
+      <option name="COMMAND" value="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Macvim" description="Macvim" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/MacVim.app/Contents/bin/mvim" />
+      <option name="PARAMETERS" value="$FilePath$ &quot;+norm $LineNumber$G0$ColumnNumber$1h&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
 </toolSet>
