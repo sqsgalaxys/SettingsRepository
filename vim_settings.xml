@@ -165,6 +165,11 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/.travis.yml" timestamp="1517765518415">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/task/src/main/resources/templates/login.html" timestamp="1517500872488">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="4" />
@@ -382,14 +387,14 @@
         <mark key="." line="4" column="262" />
         <mark key="^" line="4" column="262" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517763758478">
-        <mark key="'" line="147" column="38" />
-        <mark key="[" line="168" column="19" />
-        <mark key="]" line="168" column="19" />
-        <mark key="." line="168" column="19" />
-        <mark key="^" line="32" column="41" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517765387707">
+        <mark key="'" line="148" column="38" />
+        <mark key="[" line="42" column="67" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517763711887">
+      <file name="/Dummy.txt" timestamp="1517765520287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
@@ -551,11 +556,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mytask</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mytask</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -564,7 +569,7 @@
         <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QoY2xhc3NlcyA9IEFwcGxpY2F0aW9uLmNsYXNzKQpAV2ViQXBwQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+QXBwbGljYXRpb24uY2xhc3M8L3N0YXJ0LWNsYXNzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -581,7 +586,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2l0IGNvbW1pdCAtYQo=</text>
+        <text encoding="base64">IHN1ZG86IGVuYWJsZWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -589,17 +594,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8qCiov</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+QXBwbGljYXRpb24uY2xhc3M8L3N0YXJ0LWNsYXNzPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBpbXBvcnQgb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU2VyaWFsaXphdGlvblV0aWxzOwoqIGltcG9ydCBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU2VyaWFsaXphdGlvblV0aWxzOwoqIGltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmFtcXAudXRpbHMuU2VyaWFsaXphdGlvblV0aWxzOwoqIGltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnV0aWwuU2VyaWFsaXphdGlvblV0aWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TZXJpYWxpemF0aW9uVXRpbHM7Cg==</text>
+        <text encoding="base64">Z2l0IGNvbW1pdCAtYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYW1xcC51dGlscy5TZXJpYWxpemF0aW9uVXRpbHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>53t.</text>
