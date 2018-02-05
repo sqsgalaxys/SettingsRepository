@@ -82,9 +82,6 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517797514907">
-        <mark key="'" line="197" column="20" />
-      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/README.md" timestamp="1517826356603">
         <mark key="[" line="85" column="3" />
       </file>
@@ -389,6 +386,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/MeSpringBoot/pom.xml" timestamp="1517860245158">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/db/data.sql" timestamp="1517333121446">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="261" />
@@ -401,7 +404,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517859010766">
+      <file name="/Dummy.txt" timestamp="1517860391897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
@@ -455,7 +458,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517851107276">
+      <file name="/fragment.java" timestamp="1517860391886">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -576,10 +579,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stopRabbitmq</text>
+        <text>jar</text>
       </register>
       <register name="-" type="4">
-        <text>stopRabbitmq</text>
+        <text>jar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kXD4=</text>
@@ -588,7 +591,7 @@
         <text encoding="base64">YnJldyBzZXJ2aWNlcyBzdGFydCByZWRpcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwb3NhYmxlQmVhbiwgRXhpdENvZGVHZW5lcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -602,28 +605,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw8PDw8PDw8PDw85oiR6KKr6ZSA5q+B5LqGLi4uLi4uLi4uLi4uLi4uLi4uLi4uLj4+Pj4+Pj4+Pj4+Pj4+PiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw8PDw8PDw8PDw85oiR6KKr6ZSA5q+B5LqGLi4uLi4uLi4uLi4uLi4uLi4uLi4uLj4+Pj4+Pj4+Pj4+Pj4+PiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxtb2R1bGVzPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaXNwb3NhYmxlQmVhbiwgRXhpdENvZGVHZW5lcmF0b3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw8PDw8PDw8PDw85oiR6KKr6ZSA5q+B5LqGLi4uLi4uLi4uLi4uLi4uLi4uLi4uLj4+Pj4+Pj4+Pj4+Pj4+PiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdHJpbmcgc2hwYXRoID0gIi9Vc2Vycy90ZXN0L2luc3RhbGwuc2giOy8vLnNo5paH5Lu255qE57ud5a+56Lev5b6ECiAgICAgICAgLy8gU3RyaW5nIGNvbW1hbmQgPSAiL2Jpbi9zaCAiICsgc2hwYXRoOwoKICAgICAgICAvLyBTdHJpbmcgc2hwYXRoID0gIi9Vc2Vycy90ZXN0L2luc3RhbGwuc2giOy8vLnNo5paH5Lu255qE57ud5a+56Lev5b6ECiAgICAgICAgLy8gU3RyaW5nIGNvbW1hbmQgPSAiL2Jpbi9zaCAiICsgc2hwYXRoOwoKCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw8PDw8PDw8PDw85oiR6KKr6ZSA5q+B5LqGLi4uLi4uLi4uLi4uLi4uLi4uLi4uLj4+Pj4+Pj4+Pj4+Pj4+PiIpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
