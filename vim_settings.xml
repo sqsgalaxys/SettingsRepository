@@ -251,6 +251,12 @@
         <mark key="[" line="120" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.ps1" timestamp="1517851120858" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/pom.xml" timestamp="1517860488024">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/templates/login.html" timestamp="1517496406090">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="59" />
@@ -579,10 +585,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>jar</text>
+        <text>ci-spring-boot</text>
       </register>
       <register name="-" type="4">
-        <text>jar</text>
+        <text>ci-spring-boot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kXD4=</text>
