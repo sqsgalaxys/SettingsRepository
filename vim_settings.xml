@@ -134,11 +134,11 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.yml" timestamp="1517763290003">
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="15" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.yml" timestamp="1517842661262">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="12" />
         <mark key="^" line="50" column="15" />
-        <mark key="." line="50" column="15" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/MeUser.java" timestamp="1517331303037">
         <mark key="[" line="21" column="61" />
@@ -580,11 +580,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>12345</text>
       </register>
       <register name="-" type="4">
-        <text>free</text>
+        <text>12345</text>
       </register>
       <register name="/" type="4">
         <text>me</text>
