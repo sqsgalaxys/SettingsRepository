@@ -368,12 +368,12 @@
       <file name="/Scala Console" timestamp="1510831482334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.ps1" timestamp="1517823260145">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="1" column="76" />
-        <mark key="]" line="3" column="58" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.ps1" timestamp="1517825541797">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="166" />
+        <mark key="]" line="3" column="166" />
+        <mark key="." line="3" column="166" />
+        <mark key="^" line="3" column="166" />
       </file>
       <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work_record/WorkRecord.java" timestamp="1517504006920">
         <mark key="[" line="23" column="16" />
@@ -475,8 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="15" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/web/controller/TestAnotions.java" />
-      <jump line="16" column="6" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="29" column="3" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/contro/HelloController.java" />
       <jump line="28" column="19" filename="$MAVEN_REPOSITORY$/org/jscience/jscience/4.3.1/jscience-4.3.1.jar!/org/jscience/physics/amount/Amount.class" />
       <jump line="9" column="11" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
@@ -575,6 +573,8 @@
       <jump line="12" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/82c7b20a-bc57-47d6-b69a-1152b2600690/console.sql" />
       <jump line="197" column="20" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.ps1" />
+      <jump line="13" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.ps1" />
+      <jump line="7" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.ps1" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -590,11 +590,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KCdzZXR4IC1tIEVSTEFOR19IT01FICJDOlxQcm9ncmFtIEZpbGVzXGVybDkuMlxlcnRzLTkuMiInKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>to the folder containing .</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sec</text>
