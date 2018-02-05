@@ -365,12 +365,11 @@
         <mark key="." line="4" column="262" />
         <mark key="^" line="4" column="262" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517765387707">
-        <mark key="'" line="148" column="38" />
-        <mark key="[" line="42" column="67" />
-        <mark key="]" line="43" column="7" />
-        <mark key="." line="43" column="7" />
-        <mark key="^" line="43" column="7" />
+      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" timestamp="1517849924607">
+        <mark key="'" line="150" column="38" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1517842913385">
         <mark key="[" line="0" column="0" />
@@ -593,20 +592,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>5672</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5672</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>sec</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ImZyZWUiKyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tZGF0YWJhc2Ugc3RhcnQtLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCdzZXR4IC1tIEVSTEFOR19IT01FICJDOlxQcm9ncmFtIEZpbGVzXGVybDkuMlxlcnRzLTkuMiInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -620,16 +619,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OyAmICJDOlxQcm9ncmFtIEZpbGVzXFJhYmJpdE1RIFNlcnZlclxyYWJiaXRtcV9zZXJ2ZXItMy42LjE0XHNiaW5ccmFiYml0bXEtc2VydmljZS5iYXQiIHN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tZGF0YWJhc2UgZW5kLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tZGF0YWJhc2UgZW5kLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IlxlcmxzcnYuZXhlIiBub3QgZm91bmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KioqKioqKioqKioqKioqKioqKioqKioqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -638,10 +637,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHRvZG8gdG8gdXNlIDogb3JnLnByb2plY3Rsb21ib2s6bG9tYm9rOjEuMTYuMTgnLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oZnJlZStSdW50aW1lLmdldFJ1bnRpbWUoKS5mcmVlTWVtb3J5KCkgLyAxMDI0IC8gMTAyNCArICIgTSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
