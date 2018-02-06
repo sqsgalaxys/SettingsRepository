@@ -270,11 +270,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/src/main/resources/script/Start-rabbitmq-server.ps1" timestamp="1517889264388">
-        <mark key="[" line="3" column="170" />
-        <mark key="]" line="3" column="169" />
-        <mark key="^" line="3" column="169" />
-        <mark key="." line="3" column="169" />
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/src/main/resources/script/Start-rabbitmq-server.ps1" timestamp="1517889727554">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/Status.java" timestamp="1517507453502">
         <mark key="[" line="13" column="51" />
@@ -610,10 +610,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9wbHVnaW5zPg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9wbHVnaW5zPg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ver</text>
