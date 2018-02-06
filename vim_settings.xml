@@ -24,11 +24,11 @@
         <mark key="^" line="4" column="146" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/ConfigServer/src/main/resources/application.yml" timestamp="1517924804551">
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/ConfigServer/src/main/resources/application.yml" timestamp="1517929669369">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="12" column="59" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1517858696725">
         <mark key="[" line="0" column="0" />
@@ -596,7 +596,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFNwcmluZ0FwcGxpY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoLXBhdGhzOiByZXNwbwo=</text>
       </register>
       <register name="-" type="4">
         <text>https://github.com/sqsgalaxys/ConfigFolder</text>
@@ -608,7 +608,7 @@
         <text encoding="base64">YnJldyBzZXJ2aWNlcyBzdGFydCByZWRpcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNwcmluZ0FwcGxpY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoLXBhdGhzOiByZXNwbwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -622,28 +622,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yY2UtcHVsbDogdHJ1ZQo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgIAojICAgICAgICAgICAgCiMgICAgICAgICAgICBzcHJpbmcuY2xvdWQuY29uZmlnLnNlcnZlci5naXQuc2VhcmNoUGF0aHM9cmVzcG8KIyAgICAgICAgICAgIHNwcmluZy5jbG91ZC5jb25maWcubGFiZWw9bWFzdGVyCiMgICAgICAgICAgICBzcHJpbmcuY2xvdWQuY29uZmlnLnNlcnZlci5naXQudXNlcm5hbWU9CiMgICAgICAgICAgICBzcHJpbmcuY2xvdWQuY29uZmlnLnNlcnZlci5naXQucGFzc3dvcmQ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDg4ODgK</text>
+        <text encoding="base64">QFNwcmluZ0FwcGxpY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yY2UtcHVsbDogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDg4ODgK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxtb2R1bGVzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwb3NhYmxlQmVhbiwgRXhpdENvZGVHZW5lcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw8PDw8PDw8PDw85oiR6KKr6ZSA5q+B5LqGLi4uLi4uLi4uLi4uLi4uLi4uLi4uLj4+Pj4+Pj4+Pj4+Pj4+PiIpOwo=</text>
+        <text encoding="base64">CTxtb2R1bGVzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
