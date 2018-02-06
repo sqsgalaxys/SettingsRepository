@@ -108,9 +108,12 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" timestamp="1517933149253">
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" timestamp="1517936657442">
         <mark key="'" line="33" column="4" />
-        <mark key="[" line="130" column="47" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="189" column="20" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/test/java/CalculatorTest.java" timestamp="1517935766871">
         <mark key="'" line="19" column="8" />
@@ -401,6 +404,13 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" timestamp="1517936636148">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="183" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/ci-spring-boot/Procfile" timestamp="1514465529255">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="52" />
@@ -453,11 +463,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/pom.xml" timestamp="1517934949205">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/pom.xml" timestamp="1517936679446">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
@@ -601,14 +611,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517906311090">
+      <file name="/fragment.java" timestamp="1517936489892">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/BeanUtils.class" />
-      <jump line="47" column="17" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
-      <jump line="3" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="3" column="0" filename="C:/Program Files/Java/jdk1.8.0_144/jre/lib/resources.jar!/com/sun/xml/internal/ws/resources/management.properties" />
       <jump line="48" column="39" filename="$MAVEN_REPOSITORY$/org/crashub/crash.cli/1.3.2/crash.cli-1.3.2.jar!/org/crsh/cli/impl/lang/CommandFactory.class" />
       <jump line="61" column="0" filename="$MAVEN_REPOSITORY$/org/crashub/crash.cli/1.3.2/crash.cli-1.3.2.jar!/org/crsh/cli/impl/lang/CommandFactory.class" />
@@ -706,6 +713,9 @@
       <jump line="9" column="19" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="73" column="55" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="19" column="15" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/exampleService/pom.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" />
+      <jump line="184" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,20 +731,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1AZW52QAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
       </register>
       <register name="-" type="4">
-        <text>.git</text>
+        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
       </register>
       <register name="/" type="4">
-        <text>h2</text>
+        <text>Man</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9ICJDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlciIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1AZW52QAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgPGRlcGVuZGVuY2llcz4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzY2llbmNlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qc2NpZW5jZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4zLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmNvbW1vbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbGFuZzM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuNTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -748,37 +758,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZWZyZXNoU2NvcGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+TEFURVNUPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLmNvbmZpZy5zZXJ2ZXIuZ2l0LnVyaT1odHRwczovL2dpdGh1Yi5jb20vc3FzZ2FsYXh5cy9Db25maWdGb2xkZXIvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+TEFURVNUPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlclxcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+UkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9ICJDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlciI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuanVuaXQuanVwaXRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+UkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q29uZmlnRm9sZGVyCiAgQ29uZmlnRm9sZGVyCg==</text>
+        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1AZW52QAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBDb25maWdGb2xkZXIK</text>
+        <text encoding="base64">ICAgIEBSZWZyZXNoU2NvcGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4KCiAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jbG91ZC1jb25maWctY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjEuMS4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">c3ByaW5nLmNsb3VkLmNvbmZpZy5zZXJ2ZXIuZ2l0LnVyaT1odHRwczovL2dpdGh1Yi5jb20vc3FzZ2FsYXh5cy9Db25maWdGb2xkZXIvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlclxcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>h2</last-search>
+      <last-search>Man</last-search>
       <last-offset />
-      <last-pattern>h2</last-pattern>
+      <last-pattern>Man</last-pattern>
       <last-replace>work</last-replace>
       <last-substitute>tAppActivityLog</last-substitute>
       <last-dir>1</last-dir>
@@ -786,7 +796,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>sta</entry>
         <entry>Work</entry>
         <entry>tAppActivityLog</entry>
@@ -806,6 +815,7 @@
         <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
         <entry>https</entry>
         <entry>post</entry>
+        <entry>Man</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
