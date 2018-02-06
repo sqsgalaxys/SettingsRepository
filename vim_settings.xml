@@ -91,6 +91,10 @@
         <mark key="'" line="33" column="4" />
         <mark key="[" line="130" column="47" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/test/java/CalculatorTest.java" timestamp="1517935766871">
+        <mark key="'" line="19" column="8" />
+        <mark key="^" line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/README.md" timestamp="1517826356603">
         <mark key="[" line="85" column="3" />
       </file>
@@ -227,6 +231,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/Main.java" timestamp="1511973671754">
         <mark key="[" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/main/java/Calculator.java" timestamp="1517935236273">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/ReaderHandlerMethodArgumentResolver.java" timestamp="1517316999442">
         <mark key="[" line="25" column="58" />
@@ -381,6 +391,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/pom.xml" timestamp="1517934949205">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
       </file>
@@ -449,7 +465,7 @@
         <mark key="." line="4" column="262" />
         <mark key="^" line="4" column="262" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517933640649">
+      <file name="/Dummy.txt" timestamp="1517935918709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1510831482334">
@@ -504,12 +520,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517933640644">
+      <file name="/fragment.java" timestamp="1517934971959">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="40" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="8" column="16" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
@@ -609,6 +624,7 @@
       <jump line="12" column="17" filename="$USER_HOME$/Downloads/MeSpringBoot/ConfigServer/src/main/resources/application.yml" />
       <jump line="10" column="6" filename="$USER_HOME$/Downloads/MeSpringBoot/ConfigServer/src/main/resources/application.yml" />
       <jump line="33" column="4" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
+      <jump line="15" column="8" filename="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/test/java/CalculatorTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -624,8 +640,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -634,10 +650,10 @@
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnJldyBzZXJ2aWNlcyBzdGFydCByZWRpcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBBc3NlcnQuYXNzZXJ0U2FtZShjYWN1bGF0ZVNlcnZpY2UuZGl2aWRlKDIsIDEpLCAyLjApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRhc2tSZXBvc2l0b3J5VGVzdCB7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -653,28 +669,28 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0bzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFRhc2tSZXBvc2l0b3J5VGVzdCB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>// @RunWith(SpringJUnit4ClassRunner.class)
 // @SpringApplicationConfiguration(classes = Application.class)
 // @WebIntegrationTest({ &quot;server.port=0&quot; })</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoLXBhdGhzOiByZXNwbwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIAojICAgICAgICAgICAgCiMgICAgICAgICAgICBzcHJpbmcuY2xvdWQuY29uZmlnLnNlcnZlci5naXQuc2VhcmNoUGF0aHM9cmVzcG8KIyAgICAgICAgICAgIHNwcmluZy5jbG91ZC5jb25maWcubGFiZWw9bWFzdGVyCiMgICAgICAgICAgICBzcHJpbmcuY2xvdWQuY29uZmlnLnNlcnZlci5naXQudXNlcm5hbWU9CiMgICAgICAgICAgICBzcHJpbmcuY2xvdWQuY29uZmlnLnNlcnZlci5naXQucGFzc3dvcmQ9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QFNwcmluZ0FwcGxpY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yY2UtcHVsbDogdHJ1ZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDg4ODgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
