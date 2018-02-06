@@ -236,7 +236,7 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/exampleService/src/main/resources/application.properties" timestamp="1517910480639">
+      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/exampleService/src/main/resources/application.properties" timestamp="1517912529148">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="15" />
@@ -260,7 +260,7 @@
         <mark key="^" line="4" column="82" />
         <mark key="." line="4" column="82" />
       </file>
-      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigFolder/application.properties" timestamp="1517910633711">
+      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigFolder/application.properties" timestamp="1517911363784">
         <mark key="[" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/static/style.css" timestamp="1517301498986">
@@ -338,7 +338,7 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigServer/src/main/java/xyz/sydns/ConfigServiceApplication.java" timestamp="1517908741584">
+      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigServer/src/main/java/xyz/sydns/ConfigServiceApplication.java" timestamp="1517911444039">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -370,10 +370,11 @@
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigServer/src/main/resources/application.properties" timestamp="1517909638584">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="67" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigServer/src/main/resources/application.properties" timestamp="1517912372617">
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjects/MeMain/src/main/java/ThreadTestMain/Account.java" timestamp="1507552232214">
         <mark key="[" line="3" column="8" />
@@ -459,7 +460,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517910572568">
+      <file name="/Dummy.txt" timestamp="1517911434064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
@@ -491,6 +492,11 @@
         <mark key="]" line="90" column="32" />
         <mark key="." line="90" column="32" />
         <mark key="^" line="90" column="32" />
+      </file>
+      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/exampleService/src/main/java/xyz/sydns/ExampleServiceApplication.java" timestamp="1517911807454">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/tomcat-cluster-redis-session-manager-master/pom.xml" timestamp="1512707978678">
         <mark key="[" line="46" column="0" />
@@ -640,7 +646,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLmNvbmZpZy5zZXJ2ZXIuZ2l0LnVyaT1odHRwczovL2dpdGh1Yi5jb20vc3FzZ2FsYXh5cy9Db25maWdGb2xkZXIvCg==</text>
+        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1AZW52QAo=</text>
       </register>
       <register name="-" type="4">
         <text>.git</text>
@@ -652,7 +658,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9ICJDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLmNvbmZpZy5zZXJ2ZXIuZ2l0LnVyaT1odHRwczovL2dpdGh1Yi5jb20vc3FzZ2FsYXh5cy9Db25maWdGb2xkZXIvCg==</text>
+        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1AZW52QAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -666,28 +672,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlclxcCg==</text>
+        <text encoding="base64">ICAgIEBSZWZyZXNoU2NvcGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9ICJDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlciI7Cg==</text>
+        <text encoding="base64">c3ByaW5nLmNsb3VkLmNvbmZpZy5zZXJ2ZXIuZ2l0LnVyaT1odHRwczovL2dpdGh1Yi5jb20vc3FzZ2FsYXh5cy9Db25maWdGb2xkZXIvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q29uZmlnRm9sZGVyCiAgQ29uZmlnRm9sZGVyCg==</text>
+        <text encoding="base64">ICBDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlclxcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDb25maWdGb2xkZXIK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9ICJDOlxcVXNlcnNcXHNxc2dhXFxEb3dubG9hZHNcXG1lR2l0SHViXFxNZVNwcmluZ0Jvb3RcXENvbmZpZ1NlcnZlciI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4KCiAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jbG91ZC1jb25maWctY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjEuMS4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Q29uZmlnRm9sZGVyCiAgQ29uZmlnRm9sZGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDb25maWdGb2xkZXIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmgyZGF0YWJhc2U8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmgyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj48L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4KCiAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jbG91ZC1jb25maWctY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjEuMS4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
