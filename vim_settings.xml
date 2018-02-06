@@ -65,7 +65,7 @@
         <mark key="." line="4" column="262" />
         <mark key="^" line="4" column="262" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/pom.xml" timestamp="1517887850783">
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/pom.xml" timestamp="1517888768509">
         <mark key="'" line="49" column="8" />
         <mark key="[" line="219" column="21" />
         <mark key="]" line="49" column="58" />
@@ -115,19 +115,15 @@
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/me/rabbitmq/package-info.java" timestamp="1517757536033">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/test/java/xyz/sydns/repository/TaskRepositoryTest.java" timestamp="1517763074391">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="19" />
-      </file>
       <file name="/a.sql" timestamp="1511710637679">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/pom.xml" timestamp="1517887873603">
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/pom.xml" timestamp="1517888781092">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="13" />
-        <mark key="." line="38" column="13" />
-        <mark key="^" line="38" column="12" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/92175968-9a64-4242-b1b6-1f69de8e8ee2/console.sql" timestamp="1517508757892">
         <mark key="[" line="0" column="7" />
@@ -273,6 +269,12 @@
         <mark key="]" line="1" column="59" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/src/main/resources/script/Start-rabbitmq-server.ps1" timestamp="1517889264388">
+        <mark key="[" line="3" column="170" />
+        <mark key="]" line="3" column="169" />
+        <mark key="^" line="3" column="169" />
+        <mark key="." line="3" column="169" />
       </file>
       <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/Status.java" timestamp="1517507453502">
         <mark key="[" line="13" column="51" />
@@ -422,7 +424,7 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517842913385">
+      <file name="/Dummy.txt" timestamp="1517889228784">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/guojinggold/webcontent/InputPhone.jsp" timestamp="1497820572323">
@@ -481,7 +483,7 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1517886686139">
+      <file name="/fragment.java" timestamp="1517889228757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.yml" timestamp="1517763290003">
