@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/java/me/websocket/GreetingController.java" timestamp="1518022394107">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1517217199130">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,7 +37,6 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/com/RabbitMqHelloTest.java" timestamp="1517940824153" />
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/me/rabbitmq/RabbitConfig.java" timestamp="1517757661451">
         <mark key="[" line="1" column="0" />
       </file>
@@ -58,6 +63,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/java/me/websocket/HelloMessage.java" timestamp="1518022172657">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/Status.java" timestamp="1517507453502">
         <mark key="[" line="13" column="51" />
@@ -95,18 +106,12 @@
       <file name="$USER_HOME$/gitCode/hb/hb-admin/src/main/resources/templates/management/index.html" timestamp="1504674368604">
         <mark key="[" line="296" column="61" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" timestamp="1517936657442">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="^" line="189" column="20" />
-        <mark key="." line="188" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/test/java/CalculatorTest.java" timestamp="1517940960193">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="56" />
-        <mark key="^" line="19" column="7" />
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" timestamp="1518020642965">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="132" column="16" />
+        <mark key="]" line="132" column="21" />
+        <mark key="^" line="132" column="21" />
+        <mark key="." line="132" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/README.md" timestamp="1517826356603">
         <mark key="[" line="85" column="3" />
@@ -168,11 +173,6 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/exampleService/src/main/java/xyz/sydns/ExampleServiceApplication.java" timestamp="1517925335681">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/logback-spring.xml" timestamp="1517474527635">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="75" />
@@ -187,6 +187,12 @@
       </file>
       <file name="/a.sql" timestamp="1511710637679">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/pom.xml" timestamp="1518021488615">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1515325028219">
         <mark key="[" line="4" column="63" />
@@ -236,16 +242,16 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigServer/src/main/java/xyz/sydns/ConfigServiceApplication.java" timestamp="1517911444039">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MeSpringBoot/exampleService/src/main/resources/bootstrap.properties" timestamp="1517930458695">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/java/HelloMessage.java" timestamp="1518020813630">
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/test/java/com/RabbitMqHelloTest.java" timestamp="1517763079930">
         <mark key="[" line="14" column="0" />
@@ -285,6 +291,12 @@
         <mark key="]" line="25" column="63" />
         <mark key="." line="25" column="63" />
         <mark key="^" line="25" column="63" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/java/Application.java" timestamp="1518021531211">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/JavaUuidEx/src/main/java/com/jcg/java/package-info.java" timestamp="1515423827170">
         <mark key="[" line="7" column="0" />
@@ -360,11 +372,6 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/exampleService/src/main/java/xyz/sydns/ExampleServiceApplication.java" timestamp="1517911807454">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/MeUser.java" timestamp="1517331303037">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="21" column="32" />
@@ -423,11 +430,6 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/xyz/sydns/repository/TaskRepositoryTest.java" timestamp="1517940947672">
-        <mark key="'" line="72" column="32" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="19" />
-      </file>
       <file name="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/ConfigFolder/application.properties" timestamp="1517911363784">
         <mark key="[" line="0" column="11" />
       </file>
@@ -458,16 +460,14 @@
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/resources/application.yml" timestamp="1518021564472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/MyArray.java" timestamp="1511974009701">
         <mark key="[" line="90" column="19" />
         <mark key="]" line="90" column="32" />
         <mark key="." line="90" column="32" />
         <mark key="^" line="90" column="32" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MeSpringBoot/exampleService/pom.xml" timestamp="1517933600903">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
       </file>
       <file name="/sbtShell" timestamp="1510933575384">
         <mark key="[" line="0" column="0" />
@@ -606,8 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
-      <jump line="65" column="44" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
       <jump line="171" column="36" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
       <jump line="52" column="29" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="2" column="13" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/SecurityConfig.java" />
@@ -706,6 +704,8 @@
       <jump line="42" column="4" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/xyz/sydns/me/redis/TestRedisTest.java" />
       <jump line="4" column="32" filename="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/test/java/CalculatorTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/xyz/sydns/me/redis/TestRedisTest.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/java/Application.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,20 +721,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIGNvbnRlbnQ7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hasKey, true</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>Man</text>
+        <text>postgr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoaGFzS2V5LCB0cnVlKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmV0dXJuIGNvbnRlbnQ7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -747,38 +747,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBHcmVldGluZygpIHsKICAgIH0KCiAgICBwdWJsaWMgR3JlZXRpbmcoU3RyaW5nIGNvbnRlbnQpIHsKICAgICAgICB0aGlzLmNvbnRlbnQgPSBjb250ZW50OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudCgpIHsKICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWYWx1ZU9wZXJhdGlvbnMgb3BzRm9yVmFsdWUgPSByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBWYWx1ZU9wZXJhdGlvbnMgb3BzRm9yVmFsdWUgPSByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCk7CiAgICAgICAgb3BzRm9yVmFsdWUuc2V0KGtleSwgdmFsdWUsIEVYUElSRV9USU1FX0lOX01JTlVURVMsIFRpbWVVbml0LlNFQ09ORFMpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgSGVsbG9NZXNzYWdlKCkgewogICAgfQoKICAgIHB1YmxpYyBIZWxsb01lc3NhZ2UoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBWYWx1ZU9wZXJhdGlvbnMgb3BzRm9yVmFsdWUgPSByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCk7CiAgICAgb3BzRm9yVmFsdWUuc2V0KGtleSwgdmFsdWUsIEVYUElSRV9USU1FX0lOX01JTlVURVMsIFRpbWVVbml0LlNFQ09ORFMpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFZhbHVlT3BlcmF0aW9ucyBvcHNGb3JWYWx1ZSA9IHJlZGlzVGVtcGxhdGUub3BzRm9yVmFsdWUoKTsKICAgICAgICByZXR1cm4gb3BzRm9yVmFsdWUuZ2V0KGtleSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBWYWx1ZU9wZXJhdGlvbnMgb3BzRm9yVmFsdWUgPSByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBWYWx1ZU9wZXJhdGlvbnMgb3BzRm9yVmFsdWUgPSByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Man</last-search>
+      <last-search>postgr</last-search>
       <last-offset />
-      <last-pattern>Man</last-pattern>
+      <last-pattern>postgr</last-pattern>
       <last-replace>work</last-replace>
       <last-substitute>tAppActivityLog</last-substitute>
       <last-dir>1</last-dir>
@@ -786,7 +786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sta</entry>
         <entry>Work</entry>
         <entry>tAppActivityLog</entry>
         <entry>Lom</entry>
@@ -806,6 +805,7 @@
         <entry>https</entry>
         <entry>post</entry>
         <entry>Man</entry>
+        <entry>postgr</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
