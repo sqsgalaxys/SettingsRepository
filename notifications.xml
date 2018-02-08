@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Lombok plugin" displayType="NONE" />
     <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Run Dashboard" displayType="NONE" shouldLog="false" />
