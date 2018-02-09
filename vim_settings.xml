@@ -318,11 +318,11 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/easy-dev-utils/base-excel/src/test/java/com/itoolshub/easy/dbutil/QueryAndExportByH2.java" timestamp="1518151633163">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="130" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/easy-dev-utils/base-excel/src/test/java/com/itoolshub/easy/dbutil/QueryAndExportByH2.java" timestamp="1518153688956">
+        <mark key="[" line="39" column="106" />
+        <mark key="]" line="39" column="109" />
+        <mark key="." line="39" column="109" />
+        <mark key="^" line="39" column="109" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/com/gabrielfeitosa/entity/Demo.java" timestamp="1517213778519">
         <mark key="[" line="4" column="11" />
@@ -783,10 +783,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>, new MapListHandler()</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>, new MapListHandler()</text>
       </register>
       <register name="/" type="4">
         <text>score</text>
