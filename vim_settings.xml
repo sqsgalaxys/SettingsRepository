@@ -387,6 +387,13 @@
       <file name="/m.m" timestamp="1517942842962">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="src:table:/34ad0a5d/6c9510dd-36b2-40d2-8fdf-f8925329a2ff/me_database.user" timestamp="1518142865276">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/work_record/src/main/java/DBInitializeConfig.java" timestamp="1517504613169">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="37" />
@@ -712,11 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="29" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
-      <jump line="2" column="13" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/SecurityConfig.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/config/SecurityConfig.java" />
-      <jump line="13" column="6" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/Task.java" />
-      <jump line="9" column="4" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/MeUser.java" />
       <jump line="28" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/MeUser.java" />
       <jump line="15" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.class" />
       <jump line="14" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.class" />
@@ -812,6 +814,11 @@
       <jump line="127" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeWebSocket/src/main/java/Application.java" />
       <jump line="11" column="47" filename="$USER_HOME$/Documents/GitHub/easy-dev-utils/base-excel/src/main/resources/data.sql" />
+      <jump line="0" column="0" filename="src:table:/34ad0a5d/6c9510dd-36b2-40d2-8fdf-f8925329a2ff/me_database.user" />
+      <jump line="24" column="23" filename="src:table:/34ad0a5d/6c9510dd-36b2-40d2-8fdf-f8925329a2ff/me_database.user" />
+      <jump line="1" column="13" filename="src:table:/34ad0a5d/6c9510dd-36b2-40d2-8fdf-f8925329a2ff/me_database.user" />
+      <jump line="25" column="16" filename="src:table:/34ad0a5d/6c9510dd-36b2-40d2-8fdf-f8925329a2ff/me_database.user" />
+      <jump line="5" column="2" filename="src:table:/34ad0a5d/6c9510dd-36b2-40d2-8fdf-f8925329a2ff/me_database.user" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -827,17 +834,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>postgr</text>
+        <text>score</text>
       </register>
       <register name="0" type="4">
-        <text>setDriverClassName</text>
+        <text>CHARACTER utf8</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -854,45 +861,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RFJPUCBEQVRBQkFTRSBJRiBFWElTVFMgbWVfZGF0YWJhc2U7CkNSRUFURSBEQVRBQkFTRSBtZV9kYXRhYmFzZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">b3JnLmgyLkRyaXZlcgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cmV0dXJuIGNvbnRlbnQ7CiAgICB9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBHcmVldGluZygpIHsKICAgIH0KCiAgICBwdWJsaWMgR3JlZXRpbmcoU3RyaW5nIGNvbnRlbnQpIHsKICAgICAgICB0aGlzLmNvbnRlbnQgPSBjb250ZW50OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudCgpIHsKICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">c2NvcmU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2NvcmU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2NvcmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgSGVsbG9NZXNzYWdlKCkgewogICAgfQoKICAgIHB1YmxpYyBIZWxsb01lc3NhZ2UoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">RFJPUCBEQVRBQkFTRSBJRiBFWElTVFMgbWVfZGF0YWJhc2U7CkNSRUFURSBEQVRBQkFTRSBtZV9kYXRhYmFzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
+        <text encoding="base64">b3JnLmgyLkRyaXZlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Njb3JlL3VzZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>postgr</last-search>
+      <last-search>score</last-search>
       <last-offset />
-      <last-pattern>postgr</last-pattern>
-      <last-replace>work</last-replace>
-      <last-substitute>tAppActivityLog</last-substitute>
+      <last-pattern>score</last-pattern>
+      <last-replace>user</last-replace>
+      <last-substitute>score</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>sta</entry>
         <entry>Work</entry>
         <entry>tAppActivityLog</entry>
@@ -912,10 +918,9 @@
         <entry>ver</entry>
         <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
         <entry>h2</entry>
+        <entry>score</entry>
       </history-search>
       <history-cmd>
-        <entry>E</entry>
-        <entry>20</entry>
         <entry>17</entry>
         <entry>sort u</entry>
         <entry>q</entry>
@@ -934,6 +939,8 @@
         <entry encoding="base64">JzwsJz5zL3RBcHBBY3Rpdml0eUxvZy93b3JrL2c=</entry>
         <entry>53t.</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zY29yZS91c2VyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Njb3JlL3VzZXIvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
