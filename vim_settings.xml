@@ -654,6 +654,9 @@
         <mark key="^" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/easy-dev-utils/base-sql/src/test/resources/db1.properties" timestamp="1518157844554">
+        <mark key="[" line="3" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="3" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
