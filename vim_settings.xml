@@ -378,6 +378,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/springbootexample/src/main/java/org/jon/lv/conf/DruidDataSourceConfiguration.java" timestamp="1518163413883">
+        <mark key="[" line="87" column="55" />
+        <mark key="]" line="87" column="55" />
+        <mark key="." line="87" column="55" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/User.java" timestamp="1517303204363">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="14" />
@@ -925,17 +930,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgogICAgICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+CiAgICAgICAgPG1hdmVuLmNvbXBpbGVyLnRhcmdldD4xLjg8L21hdmVuLmNvbXBpbGVyLnRhcmdldD4K</text>
+      <register name="&quot;" type="4">
+        <text>dynamicDataSource()</text>
       </register>
       <register name="-" type="4">
-        <text>getPid</text>
+        <text>dynamicDataSource()</text>
       </register>
       <register name="/" type="4">
         <text>Myba</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkN1cnJlbnQgUHJvY2VzcyBJZDogPSAiICsgY3VycmVudFByb2Nlc3MuZ2V0UGlkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IER5bmFtaWNEYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyKGR5bmFtaWNEYXRhU291cmNlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgogICAgICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+CiAgICAgICAgPG1hdmVuLmNvbXBpbGVyLnRhcmdldD4xLjg8L21hdmVuLmNvbXBpbGVyLnRhcmdldD4K</text>
