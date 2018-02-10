@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="error" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
