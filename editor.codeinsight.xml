@@ -5,6 +5,11 @@
   <component name="CodeInsightSettings">
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
+    <EXCLUDED_PACKAGE NAME="javax.management" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="sun.misc" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
