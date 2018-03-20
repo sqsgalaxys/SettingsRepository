@@ -549,12 +549,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/Downloads/Java_sort/src/Main.java" timestamp="1521488647800">
-        <mark key="'" line="258" column="24" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="49" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Downloads/Java_sort/src/Main.java" timestamp="1521488787100">
+        <mark key="'" line="144" column="20" />
+        <mark key="[" line="250" column="6" />
+        <mark key="]" line="250" column="6" />
+        <mark key="^" line="250" column="6" />
+        <mark key="." line="250" column="6" />
       </file>
       <file name="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/main/java/xyz/sydns/me/redis/TestRedis.java" timestamp="1517941257465">
         <mark key="[" line="29" column="11" />
@@ -834,12 +834,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1518382767455">
+      <file name="/fragment.java" timestamp="1521488749500">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
       <jump line="14" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/log/logback.xml" />
       <jump line="81" column="14" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
       <jump line="24" column="14" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
@@ -939,6 +938,7 @@
       <jump line="128" column="4" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
       <jump line="258" column="24" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
+      <jump line="144" column="20" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
