@@ -158,6 +158,12 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/Main.java" timestamp="1522246504268">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/2018年02月07日/MeSpringBoot/AdminClientExample/src/main/resources/application.properties" timestamp="1518382903478">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="3" column="34" />
@@ -630,7 +636,6 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/GitHub/Cknife/src/com/ms509/ui/Cknife.java" timestamp="1522069301007" />
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/User.java" timestamp="1517303204363">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="14" />
@@ -840,12 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/log/logback.xml" />
-      <jump line="81" column="14" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
-      <jump line="24" column="14" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
-      <jump line="80" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/application-dev.properties" />
-      <jump line="10" column="31" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/RecordChecker.java" />
-      <jump line="29" column="44" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
       <jump line="15" column="4" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LoninController.java" />
       <jump line="94" column="20" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
       <jump line="139" column="38" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
@@ -940,6 +939,12 @@
       <jump line="11" column="0" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
       <jump line="258" column="24" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
       <jump line="144" column="20" filename="$USER_HOME$/Downloads/Java_sort/src/Main.java" />
+      <jump line="10" column="36" filename="$USER_HOME$/Downloads/untitled/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/untitled/src/Main.java" />
+      <jump line="19" column="9" filename="$USER_HOME$/Downloads/untitled/src/Main.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Downloads/untitled/src/Main.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Downloads/untitled/src/Main.java" />
+      <jump line="7" column="39" filename="$USER_HOME$/Downloads/untitled/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -956,7 +961,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOwovLyBpbXBvcnQgamF2YS5pby5GaWxlTm90Rm91bmRFeGNlcHRpb247Ci8vIGltcG9ydCBqYXZhLmlvLkZpbGVPdXRwdXRTdHJlYW07Ci8vIGltcG9ydCBqYXZhLmlvLlJhbmRvbUFjY2Vzc0ZpbGU7Ci8vIGltcG9ydCBqYXZhLm5pby5jaGFubmVscy5GaWxlQ2hhbm5lbDsK</text>
       </register>
       <register name="-" type="4">
         <text>integers</text>
@@ -965,10 +970,10 @@
         <text>Main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTeXN0ZW0ub3V0LnByaW50bG4oaW50ZWdlcnMpOwo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS5pby5GaWxlTm90Rm91bmRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOwovLyBpbXBvcnQgamF2YS5pby5GaWxlTm90Rm91bmRFeGNlcHRpb247Ci8vIGltcG9ydCBqYXZhLmlvLkZpbGVPdXRwdXRTdHJlYW07Ci8vIGltcG9ydCBqYXZhLmlvLlJhbmRvbUFjY2Vzc0ZpbGU7Ci8vIGltcG9ydCBqYXZhLm5pby5jaGFubmVscy5GaWxlQ2hhbm5lbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -982,31 +987,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBcnJheUxpc3Q8SW50ZWdlcj4KCiAgICAgICAgLy8gQXJyYXlMaXN0PEludGVnZXI+IGFycmF5TGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oQXJyYXlzLjxJbnRlZ2VyPmFzTGlzdChuZXcgaW50W11bXXthcnJheX0pKTsKICAgICAgICAvLyBpbnRlZ2VycyA9IEJ1Y2tldFNvcnQobmV3IEFycmF5TGlzdDw+KEFycmF5cy48aW50W10+YXNMaXN0KGFycmF5KSksIDEwMCk7CiAgICAgICAgLy8gU3lzdGVtLm91dC5wcmludGxuKGludGVnZXJzKTsKCiAgICAgICAgLy8gTGlzdDxJbnRlZ2VyPiBsaXN0MiA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oYXJyYXkubGVuZ3RoKTsKICAgICAgICAvLyBDb2xsZWN0aW9ucy5hZGRBbGwobGlzdDIsIGFycmF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbnRbXSBhcnJheSA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgIC8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdChhcnJheSkpCg==</text>
+        <text encoding="base64">ICAgICAgIC8vCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgLyoqCiAgICAgKiDlhpLms6HmjpLluo8KICAgICAqCiAgICAgKiBAcGFyYW0gYXJyYXkKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS5pby5GaWxlSW5wdXRTdHJlYW07Ci8vaW1wb3J0IGphdmEuaW8uRmlsZU5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gaW50ZWdlcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgRklMRV9QQVRIID0gInRlc3QudHh0IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PFN0cmluZz4oQXJyYXlzLmFzTGlzdChhcnJheXMpKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text encoding="base64">JzwsJz5zb3J0IHU=</text>
       </register>
     </registers>
     <search>
@@ -1050,7 +1055,6 @@
         <entry>set wrap!</entry>
         <entry>set wrap</entry>
         <entry>g/^$/d</entry>
-        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>30t.</entry>
         <entry>37t.</entry>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
@@ -1062,6 +1066,7 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQvZw==</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
