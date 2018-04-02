@@ -1,38 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'TestExx'" />
+    <option name="defaultScopeName" value="Project 'TestExx'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.w</mask>
-      <mask>*.w'i</mask>
-      <mask>*.w'i'k</mask>
-      <mask>*.wiki</mask>
-      <mask>*.x'm</mask>
-      <mask>*.x'm'l</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.p'r</mask>
-      <mask>*.p'ro</mask>
-      <mask>*.pro</mask>
-      <mask>*.properties</mask>
-      <mask>*.java</mask>
-      <mask>*.html</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Project 'TestExx'" />
   </component>
 </application>
