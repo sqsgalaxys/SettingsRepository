@@ -579,10 +579,6 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/OneDrive/2018年02月07日/MeSpringBoot/AdminServerExampleEx/pom.xml" timestamp="1518386832223">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="44" />
-      </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/templates/hello.html" timestamp="1517217582842">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="41" />
@@ -677,6 +673,11 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/TestExx/pom.xml" timestamp="1522921777265">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Test/gradleDependenciesTest/src/main/java/net/petrikainulainen/gradle/MessageServiceTest.java" timestamp="1507587122734">
         <mark key="[" line="1" column="0" />
@@ -1014,8 +1015,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>root</text>
@@ -1027,7 +1028,7 @@
         <text encoding="base64">CQkJCTxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9InJvb3QiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCUxvbmcgcm9sZUlkID0gcnMuZ2V0TG9uZygiaWQiKTsgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1041,28 +1042,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bHNvZiAtaSA6NjE2MTYK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCUxvbmcgcm9sZUlkID0gcnMuZ2V0TG9uZygiaWQiKTsgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">YnJldyBsaXN0CmJyZXcgbGlzdCB8IGdyZXAgYWN0aXZlbXEK</text>
+        <text encoding="base64">bHNvZiAtaSA6NjE2MTYK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OiAxNTIyNjkwNjkxOjA7dmltIH4vLnpoaXN0b3J5Cg==</text>
+        <text encoding="base64">YnJldyBsaXN0CmJyZXcgbGlzdCB8IGdyZXAgYWN0aXZlbXEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAidGNwOi8vMTI3LjAuMC4xOjkwOTY2Iik7Cg==</text>
+        <text encoding="base64">OiAxNTIyNjkwNjkxOjA7dmltIH4vLnpoaXN0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOwovLyBpbXBvcnQgamF2YS5pby5GaWxlTm90Rm91bmRFeGNlcHRpb247Ci8vIGltcG9ydCBqYXZhLmlvLkZpbGVPdXRwdXRTdHJlYW07Ci8vIGltcG9ydCBqYXZhLmlvLlJhbmRvbUFjY2Vzc0ZpbGU7Ci8vIGltcG9ydCBqYXZhLm5pby5jaGFubmVscy5GaWxlQ2hhbm5lbDsK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
