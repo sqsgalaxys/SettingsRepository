@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="电磁炮" />
+      <item value="System" />
+      <item value="超电磁炮" />
       <item value="overpayment" />
       <item value="总是" />
       <item value="Alway" />
@@ -10,5 +11,13 @@
       <item value="observed" />
       <item value="observer" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="4b007d2d44adaf29" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
