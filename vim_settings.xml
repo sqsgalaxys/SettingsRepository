@@ -612,6 +612,9 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/resources/application.properties" timestamp="1528643241344">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal.iedis" timestamp="1517942851160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="5" />
@@ -1095,7 +1098,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ac</entry>
         <entry>act</entry>
         <entry encoding="base64">XDxhY3R1YXRvclw+</entry>
         <entry>&quot;</entry>
