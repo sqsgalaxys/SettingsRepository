@@ -1,0 +1,8 @@
+<application>
+  <component name="ConfigurationProvider">
+    <option name="ideaFocusedInput" value="com.apple.keylayout.US" />
+    <option name="inVimInsertInput" value="com.googlecode.rimeime.inputmethod.Squirrel.Rime" />
+    <option name="outOfIdeaInput" value="com.googlecode.rimeime.inputmethod.Squirrel.Rime" />
+    <option name="outVimInsertInput" value="com.apple.keylayout.US" />
+  </component>
+</application>
