@@ -41,6 +41,11 @@
         <mark key="[" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/ZookeeperInsert.java" timestamp="1531755298697" />
+      <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/ZK_Delete.java" timestamp="1531757522375">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1517504340337">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,6 +112,13 @@
         <mark key="]" line="3" column="17" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/package-info.java" timestamp="1531758155629">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="108" />
+        <mark key="]" line="8" column="93" />
+        <mark key="^" line="8" column="93" />
+        <mark key="." line="8" column="93" />
       </file>
       <file name="$USER_HOME$/Downloads/JVM_Example_Code/src/com/sqsgalaxys/initial/order/package-info.java" timestamp="1513690024697">
         <mark key="[" line="2" column="17" />
@@ -276,6 +288,9 @@
         <mark key="]" line="17" column="4" />
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/pom.xml" timestamp="1531756888943">
+        <mark key="[" line="112" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/Dockerfile" timestamp="1515325028219">
         <mark key="[" line="4" column="63" />
@@ -476,6 +491,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1503449627659">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" timestamp="1531758991993">
+        <mark key="'" line="147" column="58" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="111" />
+        <mark key="." line="163" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/2018年02月07日/MeSpringBoot/AdminClientExampleEx/src/main/java/xyz/sydns/medefault/ProducerApplication.java" timestamp="1518385227480">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="29" />
@@ -613,6 +634,12 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/ZKConnection.java" timestamp="1531756919368">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/static/style.css" timestamp="1517301498986">
         <mark key="[" line="0" column="0" />
@@ -784,6 +811,9 @@
       <file name="/dummy.sql" timestamp="1522919774410">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" timestamp="1531757648881">
+        <mark key="'" line="284" column="30" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/script/Start-rabbitmq-server.sh" timestamp="1517777149249">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="2" column="27" />
@@ -930,21 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="21" filename="$USER_HOME$/Downloads/work_record/pom.xml" />
-      <jump line="74" column="45" filename="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/WorkRecordController.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/WorkRecordController.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/Downloads/work_record/src/main/java/xyz/sydns/work/record/WorkRecordController.java" />
-      <jump line="13" column="24" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/Lombok.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/entity/Lombok.java" />
-      <jump line="5" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/stereotype/Service.class" />
-      <jump line="135" column="49" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
-      <jump line="211" column="7" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/pom.xml" />
-      <jump line="40" column="27" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
-      <jump line="46" column="34" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
-      <jump line="48" column="17" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/service/AlwaysLogger.java" />
-      <jump line="33" column="26" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
-      <jump line="44" column="4" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
-      <jump line="35" column="19" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
       <jump line="34" column="11" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
       <jump line="29" column="25" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
       <jump line="26" column="18" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
@@ -1030,6 +1045,21 @@
       <jump line="42" column="67" filename="$USER_HOME$/Downloads/javaTest/Test/src/main/java/com/sqsgalaxys/java/RSAUtil.java" />
       <jump line="58" column="28" filename="$USER_HOME$/Downloads/javaTest/Test/src/main/java/com/sqsgalaxys/java/RSAUtil.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/TestKotlin.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/package-info.java" />
+      <jump line="146" column="13" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
+      <jump line="101" column="33" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="104" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="105" column="52" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="110" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="111" column="53" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="116" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="117" column="52" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="284" column="30" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
+      <jump line="164" column="15" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
+      <jump line="15" column="32" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
+      <jump line="148" column="30" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
+      <jump line="147" column="58" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1046,19 +1076,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlxuSGVsbG8gJHtncmVldGluZy50b1VwcGVyQ2FzZSgpfSIpCg==</text>
+        <text encoding="base64">CQkvLyBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8xMzczMTIxOC9ob3ctZG8taS1nZXQtbWlsbGlzZWNvbmRzLWZyb20tZXBvY2gtMTk3MC0wMS0wMS1pbi1qYXZhCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>, s</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text encoding="base64">XDxaS19QQVRIXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlxuSGVsbG8gJHtncmVldGluZy50b1VwcGVyQ2FzZSgpfSIpCg==</text>
+      <register name="0" type="4">
+        <text>&quot;/&quot; + s, s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlxuSGVsbG8gJHtncmVldGluZy50b1VwcGVyQ2FzZSgpfSIpCg==</text>
+        <text encoding="base64">CQkvLyBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8xMzczMTIxOC9ob3ctZG8taS1nZXQtbWlsbGlzZWNvbmRzLWZyb20tZXBvY2gtMTk3MC0wMS0wMS1pbi1qYXZhCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1072,19 +1102,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIOaJk+WNsOaNouihjOWtl+espuS4sizmiZPljbDovazkuYnlvJXlj7cs5Y+K5YW25LuW5a2X56ym5LiyCg==</text>
+        <text encoding="base64">CQlzYW1wbGUuY3JlYXRlQ29ubmVjdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAyCiAgICAzCiAgICA0CiAgICA1CiAgICA2CiAgICA3CiAgICA4CiAgICA5CiAgICAxMAogICAgMTEKICAgIDEyCiAgICAxMwogICAgMTQKICAgIDE1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MQoyCjMKNAo1CjYKNwo4CjkKMTAKMTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1092,17 +1122,17 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCUxvbmcgcm9sZUlkID0gcnMuZ2V0TG9uZygiaWQiKTsgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoc2FtcGxlLmNyZWF0ZVBhdGgoWktfUEFUSCwgIuaIkeaYr+iKgueCueWIneWni+WGheWuuSIpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuaVsOaNruWGheWuuTogIiArIHNhbXBsZS5yZWFkRGF0YShaS19QQVRIKSArICJcbiIpOwogICAgICAgICAgICBzYW1wbGUud3JpdGVEYXRhKFpLX1BBVEgsICLmm7TmlrDlkI7nmoTmlbDmja4iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmlbDmja7lhoXlrrk6ICIgKyBzYW1wbGUucmVhZERhdGEoWktfUEFUSCkgKyAiXG4iKTsKICAgICAgICAgICAgc2FtcGxlLmRlbGV0ZU5vZGUoWktfUEFUSCk7CiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search encoding="base64">XDxaS19QQVRIXD4=</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern encoding="base64">XDxaS19QQVRIXD4=</last-pattern>
       <last-replace>int</last-replace>
       <last-substitute>String</last-substitute>
       <last-dir>-1</last-dir>
@@ -1130,6 +1160,9 @@
         <entry>String</entry>
         <entry>Main</entry>
         <entry>15</entry>
+        <entry encoding="base64">XDx3YXRjaE1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVQYXRoXD4=</entry>
+        <entry encoding="base64">XDxaS19QQVRIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1237,6 +1270,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
