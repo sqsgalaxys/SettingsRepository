@@ -158,6 +158,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" timestamp="1532363725181">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+        <mark key="^" line="47" column="15" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/62aa1d97-609e-4a0b-bf13-de0253fa9309/console.sql" timestamp="1531762582078">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="22" />
@@ -745,8 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
-      <jump line="24" column="5" filename="$USER_HOME$/OneDrive/MeProjectsEx/ci-spring-boot/src/main/java/xyz/sydns/contro/LogController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/Procfile" />
       <jump line="3" column="41" filename="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/Procfile" />
       <jump line="12" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/82c7b20a-bc57-47d6-b69a-1152b2600690/console.sql" />
@@ -845,6 +849,8 @@
       <jump line="227" column="31" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/resources/application.properties" />
       <jump line="4" column="0" filename="$USER_HOME$/Downloads/Temp/miSpringBootApp/src/main/resources/application.properties" />
+      <jump line="18" column="0" filename="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" />
+      <jump line="25" column="20" filename="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -860,20 +866,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjg8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8ZW5jb2Rpbmc+MS44PC9lbmNvZGluZz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhZGRNYXZlbkRlc2NyaXB0b3I+ZmFsc2U8L2FkZE1hdmVuRGVzY3JpcHRvcj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y2xhc3NwYXRoUHJlZml4PmxpYjwvY2xhc3NwYXRoUHJlZml4PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxtYWluQ2xhc3M+PC9tYWluQ2xhc3M+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxwbHVnaW4+PC9wbHVnaW4+CgogICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cn.sqs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxaS19QQVRIXD4=</text>
+        <text>source</text>
       </register>
-      <register name="0" type="4">
-        <text>template.opsForValue().</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT4xLjg8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjEuODwvdGFyZ2V0PgogICAgICAgICAgICAgICAgICAgIDxlbmNvZGluZz4xLjg8L2VuY29kaW5nPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjg8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8ZW5jb2Rpbmc+MS44PC9lbmNvZGluZz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhZGRNYXZlbkRlc2NyaXB0b3I+ZmFsc2U8L2FkZE1hdmVuRGVzY3JpcHRvcj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y2xhc3NwYXRoUHJlZml4PmxpYjwvY2xhc3NwYXRoUHJlZml4PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxtYWluQ2xhc3M+PC9tYWluQ2xhc3M+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxwbHVnaW4+PC9wbHVnaW4+CgogICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -886,40 +892,40 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlPjEuODwvc291cmNlPgogICAgICAgICAgICAgICAgICAgIDx0YXJnZXQ+MS44PC90YXJnZXQ+CiAgICAgICAgICAgICAgICAgICAgPGVuY29kaW5nPjEuODwvZW5jb2Rpbmc+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteWxpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnb2Fscy8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmVudGl0eS5Vc2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nLnJlZGlzLmhvc3Q9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLmFjdGl2ZW1xLmJyb2tlci11cmw9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHByb3BlcnRpZXM+CiAgICA8cHJvcGVydGllcy8+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDozMDMwLwoKaHR0cDovL2xvY2FsaG9zdDo4MDgwLwoKCg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvamVjdC5iPjwvcHJvamVjdC5iPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text encoding="base64">JzwsJz5zL3NvdXJjZS90YXJnZXQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxaS19QQVRIXD4=</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxaS19QQVRIXD4=</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">XDxaS19QQVRIXD4=</last-substitute>
+      <last-pattern>source</last-pattern>
+      <last-replace>target</last-replace>
+      <last-substitute>source</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -945,9 +951,9 @@
         <entry encoding="base64">XDx3YXRjaE1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVQYXRoXD4=</entry>
         <entry encoding="base64">XDxaS19QQVRIXD4=</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>14t.</entry>
         <entry>16t.</entry>
         <entry>set wrap!</entry>
@@ -968,6 +974,7 @@
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5zL3NvdXJjZS90YXJnZXQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
