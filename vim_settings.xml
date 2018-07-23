@@ -158,11 +158,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" timestamp="1532363725181">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="47" column="15" />
-        <mark key="." line="47" column="15" />
-        <mark key="^" line="47" column="15" />
+      <file name="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" timestamp="1532379463038">
+        <mark key="[" line="99" column="21" />
+        <mark key="]" line="103" column="25" />
+        <mark key="." line="103" column="25" />
+        <mark key="^" line="103" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/62aa1d97-609e-4a0b-bf13-de0253fa9309/console.sql" timestamp="1531762582078">
         <mark key="[" line="14" column="24" />
@@ -867,10 +867,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjg8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8ZW5jb2Rpbmc+MS44PC9lbmNvZGluZz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhZGRNYXZlbkRlc2NyaXB0b3I+ZmFsc2U8L2FkZE1hdmVuRGVzY3JpcHRvcj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y2xhc3NwYXRoUHJlZml4PmxpYjwvY2xhc3NwYXRoUHJlZml4PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxtYWluQ2xhc3M+PC9tYWluQ2xhc3M+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxwbHVnaW4+PC9wbHVnaW4+CgogICAgICAgIA==</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>cn.sqs</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>source</text>
