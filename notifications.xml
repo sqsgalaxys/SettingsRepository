@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="Lombok plugin" displayType="NONE" />
     <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
