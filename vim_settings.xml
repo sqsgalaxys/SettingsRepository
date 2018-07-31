@@ -115,6 +115,13 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/todo" timestamp="1533050831308">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Service.java" timestamp="1532827282110">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="17" column="37" />
@@ -174,6 +181,13 @@
         <mark key="]" line="19" column="20" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyThread.java" timestamp="1533049948735">
+        <mark key="'" line="16" column="30" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/easy-dev-utils/base-excel/src/test/java/com/itoolshub/easy/springjdbc/QueryAndExportByH2.java" timestamp="1518151641163">
         <mark key="[" line="39" column="4" />
@@ -283,6 +297,13 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a7availablePermitsTest/MyService.java" timestamp="1533049262666">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/CompletableFutureTest/src/BasicFuture.java" timestamp="1511971452447">
         <mark key="[" line="8" column="55" />
         <mark key="]" line="10" column="7" />
@@ -378,11 +399,24 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="75" />
       </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a7availablePermitsTest/Run.java" timestamp="1533049304861">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/sqlite/Main.java" timestamp="1531761125045">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyThread.java" timestamp="1533050430421">
+        <mark key="'" line="17" column="30" />
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/main/java/Calculator.java" timestamp="1517935236273">
         <mark key="[" line="4" column="38" />
@@ -554,6 +588,13 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyService.java" timestamp="1533050171426">
+        <mark key="'" line="16" column="55" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/ZKConnection.java" timestamp="1531756919368">
         <mark key="[" line="13" column="44" />
@@ -752,6 +793,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a8drainPermitsTest/a7availablePermitsTest/MyService.java" timestamp="1533049519265">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/Downloads/work_record/src/main/java/DBInitializeConfig.java" timestamp="1517504613169">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="37" />
@@ -769,6 +816,12 @@
         <mark key="]" line="28" column="25" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/Run.java" timestamp="1533050532494">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Temp/miSpringBootApp/miredis/src/main/resources/application.properties" timestamp="1531936737077">
         <mark key="[" line="12" column="0" />
@@ -792,6 +845,13 @@
         <mark key="]" line="19" column="34" />
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/Run.java" timestamp="1533050070647">
+        <mark key="'" line="12" column="45" />
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/Test.java" timestamp="1522680825795">
         <mark key="[" line="9" column="21" />
@@ -835,13 +895,20 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyService.java" timestamp="1533050769236">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Downloads/Mybatis_1/Mybatis_1/src/hibernate/hibernate.cfg.xml" timestamp="1522919894708">
         <mark key="[" line="14" column="55" />
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1532827631076">
+      <file name="/fragment.java" timestamp="1533049325888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -854,14 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="24" filename="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/pom.xml" />
-      <jump line="0" column="6" filename="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/pom.xml" />
-      <jump line="49" column="8" filename="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/pom.xml" />
-      <jump line="39" column="1" filename="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/src/main/java/xyz/sydns/me/rabbitmq/main/Recv.java" />
-      <jump line="11" column="6" filename="$USER_HOME$/OneDrive/MeProjectsEx/MeSpringBoot/MeSpringBoot/src/main/java/xyz/sydns/me/rabbitmq/main/Recv.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
-      <jump line="140" column="52" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
-      <jump line="35" column="24" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="160" column="24" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="180" column="20" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
@@ -954,6 +1013,14 @@
       <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadA.java" />
       <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadB.java" />
       <jump line="21" column="29" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/Run.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a7availablePermitsTest/MyService.java" />
+      <jump line="23" column="31" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyService.java" />
+      <jump line="16" column="30" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyThread.java" />
+      <jump line="12" column="45" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/Run.java" />
+      <jump line="16" column="55" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyService.java" />
+      <jump line="19" column="31" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyService.java" />
+      <jump line="17" column="30" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyThread.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/todo" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -969,20 +1036,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>drain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
       </register>
-      <register name="0" type="4">
-        <text>drain</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0ZhaXIgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -996,28 +1063,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1haW4gaW50ZXJydXB0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5ydW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXNnYWxheHlzLmExU2VtYXBob3JlVGVzdDIuU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5ydW4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXNnYWxheHlzLmExU2VtYXBob3JlVGVzdDIuU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKHNsZWVwVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNlbWFwaG9yZS5hdmFpbGFibGVQZXJtaXRzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNlbWFwaG9yZS5hdmFpbGFibGVQZXJtaXRzKCkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHNsZWVwVmFsdWUgPSAoKGludCkgKE1hdGgucmFuZG9tKCkgKiAxMDAwMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
