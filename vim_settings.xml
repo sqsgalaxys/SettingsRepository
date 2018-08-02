@@ -213,6 +213,9 @@
         <mark key="." line="103" column="25" />
         <mark key="^" line="103" column="25" />
       </file>
+      <file name="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" timestamp="1533230232768">
+        <mark key="'" line="49" column="12" />
+      </file>
       <file name="$USER_HOME$/Downloads/OneDrive/MeProjectsEx/ci-spring-boot/src/main/resources/db/schema.sql" timestamp="1517333123496">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="262" />
@@ -405,11 +408,18 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/miProject/netty/common/src/main/java/io/netty/util/concurrent/SingleThreadEventExecutor.java" timestamp="1533230792634" />
       <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/sqlite/Main.java" timestamp="1531761125045">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/test_springBoot_project/src/main/java/com/sqsgalaxys/java/test_springBoot_project/Main.java" timestamp="1533230093353">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyThread.java" timestamp="1533050430421">
         <mark key="'" line="17" column="30" />
@@ -921,10 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
-      <jump line="160" column="24" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
-      <jump line="180" column="20" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
-      <jump line="164" column="26" filename="$USER_HOME$/Downloads/meGitHub/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
       <jump line="202" column="66" filename="$USER_HOME$/Downloads/java-design-patterns-master/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/java-design-patterns-master/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/java-design-patterns-master/twin/pom.xml" />
@@ -1021,6 +1027,10 @@
       <jump line="19" column="31" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyService.java" />
       <jump line="17" column="30" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyThread.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/todo" />
+      <jump line="84" column="31" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
+      <jump line="87" column="8" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
+      <jump line="35" column="64" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
+      <jump line="49" column="12" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1036,17 +1046,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>a</text>
+        <text encoding="base64">XDxBZ2dyZWdhdGVTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0ZhaXIgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJtc2cgaXMgU3RyaW5nIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZmFsc2UK</text>
@@ -1091,12 +1101,12 @@
       </register>
     </registers>
     <search>
-      <last-search>a</last-search>
+      <last-search encoding="base64">XDxBZ2dyZWdhdGVTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>a</last-pattern>
+      <last-pattern encoding="base64">XDxBZ2dyZWdhdGVTdGF0ZVw+</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>a</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1121,6 +1131,7 @@
         <entry encoding="base64">XDxaS19QQVRIXD4=</entry>
         <entry>source</entry>
         <entry>a</entry>
+        <entry encoding="base64">XDxBZ2dyZWdhdGVTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set wrap!</entry>
