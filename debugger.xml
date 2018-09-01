@@ -7,58 +7,72 @@
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javax.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.omg.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="sun.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="jdk.internal.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.yourkit.runtime.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javassist.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.apache.webbeans.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
   </component>
   <component name="XDebuggerSettings">
@@ -66,11 +80,12 @@
       <sort-values>true</sort-values>
     </data-views>
     <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration captureAsyncStackTraces="false">
+        <configuration>
           <custom-object-presentation />
         </configuration>
       </debugger>
