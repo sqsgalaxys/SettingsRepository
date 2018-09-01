@@ -300,6 +300,7 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/miProject/proxyee/src/main/java/com/github/monkeywie/proxyee/server/HttpProxyServer.java" timestamp="1535781609192" />
       <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a7availablePermitsTest/MyService.java" timestamp="1533049262666">
         <mark key="'" line="20" column="31" />
         <mark key="[" line="19" column="19" />
@@ -408,7 +409,6 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/miProject/netty/common/src/main/java/io/netty/util/concurrent/SingleThreadEventExecutor.java" timestamp="1533231476727" />
       <file name="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/sqlite/Main.java" timestamp="1531761125045">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="0" />
@@ -1111,7 +1111,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaHJlYWRQb29sVGFza1NjaGVkdWxlclw+</entry>
         <entry>My</entry>
         <entry>log</entry>
         <entry>me</entry>
