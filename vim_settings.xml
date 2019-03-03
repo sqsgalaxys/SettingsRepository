@@ -3,25 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyThread.java" timestamp="1533050430421">
-        <mark key="'" line="17" column="30" />
-        <mark key="[" line="16" column="67" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/server.java" timestamp="1551586777596">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/TODO.md" timestamp="1551587815759">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/util/MemberNumberRandomUtil.java" timestamp="1551533805892">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" timestamp="1533230232768">
-        <mark key="'" line="49" column="12" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/CommodityDao.java" timestamp="1551535394249">
         <mark key="[" line="18" column="36" />
@@ -32,39 +28,33 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Commodity.java" timestamp="1551586815657" />
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" timestamp="1551587120819">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" timestamp="1551587311994">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="10" column="31" />
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" timestamp="1532827932662">
-        <mark key="'" line="11" column="16" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Main.java" timestamp="1532826155556">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-      </file>
-      <file name="/dummy.sql" timestamp="1551535693734">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/TODO" timestamp="1551587657038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/queryMember.html" timestamp="1551536582648">
-        <mark key="'" line="132" column="63" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" timestamp="1551587572274">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/MemberController.java" timestamp="1551533892923">
-        <mark key="'" line="10" column="20" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="60" column="51" />
-        <mark key="." line="61" column="0" />
+      <file name="/member_grade [@m.n]" timestamp="1551587990227">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/error.html" timestamp="1551588551275">
+        <mark key="[" line="169" column="30" />
+        <mark key="]" line="169" column="30" />
+        <mark key="." line="169" column="30" />
+      </file>
+      <file name="/dummy.sql" timestamp="1551587991150">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/admin [@m.n]" timestamp="1551532476904">
         <mark key="[" line="0" column="0" />
@@ -78,75 +68,33 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="73" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a7availablePermitsTest/MyService.java" timestamp="1533049262666">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/purchaseCommodity.html" timestamp="1551537137790">
-        <mark key="[" line="161" column="22" />
-        <mark key="]" line="180" column="70" />
-        <mark key="^" line="180" column="70" />
-        <mark key="." line="180" column="70" />
-      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/addMemberSuccess.html" timestamp="1551589569344" />
       <file name="/transaction_record [@m.n]" timestamp="1551535693254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/todo" timestamp="1533050831308">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/deleteMember.html" timestamp="1551589939878" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/index.html" timestamp="1551589426284">
+        <mark key="[" line="141" column="31" />
+        <mark key="]" line="142" column="15" />
+        <mark key="^" line="142" column="15" />
+        <mark key="." line="142" column="15" />
       </file>
       <file name="/member [@m.n]" timestamp="1551533993524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/MemberService.java" timestamp="1551535288809">
-        <mark key="[" line="91" column="55" />
-        <mark key="]" line="91" column="56" />
-        <mark key="^" line="91" column="56" />
-        <mark key="." line="91" column="56" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/CommodityController.java" timestamp="1551587894156">
+        <mark key="[" line="57" column="75" />
+        <mark key="]" line="57" column="76" />
+        <mark key="^" line="57" column="76" />
+        <mark key="." line="57" column="76" />
       </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/Run.java" timestamp="1533050070647">
-        <mark key="'" line="12" column="45" />
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/CommodityController.java" timestamp="1551587161421">
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="56" column="11" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-      </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyService.java" timestamp="1533050171426">
-        <mark key="'" line="16" column="55" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="23" column="31" />
-        <mark key="^" line="23" column="31" />
-        <mark key="." line="23" column="31" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/integralLottery.html" timestamp="1551590231432">
+        <mark key="'" line="57" column="5" />
       </file>
       <file name="/exchange_record [@m.n]" timestamp="1551535583519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a10semaphoreFairTest/MyService.java" timestamp="1533050769236">
-        <mark key="'" line="24" column="31" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyThread.java" timestamp="1533049948735">
-        <mark key="'" line="16" column="30" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
-      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membership.sql" timestamp="1551587354686" />
       <file name="/commodity [@m.n]" timestamp="1551535584877">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,18 +103,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/application.properties" timestamp="1551536699082">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1551587994809">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/application.properties" timestamp="1551589674848">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" />
-      <jump line="184" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/pom.xml" />
-      <jump line="72" column="32" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/xyz/sydns/repository/TaskRepositoryTest.java" />
-      <jump line="42" column="4" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/xyz/sydns/me/redis/TestRedisTest.java" />
       <jump line="4" column="32" filename="$USER_HOME$/Downloads/MeSpringBoot/Me_Test/src/test/java/CalculatorTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/src/test/java/xyz/sydns/me/redis/TestRedisTest.java" />
       <jump line="127" column="0" filename="$USER_HOME$/Downloads/MeSpringBoot/MeSpringBootChildren00/pom.xml" />
@@ -262,6 +208,11 @@
       <jump line="6" column="15" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" />
       <jump line="11" column="0" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" />
       <jump line="19" column="0" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" />
+      <jump line="9" column="19" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
+      <jump line="21" column="13" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
+      <jump line="17" column="12" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
+      <jump line="19" column="0" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
+      <jump line="57" column="5" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/integralLottery.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -277,17 +228,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>yen</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>yen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzllYblk4HotK3kubBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOwo=</text>
+      <register name="0" type="4">
+        <text>员工管理-</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -304,28 +255,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSB0aDpocmVmPSJAey9wdXJjaGFzZUNvbW1vZGl0eX0iPuWVhuWTgei0reS5sDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIHRoOmhyZWY9IkB7L3RyYW5zYWN0aW9uUmVjb3JkfSI+56ev5YiG6K6w5b2VPC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAnMjAxOC0wNC0xMycsCiAgICAgICAgJzUzNScsCiAgICAgICAgJ3NkaGZoc2RmJywKICAgICAgICAnJDJhJDEwJHcuamx0UGMyNGEvSUJuQlpDNC5TSi5KcldKMmdSMGg1ajRkNC9xZG4zY1Y0YndlMWJSQkxLJywKICAgICAgICAnMTIyMjIyMjIyJywKICAgICAgICAn55S3JywKICAgICAgICAn5q2j5bi4JywKICAgICAgICAnMScsCiAgICAgICAgJzEyMzQ1NTg5MkBxcS5jb20nLAogICAgICAgICcvYXNzZXRzL2ljb24vMDEuanBnJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">ICBLRVkgYEZLZjhkM21ld2hudDBpbmZlcGs3MHdtOXFqdWAgKGBtZW1iZXJfZ3JhZGVfaWRgKSwKICBDT05TVFJBSU5UIGBGS2Y4ZDNtZXdobnQwaW5mZXBrNzB3bTlxanVgIEZPUkVJR04gS0VZIChgbWVtYmVyX2dyYWRlX2lkYCkgUkVGRVJFTkNFUyBgbWVtYmVyX2dyYWRlYCAoYGlkYCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvbW1vZGl0eSB7Cg==</text>
+        <text encoding="base64">ICBgcGFzc3dvcmRgIHZhcmNoYXIoMjU1KSBkZWZhdWx0IE5VTEwsCiAgYHBob25lYCB2YXJjaGFyKDI1NSkgZGVmYXVsdCBOVUxMLAogIGBzZXhgIHZhcmNoYXIoMjU1KSBkZWZhdWx0IE5VTEwsCiAgYHN0YXRlYCBlbnVtKCflgZznlKgnLCfmjILlpLEnLCfmraPluLgnKSBkZWZhdWx0ICfmraPluLgnLAogIGBtZW1iZXJfZ3JhZGVfaWRgIGludCgxMSkgZGVmYXVsdCBOVUxMLAogIGBlbWFpbGAgdmFyY2hhcigyNTUpIGRlZmF1bHQgTlVMTCwKICBgaWNvbl9wYXRoYCB2YXJjaGFyKDI1NSkgZGVmYXVsdCBOVUxMLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5qih5p2/5byV5pOO77yM6buY6K6k5byA5ZCv57yT5a2YCuW8gOWPkeeahOaXtuWAme+8jOmcgOimgeWFs+mXreaooeadv+W8leaTjueahOe8k+WtmApzcHJpbmcudGh5bWVsZWFmLmNhY2hlPWZhbHNlIAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5ZyoYXBwbGljYXRpb24ucHJvcGVydGllc+S4remFjee9rgo=</text>
+        <text encoding="base64">ICBgYmFsYW5jZWAgZmxvYXQgZGVmYXVsdCBOVUxMLAogIGBiaXJ0aGRheWAgZGF0ZSBkZWZhdWx0IE5VTEwsCiAgYG1lbWJlcl9pbnRlZ3JhbGAgYmlnaW50KDIwKSBkZWZhdWx0ICcwJywK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
