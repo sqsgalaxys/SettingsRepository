@@ -37,6 +37,12 @@
       <file name="/hibernate_sequence [@m.n]" timestamp="1552134673050">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Member.java" timestamp="1552144273625">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" timestamp="1551587311994">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="10" column="31" />
@@ -121,12 +127,12 @@
       <file name="/Dummy.txt" timestamp="1541514009950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/common.html" timestamp="1551595764401">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/common.html" timestamp="1552145217520">
         <mark key="'" line="117" column="0" />
-        <mark key="[" line="108" column="26" />
-        <mark key="]" line="108" column="26" />
-        <mark key="." line="108" column="26" />
-        <mark key="^" line="116" column="6" />
+        <mark key="[" line="92" column="49" />
+        <mark key="]" line="92" column="49" />
+        <mark key="." line="92" column="49" />
+        <mark key="^" line="92" column="53" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/Server/modifyServer.html" timestamp="1551596058669">
         <mark key="'" line="9" column="6" />
@@ -198,10 +204,6 @@
         <mark key="]" line="57" column="76" />
         <mark key="^" line="57" column="76" />
         <mark key="." line="57" column="76" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/MemberGradeController.java" timestamp="1551596111666">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="11" />
       </file>
       <file name="/exchange_record [@m.n]" timestamp="1552134668202">
         <mark key="[" line="0" column="0" />
@@ -345,11 +347,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>in</text>
       </register>
       <register name="-" type="4">
-        <text>memberName</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRNZW1iZXJcPg==</text>
