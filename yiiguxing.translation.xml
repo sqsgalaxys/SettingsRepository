@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效期" />
       <item value="aggregated" />
       <item value="aggregation" />
       <item value="semaphore" />
