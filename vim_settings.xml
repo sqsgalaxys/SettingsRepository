@@ -63,7 +63,7 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="/member_grade [@m.n]" timestamp="1552224310982">
+      <file name="/member_grade [@m.n]" timestamp="1552226220682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/ServerController.java" timestamp="1551597453362">
@@ -73,16 +73,30 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1552224313662">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/memberGrade.html" timestamp="1552226169969">
+        <mark key="[" line="169" column="20" />
+      </file>
+      <file name="/dummy.sql" timestamp="1552226223147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/queryMember.html" timestamp="1552223656872" />
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/MemberController.java" timestamp="1552223415404">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/MemberDao.java" timestamp="1552224804849">
+        <mark key="[" line="25" column="62" />
+        <mark key="]" line="25" column="63" />
+        <mark key="." line="25" column="63" />
+        <mark key="^" line="25" column="59" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/queryMember.html" timestamp="1552225689502">
+        <mark key="[" line="209" column="36" />
+        <mark key="]" line="209" column="36" />
+        <mark key="." line="209" column="37" />
+        <mark key="^" line="209" column="36" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/MemberController.java" timestamp="1552226104372">
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="69" column="42" />
-        <mark key="]" line="69" column="50" />
-        <mark key="^" line="69" column="50" />
-        <mark key="." line="69" column="50" />
+        <mark key="[" line="110" column="16" />
+        <mark key="]" line="110" column="16" />
+        <mark key="^" line="107" column="41" />
+        <mark key="." line="110" column="16" />
       </file>
       <file name="/admin [@m.n]" timestamp="1552143019501">
         <mark key="[" line="0" column="0" />
@@ -120,17 +134,17 @@
       <file name="/member [@m.n]" timestamp="1552142991945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/MemberService.java" timestamp="1552224118499">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/MemberService.java" timestamp="1552224903528">
         <mark key="'" line="25" column="18" />
-        <mark key="[" line="45" column="56" />
-        <mark key="]" line="45" column="57" />
-        <mark key="^" line="45" column="57" />
-        <mark key="." line="45" column="57" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="41" />
       </file>
       <file name="/exchange_record [@m.n]" timestamp="1552134668202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/modifyMemberState.html" timestamp="1551594412208">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/modifyMemberState.html" timestamp="1552225946123">
         <mark key="[" line="155" column="17" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/integralExchange.html" timestamp="1551593862147">
@@ -143,8 +157,8 @@
       <file name="/commodity [@m.n]" timestamp="1552134954298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1551587994809">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1552226233042">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -263,20 +277,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEBPdmVycmlkZQogICAgLy8gcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIC8vICAgICByZXR1cm4gIk1lbWJlcnsiICsKICAgIC8vICAgICAgICAgICAgICJpZD0nIiArIGlkICsgJ1wnJyArCiAgICAvLyAgICAgICAgICAgICAiLCBpY29uUGF0aD0nIiArIGljb25QYXRoICsgJ1wnJyArCiAgICAvLyAgICAgICAgICAgICAiLCBtZW1iZXJOYW1lPSciICsgbWVtYmVyTmFtZSArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgcGFzc3dvcmQ9JyIgKyBwYXNzd29yZCArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgcGhvbmU9JyIgKyBwaG9uZSArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgYmlydGhkYXk9IiArIGJpcnRoZGF5ICsKICAgIC8vICAgICAgICAgICAgICIsIHNleD0nIiArIHNleCArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgbWVtYmVyR3JhZGU9IiArIG1lbWJlckdyYWRlICsKICAgIC8vICAgICAgICAgICAgICIsIG1lbWJlckludGVncmFsPSIgKyBtZW1iZXJJbnRlZ3JhbCArCiAgICAvLyAgICAgICAgICAgICAiLCBiYWxhbmNlPSIgKyBiYWxhbmNlICsKICAgIC8vICAgICAgICAgICAgICIsIHN0YXRlPSciICsgc3RhdGUgKyAnXCcnICsKICAgIC8vICAgICAgICAgICAgICd9JzsKICAgIC8vIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>modifyMemberState</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>modifyMemberState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVUaW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>finishTime</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIm1vZGlmeU1lbWJlclN0YXRlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEBPdmVycmlkZQogICAgLy8gcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIC8vICAgICByZXR1cm4gIk1lbWJlcnsiICsKICAgIC8vICAgICAgICAgICAgICJpZD0nIiArIGlkICsgJ1wnJyArCiAgICAvLyAgICAgICAgICAgICAiLCBpY29uUGF0aD0nIiArIGljb25QYXRoICsgJ1wnJyArCiAgICAvLyAgICAgICAgICAgICAiLCBtZW1iZXJOYW1lPSciICsgbWVtYmVyTmFtZSArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgcGFzc3dvcmQ9JyIgKyBwYXNzd29yZCArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgcGhvbmU9JyIgKyBwaG9uZSArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgYmlydGhkYXk9IiArIGJpcnRoZGF5ICsKICAgIC8vICAgICAgICAgICAgICIsIHNleD0nIiArIHNleCArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgbWVtYmVyR3JhZGU9IiArIG1lbWJlckdyYWRlICsKICAgIC8vICAgICAgICAgICAgICIsIG1lbWJlckludGVncmFsPSIgKyBtZW1iZXJJbnRlZ3JhbCArCiAgICAvLyAgICAgICAgICAgICAiLCBiYWxhbmNlPSIgKyBiYWxhbmNlICsKICAgIC8vICAgICAgICAgICAgICIsIHN0YXRlPSciICsgc3RhdGUgKyAnXCcnICsKICAgIC8vICAgICAgICAgICAgICd9JzsKICAgIC8vIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -290,28 +304,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGxhYmVsIGZvcj0iY29tbW9kaXR5SWQiPuWVhuWTgWlkPC9sYWJlbD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvYmoyID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbW1vZGl0eUludGVncmFsJykudmFsdWU7CiAgICAgICAgICAgICAgICB2YXIgb2JqMyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb21tb2RpdHlQcmljZScpLnZhbHVlOwogICAgICAgICAgICAgICAgdmFyIG9iajQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY29tbW9kaXR5TmFtZScpLnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChwYWdlTnVtKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNvbmZpcm1OdW1BbmRJbnRlZ3JhbCgpIHsKICAgICAgICB2YXIgcmVnID0gL15cZCskLzsKICAgICAgICB2YXIgb2JqMSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb21tb2RpdHlOdW1iZXInKTsKICAgICAgICB2YXIgb2JqMiA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb21tb2RpdHlJbnRlZ3JhbCcpOwogICAgICAgIGlmICghcmVnLnRlc3Qob2JqMS52YWx1ZSkpIHsKICAgICAgICAgICAgaWYgKG9iajEudmFsdWUgPT09ICcnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgb2JqMS5zZXRBdHRyaWJ1dGUoJ2NsYXNzJywgJ3ZhbGlkYXRlIGludmFsaWQnKTsKICAgICAgICAgICAgYWxlcnQoJ+i+k+WFpeeahOaVsOmHj+S4jeespuWQiOimgeaxgicpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGlmICghcmVnLnRlc3Qob2JqMi52YWx1ZSkpIHsKICAgICAgICAgICAgaWYgKG9iajIudmFsdWUgPT09ICcnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgb2JqMi5zZXRBdHRyaWJ1dGUoJ2NsYXNzJywgJ3ZhbGlkYXRlIGludmFsaWQnKTsKICAgICAgICAgICAgYWxlcnQoJ+i+k+WFpeeahOenr+WIhuS4jeespuWQiOimgeaxgicpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOwogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIG9uZmlybVByaWNlKCkgewogICAgICAgIHZhciByZWcgPSAvKF5bMS05XShbMC05XSspPyhcLlswLTldezEsMn0pPyQpfCheKDApezF9JCl8KF5bMC05XVwuWzAtOV0oWzAtOV0pPyQpLzsKICAgICAgICB2YXIgb2JqID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbW1vZGl0eVByaWNlJyk7CiAgICAgICAgaWYgKCFyZWcudGVzdChvYmoudmFsdWUpKSB7CiAgICAgICAgICAgIG9iai5zZXRBdHRyaWJ1dGUoJ2NsYXNzJywgJ3ZhbGlkYXRlIGludmFsaWQnKTsKICAgICAgICAgICAgYWxlcnQoJ+i+k+WFpeeahOS7t+agvOS4jeespuWQiOimgeaxgicpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1lbWJlclNlcnZpY2UuZmluZE1lbWJlcnMoY3VycmVudFBhZ2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08L2Rpdj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iaW5wdXQtZmllbGQgY29sIHM2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iY29tbW9kaXR5SW50ZWdyYWwiIG9uYmx1cj0iY29uZmlybU51bUFuZEludGVncmFsKCkiIG5hbWU9ImNvbW1vZGl0eUludGVncmFsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiIGNsYXNzPSJ2YWxpZGF0ZSIgcGxhY2Vob2xkZXI9Iui0reS5sOWQjuWPr+iOt+WPluWVhuWTgeenr+WIhiIgcmVxdWlyZWQvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iY29tbW9kaXR5SW50ZWdyYWwiPui0reS5sOWQjuWPr+iOt+WPluWVhuWTgeenr+WIhjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIEBPdmVycmlkZQogICAgLy8gcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIC8vICAgICByZXR1cm4gIk1lbWJlcnsiICsKICAgIC8vICAgICAgICAgICAgICJpZD0nIiArIGlkICsgJ1wnJyArCiAgICAvLyAgICAgICAgICAgICAiLCBpY29uUGF0aD0nIiArIGljb25QYXRoICsgJ1wnJyArCiAgICAvLyAgICAgICAgICAgICAiLCBtZW1iZXJOYW1lPSciICsgbWVtYmVyTmFtZSArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgcGFzc3dvcmQ9JyIgKyBwYXNzd29yZCArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgcGhvbmU9JyIgKyBwaG9uZSArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgYmlydGhkYXk9IiArIGJpcnRoZGF5ICsKICAgIC8vICAgICAgICAgICAgICIsIHNleD0nIiArIHNleCArICdcJycgKwogICAgLy8gICAgICAgICAgICAgIiwgbWVtYmVyR3JhZGU9IiArIG1lbWJlckdyYWRlICsKICAgIC8vICAgICAgICAgICAgICIsIG1lbWJlckludGVncmFsPSIgKyBtZW1iZXJJbnRlZ3JhbCArCiAgICAvLyAgICAgICAgICAgICAiLCBiYWxhbmNlPSIgKyBiYWxhbmNlICsKICAgIC8vICAgICAgICAgICAgICIsIHN0YXRlPSciICsgc3RhdGUgKyAnXCcnICsKICAgIC8vICAgICAgICAgICAgICd9JzsKICAgIC8vIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxkaXYgY2xhc3M9ImNvbnRhaW5lciI+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -328,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>h2</entry>
         <entry>score</entry>
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry>ali</entry>
