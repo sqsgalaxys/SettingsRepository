@@ -37,12 +37,6 @@
       <file name="/hibernate_sequence [@m.n]" timestamp="1552134673050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Member.java" timestamp="1552144273625">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Server.java" timestamp="1551587311994">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="10" column="31" />
@@ -412,8 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ver</entry>
-        <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
         <entry>h2</entry>
         <entry>score</entry>
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
