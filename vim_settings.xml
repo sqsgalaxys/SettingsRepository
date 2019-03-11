@@ -61,11 +61,11 @@
         <mark key="." line="17" column="63" />
         <mark key="^" line="17" column="63" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/test/java/cn/lger/util/TestDateRandom.java" timestamp="1552314212622">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="28" column="10" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/test/java/cn/lger/util/TestDateRandom.java" timestamp="1552315446583">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/queryMember.html" timestamp="1552311504351">
         <mark key="[" line="209" column="36" />
@@ -346,10 +346,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2019-11-10</text>
+        <text>02</text>
       </register>
       <register name="-" type="4">
-        <text>2019-11-10</text>
+        <text>02</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwXD4=</text>
