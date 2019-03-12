@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/statistical.html" timestamp="1552410465746" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/test/java/cn/lger/dao/TestMemberDao.java" timestamp="1552311033069">
         <mark key="[" line="77" column="38" />
         <mark key="]" line="77" column="38" />
@@ -41,11 +42,11 @@
       <file name="/member_grade [@m.n]" timestamp="1552307544573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/MemberDao.java" timestamp="1552310951532">
-        <mark key="[" line="17" column="57" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/MemberDao.java" timestamp="1552408790360">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/test/java/cn/lger/util/TestDateRandom.java" timestamp="1552318122182">
         <mark key="[" line="27" column="34" />
@@ -60,12 +61,12 @@
         <mark key="." line="80" column="115" />
         <mark key="^" line="206" column="71" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/MemberController.java" timestamp="1552407696228">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/MemberController.java" timestamp="1552408659863">
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="110" column="74" />
-        <mark key="]" line="110" column="92" />
-        <mark key="^" line="110" column="92" />
-        <mark key="." line="110" column="92" />
+        <mark key="[" line="118" column="52" />
+        <mark key="]" line="118" column="56" />
+        <mark key="^" line="118" column="56" />
+        <mark key="." line="118" column="56" />
       </file>
       <file name="/admin [@m.n]" timestamp="1552143019501">
         <mark key="[" line="0" column="0" />
@@ -100,21 +101,21 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/ServerDao.java" timestamp="1552310936207">
-        <mark key="[" line="16" column="57" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
-        <mark key="^" line="16" column="63" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/ServerDao.java" timestamp="1552410627759">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="/member [@m.n]" timestamp="1552407187874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/MemberService.java" timestamp="1552321845677">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/MemberService.java" timestamp="1552408726408">
         <mark key="'" line="25" column="18" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="29" column="39" />
-        <mark key="^" line="29" column="39" />
+        <mark key="[" line="65" column="40" />
+        <mark key="]" line="65" column="44" />
+        <mark key="." line="65" column="44" />
+        <mark key="^" line="65" column="44" />
       </file>
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
@@ -131,11 +132,11 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/transactionRecord.html" timestamp="1552408045898">
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="67" column="19" />
-        <mark key="^" line="67" column="19" />
-        <mark key="." line="67" column="19" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/transactionRecord.html" timestamp="1552410416063">
+        <mark key="[" line="114" column="43" />
+        <mark key="]" line="114" column="36" />
+        <mark key="." line="114" column="36" />
+        <mark key="^" line="114" column="36" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/timer/Scheduler.java" timestamp="1552323499114">
         <mark key="[" line="45" column="0" />
@@ -158,12 +159,12 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/TransactionRecordService.java" timestamp="1552224084385">
         <mark key="[" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" timestamp="1552308288224">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" timestamp="1552411325345">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
+        <mark key="[" line="94" column="18" />
+        <mark key="]" line="94" column="18" />
+        <mark key="^" line="94" column="18" />
+        <mark key="." line="94" column="18" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/ServerController.java" timestamp="1552321183762">
         <mark key="'" line="17" column="22" />
@@ -205,6 +206,12 @@
       </file>
       <file name="/transaction_record [@m.n]" timestamp="1552307933406">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/ServerSum.java" timestamp="1552410592376">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/MembershipApplication.java" timestamp="1552321483640">
         <mark key="[" line="14" column="36" />
@@ -354,20 +361,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSZndDvllYblk4Hku7fmoLwtLT4K</text>
+      <register name="&quot;" type="4">
+        <text>YEAR</text>
       </register>
       <register name="-" type="4">
-        <text>购买记录</text>
+        <text>YEAR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hfcGhvbmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPuWVhuWTgeS7t+agvAo=</text>
+        <text encoding="base64">ICAgICAgIEFORCBZRUFSKHQudHJhbnNhY3Rpb25fZGF0ZXRpbWUpID0gWUVBUihDVVJSRU5UX0RBVEUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSZndDvllYblk4Hku7fmoLwtLT4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,29 +387,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS08bmF2IGNsYXNzPSJuYXZiYXItZGVmYXVsdCBuYXZiYXItc2lkZSIgcm9sZT0ibmF2aWdhdGlvbiI+LS0+CiAgICAgICAgPCEtLTxkaXYgY2xhc3M9InNpZGViYXItY29sbGFwc2UiPi0tPgogICAgICAgICAgICA8IS0tPHVsIGNsYXNzPSJuYXYiIGlkPSJtYWluLW1lbnUiPi0tPgoKICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTxhIGNsYXNzPSJ3YXZlcy1lZmZlY3Qgd2F2ZXMtZGFyayIgdGg6aHJlZj0iQHsvfSI+PGkgY2xhc3M9ImZhIGZhLWRhc2hib2FyZCI+PC9pPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0t6aaW6aG1PC9hPi0tPgogICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+CiAgICAgICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g75Lya5ZGY566h55CG5qCPJm5kYXNoOyZndDstLT4KICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIgY2xhc3M9IndhdmVzLWVmZmVjdCB3YXZlcy1kYXJrIj48aSBjbGFzcz0iZmEgZmEtdXNlciI+PC9pPuS8muWRmOeuoeeQhjxzcGFuLS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tY2xhc3M9ImZhIGFycm93Ij48L3NwYW4+PC9hPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08dWwgY2xhc3M9Im5hdiBuYXYtc2Vjb25kLWxldmVsIj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSB0aDpocmVmPSJAey9hZGRNZW1iZXJ9Ij7mt7vliqDkvJrlkZg8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxhIHRoOmhyZWY9IkB7L3F1ZXJ5TWVtYmVyfSI+5p+l6K+i5Lya5ZGYPC9hPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSB0aDpocmVmPSJAey9tZW1iZXJHcmFkZX0iPuS8muWRmOexu+WIqzwvYT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvbW9kaWZ5TWVtYmVyU3RhdGV9Ij7kvJrlkZjnirbmgIHkv67mlLk8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgoKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj7kvJrlkZjmtojotLk8c3BhbiBjbGFzcz0iZmEgYXJyb3ciPjwvc3Bhbj48L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPHVsIGNsYXNzPSJuYXYgbmF2LXRoaXJkLWxldmVsIiBhcmlhLWV4cGFuZGVkPSJ0cnVlIj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvaW50ZWdyYWxFeGNoYW5nZX0iPuenr+WIhuWFkeaNojwvYT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvYmFsYW5jZVJlY2hhcmdlfSI+5L2Z6aKd5YWF5YC8PC9hPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvdWw+LS0+CgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvZGVsZXRlTWVtYmVyfSI+5Lya5ZGY5rOo6ZSAPC9hPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPC91bD4tLT4KICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgogICAgICAgICAgICAgICAgPCEtLSZsdDshJm5kYXNoO+ekvOWTgeagjyZuZGFzaDsmZ3Q7LS0+CiAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCkiIGNsYXNzPSJ3YXZlcy1lZmZlY3Qgd2F2ZXMtZGFyayI+PGkgY2xhc3M9ImZhIGZhLWdpZnQiPjwvaT7npLzlk4HmtojotLk8c3Bhbi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNsYXNzPSJmYSBhcnJvdyI+PC9zcGFuPjwvYT4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPHVsIGNsYXNzPSJuYXYgbmF2LXNlY29uZC1sZXZlbCI+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvc2V0R2lmdH0iPuekvOWTgeiuvue9rjwvYT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+CgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxhIHRoOmhyZWY9IkB7L21vZGlmeUdpZnROdW1iZXJ9Ij7mlbDph4/kv67mlLk8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgoKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSB0aDpocmVmPSJAey9leGNoYW5nZVJlY29yZH0iPuWFkeaNouiusOW9lTwvYT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTwvdWw+LS0+CiAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KICAgICAgICAgICAgICAgIDwhLS0mbHQ7ISZuZGFzaDvllYblk4HmtojotLkmbmRhc2g7Jmd0Oy0tPgogICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApIiBjbGFzcz0id2F2ZXMtZWZmZWN0IHdhdmVzLWRhcmsiPjxpIGNsYXNzPSJmYSBmYS15ZW4iPjwvaT7llYblk4HmtojotLk8c3Bhbi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNsYXNzPSJmYSBhcnJvdyI+PC9zcGFuPjwvYT4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPHVsIGNsYXNzPSJuYXYgbmF2LXNlY29uZC1sZXZlbCI+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvYWRkQ29tbW9kaXR5fSI+5re75Yqg5ZWG5ZOBPC9hPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvbW9kaWZ5Q29tbW9kaXR5fSI+5ZWG5ZOB5L+u5pS5PC9hPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGEgdGg6aHJlZj0iQHsvcHVyY2hhc2VDb21tb2RpdHl9Ij7llYblk4HotK3kubA8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2xpPi0tPgoKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSB0aDpocmVmPSJAey90cmFuc2FjdGlvblJlY29yZH0iPuenr+WIhuiusOW9lTwvYT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTwvdWw+LS0+CiAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KCiAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08YSBjbGFzcz0id2F2ZXMtZWZmZWN0IHdhdmVzLWRhcmsiIHRoOmhyZWY9IkB7L2JpcnRoZGF5V2FybmluZ30iPjxpIGNsYXNzPSJmYSBmYS1iaXJ0aGRheS1jYWtlIj48L2k+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS3nlJ/ml6Xmj5DphpI8L2E+LS0+CiAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KCiAgICAgICAgICAgICAgICA8IS0tPGxpPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08YSBjbGFzcz0iYWN0aXZlLW1lbnUgd2F2ZXMtZWZmZWN0IHdhdmVzLWRhcmsiIHRoOmhyZWY9IkB7L2ludGVncmFsTG90dGVyeX0iPjxpIGNsYXNzPSJmYSBmYS1zdGFyIj48L2k+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS3np6/liIbmir3lpZY8L2E+LS0+CiAgICAgICAgICAgICAgICA8IS0tPC9saT4tLT4KICAgICAgICAgICAgPCEtLTwvdWw+LS0+CgogICAgICAgIDwhLS08L2Rpdj4tLT4KCiAgICA8IS0tPC9uYXY+LS0+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgam9pbiAoCgoKCgogICAgICAgICAp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHMgPSBjb250ZW50LnRyYW5zYWN0aW9uRGF0ZXRpbWUucmVwbGFjZSgvXEQvZywgIiAiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFtLmdldFZhbGlkaXR5UGVyaW9kKCkuZXF1YWxzKHNob3VsZCkpIHsKICAgICAgICAgICAgICAgIG0uc2V0VmFsaWRpdHlQZXJpb2Qoc2hvdWxkKTsKICAgICAgICAgICAgICAgIG1lbWJlckRhby5zYXZlKG0pOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsLmFkZChtLmdldEVtYWlsKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG0uZ2V0TG9jYWxEYXRlKCkuZ2V0TW9udGhWYWx1ZSgpID09IG1vbnRoICYmIG0uZ2V0TG9jYWxEYXRlKCkuZ2V0RGF5T2ZNb250aCgpID09IGRheSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNhY3Rpb25SZWNvcmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVtYmVyRGFvLnNhdmUobSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJAQEBAICIgKyAibWVtYmVyTmFtZSBpcyBlbXB0eSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
