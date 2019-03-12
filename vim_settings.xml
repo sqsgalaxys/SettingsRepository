@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/statistical.html" timestamp="1552410465746" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/statistical.html" timestamp="1552412483784">
+        <mark key="[" line="94" column="41" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/test/java/cn/lger/dao/TestMemberDao.java" timestamp="1552311033069">
         <mark key="[" line="77" column="38" />
         <mark key="]" line="77" column="38" />
@@ -101,11 +106,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/ServerDao.java" timestamp="1552410627759">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/ServerDao.java" timestamp="1552412417427">
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="43" />
+        <mark key="." line="71" column="31" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="/member [@m.n]" timestamp="1552407187874">
         <mark key="[" line="0" column="0" />
@@ -159,14 +164,14 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/TransactionRecordService.java" timestamp="1552224084385">
         <mark key="[" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" timestamp="1552411325345">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" timestamp="1552412323953">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="18" />
-        <mark key="^" line="94" column="18" />
-        <mark key="." line="94" column="18" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="19" />
+        <mark key="^" line="158" column="17" />
+        <mark key="." line="158" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/ServerController.java" timestamp="1552321183762">
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/ServerController.java" timestamp="1552412445846">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="98" column="56" />
         <mark key="]" line="98" column="57" />
@@ -207,8 +212,8 @@
       <file name="/transaction_record [@m.n]" timestamp="1552307933406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/ServerSum.java" timestamp="1552410592376">
-        <mark key="[" line="15" column="24" />
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/ServerSum.java" timestamp="1552412427105">
+        <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
@@ -362,16 +367,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>YEAR</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>YEAR</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hfcGhvbmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIEFORCBZRUFSKHQudHJhbnNhY3Rpb25fZGF0ZXRpbWUpID0gWUVBUihDVVJSRU5UX0RBVEUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICc8dGQ+JyArIGNvbnRlbnQuc25hbWUgKyAnPC90ZD4nICsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgCg==</text>
