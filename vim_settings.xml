@@ -12,6 +12,7 @@
         <mark key="." line="213" column="19" />
         <mark key="^" line="213" column="19" />
       </file>
+      <file name="/MemberController.java" timestamp="1552504729496" />
       <file name="/db_membership.server [@m.n]" timestamp="1552311238212">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,6 +120,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/commodity [@m.n]" timestamp="1552311211417">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,7 +204,7 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552501755947">
+      <file name="/Dummy.txt" timestamp="1552504214528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/exception/MemberRemainCountNotEnoughException.java" timestamp="1552319411798">
