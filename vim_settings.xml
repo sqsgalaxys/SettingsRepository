@@ -21,6 +21,13 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" timestamp="1558166438628">
+        <mark key="'" line="87" column="53" />
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="33" />
+        <mark key="." line="89" column="33" />
+        <mark key="^" line="89" column="33" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/addServer.html" timestamp="1552320868763">
         <mark key="[" line="131" column="60" />
         <mark key="]" line="131" column="69" />
@@ -255,23 +262,18 @@
         <mark key="." line="57" column="39" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" timestamp="1558162163987">
+      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" timestamp="1558165405291">
         <mark key="'" line="14" column="39" />
-        <mark key="[" line="22" column="70" />
-        <mark key="]" line="22" column="70" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="58" />
         <mark key="^" line="21" column="18" />
         <mark key="." line="22" column="70" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1552488938768">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
-      <jump line="111" column="53" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="116" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="117" column="52" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="284" column="30" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
@@ -370,6 +372,8 @@
       <jump line="325" column="14" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
       <jump line="15" column="6" filename="$USER_HOME$/Downloads/microstore_no_git/microstore_no_git/src/main/resources/application.properties" />
       <jump line="12" column="39" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" />
+      <jump line="26" column="36" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" />
+      <jump line="87" column="53" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -386,19 +390,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, &quot;s&quot;, &quot;d&quot;, &quot;f&quot;, &quot;g&quot;, &quot;z&quot;, &quot;x&quot;, &quot;c&quot;, &quot;v&quot;, &quot;b&quot;</text>
+        <text>word</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;s&quot;, &quot;d&quot;, &quot;f&quot;, &quot;g&quot;, &quot;z&quot;, &quot;x&quot;, &quot;c&quot;, &quot;v&quot;, &quot;b&quot;</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaXJ0aGRheVw+</text>
+        <text>b_strings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0gbmV3IFN0cmluZ1tdeyJxIiwgInciLCAiZSIsICJyIiwgInQiLCAiYSIsICJzIiwgImQiLCAiZiIsICJnIiwgInoiLCAieCIsICJjIiwgInYiLCAiYiJ9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5hc0xpc3QocmVzdWx0TGlzdCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXliYXRpcy5tYXBwZXJMb2NhdGlvbnM9Y2xhc3NwYXRoOm1hcHBlcnMvKk1hcHBlci54bWwgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -412,39 +416,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXliYXRpcy5tYXBwZXJMb2NhdGlvbnM9Y2xhc3NwYXRoOm1hcHBlcnMvKk1hcHBlci54bWwgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VFJVTkNBVEUgdGFibGUgJHRhYmxlX25hbWU7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">U0VUIEZPUkVJR05fS0VZX0NIRUNLUyA9IDE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpvaW5lZFN0cmluZyA9IDsK</text>
+      </register>
+      <register name="5" type="4">
+        <text>ing = ;
+
+            out.write(Stri</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChyZToKICAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbmV3TGlzdC5hZGRBbGwocmVzdWx0TGlzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIC8vICQoaW5mby5jaGlsZHJlbigpWzBdKS50ZXh0KG1lbWJlcklkKTsgICAgIC8vIOS8muWRmGlkCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbMV0pLnRleHQobWVtYmVyTmFtZSk7ICAgLy8g5Lya5ZGY5ZCN56ewCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbMl0pLnRleHQobWVtYmVyUGhvbmUpOyAgLy8g6IGU57O755S16K+dCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbM10pLnRleHQobW9udGhBZ2UpOyAgICAgLy8g5pyI6b6ECiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbNF0pLnRleHQoY3JlYXRlVGltZSk7ICAgLy8g55Sf5pWI5pel5pyfCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbNV0pLnRleHQoZmluaXNoVGltZSk7ICAgLy8g5aSx5pWI5pel5pyfCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbOF0pLnRleHQoc2V4KTsgICAgICAgICAgLy8g5oCn5YirCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbMTJdKS50ZXh0KG5pY2tOYW1lKTsgICAgLy8g5Lya5ZGY5bCP5ZCNCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbMTBdKS50ZXh0KHBhcmVudE5hbWUpOyAgLy8g5a626ZW/5aeT5ZCNCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbMTFdKS50ZXh0KGJpcnRoZGF5KTsgICAgLy8g5Lya5ZGY55Sf5pelCiAgICAgICAgLy8gJChpbmZvLmNoaWxkcmVuKClbMTNdKS50ZXh0KHJlbWFpbkNvdW50KTsgLy8g5Ymp5L2Z5qyh5pWwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3TGlzdC5hZGRBbGwoQXJyYXlzLmFzTGlzdChyZXN1bHRMaXN0KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text encoding="base64">JzwsJz5zL2Jfc3RyaW5ncy9zX3N0cmluZ3MvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaXJ0aGRheVw+</last-search>
+      <last-search>b_strings</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaXJ0aGRheVw+</last-pattern>
-      <last-replace>b</last-replace>
-      <last-substitute>a</last-substitute>
+      <last-pattern>b_strings</last-pattern>
+      <last-replace>s_strings</last-replace>
+      <last-substitute>b_strings</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -470,6 +476,7 @@
         <entry encoding="base64">XDx3b21hblw+</entry>
         <entry encoding="base64">XDxzZXhcPg==</entry>
         <entry encoding="base64">XDxiaXJ0aGRheVw+</entry>
+        <entry>b_strings</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
@@ -492,6 +499,9 @@
         <entry>8</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgQSAvLw==</entry>
         <entry>action Find</entry>
+        <entry>30</entry>
+        <entry encoding="base64">JzwsJz5zL2Jfc3RyaW5ncy9zX3N0cmluZ3MvZw==</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwgSXN0YXRpYw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
