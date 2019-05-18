@@ -181,7 +181,6 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/setGift.html" timestamp="1551594447587">
         <mark key="[" line="154" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/microstore_no_git/microstore_no_git/src/main/java/com/guojingold/microstore/controller/AdminController.java" timestamp="1552671926725" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" timestamp="1552501700161">
         <mark key="'" line="325" column="14" />
         <mark key="[" line="322" column="9" />
@@ -214,7 +213,6 @@
       <file name="/Dummy.txt" timestamp="1552504214528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/microstore_no_git/microstore_no_git/src/main/java/com/guojingold/microstore/config/SwaggerConfig.java" timestamp="1552671886650" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/exception/MemberRemainCountNotEnoughException.java" timestamp="1552319411798">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="20" />
@@ -257,6 +255,13 @@
         <mark key="." line="57" column="39" />
         <mark key="^" line="57" column="39" />
       </file>
+      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" timestamp="1558162163987">
+        <mark key="'" line="14" column="39" />
+        <mark key="[" line="22" column="70" />
+        <mark key="]" line="22" column="70" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="22" column="70" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
       </file>
@@ -265,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="52" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="110" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="111" column="53" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="116" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
@@ -365,6 +369,7 @@
       <jump line="26" column="22" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Member.java" />
       <jump line="325" column="14" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
       <jump line="15" column="6" filename="$USER_HOME$/Downloads/microstore_no_git/microstore_no_git/src/main/resources/application.properties" />
+      <jump line="12" column="39" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -381,16 +386,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>gj_micro_store</text>
+        <text>, &quot;s&quot;, &quot;d&quot;, &quot;f&quot;, &quot;g&quot;, &quot;z&quot;, &quot;x&quot;, &quot;c&quot;, &quot;v&quot;, &quot;b&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>, &quot;s&quot;, &quot;d&quot;, &quot;f&quot;, &quot;g&quot;, &quot;z&quot;, &quot;x&quot;, &quot;c&quot;, &quot;v&quot;, &quot;b&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaXJ0aGRheVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>gj_micro_store</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0gbmV3IFN0cmluZ1tdeyJxIiwgInciLCAiZSIsICJyIiwgInQiLCAiYSIsICJzIiwgImQiLCAiZiIsICJnIiwgInoiLCAieCIsICJjIiwgInYiLCAiYiJ9Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bXliYXRpcy5tYXBwZXJMb2NhdGlvbnM9Y2xhc3NwYXRoOm1hcHBlcnMvKk1hcHBlci54bWwgICAK</text>
