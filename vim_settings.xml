@@ -21,12 +21,11 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" timestamp="1558166438628">
-        <mark key="'" line="87" column="53" />
-        <mark key="[" line="89" column="22" />
-        <mark key="]" line="89" column="33" />
-        <mark key="." line="89" column="33" />
-        <mark key="^" line="89" column="33" />
+      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" timestamp="1558229768620">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/addServer.html" timestamp="1552320868763">
         <mark key="[" line="131" column="60" />
@@ -262,19 +261,18 @@
         <mark key="." line="57" column="39" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" timestamp="1558165405291">
-        <mark key="'" line="14" column="39" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="58" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="22" column="70" />
+      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" timestamp="1558229749851">
+        <mark key="'" line="23" column="59" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="75" />
+        <mark key="^" line="23" column="69" />
+        <mark key="." line="23" column="69" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="21" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="117" column="52" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="284" column="30" filename="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" />
       <jump line="61" column="19" filename="$USER_HOME$/Downloads/OneDrive/Java-Interview/src/main/java/com/sqsgalaxys/java/zk/JavaApiSample.java" />
@@ -374,6 +372,7 @@
       <jump line="12" column="39" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" />
       <jump line="26" column="36" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" />
       <jump line="87" column="53" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Main.java" />
+      <jump line="23" column="59" filename="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/MathTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,17 +388,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>word</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzX3N0cmluZ3MgPSBuZXcgU3RyaW5nW117InEiLCAidyIsICJlIiwgInExIiwgIncxIiwgImUxIn07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>word</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>b_strings</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5hc0xpc3QocmVzdWx0TGlzdCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzX3N0cmluZ3MgPSBuZXcgU3RyaW5nW117InEiLCAidyIsICJlIiwgInExIiwgIncxIiwgImUxIn07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -442,21 +441,20 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3TGlzdC5hZGRBbGwoQXJyYXlzLmFzTGlzdChyZXN1bHRMaXN0KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2Jfc3RyaW5ncy9zX3N0cmluZ3MvZw==</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>b_strings</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>b_strings</last-pattern>
-      <last-replace>s_strings</last-replace>
-      <last-substitute>b_strings</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>source</entry>
         <entry>a</entry>
         <entry encoding="base64">XDxBZ2dyZWdhdGVTdGF0ZVw+</entry>
         <entry encoding="base64">XDxEYXRlXD4=</entry>
@@ -477,11 +475,9 @@
         <entry encoding="base64">XDxzZXhcPg==</entry>
         <entry encoding="base64">XDxiaXJ0aGRheVw+</entry>
         <entry>b_strings</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3RBcHBBY3Rpdml0eUxvZy93b3JrL2c=</entry>
-        <entry>53t.</entry>
         <entry encoding="base64">JzwsJz5zY29yZS91c2VyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Njb3JlL3VzZXIvZw==</entry>
         <entry>e</entry>
@@ -502,6 +498,7 @@
         <entry>30</entry>
         <entry encoding="base64">JzwsJz5zL2Jfc3RyaW5ncy9zX3N0cmluZ3MvZw==</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgSXN0YXRpYw==</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
