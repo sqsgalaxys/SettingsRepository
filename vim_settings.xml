@@ -241,6 +241,12 @@
       <file name="/ssum [@m.n]" timestamp="1552497619187">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Combination.java" timestamp="1558233141924">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/MembershipApplication.java" timestamp="1552321483640">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="15" column="3" />
@@ -393,7 +399,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzX3N0cmluZ3MgPSBuZXcgU3RyaW5nW117InEiLCAidyIsICJlIiwgInExIiwgIncxIiwgImUxIn07Cg==</text>
+        <text encoding="base64">ICAgIGFkYyA6IAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -405,7 +411,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzX3N0cmluZ3MgPSBuZXcgU3RyaW5nW117InEiLCAidyIsICJlIiwgInExIiwgIncxIiwgImUxIn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkYyA6IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,30 +425,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpvaW5lZFN0cmluZyA9IDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ing = ;
 
             out.write(Stri</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChyZToKICAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbmV3TGlzdC5hZGRBbGwocmVzdWx0TGlzdCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3TGlzdC5hZGRBbGwoQXJyYXlzLmFzTGlzdChyZXN1bHRMaXN0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbmV3TGlzdC5hZGRBbGwocmVzdWx0TGlzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
