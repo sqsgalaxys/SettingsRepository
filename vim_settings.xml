@@ -149,9 +149,11 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559359282173">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="27" column="13" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559360724619">
+        <mark key="[" line="178" column="28" />
+        <mark key="]" line="178" column="28" />
+        <mark key="^" line="174" column="12" />
+        <mark key="." line="178" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -184,7 +186,7 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1559359323310">
+      <file name="/Python Console" timestamp="1559360730032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559357785719">
@@ -442,16 +444,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Record</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Record</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBmcm9tIC5SZWNvcmQgaW1wb3J0IFJlY29yZCAgIyBmcm9tIC4gcHl0aG9uIOaooeWdl+acuuWItgo=</text>
+      <register name="0" type="4">
+        <text>all_date_time[0]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
