@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/TODO.md" timestamp="1552501024726">
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_class/Record.py" timestamp="1559362246391" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/statistical.html" timestamp="1552501311566">
         <mark key="[" line="212" column="24" />
         <mark key="]" line="213" column="19" />
@@ -150,12 +149,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559366992688">
-        <mark key="'" line="201" column="32" />
-        <mark key="[" line="158" column="43" />
-        <mark key="]" line="158" column="81" />
-        <mark key="." line="158" column="81" />
-        <mark key="^" line="158" column="81" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559405613424">
+        <mark key="'" line="205" column="32" />
+        <mark key="[" line="195" column="37" />
+        <mark key="]" line="196" column="7" />
+        <mark key="." line="196" column="7" />
+        <mark key="^" line="196" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -194,7 +193,6 @@
       <file name="/fragment.py" timestamp="1559357785719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126/_csv.py" timestamp="1559356546577" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/TransactionRecordDao.java" timestamp="1552489380701">
         <mark key="[" line="18" column="65" />
         <mark key="]" line="18" column="71" />
@@ -446,19 +444,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>not</text>
+        <text>record.type == '场内基金'</text>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUoZmlsZV9uYW1lKToK</text>
+      <register name="0" type="4">
+        <text>record.type == '场内基金'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpbGVfbmFtZSArICJzYXZlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -472,28 +470,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBvcGVuKGZpbGVfbmFtZSwgJ3cnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUud3JpdGUoY29udGVudCkKICAgIGZpbGUuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZpbGVfbmFtZSArICJzYXZlZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBvcGVuKGZpbGVfbmFtZSwgJ3cnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaCA9IG9wZW4oInRlc3RmaWxlIiwgInciKQogICAgICAgIGZoLndyaXRlKCLov5nmmK/kuIDkuKrmtYvor5Xmlofku7bvvIznlKjkuo7mtYvor5XlvILluLghISIpCg==</text>
+        <text encoding="base64">ICAgIGZpbGUud3JpdGUoY29udGVudCkKICAgIGZpbGUuY2xvc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBmaC5jbG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSByZXF1ZXN0cy5nZXQoZ2V0VXJsKGNvZGUpKS5jb250ZW50LmRlY29kZSgndXRmLTgtc2lnJykK</text>
+        <text encoding="base64">ICAgICAgICBmaCA9IG9wZW4oInRlc3RmaWxlIiwgInciKQogICAgICAgIGZoLndyaXRlKCLov5nmmK/kuIDkuKrmtYvor5Xmlofku7bvvIznlKjkuo7mtYvor5XlvILluLghISIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQgPSByZXF1ZXN0cy5nZXQoZ2V0VXJsKGNvZGUpKS5jb250ZW50LmRlY29kZSgndXRmLTgtc2lnJykK</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
@@ -510,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZ2dyZWdhdGVTdGF0ZVw+</entry>
         <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxNZW1iZXJOdW1iZXJSYW5kb21VdGlsXD4=</entry>
         <entry encoding="base64">XDzllYblk4HotK3kubBcPg==</entry>
@@ -533,7 +530,6 @@
         <entry encoding="base64">XDxSZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Njb3JlL3VzZXIvZw==</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQvZw==</entry>
         <entry>sort u</entry>
