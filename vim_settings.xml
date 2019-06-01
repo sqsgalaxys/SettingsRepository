@@ -149,11 +149,9 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559356834265">
-        <mark key="[" line="175" column="17" />
-        <mark key="]" line="175" column="20" />
-        <mark key="." line="175" column="20" />
-        <mark key="^" line="175" column="20" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559359282173">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -186,10 +184,10 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1559351613770">
+      <file name="/Python Console" timestamp="1559359323310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1559348523796">
+      <file name="/fragment.py" timestamp="1559357785719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126/_csv.py" timestamp="1559356546577" />
@@ -328,8 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" />
-      <jump line="25" column="20" filename="$USER_HOME$/Downloads/MiArchetypeJunit4/pom.xml" />
       <jump line="8" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Main.java" />
       <jump line="7" column="7" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
@@ -428,6 +424,8 @@
       <jump line="10" column="21" filename="43e0d429-c9cd-43e4-9144-ab2ae6df525b/schema/main/table/me_fund.sql" />
       <jump line="6" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/Record.py" />
       <jump line="1" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/Record.py" />
+      <jump line="170" column="15" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
+      <jump line="24" column="6" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -443,20 +441,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFycmF5c2l6ZSA9IHByb3BlcnR5KGxhbWJkYSBzZWxmOiBvYmplY3QoKSwgbGFtYmRhIHNlbGYsIHY6IE5vbmUsIGxhbWJkYSBzZWxmOiBOb25lKSAgIyBkZWZhdWx0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Record</text>
       </register>
       <register name="-" type="4">
-        <text>emp1</text>
+        <text>Record</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFycmF5c2l6ZSA9IHByb3BlcnR5KGxhbWJkYSBzZWxmOiBvYmplY3QoKSwgbGFtYmRhIHNlbGYsIHY6IE5vbmUsIGxhbWJkYSBzZWxmOiBOb25lKSAgIyBkZWZhdWx0Cg==</text>
+        <text encoding="base64">IyBmcm9tIC5SZWNvcmQgaW1wb3J0IFJlY29yZCAgIyBmcm9tIC4gcHl0aG9uIOaooeWdl+acuuWItgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbXAxID0gRW1wbG95ZWUoIlphcmEiLCAyMDAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -473,37 +471,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRbMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbXAxID0gRW1wbG95ZWUoIlphcmEiLCAyMDAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICfmk43kvZzorrDlvZUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVtcENvdW50ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search encoding="base64">XDxSZWNvcmRcPg==</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern encoding="base64">XDxSZWNvcmRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -528,6 +526,7 @@
         <entry encoding="base64">XDxiaXJ0aGRheVw+</entry>
         <entry>b_strings</entry>
         <entry>'</entry>
+        <entry encoding="base64">XDxSZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Njb3JlL3VzZXIvZw==</entry>
