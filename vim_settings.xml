@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/TODO.md" timestamp="1552501024726">
         <mark key="[" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_class/Record.py" timestamp="1559362246391" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/resources/templates/server/statistical.html" timestamp="1552501311566">
         <mark key="[" line="212" column="24" />
         <mark key="]" line="213" column="19" />
@@ -149,11 +150,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559360724619">
-        <mark key="[" line="178" column="28" />
-        <mark key="]" line="178" column="28" />
-        <mark key="^" line="174" column="12" />
-        <mark key="." line="178" column="28" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559362787645">
+        <mark key="'" line="185" column="32" />
+        <mark key="[" line="189" column="42" />
+        <mark key="]" line="201" column="4" />
+        <mark key="." line="201" column="4" />
+        <mark key="^" line="206" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -186,7 +188,7 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1559360730032">
+      <file name="/Python Console" timestamp="1559361961387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559357785719">
@@ -328,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Main.java" />
       <jump line="7" column="7" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
       <jump line="10" column="16" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
@@ -428,6 +429,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/Record.py" />
       <jump line="170" column="15" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="24" column="6" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
+      <jump line="187" column="32" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -444,19 +446,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>%H%M%S</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>%H%M%S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>all_date_time[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRhaWwgPSAnLmpzP3Y9JyArIHRpbWUuc3RyZnRpbWUoIiVZJW0lZCVIJU0lUyIsIHRpbWUubG9jYWx0aW1lKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhaWwgPSAnLmpzP3Y9JyArIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -473,13 +475,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmRzID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmRbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbXAxID0gRW1wbG95ZWUoIlphcmEiLCAyMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCg0KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -488,10 +490,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRzID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRbMF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
