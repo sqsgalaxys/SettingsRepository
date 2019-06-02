@@ -149,12 +149,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559490962952">
-        <mark key="'" line="186" column="19" />
-        <mark key="[" line="158" column="53" />
-        <mark key="]" line="158" column="54" />
-        <mark key="." line="158" column="54" />
-        <mark key="^" line="211" column="38" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559492655599">
+        <mark key="'" line="244" column="0" />
+        <mark key="[" line="242" column="55" />
+        <mark key="]" line="243" column="30" />
+        <mark key="." line="243" column="30" />
+        <mark key="^" line="243" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -187,10 +187,10 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1559490498040">
+      <file name="/Python Console" timestamp="1559492659097">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1559490470354">
+      <file name="/fragment.py" timestamp="1559492678389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/TransactionRecordDao.java" timestamp="1552489380701">
@@ -328,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
       <jump line="10" column="16" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
       <jump line="20" column="30" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/SemaphoreTest2/Service.java" />
       <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadA.java" />
@@ -428,6 +427,7 @@
       <jump line="24" column="6" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="187" column="32" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="186" column="19" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -443,20 +443,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>内</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKCdkYXRhLnR4dCcpIGFzIGpzb25fZmlsZToKICAgIGRhdGEgPSBqc29uLmxvYWQoanNvbl9maWxlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>内</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldFVybChmc2NvZGUpOgogICAgaGVhZCA9ICdodHRwOi8vZnVuZC5lYXN0bW9uZXkuY29tL3Bpbmd6aG9uZ2RhdGEvJwogICAgdGFpbCA9ICcuanM/dj0nICsgdGltZS5zdHJmdGltZSgiJVklbSVkJUglTSVTIiwgdGltZS5sb2NhbHRpbWUoKSkKCiAgICByZXR1cm4gaGVhZCArIGZzY29kZSArIHRhaWwK</text>
+      <register name="0" type="4">
+        <text>stock_json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFwaSB1cmwpCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCdkYXRhLnR4dCcpIGFzIGpzb25fZmlsZToKICAgIGRhdGEgPSBqc29uLmxvYWQoanNvbl9maWxlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -470,31 +470,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHA6Ly92Lmp1aGUuY24vamluZ3poaS9xdWVyeS5waHA/cGFnZT0xJnBhZ2VzaXplPTIwJnR5cGU9emhhaXF1YW4ma2V5PVlPVVJLRVkK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KGdldFVybChjb2RlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9zdG9ja19jb2RlX2ZpbGUoc3RvY2ssZmlsZV9uYW1lKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGFwaSB1cmwpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGh0dHA6Ly92Lmp1aGUuY24vamluZ3poaS9xdWVyeS5waHA/cGFnZT0xJnBhZ2VzaXplPTIwJnR5cGU9emhhaXF1YW4ma2V5PVlPVVJLRVkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9zdG9ja19jb2RlX2ZpbGUoc3RvY2ssZmlsZV9uYW1lKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>209</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
@@ -550,6 +550,7 @@
         <entry>action Find</entry>
         <entry>w</entry>
         <entry>209</entry>
+        <entry>5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
