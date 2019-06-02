@@ -149,12 +149,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559405613424">
-        <mark key="'" line="205" column="32" />
-        <mark key="[" line="195" column="37" />
-        <mark key="]" line="196" column="7" />
-        <mark key="." line="196" column="7" />
-        <mark key="^" line="196" column="7" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559456407463">
+        <mark key="'" line="207" column="32" />
+        <mark key="[" line="196" column="37" />
+        <mark key="]" line="196" column="10" />
+        <mark key="." line="196" column="10" />
+        <mark key="^" line="198" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -444,10 +444,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>record.type == '场内基金'</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
