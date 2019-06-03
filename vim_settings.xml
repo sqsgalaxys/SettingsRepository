@@ -149,12 +149,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559576229188">
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559576779647">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="307" column="65" />
-        <mark key="]" line="307" column="65" />
-        <mark key="." line="307" column="65" />
-        <mark key="^" line="307" column="65" />
+        <mark key="[" line="313" column="20" />
+        <mark key="]" line="313" column="72" />
+        <mark key="." line="313" column="72" />
+        <mark key="^" line="313" column="72" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -444,16 +444,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>record.operation_date</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>record.operation_date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZCAgICAgICAgICAgICBJTlRFR0VSLAogIGZ1bmRfY29kZSAgICAgIFRFWFQgbm90IG51bGwsCiAgZnVuZF9uYW1lICAgICAgVEVYVCBub3QgbnVsbCwKICBvcGVyYXRpb24gICAgICBURVhUIGRlZmF1bHQgJ+S5sOWFpScgbm90IG51bGwsCiAgb3BlcmF0aW9uX2RhdGUgdGV4dCBub3QgbnVsbCwKICBvcGVyYXRpb25fdGltZSB0ZXh0LAogIGNvbmZpcm1fZGF0ZSAgIFRFWFQgbm90IG51bGwsCiAgY29uZmlybV90aW1lICAgdGV4dCwKICBjb25maXJtX2Ftb3VudCByZWFsIG5vdCBudWxsLAogIGNvbmZpcm1fcHJpY2UgIHJlYWwgbm90IG51bGwsCiAgY29uZmlybV9tb25leSAgcmVhbCBub3QgbnVsbCwKICBjb21taXNzc2lvbiAgICByZWFsIG5vdCBudWxsLAogIGNvc3QgICAgICAgICAgIHJlYWwgbm90IG51bGwsCiAgdHlwZSAgICAgICAgICAgdGV4dCBub3QgbnVsbCwKICBwbGF0Zm9ybSAgICAgICB0ZXh0IG5vdCBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtID0gIHJlY29yZC5vcGVyYXRpb25fZGF0ZVswOjRdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnVuZF9jb2RlX3R1cCA9ICgpCg==</text>
