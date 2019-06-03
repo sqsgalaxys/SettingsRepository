@@ -149,12 +149,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559492655599">
-        <mark key="'" line="244" column="0" />
-        <mark key="[" line="242" column="55" />
-        <mark key="]" line="243" column="30" />
-        <mark key="." line="243" column="30" />
-        <mark key="^" line="243" column="30" />
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559574959476">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="305" column="37" />
+        <mark key="]" line="305" column="48" />
+        <mark key="." line="305" column="48" />
+        <mark key="^" line="305" column="48" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -199,7 +199,7 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="18" column="71" />
       </file>
-      <file name="/me_fund [me_Fund]" timestamp="1559480965925">
+      <file name="/me_fund [me_Fund]" timestamp="1559573748176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126/_sqlite3.py" timestamp="1559356786809">
@@ -251,12 +251,12 @@
         <mark key="^" line="169" column="19" />
         <mark key="." line="169" column="19" />
       </file>
-      <file name="43e0d429-c9cd-43e4-9144-ab2ae6df525b/schema/main/table/me_fund.sql" timestamp="1559354714316">
+      <file name="43e0d429-c9cd-43e4-9144-ab2ae6df525b/schema/main/table/me_fund.sql" timestamp="1559574089460">
         <mark key="'" line="10" column="21" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="18" column="1" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="17" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1559490902707">
+      <file name="/dummy.sql" timestamp="1559574933764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/TransactionRecordController.java" timestamp="1552489444971">
@@ -328,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="16" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/Run.java" />
-      <jump line="20" column="30" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/SemaphoreTest2/Service.java" />
       <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadA.java" />
       <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadB.java" />
       <jump line="21" column="29" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/Run.java" />
@@ -428,6 +426,8 @@
       <jump line="187" column="32" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="186" column="19" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="241" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
+      <jump line="300" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -444,19 +444,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdkYXRhLnR4dCcpIGFzIGpzb25fZmlsZToKICAgIGRhdGEgPSBqc29uLmxvYWQoanNvbl9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuZF9jb2RlX3R1cCA9ICgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>stock_json</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpZCAgICAgICAgICAgICBJTlRFR0VSLAogIGZ1bmRfY29kZSAgICAgIFRFWFQgbm90IG51bGwsCiAgZnVuZF9uYW1lICAgICAgVEVYVCBub3QgbnVsbCwKICBvcGVyYXRpb24gICAgICBURVhUIGRlZmF1bHQgJ+S5sOWFpScgbm90IG51bGwsCiAgb3BlcmF0aW9uX2RhdGUgdGV4dCBub3QgbnVsbCwKICBvcGVyYXRpb25fdGltZSB0ZXh0LAogIGNvbmZpcm1fZGF0ZSAgIFRFWFQgbm90IG51bGwsCiAgY29uZmlybV90aW1lICAgdGV4dCwKICBjb25maXJtX2Ftb3VudCByZWFsIG5vdCBudWxsLAogIGNvbmZpcm1fcHJpY2UgIHJlYWwgbm90IG51bGwsCiAgY29uZmlybV9tb25leSAgcmVhbCBub3QgbnVsbCwKICBjb21taXNzc2lvbiAgICByZWFsIG5vdCBudWxsLAogIGNvc3QgICAgICAgICAgIHJlYWwgbm90IG51bGwsCiAgdHlwZSAgICAgICAgICAgdGV4dCBub3QgbnVsbCwKICBwbGF0Zm9ybSAgICAgICB0ZXh0IG5vdCBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdkYXRhLnR4dCcpIGFzIGpzb25fZmlsZToKICAgIGRhdGEgPSBqc29uLmxvYWQoanNvbl9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuZF9jb2RlX3R1cCA9ICgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -470,28 +470,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdldFVybChjb2RlKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuZF9jb2RlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHhpcnIodHJhbnNhY3Rpb25zKToKICAgIHllYXJzID0gWyh0YVswXSAtIHRyYW5zYWN0aW9uc1swXVswXSkuZGF5cyAvIDM2NS4wIGZvciB0YSBpbiB0cmFuc2FjdGlvbnNdCiAgICByZXNpZHVhbCA9IDEKICAgIHN0ZXAgPSAwLjA1CiAgICBndWVzcyA9IDAuMDUKICAgIGVwc2lsb24gPSAwLjAwMDEKICAgIGxpbWl0ID0gMTAwMDAKICAgIHdoaWxlIGFicyhyZXNpZHVhbCkgPiBlcHNpbG9uIGFuZCBsaW1pdCA+IDA6CiAgICAgICAgbGltaXQgLT0gMQogICAgICAgIHJlc2lkdWFsID0gMC4wCiAgICAgICAgZm9yIGksIHRhIGluIGVudW1lcmF0ZSh0cmFuc2FjdGlvbnMpOgogICAgICAgICAgICByZXNpZHVhbCArPSB0YVsxXSAvIHBvdyhndWVzcywgeWVhcnNbaV0pCiAgICAgICAgaWYgYWJzKHJlc2lkdWFsKSA+IGVwc2lsb246CiAgICAgICAgICAgIGlmIHJlc2lkdWFsID4gMDoKICAgICAgICAgICAgICAgIGd1ZXNzICs9IHN0ZXAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGd1ZXNzIC09IHN0ZXAKICAgICAgICAgICAgICAgIHN0ZXAgLz0gMi4wCiAgICByZXR1cm4gZ3Vlc3MgLSAxCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFwaSB1cmwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGh0dHA6Ly92Lmp1aGUuY24vamluZ3poaS9xdWVyeS5waHA/cGFnZT0xJnBhZ2VzaXplPTIwJnR5cGU9emhhaXF1YW4ma2V5PVlPVVJLRVkK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQuaWQgPSBhbGxfZGF0ZV90aW1lWzBdICAjIGlkCiAgICAgICAgcmVjb3JkLnR5cGUgPQogICAgICAgIHJlY29yZC50eXBlID0gYWxsX2RhdGVfdGltZVsxM10gICMgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">d2l0aCBvcGVuKCdkYXRhLnR4dCcpIGFzIGpzb25fZmlsZToKICAgIGRhdGEgPSBqc29uLmxvYWQoanNvbl9maWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCkK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9zdG9ja19jb2RlX2ZpbGUoc3RvY2ssZmlsZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGdldFVybChjb2RlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
@@ -530,7 +530,6 @@
         <entry encoding="base64">XDxSZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQvZw==</entry>
         <entry>sort u</entry>
         <entry encoding="base64">JzwsJz5zLw==</entry>
