@@ -149,12 +149,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559574959476">
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559576229188">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="305" column="37" />
-        <mark key="]" line="305" column="48" />
-        <mark key="." line="305" column="48" />
-        <mark key="^" line="305" column="48" />
+        <mark key="[" line="307" column="65" />
+        <mark key="]" line="307" column="65" />
+        <mark key="." line="307" column="65" />
+        <mark key="^" line="307" column="65" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -443,11 +443,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuZF9jb2RlX3R1cCA9ICgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
