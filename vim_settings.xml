@@ -139,6 +139,9 @@
         <mark key="." line="155" column="7" />
         <mark key="^" line="155" column="7" />
       </file>
+      <file name="/users [database]" timestamp="1559910856750">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/microstore_no_git/microstore_no_git/src/main/resources/application.properties" timestamp="1552663888817">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="6" column="55" />
@@ -169,11 +172,23 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/基金定投助手 - Chrome 网上应用店_逆向/Flask-SQLite3-Example/templates/index.html" timestamp="1559910738508">
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="33" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="43" column="33" />
+      </file>
       <file name="/commodity [@m.n]" timestamp="1552311211417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559748239983">
         <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Downloads/基金定投助手 - Chrome 网上应用店_逆向/Flask-SQLite3-Example/app.py" timestamp="1559911194879">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="3" />
+        <mark key="." line="51" column="3" />
+        <mark key="^" line="51" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/exception/MemberValidityPeriodException.java" timestamp="1552488995202">
         <mark key="[" line="9" column="15" />
@@ -187,7 +202,7 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1559747984142">
+      <file name="/Python Console" timestamp="1559910900326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559492678389">
@@ -256,7 +271,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="17" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1559748219032">
+      <file name="/dummy.sql" timestamp="1559910856883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/TransactionRecordController.java" timestamp="1552489444971">
@@ -265,7 +280,7 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552504214528">
+      <file name="/Dummy.txt" timestamp="1559911141354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/exception/MemberRemainCountNotEnoughException.java" timestamp="1552319411798">
@@ -444,16 +459,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgdXNlclsyXSB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -494,7 +509,7 @@
         <text encoding="base64">ZGVmIHhpcnIodHJhbnNhY3Rpb25zKToKICAgIHllYXJzID0gWyh0YVswXSAtIHRyYW5zYWN0aW9uc1swXVswXSkuZGF5cyAvIDM2NS4wIGZvciB0YSBpbiB0cmFuc2FjdGlvbnNdCiAgICByZXNpZHVhbCA9IDEKICAgIHN0ZXAgPSAwLjA1CiAgICBndWVzcyA9IDAuMDUKICAgIGVwc2lsb24gPSAwLjAwMDEKICAgIGxpbWl0ID0gMTAwMDAKICAgIHdoaWxlIGFicyhyZXNpZHVhbCkgPiBlcHNpbG9uIGFuZCBsaW1pdCA+IDA6CiAgICAgICAgbGltaXQgLT0gMQogICAgICAgIHJlc2lkdWFsID0gMC4wCiAgICAgICAgZm9yIGksIHRhIGluIGVudW1lcmF0ZSh0cmFuc2FjdGlvbnMpOgogICAgICAgICAgICByZXNpZHVhbCArPSB0YVsxXSAvIHBvdyhndWVzcywgeWVhcnNbaV0pCiAgICAgICAgaWYgYWJzKHJlc2lkdWFsKSA+IGVwc2lsb246CiAgICAgICAgICAgIGlmIHJlc2lkdWFsID4gMDoKICAgICAgICAgICAgICAgIGd1ZXNzICs9IHN0ZXAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGd1ZXNzIC09IHN0ZXAKICAgICAgICAgICAgICAgIHN0ZXAgLz0gMi4wCiAgICByZXR1cm4gZ3Vlc3MgLSAxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>5</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -550,6 +565,8 @@
         <entry>w</entry>
         <entry>209</entry>
         <entry>5</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
