@@ -152,12 +152,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559747873658">
+      <file name="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" timestamp="1559966892519">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="325" column="62" />
-        <mark key="]" line="326" column="26" />
-        <mark key="." line="326" column="26" />
-        <mark key="^" line="326" column="26" />
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="11" />
+        <mark key="^" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -214,7 +214,7 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="18" column="71" />
       </file>
-      <file name="/me_fund [me_Fund]" timestamp="1559748119639">
+      <file name="/me_fund [me_Fund]" timestamp="1559966672869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126/_sqlite3.py" timestamp="1559356786809">
@@ -271,7 +271,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="17" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1559910856883">
+      <file name="/dummy.sql" timestamp="1559967085581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/TransactionRecordController.java" timestamp="1552489444971">
@@ -459,16 +459,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>guess - 1</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>guess - 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgdXNlclsyXSB9fTwvdGQ+Cg==</text>
+      <register name="0" type="4">
+        <text>'%.2f%%' % ((guess - 1) * 100)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -545,8 +545,6 @@
         <entry encoding="base64">XDxSZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQvZw==</entry>
-        <entry>sort u</entry>
         <entry encoding="base64">JzwsJz5zLw==</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
