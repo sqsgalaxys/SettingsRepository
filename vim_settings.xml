@@ -51,11 +51,18 @@
       <file name="/member_grade [@m.n]" timestamp="1552307544573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/caf_custom_src/META-INF/infra.xml" timestamp="1562678107556">
+      <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/caf_custom_src/META-INF/infra.xml" timestamp="1562708585493">
+        <mark key="'" line="88" column="0" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/retailscm_custom_src/application.properties" timestamp="1562708601462">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/MemberDao.java" timestamp="1552485507138">
         <mark key="[" line="25" column="0" />
@@ -120,6 +127,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/retailscm_custom_src/META-INF/infra.properties" timestamp="1562708605445">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/基金定投助手 - Chrome 网上应用店_逆向/Flask-SQLite3-Example/templates/index.html" timestamp="1559976708957">
         <mark key="[" line="38" column="0" />
@@ -303,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadA.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/ThreadB.java" />
       <jump line="21" column="29" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a5acquire_uninterruptibly/Run.java" />
       <jump line="20" column="31" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a7availablePermitsTest/MyService.java" />
       <jump line="23" column="31" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/a9twoMethodTest/MyService.java" />
@@ -403,6 +415,8 @@
       <jump line="241" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="300" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
       <jump line="34" column="0" filename="$USER_HOME$/OneDrive/20190530/me_Fund_folder/me_Fund.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/caf_custom_src/META-INF/infra.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/retailscm_custom_src/META-INF/infra.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,17 +432,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>${app.redis.timeout}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VydmVyLnNlcnZsZXQuY29udGV4dC1wYXRoPS9yZXRhaWxzY20K</text>
       </register>
       <register name="-" type="4">
-        <text>${app.redis.timeout}</text>
+        <text>mainstay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD50ZXN0PC90aD4K</text>
+        <text encoding="base64">c2VydmVyLnNlcnZsZXQuY29udGV4dC1wYXRoPS9yZXRhaWxzY20K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEB0cmFjZSAjIOijhemlsCBfX2luaXRfXyDmlrnms5UK</text>
