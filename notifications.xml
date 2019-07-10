@@ -2,10 +2,12 @@
   <component name="NotificationConfiguration">
     <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="JRebel non-sticky" displayType="NONE" shouldLog="false" />
     <notification groupId="Lombok plugin" displayType="NONE" />
     <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Run Dashboard" displayType="NONE" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" />
     <notification groupId="Unindexed maven repositories gradle detection" shouldLog="false" />
   </component>
 </application>
