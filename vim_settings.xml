@@ -15,7 +15,6 @@
       <file name="/db_membership.server [@m.n]" timestamp="1552311238212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/shell_project/weather.sh" timestamp="1591503920518" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/ServerService.java" timestamp="1552487529018">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
@@ -433,8 +432,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmVyLnNlcnZsZXQuY29udGV4dC1wYXRoPS9yZXRhaWxzY20K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmVjaG8gJ3Rlc3QnCgoKIyEvYmluL2Jhc2g=</text>
       </register>
       <register name="-" type="4">
         <text>mainstay</text>
@@ -445,8 +444,8 @@
       <register name="0" type="2">
         <text encoding="base64">c2VydmVyLnNlcnZsZXQuY29udGV4dC1wYXRoPS9yZXRhaWxzY20K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEB0cmFjZSAjIOijhemlsCBfX2luaXRfXyDmlrnms5UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmVjaG8gJ3Rlc3QnCgoKIyEvYmluL2Jhc2g=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -460,28 +459,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHggPSAxCg==</text>
+        <text encoding="base64">ICAgIEB0cmFjZSAjIOijhemlsCBfX2luaXRfXyDmlrnms5UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKCJJTlNFUlQgSU5UTyB1c2VycyBWQUxVRVMoJ1Rob21hcycsICdKYXNwZXInLCAnNDAnKTsiKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBJTlRPIHVzZXJzIFZBTFVFUygnSmVycnknLCAnTW91c2UnLCAnNDAnKTsiKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBJTlRPIHVzZXJzIFZBTFVFUygnUGV0ZXInLCAnUGFuJywgJzQwJyk7IikK</text>
+        <text encoding="base64">ICAgIHggPSAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKCJJTlNFUlQgSU5UTyB1c2VycyBWQUxVRVMoJ01pa2UnLCAnVHlzb24nLCAnNDAnKTsiKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBJTlRPIHVzZXJzIFZBTFVFUygnVGhvbWFzJywgJ0phc3BlcicsICc0MCcpOyIpCiAgICBjdXIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gdXNlcnMgVkFMVUVTKCdKZXJyeScsICdNb3VzZScsICc0MCcpOyIpCiAgICBjdXIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gdXNlcnMgVkFMVUVTKCdQZXRlcicsICdQYW4nLCAnNDAnKTsiKQo=</text>
+        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKCJJTlNFUlQgSU5UTyB1c2VycyBWQUxVRVMoJ1Rob21hcycsICdKYXNwZXInLCAnNDAnKTsiKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBJTlRPIHVzZXJzIFZBTFVFUygnSmVycnknLCAnTW91c2UnLCAnNDAnKTsiKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBJTlRPIHVzZXJzIFZBTFVFUygnUGV0ZXInLCAnUGFuJywgJzQwJyk7IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBbIF0K</text>
+        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKCJJTlNFUlQgSU5UTyB1c2VycyBWQUxVRVMoJ01pa2UnLCAnVHlzb24nLCAnNDAnKTsiKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBJTlRPIHVzZXJzIFZBTFVFUygnVGhvbWFzJywgJ0phc3BlcicsICc0MCcpOyIpCiAgICBjdXIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gdXNlcnMgVkFMVUVTKCdKZXJyeScsICdNb3VzZScsICc0MCcpOyIpCiAgICBjdXIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gdXNlcnMgVkFMVUVTKCdQZXRlcicsICdQYW4nLCAnNDAnKTsiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyKCkK</text>
+        <text encoding="base64">LSBbIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZVsxXQo=</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZVswXQogICAgICAgIHJlWzFdCg==</text>
+        <text encoding="base64">ICAgICAgICByZVsxXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZVsyXQo=</text>
+        <text encoding="base64">ICAgICAgICByZVswXQogICAgICAgIHJlWzFdCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
