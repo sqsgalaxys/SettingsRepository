@@ -241,10 +241,11 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/shell_project/weatherEX.sh" timestamp="1591512282649">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Downloads/shell_project/weatherEX.sh" timestamp="1591512384033">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="/followers_assoc [dev.db]" timestamp="1559973614987">
         <mark key="[" line="0" column="0" />
