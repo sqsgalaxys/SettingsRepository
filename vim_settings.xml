@@ -15,12 +15,11 @@
       <file name="/db_membership.server [@m.n]" timestamp="1552311238212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/shell_project/weather.sh" timestamp="1591511086454">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="$USER_HOME$/Downloads/shell_project/weather.sh" timestamp="1591512202076">
+        <mark key="[" line="100" column="11" />
+        <mark key="]" line="100" column="10" />
+        <mark key="." line="100" column="10" />
+        <mark key="^" line="100" column="10" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/ServerService.java" timestamp="1552487529018">
         <mark key="[" line="39" column="11" />
@@ -242,12 +241,10 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/shell_project/weatherEX.sh" timestamp="1591511206594">
-        <mark key="'" line="77" column="3" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/Downloads/shell_project/weatherEX.sh" timestamp="1591512282649">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/followers_assoc [dev.db]" timestamp="1559973614987">
         <mark key="[" line="0" column="0" />
@@ -331,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/untitled/src/com/sqsgalaxys/todo" />
       <jump line="84" column="31" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
       <jump line="87" column="8" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
       <jump line="35" column="64" filename="$USER_HOME$/miProject/netty/codec-redis/src/main/java/io/netty/handler/codec/redis/RedisArrayAggregator.java" />
@@ -428,9 +424,10 @@
       <jump line="15" column="1" filename="$USER_HOME$/Downloads/shell_project/weather.sh" />
       <jump line="85" column="0" filename="$USER_HOME$/Downloads/shell_project/weather.sh" />
       <jump line="16" column="3" filename="$USER_HOME$/Downloads/shell_project/weather.sh" />
-      <jump line="10" column="18" filename="$USER_HOME$/Downloads/shell_project/weatherEX.sh" />
       <jump line="7" column="0" filename="$USER_HOME$/Downloads/shell_project/weatherEX.sh" />
       <jump line="76" column="3" filename="$USER_HOME$/Downloads/shell_project/weatherEX.sh" />
+      <jump line="15" column="3" filename="$USER_HOME$/Downloads/shell_project/weatherEX.sh" />
+      <jump line="10" column="3" filename="$USER_HOME$/Downloads/shell_project/weatherEX.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -477,88 +474,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgeHh4ID4geHh4Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>小于</text>
       </register>
       <register name="-" type="4">
-        <text>'00'</text>
+        <text>小于</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2hvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-case ${weather_code} in
-&quot;&quot;00&quot;&quot;) weather_txt=&quot;晴&quot;
-;;
-&quot;&quot;01&quot;&quot;) weather_txt=&quot;多云&quot;
-;;
-&quot;&quot;02&quot;&quot;) weather_txt=&quot;阴&quot;
-;;
-&quot;&quot;03&quot;&quot;) weather_txt=&quot;阵雨&quot;
-;;
-&quot;&quot;04&quot;&quot;) weather_txt=&quot;雷阵雨&quot;
-;;
-&quot;&quot;05&quot;&quot;) weather_txt=&quot;雷阵雨伴有冰雹&quot;
-;;
-&quot;&quot;06&quot;&quot;) weather_txt=&quot;雨夹雪&quot;
-;;
-&quot;&quot;07&quot;&quot;) weather_txt=&quot;小雨&quot;
-;;
-&quot;&quot;08&quot;&quot;) weather_txt=&quot;中雨&quot;
-;;
-&quot;&quot;09&quot;&quot;) weather_txt=&quot;大雨&quot;
-;;
-&quot;&quot;10&quot;&quot;) weather_txt=&quot;暴雨&quot;
-;;
-&quot;&quot;11&quot;&quot;) weather_txt=&quot;大暴雨&quot;
-;;
-&quot;&quot;12&quot;&quot;) weather_txt=&quot;特大暴雨&quot;
-;;
-&quot;&quot;13&quot;&quot;) weather_txt=&quot;阵雪&quot;
-;;
-&quot;&quot;14&quot;&quot;) weather_txt=&quot;小雪&quot;
-;;
-&quot;&quot;15&quot;&quot;) weather_txt=&quot;中雪&quot;
-;;
-&quot;&quot;16&quot;&quot;) weather_txt=&quot;大雪&quot;
-;;
-&quot;&quot;17&quot;&quot;) weather_txt=&quot;暴雪&quot;
-;;
-&quot;&quot;18&quot;&quot;) weather_txt=&quot;雾&quot;
-;;
-&quot;&quot;19&quot;&quot;) weather_txt=&quot;冻雨&quot;
-;;
-&quot;&quot;20&quot;&quot;) weather_txt=&quot;沙尘暴&quot;
-;;
-&quot;&quot;21&quot;&quot;) weather_txt=&quot;小到中雨&quot;
-;;
-&quot;&quot;22&quot;&quot;) weather_txt=&quot;中到大雨&quot;
-;;
-&quot;&quot;23&quot;&quot;) weather_txt=&quot;大到暴雨&quot;
-;;
-&quot;&quot;24&quot;&quot;) weather_txt=&quot;暴雨到大暴雨&quot;
-;;
-&quot;&quot;25&quot;&quot;) weather_txt=&quot;大暴雨到特大暴雨&quot;
-;;
-&quot;&quot;26&quot;&quot;) weather_txt=&quot;小到中雪&quot;
-;;
-&quot;&quot;27&quot;&quot;) weather_txt=&quot;中到大雪&quot;
-;;
-&quot;&quot;28&quot;&quot;) weather_txt=&quot;大到暴雪&quot;
-;;
-&quot;&quot;29&quot;&quot;) weather_txt=&quot;浮尘&quot;
-;;
-&quot;&quot;30&quot;&quot;) weather_txt=&quot;扬沙&quot;
-;;
-&quot;&quot;31&quot;&quot;) weather_txt=&quot;强沙尘暴&quot;
-;;
-&quot;&quot;53&quot;&quot;) weather_txt=&quot;霾&quot;
-;;
-# }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICBlY2hvICflsI/kuo4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgeHh4ID4geHh4Lgo=</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -572,28 +501,28 @@ case ${weather_code} in
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnVybD0iaHR0cHM6Ly9hcGkuZGF5LmFwcC90Y2JrY1hkejlKTXd6OXByejNnNnNML+aYjuWkqeWkqeawlDoke3dlYXRoZXJfdHh0fSIKbm93PWBkYXRlYAplY2hvICR7bm93fSAnOicKZWNobyAke3VybH0KY3VybCAta3MgJHt1cmx9ICMgMj4vZGV2L251bGwKZWNobyAtZSAnXG4nCgo=</text>
+        <text encoding="base64">IyB0b2RvIOS4uuS7gOS5iOimgeWPjOS4reaLrOWPtz8/CmlmIFtbICR7d2VhdGhlcl9jb2RlOjE6Mn0gLWd0IDMgXV0gOyB0aGVuCiAgICBlY2hvICflpKcnCiAgICAKZWxzZQogICAgZWNobyAn5bCP5LqOJwpmaQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzaGVsbCBzY3JpcHQgY2FzZSDor63lj6XnmoTkvb/nlKg6CiMgaHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL3VuaXgvY2FzZS1lc2FjLXN0YXRlbWVudC5odG0KIyB7Cg==</text>
+        <text encoding="base64">ICAgIApjYXNlICR7d2VhdGhlcl9jb2RlfSBpbgonIjAwIicpIHdlYXRoZXJfdHh0PSLmmbQiCjs7CiciMDEiJykgd2VhdGhlcl90eHQ9IuWkmuS6kSIKOzsKJyIwMiInKSB3ZWF0aGVyX3R4dD0i6Zi0Igo7OwonIjAzIicpIHdlYXRoZXJfdHh0PSLpmLXpm6giCjs7CiciMDQiJykgd2VhdGhlcl90eHQ9Iumbt+mYtembqCIKOzsKJyIwNSInKSB3ZWF0aGVyX3R4dD0i6Zu36Zi16Zuo5Ly05pyJ5Yaw6Zu5Igo7OwonIjA2IicpIHdlYXRoZXJfdHh0PSLpm6jlpLnpm6oiCjs7CiciMDciJykgd2VhdGhlcl90eHQ9IuWwj+mbqCIKOzsKJyIwOCInKSB3ZWF0aGVyX3R4dD0i5Lit6ZuoIgo7OwonIjA5IicpIHdlYXRoZXJfdHh0PSLlpKfpm6giCjs7CiciMTAiJykgd2VhdGhlcl90eHQ9IuaatOmbqCIKOzsKJyIxMSInKSB3ZWF0aGVyX3R4dD0i5aSn5pq06ZuoIgo7OwonIjEyIicpIHdlYXRoZXJfdHh0PSLnibnlpKfmmrTpm6giCjs7CiciMTMiJykgd2VhdGhlcl90eHQ9IumYtembqiIKOzsKJyIxNCInKSB3ZWF0aGVyX3R4dD0i5bCP6ZuqIgo7OwonIjE1IicpIHdlYXRoZXJfdHh0PSLkuK3pm6oiCjs7CiciMTYiJykgd2VhdGhlcl90eHQ9IuWkp+mbqiIKOzsKJyIxNyInKSB3ZWF0aGVyX3R4dD0i5pq06ZuqIgo7OwonIjE4IicpIHdlYXRoZXJfdHh0PSLpm74iCjs7CiciMTkiJykgd2VhdGhlcl90eHQ9IuWGu+mbqCIKOzsKJyIyMCInKSB3ZWF0aGVyX3R4dD0i5rKZ5bCY5pq0Igo7OwonIjIxIicpIHdlYXRoZXJfdHh0PSLlsI/liLDkuK3pm6giCjs7CiciMjIiJykgd2VhdGhlcl90eHQ9IuS4reWIsOWkp+mbqCIKOzsKJyIyMyInKSB3ZWF0aGVyX3R4dD0i5aSn5Yiw5pq06ZuoIgo7OwonIjI0IicpIHdlYXRoZXJfdHh0PSLmmrTpm6jliLDlpKfmmrTpm6giCjs7CiciMjUiJykgd2VhdGhlcl90eHQ9IuWkp+aatOmbqOWIsOeJueWkp+aatOmbqCIKOzsKJyIyNiInKSB3ZWF0aGVyX3R4dD0i5bCP5Yiw5Lit6ZuqIgo7OwonIjI3IicpIHdlYXRoZXJfdHh0PSLkuK3liLDlpKfpm6oiCjs7CiciMjgiJykgd2VhdGhlcl90eHQ9IuWkp+WIsOaatOmbqiIKOzsKJyIyOSInKSB3ZWF0aGVyX3R4dD0i5rWu5bCYIgo7OwonIjMwIicpIHdlYXRoZXJfdHh0PSLmiazmspkiCjs7CiciMzEiJykgd2VhdGhlcl90eHQ9IuW8uuaymeWwmOaatCIKOzsKJyI1MyInKSB3ZWF0aGVyX3R4dD0i6Zy+Igo7OwojfQplc2FjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBodHRwOi8vYXBpcy5qdWhlLmNuL3NpbXBsZVdlYXRoZXIvcXVlcnk/Y2l0eT0lRTUlOEMlOTclRTQlQkElQUMma2V5PTRmNzg5NWQxNjU0MDE2NDYxMmQwNjJhNGVhMWUzYWRiCiMg5L+d5a2YIGN1cmwg55qEIGpzb24g57uT5p6c5Yiw5Y+Y6YePLCDnlKgganEg6I635Y+W6ZyA6KaB55qE5YC8Ogpjb250ZW50PSQoIGN1cmwgLXMgICJodHRwOi8vYXBpcy5qdWhlLmNuL3NpbXBsZVdlYXRoZXIvcXVlcnk/Y2l0eT0lRTUlOEMlOTclRTQlQkElQUMma2V5PTRmNzg5NWQxNjU0MDE2NDYxMmQwNjJhNGVhMWUzYWRiIiApCmVjaG8gJHtjb250ZW50fQoKIyDlpoLmnpzmmI7lpKnmnInpm6gs5YiZ5Y+R6YCB6YCa55+lOgoKI2ZvciB0ZXN0Ogo=</text>
+        <text encoding="base64">Y2FzZSAke3dlYXRoZXJfY29kZX0gaW4KJyIwMCInKSB3ZWF0aGVyX3R4dD0i5pm0Igo7OwonIjAxIicpIHdlYXRoZXJfdHh0PSLlpJrkupEiCjs7CiciMDIiJykgd2VhdGhlcl90eHQ9IumYtCIKOzsKJyIwMyInKSB3ZWF0aGVyX3R4dD0i6Zi16ZuoIgo7OwonIjA0IicpIHdlYXRoZXJfdHh0PSLpm7fpmLXpm6giCjs7CiciMDUiJykgd2VhdGhlcl90eHQ9Iumbt+mYtembqOS8tOacieWGsOmbuSIKOzsKJyIwNiInKSB3ZWF0aGVyX3R4dD0i6Zuo5aS56ZuqIgo7OwonIjA3IicpIHdlYXRoZXJfdHh0PSLlsI/pm6giCjs7CiciMDgiJykgd2VhdGhlcl90eHQ9IuS4rembqCIKOzsKJyIwOSInKSB3ZWF0aGVyX3R4dD0i5aSn6ZuoIgo7OwonIjEwIicpIHdlYXRoZXJfdHh0PSLmmrTpm6giCjs7CiciMTEiJykgd2VhdGhlcl90eHQ9IuWkp+aatOmbqCIKOzsKJyIxMiInKSB3ZWF0aGVyX3R4dD0i54m55aSn5pq06ZuoIgo7OwonIjEzIicpIHdlYXRoZXJfdHh0PSLpmLXpm6oiCjs7CiciMTQiJykgd2VhdGhlcl90eHQ9IuWwj+mbqiIKOzsKJyIxNSInKSB3ZWF0aGVyX3R4dD0i5Lit6ZuqIgo7OwonIjE2IicpIHdlYXRoZXJfdHh0PSLlpKfpm6oiCjs7CiciMTciJykgd2VhdGhlcl90eHQ9IuaatOmbqiIKOzsKJyIxOCInKSB3ZWF0aGVyX3R4dD0i6Zu+Igo7OwonIjE5IicpIHdlYXRoZXJfdHh0PSLlhrvpm6giCjs7CiciMjAiJykgd2VhdGhlcl90eHQ9IuaymeWwmOaatCIKOzsKJyIyMSInKSB3ZWF0aGVyX3R4dD0i5bCP5Yiw5Lit6ZuoIgo7OwonIjIyIicpIHdlYXRoZXJfdHh0PSLkuK3liLDlpKfpm6giCjs7CiciMjMiJykgd2VhdGhlcl90eHQ9IuWkp+WIsOaatOmbqCIKOzsKJyIyNCInKSB3ZWF0aGVyX3R4dD0i5pq06Zuo5Yiw5aSn5pq06ZuoIgo7OwonIjI1IicpIHdlYXRoZXJfdHh0PSLlpKfmmrTpm6jliLDnibnlpKfmmrTpm6giCjs7CiciMjYiJykgd2VhdGhlcl90eHQ9IuWwj+WIsOS4rembqiIKOzsKJyIyNyInKSB3ZWF0aGVyX3R4dD0i5Lit5Yiw5aSn6ZuqIgo7OwonIjI4IicpIHdlYXRoZXJfdHh0PSLlpKfliLDmmrTpm6oiCjs7CiciMjkiJykgd2VhdGhlcl90eHQ9Iua1ruWwmCIKOzsKJyIzMCInKSB3ZWF0aGVyX3R4dD0i5oms5rKZIgo7OwonIjMxIicpIHdlYXRoZXJfdHh0PSLlvLrmspnlsJjmmrQiCjs7CiciNTMiJykgd2VhdGhlcl90eHQ9IumcviIKOzsKI30KZXNhYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiN0bXA9IjMwMDpwcmljZToke25vd1ByaX0s5rao6LeM5bmF5bqmOiR7aW5jcmVQZXJ9LG1heDoke3RvZGF5TWF4fSxtaW46JHt0b2RheU1pbn0iCiN1cmw9Imh0dHBzOi8vYXBpLmRheS5hcHAvdGNia2NYZHo5Sk13ejlwcnozZzZzTC8ke3RtcH0iCiNub3c9YGRhdGVgCiNlY2hvICR7bm93fSAnOicKI2VjaG8gJHt1cmx9CiNjdXJsIC1rcyAke3VybH0gIyAyPi9kZXYvbnVsbAojZWNobyAtZSAnXG4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgcGF0dGVybjEpCiAgICAgIFN0YXRlbWVudChzKSB0byBiZSBleGVjdXRlZCBpZiBwYXR0ZXJuMSBtYXRjaGVzCiAgICAgIDs7CiAgIHBhdHRlcm4yKQogICAgICBTdGF0ZW1lbnQocykgdG8gYmUgZXhlY3V0ZWQgaWYgcGF0dGVybjIgbWF0Y2hlcwogICAgICA7OwogICBwYXR0ZXJuMykKICAgICAgU3RhdGVtZW50KHMpIHRvIGJlIGV4ZWN1dGVkIGlmIHBhdHRlcm4zIG1hdGNoZXMKICAgICAgOzsKICAgKikKICAgICBEZWZhdWx0IGNvbmRpdGlvbiB0byBiZSBleGVjdXRlZAogICAgIDs7Cgp3aWQsd2VhdGhlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmVjaG8gJ3Rlc3QnCgoKIyEvYmluL2Jhc2g=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aWYgeHh4ID4geHh4Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEB0cmFjZSAjIOijhemlsCBfX2luaXRfXyDmlrnms5UK</text>
+        <text encoding="base64">CnVybD0iaHR0cHM6Ly9hcGkuZGF5LmFwcC90Y2JrY1hkejlKTXd6OXByejNnNnNML+aYjuWkqeWkqeawlDoke3dlYXRoZXJfdHh0fSIKbm93PWBkYXRlYAplY2hvICR7bm93fSAnOicKZWNobyAke3VybH0KY3VybCAta3MgJHt1cmx9ICMgMj4vZGV2L251bGwKZWNobyAtZSAnXG4nCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
