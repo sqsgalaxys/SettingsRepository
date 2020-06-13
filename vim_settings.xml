@@ -338,11 +338,11 @@
       <file name="/favoritor_assoc [dev.db]" timestamp="1559973613800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592049347270">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592067606217">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
@@ -505,16 +505,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>starred = '1'</text>
+        <text>starred = '1';</text>
       </register>
       <register name="-" type="4">
-        <text>starred = '1'</text>
+        <text>starred = '1';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2hvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICBjb3VudCgqKSBmcm9tIGVudHJpZXMgc3RhcnJlZCA9ICcxJzsK</text>
+        <text encoding="base64">c2VsZWN0ICAqIGZyb20gZW50cmllcyBzdGFycmVkID0gJzEnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZmVlZGx5Lm9wbWwK</text>
