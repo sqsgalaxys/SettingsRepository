@@ -274,11 +274,11 @@
       <file name="/userprofile [dev.db]" timestamp="1559973622123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/shell_project/bili_foll/bili_foll_to_rss_http.sh" timestamp="1592042675487">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="1" />
+      <file name="$USER_HOME$/Downloads/shell_project/bili_foll/bili_foll_to_rss_http.sh" timestamp="1592043840667">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="8" column="74" />
         <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+        <mark key="." line="8" column="74" />
       </file>
       <file name="$USER_HOME$/Downloads/arrange/src/com/sqsgalaxys/Combination.java" timestamp="1558233141924">
         <mark key="[" line="14" column="7" />
@@ -482,10 +482,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>小于</text>
+        <text>atmo</text>
       </register>
       <register name="-" type="4">
-        <text>小于</text>
+        <text>atmo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2hvXD4=</text>
