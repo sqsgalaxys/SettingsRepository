@@ -236,6 +236,9 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="/a.sql" timestamp="1592049659225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/comment [dev.db]" timestamp="1559973612532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -263,7 +266,7 @@
       <file name="/followers_assoc [dev.db]" timestamp="1559973614987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562776119196">
+      <file name="/Dummy.txt" timestamp="1592048348723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/exception/MemberRemainCountNotEnoughException.java" timestamp="1552319411798">
@@ -334,6 +337,12 @@
       </file>
       <file name="/favoritor_assoc [dev.db]" timestamp="1559973613800">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592049347270">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
@@ -495,17 +504,17 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVlZGx5Lm9wbWwK</text>
+      <register name="&quot;" type="4">
+        <text>starred = '1'</text>
       </register>
       <register name="-" type="4">
-        <text>http://www.ifanr.com/feed</text>
+        <text>starred = '1'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2hvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>http://m.n:1200/bilibili/user/video/'$i'</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICBjb3VudCgqKSBmcm9tIGVudHJpZXMgc3RhcnJlZCA9ICcxJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZmVlZGx5Lm9wbWwK</text>
