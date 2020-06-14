@@ -341,11 +341,11 @@
       <file name="/favoritor_assoc [dev.db]" timestamp="1559973613800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592100356733">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592101667741">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
