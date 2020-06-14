@@ -341,11 +341,11 @@
       <file name="/favoritor_assoc [dev.db]" timestamp="1559973613800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592101667741">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/091f90de-c1a8-46c2-a7dd-96bd507bd5eb/console.sql" timestamp="1592108673523">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
@@ -507,17 +507,17 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICAqIGZyb20gZW50cmllcyB3aGVyZSB1cmwgbGlrZSAnJWJpbGliaWxpLmNvbS92aWRlby8lJzsK</text>
+      <register name="&quot;" type="4">
+        <text>en</text>
       </register>
       <register name="-" type="4">
-        <text>where title like '%165%普通人%';</text>
+        <text>en</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2hvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICAqIGZyb20gZW50cmllcyB3aGVyZSB1cmwgbGlrZSAnJWJpbGliaWxpLmNvbS92aWRlby8lJzsK</text>
+      <register name="0" type="4">
+        <text>entries</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICAqIGZyb20gZW50cmllcyB3aGVyZSB0aXRsZSBsaWtlICclMTY1JeaZrumAmuS6uiUnOwo=</text>
