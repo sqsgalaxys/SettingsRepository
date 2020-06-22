@@ -160,12 +160,12 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" timestamp="1592833772998">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="151" column="26" />
-        <mark key="]" line="151" column="28" />
-        <mark key="." line="151" column="28" />
-        <mark key="^" line="151" column="28" />
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" timestamp="1592834806034">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="153" column="19" />
+        <mark key="]" line="153" column="22" />
+        <mark key="." line="153" column="22" />
+        <mark key="^" line="153" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/AdminController.java" timestamp="1552504198336">
         <mark key="[" line="23" column="3" />
@@ -380,8 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="22" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Member.java" />
-      <jump line="33" column="42" filename="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/domain/Member.java" />
       <jump line="1" column="10" filename="06bee317-5554-4f98-8b02-4c47b012821d/schema/db_membership/table/member.sql" />
       <jump line="143" column="15" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
       <jump line="141" column="4" filename="$USER_HOME$/OneDrive/MeProjects/membership/db_membershipEx.sql" />
@@ -480,6 +478,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="0" column="133" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/onetab.txt" />
       <jump line="5" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/onetab.txt" />
+      <jump line="170" column="37" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
+      <jump line="19" column="2" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -527,16 +527,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>link.get('href')+' | ' + link.string</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>link.get('href')+' | ' + link.string</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX29iamVjdC53cml0ZShsaW5rLmdldCgnaHJlZicpKycgfCAnICsgbGluay5zdHJpbmcpCg==</text>
+      <register name="0" type="4">
+        <text>open_count</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -577,7 +577,7 @@
         <text encoding="base64">IyBBcHBlbmQgJ2hlbGxvJyBhdCB0aGUgZW5kIG9mIGZpbGUK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -633,9 +633,9 @@
         <entry>action RenameElement</entry>
         <entry>w</entry>
         <entry>167</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHAvXHJodHRwL2c=</entry>
         <entry>wq</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
