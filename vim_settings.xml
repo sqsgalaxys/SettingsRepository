@@ -323,7 +323,7 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1593528247687">
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1593529866600">
         <mark key="'" line="18" column="12" />
         <mark key="[" line="24" column="7" />
         <mark key="]" line="24" column="8" />
@@ -563,11 +563,11 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAndDY2eScK</text>
+      <register name="&quot;" type="4">
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>web_name</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaWxpYmlsaVw+</text>
