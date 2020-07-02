@@ -407,6 +407,13 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/add_bom/add_bom.py" timestamp="1593703827286">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="54" />
+        <mark key="." line="28" column="54" />
+        <mark key="^" line="28" column="54" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
       </file>
@@ -425,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="101" column="93" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
       <jump line="15" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
@@ -525,6 +531,7 @@
       <jump line="950" column="23" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200629_instapaper_export.json" />
       <jump line="20" column="12" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" />
       <jump line="18" column="22" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200629_instapaper_export.json" />
+      <jump line="15" column="23" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/add_bom/add_bom.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -572,19 +579,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>20200630_</text>
+        <text>utf-16-le</text>
       </register>
       <register name="-" type="4">
-        <text>20200630_</text>
+        <text>utf-16-le</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaWxpYmlsaVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlsZV9uYW1lID0gJzIwMjAwNjMwX2luc3RhcGFwZXJfZXhwb3J0Lmpzb24nCg==</text>
+        <text encoding="base64">ZmlsZV9uZXcgPSBvcGVuKGZmZmZpbGVfbmFtZSwgbW9kZT0ndycsIGVuY29kaW5nPSd1dGYtMTYtbGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkcml2ZXIuZ2V0KGxpbmtbJ3VybCddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -598,28 +605,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnYmlsaWJpbGknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkcml2ZXIuZ2V0KGxpbmtbJ3VybCddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnaHR0cCcK</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnYmlsaWJpbGknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnaW5mb3EnCg==</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnaHR0cCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAndDY2eScK</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnaW5mb3EnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyB3ZWJfbmFtZSA9ICd2MmV4Jwo=</text>
+        <text encoding="base64">d2ViX25hbWUgPSAndDY2eScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnY25iZXRhJwo=</text>
+        <text encoding="base64">IyB3ZWJfbmFtZSA9ICd2MmV4Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">anNvbl9maWxlID0gJzIwMjAwNjI4X2luc3RhcGFwZXJfZXhwb3J0Lmpzb24nCg==</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnY25iZXRhJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">anNvbl9maWxlID0gJzIwMjAwNjI4X2luc3RhcGFwZXJfZXhwb3J0Lmpzb24nCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
