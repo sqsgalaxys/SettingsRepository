@@ -11,12 +11,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="174" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/onetab.txt" timestamp="1592833752861">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/start_script.py" timestamp="1593612577433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,6 +64,9 @@
       </file>
       <file name="/sqlite_master [dev.db]" timestamp="1559973616105">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export.json" timestamp="1593704845445">
+        <mark key="'" line="230" column="57" />
       </file>
       <file name="$USER_HOME$/Downloads/shell_project/bili_foll/empty_opml.sh" timestamp="1592044937326">
         <mark key="[" line="2" column="0" />
@@ -126,6 +123,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" timestamp="1593704851291">
+        <mark key="'" line="3103" column="57" />
+      </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/GiftController.java" timestamp="1552310412221">
         <mark key="[" line="97" column="55" />
         <mark key="]" line="97" column="55" />
@@ -141,14 +141,15 @@
         <mark key="." line="134" column="0" />
         <mark key="^" line="57" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" timestamp="1592720310026">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-      </file>
       <file name="/server [@m.n]" timestamp="1552307799249">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/merge_json/merge_json.py" timestamp="1593704683976">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="8" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/test.py" timestamp="1593358118041">
         <mark key="'" line="46" column="21" />
@@ -224,7 +225,7 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1593107503865">
+      <file name="/Python Console" timestamp="1593704476005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/shell_project/bili_foll/head_opml.sh" timestamp="1592045209129">
@@ -322,7 +323,7 @@
       <file name="/followers_assoc [dev.db]" timestamp="1559973614987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593612622066">
+      <file name="/Dummy.txt" timestamp="1593704822964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/exception/MemberRemainCountNotEnoughException.java" timestamp="1552319411798">
@@ -331,7 +332,7 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1593618901991">
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1593704563849">
         <mark key="'" line="18" column="12" />
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="7" />
@@ -346,12 +347,6 @@
         <mark key="]" line="16" column="23" />
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/Downloads/shell_project/bili_foll/me_21309221_followings.opml" timestamp="1592046253262">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/ssum [@m.n]" timestamp="1552497619187">
         <mark key="[" line="0" column="0" />
@@ -407,19 +402,15 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/add_bom/add_bom.py" timestamp="1593703827286">
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/add_bom/add_bom.py" timestamp="1593704311117">
         <mark key="'" line="17" column="23" />
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="54" />
-        <mark key="^" line="28" column="54" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/Beautiful Soup 4.4.0 文档 — Beautiful Soup 4.2.0 documentation.webloc" timestamp="1592832844436">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="73" />
       </file>
       <file name="/fragment.java" timestamp="1562769140753">
         <mark key="[" line="0" column="0" />
@@ -432,11 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="93" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
-      <jump line="15" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
-      <jump line="60" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
-      <jump line="99" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
       <jump line="100" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
       <jump line="167" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
       <jump line="166" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
@@ -532,6 +518,11 @@
       <jump line="20" column="12" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" />
       <jump line="18" column="22" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200629_instapaper_export.json" />
       <jump line="15" column="23" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/add_bom/add_bom.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Downloads/github/me_project/merge_json/merge_json.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Downloads/github/me_project/merge_json/merge_json.py" />
+      <jump line="230" column="57" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export.json" />
+      <jump line="165" column="60" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" />
+      <jump line="3103" column="57" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -579,19 +570,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>utf-16-le</text>
+        <text>old_list</text>
       </register>
       <register name="-" type="4">
-        <text>utf-16-le</text>
+        <text>old_json_list['bookmarks']['unread']['bookmarks']</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWxpYmlsaVw+</text>
+        <text encoding="base64">XDwyNDE4OTdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmlsZV9uZXcgPSBvcGVuKGZmZmZpbGVfbmFtZSwgbW9kZT0ndycsIGVuY29kaW5nPSd1dGYtMTYtbGUnKQo=</text>
+      <register name="0" type="4">
+        <text>old_list</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgLSotIGNvZGluZzogVVRGLTggLSotCgppbXBvcnQgb3MKaW1wb3J0IHRpbWUKCmltcG9ydCBqc29uCmltcG9ydCBwbGF0Zm9ybQppbXBvcnQgd2ViYnJvd3NlcgoKIyBmcm9tIHNlbGVuaXVtIGltcG9ydCB3ZWJkcml2ZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -605,39 +596,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkcml2ZXIuZ2V0KGxpbmtbJ3VybCddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnYmlsaWJpbGknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkcml2ZXIuZ2V0KGxpbmtbJ3VybCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnaHR0cCcK</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnYmlsaWJpbGknCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnaW5mb3EnCg==</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnaHR0cCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAndDY2eScK</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnaW5mb3EnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB3ZWJfbmFtZSA9ICd2MmV4Jwo=</text>
+        <text encoding="base64">d2ViX25hbWUgPSAndDY2eScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnY25iZXRhJwo=</text>
+        <text encoding="base64">IyB3ZWJfbmFtZSA9ICd2MmV4Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">anNvbl9maWxlID0gJzIwMjAwNjI4X2luc3RhcGFwZXJfZXhwb3J0Lmpzb24nCg==</text>
+        <text encoding="base64">d2ViX25hbWUgPSAnY25iZXRhJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWxpYmlsaVw+</last-search>
+      <last-search encoding="base64">XDwyNDE4OTdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWxpYmlsaVw+</last-pattern>
-      <last-replace>\rhttp</last-replace>
-      <last-substitute>http</last-substitute>
+      <last-pattern encoding="base64">XDwyNDE4OTdcPg==</last-pattern>
+      <last-replace>new</last-replace>
+      <last-substitute>old</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -663,6 +654,8 @@
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxiaWxpYmlsaVw+</entry>
+        <entry>old</entry>
+        <entry encoding="base64">XDwyNDE4OTdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub3JtYWwgQSAvLw==</entry>
@@ -685,6 +678,7 @@
         <entry>47</entry>
         <entry>wq</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
