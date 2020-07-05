@@ -298,7 +298,7 @@
         <mark key="^" line="169" column="19" />
         <mark key="." line="169" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1593941736195">
+      <file name="/dummy.sql" timestamp="1593948468187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/web/TransactionRecordController.java" timestamp="1552489444971">
@@ -380,11 +380,11 @@
       <file name="/users [dev.db]" timestamp="1559973623331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52674ef6-38ba-4971-85c3-bb11866e0491/console.sql" timestamp="1593938488036">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52674ef6-38ba-4971-85c3-bb11866e0491/console.sql" timestamp="1593948464023">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/service/GiftService.java" timestamp="1552322149678">
         <mark key="[" line="73" column="0" />
@@ -420,7 +420,7 @@
       <file name="/tag_assoc [dev.db]" timestamp="1559973619653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/english_book_bak [raspberrypi]" timestamp="1593909948219">
+      <file name="/english_book_bak [raspberrypi]" timestamp="1593948467858">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -571,8 +571,8 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZW5nbGlzaF9ib29rOwo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -581,7 +581,7 @@
         <text encoding="base64">XDwyNDE4OTdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbmdsaXNoX2Jvb2sgd2hlcmUgdGl0bGUgbGlrZSAnUHlUb3JjaCcK</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZW5nbGlzaF9ib29rOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">d2ViX25hbWUgPSAndjJleCcK</text>
