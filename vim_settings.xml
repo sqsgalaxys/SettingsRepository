@@ -116,11 +116,11 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import.py" timestamp="1594474888058">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="68" />
-        <mark key="." line="33" column="70" />
-        <mark key="^" line="34" column="68" />
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import.py" timestamp="1594478493193">
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="36" column="63" />
+        <mark key="." line="36" column="63" />
+        <mark key="^" line="36" column="61" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" timestamp="1594456401715">
         <mark key="'" line="3" column="28" />
@@ -187,8 +187,8 @@
       <file name="/userprofile [dev.db]" timestamp="1559973622123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" timestamp="1594461105425">
-        <mark key="'" line="438" column="0" />
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" timestamp="1594478539213">
+        <mark key="'" line="285" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,14 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="11" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="25" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="29" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="200" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="201" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="206" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="220" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
       <jump line="223" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
       <jump line="232" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
       <jump line="234" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
@@ -319,6 +311,14 @@
       <jump line="439" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
       <jump line="13" column="37" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
       <jump line="9" column="32" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="11" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="437" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="324" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="302" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="32" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="278" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="286" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,19 +366,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name="-" type="4">
-        <text>file_name</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>\,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmZmaWxlX25hbWUgPSBvcy5wYXRoLmpvaW4oX19sb2NhdGlvbl9fLCBmaWxlX25hbWUpCg==</text>
+      <register name="0" type="4">
+        <text>round(float(row[8]) - float(row[6]) * float(row[7]), 2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,28 +392,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Uk9PVF9ESVIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQo=</text>
+        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Uk9PVF9ESVIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgc3RyKHJvdW5kKGZsb2F0KHJvd1s4XSkgLSBmbG9hdChyb3dbNl0pICogZmxvYXQocm93WzNdKSkpICE9ICcwLjAnOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Uk9PVF9ESVIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpQUklDRV9QQVRIID0gb3MucGF0aC5qb2luKFJPT1RfRElSLCAibGVkZ2VyIiwgInByaWNlcy5iZWFuY291bnQiKQo=</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoUFJJQ0VfUEFUSCkK</text>
+        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoUk9PVF9ESVIpCg==</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoT05FX0RBWSkK</text>
+        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkK</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZlZSA9IHN0cihyb3VuZChmbG9hdChyb3dbMTBdKSArIGZsb2F0KHJvd1sxMV0pICsgZmxvYXQocm93WzEyXSkgKyBmbG9hdChyb3dbMTNdKSwgNikpCg==</text>
+        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -480,6 +480,8 @@
         <entry encoding="base64">JzwsJz5zL1wsLyxcci9n</entry>
         <entry>34</entry>
         <entry>action Find</entry>
+        <entry>26</entry>
+        <entry>38</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
