@@ -45,11 +45,6 @@
       <file name="/article [dev.db]" timestamp="1559973610719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/onetab_mac.txt" timestamp="1592918595381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" timestamp="1593704851291">
         <mark key="'" line="3103" column="57" />
       </file>
@@ -73,6 +68,13 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/me.bean" timestamp="1594452870249" />
+      <file name="$USER_HOME$/Downloads/github/me_project/ledger/prices.beancount" timestamp="1594483478561">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="/member [@m.n]" timestamp="1552501723707">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,9 +94,11 @@
       <file name="/investmentholdings [moneywiz-release.db]" timestamp="1594458200393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" timestamp="1594471250537">
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" timestamp="1594481953716">
+        <mark key="'" line="70" column="34" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
+        <mark key="]" line="0" column="78" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200623_instapaper_export.json" timestamp="1593353939121">
         <mark key="'" line="19" column="22" />
@@ -108,19 +112,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593909629753">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1594475480694">
+      <file name="/Python Console" timestamp="1594482850896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1594475502213">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import.py" timestamp="1594478493193">
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="36" column="63" />
-        <mark key="." line="36" column="63" />
-        <mark key="^" line="36" column="61" />
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import.py" timestamp="1594481988429">
+        <mark key="[" line="15" column="94" />
+        <mark key="]" line="15" column="94" />
+        <mark key="." line="15" column="94" />
+        <mark key="^" line="15" column="95" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" timestamp="1594456401715">
         <mark key="'" line="3" column="28" />
@@ -132,11 +131,12 @@
       <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/caf_core_src/com/skynet/bootstrap/AppEntrance.java" timestamp="1562678174864">
         <mark key="[" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" timestamp="1594475633908">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" timestamp="1594483520058">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_hb_stock.bean" timestamp="1594460707981">
         <mark key="'" line="433" column="0" />
@@ -158,11 +158,6 @@
       </file>
       <file name="/comment [dev.db]" timestamp="1559973612532">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_web_count.py" timestamp="1593619261877">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
       </file>
       <file name="/dummy.sql" timestamp="1594458202794">
         <mark key="[" line="0" column="0" />
@@ -187,8 +182,8 @@
       <file name="/userprofile [dev.db]" timestamp="1559973622123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" timestamp="1594478539213">
-        <mark key="'" line="285" column="0" />
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" timestamp="1594481745784">
+        <mark key="'" line="399" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -199,9 +194,16 @@
       <file name="/investmenthistory [moneywiz-release.db]" timestamp="1594458202562">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52674ef6-38ba-4971-85c3-bb11866e0491/console.sql" timestamp="1593950323318">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
       <file name="/favoritor_assoc [dev.db]" timestamp="1559973613800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126/builtins.py" timestamp="1594483162818" />
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/src/main/java/cn/lger/dao/SsumViewDao.java" timestamp="1552487669595">
         <mark key="[" line="18" column="0" />
       </file>
@@ -219,30 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="232" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="234" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="293" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="328" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="400" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="412" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="511" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="512" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="541" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="581" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="587" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="608" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="609" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="649" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="657" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="666" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="761" column="21" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="15" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="16" column="2" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="17" column="2" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="18" column="2" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="19" column="2" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="139" column="26" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="141" column="29" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="144" column="25" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="146" column="29" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
@@ -319,6 +297,30 @@
       <jump line="32" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
       <jump line="278" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
       <jump line="286" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="274" column="49" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="79" column="48" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="154" column="49" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="160" column="49" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="190" column="49" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="196" column="49" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="46" column="38" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="250" column="19" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="77" column="61" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="98" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="379" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="14" column="39" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="110" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="400" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="70" column="34" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
+      <jump line="26" column="14" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="50" column="14" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="27" column="30" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="29" column="19" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -365,20 +367,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
+      <register name="&quot;" type="4">
+        <text>###</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>###</text>
       </register>
       <register name="/" type="4">
-        <text>\,</text>
+        <text encoding="base64">XDxQUklDRV9QQVRIXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>round(float(row[8]) - float(row[6]) * float(row[7]), 2)</text>
+        <text>seek</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
+        <text encoding="base64">IyMjIyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,16 +394,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgc3RyKHJvdW5kKGZsb2F0KHJvd1s4XSkgLSBmbG9hdChyb3dbNl0pICogZmxvYXQocm93WzNdKSkpICE9ICcwLjAnOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZoYW5kbGVyLnNlZWsoLTEwMDAsIG9zLlNFRUtfU0VUKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZoYW5kbGVyLnNlZWsoLTEwMDAsIG9zLlNFRUtfQ1VSKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
+        <text encoding="base64">IyMjIyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
@@ -410,21 +412,21 @@
         <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
+        <text encoding="base64">5Lqk5pS25pel5pyfLOWPkeeUn+aXpeacnyzlj5HnlJ/ml7bpl7Qs6K+B5Yi45Luj56CBLOivgeWIuOWQjeensCzkubDljZbnsbvliKss5oiQ5Lqk5pWw6YePLOaIkOS6pOS7t+agvCzmiJDkuqTph5Hpop0s5Y+R55Sf6YeR6aKdLOS9o+mHkSzkuqTmmJPop4TotLks5Y2w6Iqx56iOLOi/h+aIt+i0uSzogqHnpajkvZnpop0s6LWE6YeR5L2Z6aKdLOW4geenjQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAxCg==</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>28</text>
       </register>
     </registers>
     <search>
-      <last-search>\,</last-search>
+      <last-search encoding="base64">XDxQUklDRV9QQVRIXD4=</last-search>
       <last-offset />
-      <last-pattern>\,</last-pattern>
-      <last-replace>,\r</last-replace>
-      <last-substitute>\,</last-substitute>
+      <last-pattern encoding="base64">XDxQUklDRV9QQVRIXD4=</last-pattern>
+      <last-replace>,000681,</last-replace>
+      <last-substitute>,681,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -452,6 +454,10 @@
         <entry encoding="base64">XDwyNDE4OTdcPg==</entry>
         <entry>,\/r</entry>
         <entry>\,</entry>
+        <entry encoding="base64">XDxDTl81MTAzMDBcPg==</entry>
+        <entry encoding="base64">XDw1MTAxODBcPg==</entry>
+        <entry>,681,</entry>
+        <entry encoding="base64">XDxQUklDRV9QQVRIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -470,7 +476,6 @@
         <entry>4</entry>
         <entry>20</entry>
         <entry>47</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyxcL3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wsL1xuL2c=</entry>
@@ -479,10 +484,16 @@
         <entry encoding="base64">JzwsJz5zL1wsL1xyLC9n</entry>
         <entry encoding="base64">JzwsJz5zL1wsLyxcci9n</entry>
         <entry>34</entry>
-        <entry>action Find</entry>
         <entry>26</entry>
         <entry>38</entry>
+        <entry>251</entry>
+        <entry>sort</entry>
+        <entry>wq</entry>
+        <entry>action Find</entry>
+        <entry>%s/,681,/,000681,/g</entry>
         <entry>w</entry>
+        <entry>64</entry>
+        <entry>28</entry>
       </history-cmd>
       <history-expr />
       <history-input />

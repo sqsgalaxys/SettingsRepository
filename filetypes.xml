@@ -5,6 +5,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping ext="beancount" type="PLAIN_TEXT" />
       <mapping ext="bean" type="PLAIN_TEXT" />
       <mapping ext="opml" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
