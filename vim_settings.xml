@@ -33,8 +33,11 @@
       <file name="/member_grade [@m.n]" timestamp="1552307544573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/import_hb_stock.bean" timestamp="1594456539236">
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/import_hb_stock.bean" timestamp="1594485216966">
+        <mark key="'" line="234" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/transactions [moneywiz-release.db]" timestamp="1594451853681">
         <mark key="[" line="0" column="0" />
@@ -182,7 +185,7 @@
       <file name="/userprofile [dev.db]" timestamp="1559973622123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" timestamp="1594481745784">
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" timestamp="1594485125798">
         <mark key="'" line="399" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -219,12 +222,11 @@
       <file name="/english_book_bak [raspberrypi]" timestamp="1593948467858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/SELECT_Amount_Date_Date___Fee_PricePerSh.csv" timestamp="1594485169557">
+        <mark key="'" line="1" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="25" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="146" column="29" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="151" column="53" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="191" column="12" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="192" column="12" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="193" column="10" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="207" column="22" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
@@ -310,7 +312,6 @@
       <jump line="379" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
       <jump line="14" column="39" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
       <jump line="110" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
-      <jump line="400" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
       <jump line="70" column="34" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/export_east.csv" />
       <jump line="26" column="14" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
       <jump line="50" column="14" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
@@ -321,6 +322,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
       <jump line="52" column="4" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="400" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/import_east_stock.bean" />
+      <jump line="13" column="17" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/SELECT_Amount_Date_Date___Fee_PricePerSh.csv" />
+      <jump line="2" column="17" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/SELECT_Amount_Date_Date___Fee_PricePerSh.csv" />
+      <jump line="39" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/SELECT_Amount_Date_Date___Fee_PricePerSh.csv" />
+      <jump line="235" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_hb_stock/import_hb_stock.bean" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -367,8 +373,8 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>###</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9oYl9zdG9jay9pbXBvcnQucHkK</text>
       </register>
       <register name="-" type="4">
         <text>###</text>
@@ -380,7 +386,7 @@
         <text>seek</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9oYl9zdG9jay9pbXBvcnQucHkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,31 +400,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZoYW5kbGVyLnNlZWsoLTEwMDAsIG9zLlNFRUtfU0VUKQo=</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZoYW5kbGVyLnNlZWsoLTEwMDAsIG9zLlNFRUtfQ1VSKQo=</text>
+        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">IyMjIyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZoYW5kbGVyLnNlZWsoLTEwMDAsIG9zLlNFRUtfU0VUKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5Lqk5pS25pel5pyfLOWPkeeUn+aXpeacnyzlj5HnlJ/ml7bpl7Qs6K+B5Yi45Luj56CBLOivgeWIuOWQjeensCzkubDljZbnsbvliKss5oiQ5Lqk5pWw6YePLOaIkOS6pOS7t+agvCzmiJDkuqTph5Hpop0s5Y+R55Sf6YeR6aKdLOS9o+mHkSzkuqTmmJPop4TotLks5Y2w6Iqx56iOLOi/h+aIt+i0uSzogqHnpajkvZnpop0s6LWE6YeR5L2Z6aKdLOW4geenjQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZoYW5kbGVyLnNlZWsoLTEwMDAsIG9zLlNFRUtfQ1VSKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9DZWxsYXIvcHl0aG9uQDMuOC8zLjguM18yL2Jpbi9weXRob24zIC9Vc2Vycy9zcXNnYWxheHlzL0Rvd25sb2Fkcy9naXRodWIvbWVfcHJvamVjdC9iZWFuY291bnRfZmF2YS9pbXBvcnRfZnJvbV9tb25leXdpel9lYXN0X3N0b2NrL2ltcG9ydC5weQo=</text>
+        <text encoding="base64">IyMjIyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
       </register>
       <register name=":" type="4">
-        <text>28</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -492,9 +498,9 @@
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry>%s/,681,/,000681,/g</entry>
-        <entry>w</entry>
         <entry>64</entry>
         <entry>28</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
