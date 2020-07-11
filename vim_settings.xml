@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/OneDrive/MeProjects/membership/TODO.md" timestamp="1552501024726">
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="/start_script.py" timestamp="1593612577433">
+      <file name="/start_script.py" timestamp="1594454774119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1593358187050">
@@ -33,16 +33,14 @@
       <file name="/member_grade [@m.n]" timestamp="1552307544573">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/transactions [moneywiz-release.db]" timestamp="1594451853681">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/admin [@m.n]" timestamp="1552143019501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/article [dev.db]" timestamp="1559973610719">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/onetab_mac.txt" timestamp="1592918595381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" timestamp="1593704851291">
         <mark key="'" line="3103" column="57" />
@@ -53,6 +51,13 @@
       <file name="/server [@m.n]" timestamp="1552307799249">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" timestamp="1594453318245">
+        <mark key="'" line="6" column="67" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/github/me_project/merge_json/merge_json.py" timestamp="1593704683976">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="24" column="0" />
@@ -60,6 +65,7 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/me.bean" timestamp="1594452870249" />
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/test.py" timestamp="1593358118041">
         <mark key="'" line="46" column="21" />
         <mark key="[" line="46" column="45" />
@@ -79,13 +85,6 @@
       <file name="/exchange_record [@m.n]" timestamp="1552308041509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" timestamp="1593950372350">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="51" column="16" />
-        <mark key="." line="51" column="16" />
-        <mark key="^" line="51" column="16" />
-      </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200623_instapaper_export.json" timestamp="1593353939121">
         <mark key="'" line="19" column="22" />
       </file>
@@ -101,10 +100,11 @@
       <file name="/Python Console" timestamp="1593704476005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1593106228941">
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" timestamp="1594454712619">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/caf_core_src/com/skynet/bootstrap/AppEntrance.java" timestamp="1562678174864">
         <mark key="[" line="19" column="71" />
@@ -131,18 +131,13 @@
       <file name="/comment [dev.db]" timestamp="1559973612532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_web_count.py" timestamp="1593619261877">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-      </file>
-      <file name="/dummy.sql" timestamp="1593948468187">
+      <file name="/dummy.sql" timestamp="1594451907868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/followers_assoc [dev.db]" timestamp="1559973614987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593961514808">
+      <file name="/Dummy.txt" timestamp="1594454380230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1593704563849">
@@ -197,14 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
-      <jump line="167" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/bak_20200609_instapaper-export.html" />
-      <jump line="166" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="169" column="95" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="172" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="173" column="102" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
-      <jump line="14" column="6" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
-      <jump line="3882" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
       <jump line="181" column="97" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200609_instapaper-export.html" />
       <jump line="122" column="61" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="166" column="22" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
@@ -297,6 +284,14 @@
       <jump line="230" column="57" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export.json" />
       <jump line="165" column="60" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" />
       <jump line="3103" column="57" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/20200630_instapaper_export.json" />
+      <jump line="8" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
+      <jump line="45" column="21" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/main.bean" />
+      <jump line="40" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/main.bean" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
+      <jump line="7" column="67" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
+      <jump line="18" column="46" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" />
+      <jump line="8" column="24" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -344,19 +339,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZW5nbGlzaF9ib29rOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNzdgoKd2l0aCBvcGVuKCdidGMuY3N2JykgYXMgY3N2RGF0YUZpbGU6CiAgICBjc3ZSZWFkZXIgPSBjc3YucmVhZGVyKGNzdkRhdGFGaWxlKQogICAgZm9yIHJvdyBpbiBjc3ZSZWFkZXI6CiAgICAgICAgeXltbWRkLGhobW1zcyA9IHJvd1swXS5zcGxpdCgiICIpCiAgICAgICAgYW1vdW50ID0gZmxvYXQocm93WzJdKQogICAgICAgIHByaWNlID0gZmxvYXQocm93WzNdKQogICAgICAgIGNhbGMgPSBhbW91bnQqcHJjCiAgICAgICAgY2FsYzIgPSBmbG9hdCgiJS4yZiIgJSBjYWxjKWltcG9ydCBjc3YKCndpdGggb3BlbignYnRjLmNzdicpIGFzIGNzdkRhdGFGaWxlOgogICAgY3N2UmVhZGVyID0gY3N2LnJlYWRlcihjc3ZEYXRhRmlsZSkKICAgIGZvciByb3cgaW4gY3N2UmVhZGVyOgogICAgICAgIHl5bW1kZCxoaG1tc3MgPSByb3dbMF0uc3BsaXQoIiAiKQogICAgICAgIGFtb3VudCA9IGZsb2F0KHJvd1syXSkKICAgICAgICBwcmljZSA9IGZsb2F0KHJvd1szXSkKICAgICAgICBjYWxjID0gYW1vdW50KnByaWNlCiAgICAgICAgY2FsYzIgPSBmbG9hdCgiJS4yZiIgJSBjYWxjKQogICAgICAgIGlmIHJvd1sxXSA9PSAiQml0c3RhbXA1IGJ1eSI6CiAgICAgICAgICAgIHByaW50KHl5bW1kZCwiKiIsJyInK3Jvd1sxXSsnIicrIlxuIiwKICAgICAgICAgICAgICAgICAgIiAgIEFzc2V0czpCaXRjb2luOkJUQyIsIiAgICAgIixyb3dbMl0sICJCVEMiLCAieyIrcm93WzNdKyJ9IiwiQCIscm93WzNdLCJVU0QiKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBBc3NldHM6Qml0Y29pbjpVU0QiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLGNhbGMyLCJVU0QiKyJcbiIpCiAgICAgICAgZWxpZiByb3dbMV0gPT0gIkJpdHN0YW1wNSBzZWxsIjoKICAgICAgICAgICAgcHJpbnQoeXltbWRkLCIqIiwnIicrcm93WzFdKyciJysiXG4iLAogICAgICAgICAgICAgICAgICAiICAgQXNzZXRzOkJpdGNvaW46QlRDIiwiICAgICAiLHJvd1syXSwgIkJUQyIsICJ7IiJ9IiwiQCIscm93WzNdLCJVU0QiKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBBc3NldHM6Qml0Y29pbjpVU0QiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLGNhbGMyLCJVU0QiKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBJbmNvbWU6Q2FwaXRhbC1nYWlucyIrIlxuIikKICAgICAgICBpZiByb3dbMV0gPT0gIkJpdHN0YW1wNSBidXkiOgogICAgICAgICAgICBwcmludCh5eW1tZGQsIioiLCciJytyb3dbMV0rJyInKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBBc3NldHM6Qml0Y29pbjpCVEMiLCIgICAgICIscm93WzJdLCAiQlRDIiwgInsiK3Jvd1szXSsifSIsIkAiLHJvd1szXSwiVVNEIisiXG4iLAogICAgICAgICAgICAgICAgICAiICAgQXNzZXRzOkJpdGNvaW46VVNEIiwiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIixjYWxjMiwiVVNEIisiXG4iKQogICAgICAgIGVsaWYgcm93WzFdID09ICJCaXRzdGFtcDUgc2VsbCI6CiAgICAgICAgICAgIHByaW50KHl5bW1kZCwiKiIsJyInK3Jvd1sxXSsnIicrIlxuIiwKICAgICAgICAgICAgICAgICAgIiAgIEFzc2V0czpCaXRjb2luOkJUQyIsIiAgICAgIixyb3dbMl0sICJCVEMiLCAieyIifSIsIkAiLHJvd1szXSwiVVNEIisiXG4iLAogICAgICAgICAgICAgICAgICAiICAgQXNzZXRzOkJpdGNvaW46VVNEIiwiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIixjYWxjMiwiVVNEIisiXG4iLAogICAgICAgICAgICAgICAgICAiICAgSW5jb21lOkNhcGl0YWwtZ2FpbnMiKyJcbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyNDE4OTdcPg==</text>
+        <text>\,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZW5nbGlzaF9ib29rOwo=</text>
+        <text encoding="base64">U0VMRUNUIEFtb3VudCxEYXRlKERhdGUpLCBGZWUsUHJpY2VQZXJTaGFyZSxTeW1ib2wgRlJPTSBUcmFuc2FjdGlvbnMgdApXSEVSRSBBY2NvdW50SWQgPSA0OQogIGFuZCBGZWUgSVMgTk9UIE5VTEwgb3JkZXIgYnkgRGF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAndjJleCcK</text>
+        <text encoding="base64">aW1wb3J0IGNzdgoKd2l0aCBvcGVuKCdidGMuY3N2JykgYXMgY3N2RGF0YUZpbGU6CiAgICBjc3ZSZWFkZXIgPSBjc3YucmVhZGVyKGNzdkRhdGFGaWxlKQogICAgZm9yIHJvdyBpbiBjc3ZSZWFkZXI6CiAgICAgICAgeXltbWRkLGhobW1zcyA9IHJvd1swXS5zcGxpdCgiICIpCiAgICAgICAgYW1vdW50ID0gZmxvYXQocm93WzJdKQogICAgICAgIHByaWNlID0gZmxvYXQocm93WzNdKQogICAgICAgIGNhbGMgPSBhbW91bnQqcHJjCiAgICAgICAgY2FsYzIgPSBmbG9hdCgiJS4yZiIgJSBjYWxjKWltcG9ydCBjc3YKCndpdGggb3BlbignYnRjLmNzdicpIGFzIGNzdkRhdGFGaWxlOgogICAgY3N2UmVhZGVyID0gY3N2LnJlYWRlcihjc3ZEYXRhRmlsZSkKICAgIGZvciByb3cgaW4gY3N2UmVhZGVyOgogICAgICAgIHl5bW1kZCxoaG1tc3MgPSByb3dbMF0uc3BsaXQoIiAiKQogICAgICAgIGFtb3VudCA9IGZsb2F0KHJvd1syXSkKICAgICAgICBwcmljZSA9IGZsb2F0KHJvd1szXSkKICAgICAgICBjYWxjID0gYW1vdW50KnByaWNlCiAgICAgICAgY2FsYzIgPSBmbG9hdCgiJS4yZiIgJSBjYWxjKQogICAgICAgIGlmIHJvd1sxXSA9PSAiQml0c3RhbXA1IGJ1eSI6CiAgICAgICAgICAgIHByaW50KHl5bW1kZCwiKiIsJyInK3Jvd1sxXSsnIicrIlxuIiwKICAgICAgICAgICAgICAgICAgIiAgIEFzc2V0czpCaXRjb2luOkJUQyIsIiAgICAgIixyb3dbMl0sICJCVEMiLCAieyIrcm93WzNdKyJ9IiwiQCIscm93WzNdLCJVU0QiKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBBc3NldHM6Qml0Y29pbjpVU0QiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLGNhbGMyLCJVU0QiKyJcbiIpCiAgICAgICAgZWxpZiByb3dbMV0gPT0gIkJpdHN0YW1wNSBzZWxsIjoKICAgICAgICAgICAgcHJpbnQoeXltbWRkLCIqIiwnIicrcm93WzFdKyciJysiXG4iLAogICAgICAgICAgICAgICAgICAiICAgQXNzZXRzOkJpdGNvaW46QlRDIiwiICAgICAiLHJvd1syXSwgIkJUQyIsICJ7IiJ9IiwiQCIscm93WzNdLCJVU0QiKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBBc3NldHM6Qml0Y29pbjpVU0QiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLGNhbGMyLCJVU0QiKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBJbmNvbWU6Q2FwaXRhbC1nYWlucyIrIlxuIikKICAgICAgICBpZiByb3dbMV0gPT0gIkJpdHN0YW1wNSBidXkiOgogICAgICAgICAgICBwcmludCh5eW1tZGQsIioiLCciJytyb3dbMV0rJyInKyJcbiIsCiAgICAgICAgICAgICAgICAgICIgICBBc3NldHM6Qml0Y29pbjpCVEMiLCIgICAgICIscm93WzJdLCAiQlRDIiwgInsiK3Jvd1szXSsifSIsIkAiLHJvd1szXSwiVVNEIisiXG4iLAogICAgICAgICAgICAgICAgICAiICAgQXNzZXRzOkJpdGNvaW46VVNEIiwiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIixjYWxjMiwiVVNEIisiXG4iKQogICAgICAgIGVsaWYgcm93WzFdID09ICJCaXRzdGFtcDUgc2VsbCI6CiAgICAgICAgICAgIHByaW50KHl5bW1kZCwiKiIsJyInK3Jvd1sxXSsnIicrIlxuIiwKICAgICAgICAgICAgICAgICAgIiAgIEFzc2V0czpCaXRjb2luOkJUQyIsIiAgICAgIixyb3dbMl0sICJCVEMiLCAieyIifSIsIkAiLHJvd1szXSwiVVNEIisiXG4iLAogICAgICAgICAgICAgICAgICAiICAgQXNzZXRzOkJpdGNvaW46VVNEIiwiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIixjYWxjMiwiVVNEIisiXG4iLAogICAgICAgICAgICAgICAgICAiICAgSW5jb21lOkNhcGl0YWwtZ2FpbnMiKyJcbiIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,39 +365,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgLSotIGNvZGluZzogVVRGLTggLSotCgppbXBvcnQgb3MKaW1wb3J0IHRpbWUKCmltcG9ydCBqc29uCmltcG9ydCBwbGF0Zm9ybQppbXBvcnQgd2ViYnJvd3NlcgoKIyBmcm9tIHNlbGVuaXVtIGltcG9ydCB3ZWJkcml2ZXIK</text>
+        <text encoding="base64">ICAgIFsyMDIwLTA3LTExIDE1OjE4OjA4XSAxNTEgcm93cyByZXRyaWV2ZWQgc3RhcnRpbmcgZnJvbSAxIGluIDIxMyBtcyAoZXhlY3V0aW9uOiAxMSBtcywgZmV0Y2hpbmc6IDIwMiBtcykKICAgIHNxbD4gU0VMRUNUIHQuKiBGUk9NIFRyYW5zYWN0aW9ucyB0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgTElNSVQgNTAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkcml2ZXIuZ2V0KGxpbmtbJ3VybCddKQo=</text>
+        <text encoding="base64">ICAgTElNSVQgNTAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnYmlsaWJpbGknCg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZW5nbGlzaF9ib29rOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnaHR0cCcK</text>
+        <text encoding="base64">d2ViX25hbWUgPSAndjJleCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAnaW5mb3EnCg==</text>
+        <text encoding="base64">CiMgLSotIGNvZGluZzogVVRGLTggLSotCgppbXBvcnQgb3MKaW1wb3J0IHRpbWUKCmltcG9ydCBqc29uCmltcG9ydCBwbGF0Zm9ybQppbXBvcnQgd2ViYnJvd3NlcgoKIyBmcm9tIHNlbGVuaXVtIGltcG9ydCB3ZWJkcml2ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2ViX25hbWUgPSAndDY2eScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB3ZWJfbmFtZSA9ICd2MmV4Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkcml2ZXIuZ2V0KGxpbmtbJ3VybCddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyNDE4OTdcPg==</last-search>
+      <last-search>\,</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyNDE4OTdcPg==</last-pattern>
-      <last-replace>new</last-replace>
-      <last-substitute>old</last-substitute>
+      <last-pattern>\,</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>\,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -428,6 +423,8 @@
         <entry encoding="base64">XDxiaWxpYmlsaVw+</entry>
         <entry>old</entry>
         <entry encoding="base64">XDwyNDE4OTdcPg==</entry>
+        <entry>,\/r</entry>
+        <entry>\,</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -438,7 +435,6 @@
         <entry>5</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameElement</entry>
-        <entry>w</entry>
         <entry>167</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHAvXHJodHRwL2c=</entry>
         <entry>sort u</entry>
@@ -450,6 +446,13 @@
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyxcL3IvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1wsL1xuL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wsL1xybi9n</entry>
+        <entry encoding="base64">JzwsJz5zL1wsL1xyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wsL1xyLC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1wsLyxcci9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

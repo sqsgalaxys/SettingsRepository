@@ -81,7 +81,7 @@
       <option name="send-app-info" value="true" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.31.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
