@@ -131,8 +131,8 @@
       <file name="$USER_HOME$/Downloads/java_erp/retailscm-biz-suite/bizcore/WEB-INF/caf_core_src/com/skynet/bootstrap/AppEntrance.java" timestamp="1562678174864">
         <mark key="[" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" timestamp="1594483520058">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" timestamp="1594484251074">
+        <mark key="'" line="52" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="1" column="0" />
@@ -221,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="29" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="144" column="25" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="146" column="29" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
       <jump line="151" column="53" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/instapaper_export_parse.py" />
@@ -321,6 +320,7 @@
       <jump line="29" column="19" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/update-prices.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -374,7 +374,7 @@
         <text>###</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUklDRV9QQVRIXD4=</text>
+        <text encoding="base64">XDxnZXRfZXhpc3RlZF9zeW1ib2xfZGF0ZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>seek</text>
@@ -422,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQUklDRV9QQVRIXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfZXhpc3RlZF9zeW1ib2xfZGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUklDRV9QQVRIXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfZXhpc3RlZF9zeW1ib2xfZGF0ZXNcPg==</last-pattern>
       <last-replace>,000681,</last-replace>
       <last-substitute>,681,</last-substitute>
       <last-dir>1</last-dir>
@@ -458,6 +458,7 @@
         <entry encoding="base64">XDw1MTAxODBcPg==</entry>
         <entry>,681,</entry>
         <entry encoding="base64">XDxQUklDRV9QQVRIXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZXhpc3RlZF9zeW1ib2xfZGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
