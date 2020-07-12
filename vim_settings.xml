@@ -69,8 +69,8 @@
       <file name="/server [@m.n]" timestamp="1552307799249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" timestamp="1594457324879">
-        <mark key="'" line="16" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" timestamp="1594550699636">
+        <mark key="'" line="7" column="3" />
         <mark key="[" line="25" column="20" />
         <mark key="]" line="25" column="27" />
         <mark key="." line="25" column="27" />
@@ -305,7 +305,6 @@
       <jump line="40" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/main.bean" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
-      <jump line="7" column="67" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
       <jump line="18" column="46" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" />
       <jump line="8" column="24" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" />
       <jump line="4" column="28" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/import.py" />
@@ -364,6 +363,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/main.bean" />
       <jump line="16" column="29" filename="$USER_HOME$/Downloads/beancount-boilerplate-cn/ledger/main.beancount" />
       <jump line="28" column="0" filename="$USER_HOME$/Downloads/beancount-boilerplate-cn/ledger/main.beancount" />
+      <jump line="7" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
