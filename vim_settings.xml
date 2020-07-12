@@ -39,7 +39,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/transactions [moneywiz-release.db]" timestamp="1594451853681">
+      <file name="/transactions [moneywiz-release.db]" timestamp="1594543857771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/admin [@m.n]" timestamp="1552143019501">
@@ -87,10 +87,6 @@
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/copy_20200614_instapaper_export.json" timestamp="1593107519529">
         <mark key="'" line="1289" column="28" />
-      </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/add_bom.py" timestamp="1594475610952">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="51" />
       </file>
       <file name="/users [database]" timestamp="1559977423497">
         <mark key="[" line="0" column="0" />
@@ -195,7 +191,7 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1594458202794">
+      <file name="/dummy.sql" timestamp="1594543862933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/SELECT_Date_Date___Symbol___NumberOfShar.csv" timestamp="1594461081371">
@@ -209,11 +205,11 @@
       <file name="/Dummy.txt" timestamp="1594486255960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1594541641905">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/json_instapaper_export_parse.py" timestamp="1594543381560">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+        <mark key="^" line="44" column="8" />
       </file>
       <file name="/transaction_record [@m.n]" timestamp="1552564560572">
         <mark key="[" line="0" column="0" />
