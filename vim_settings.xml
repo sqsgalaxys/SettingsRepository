@@ -45,7 +45,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/transactions [moneywiz-release.db]" timestamp="1594543857771">
+      <file name="/transactions [moneywiz-release.db]" timestamp="1598789367571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/admin [@m.n]" timestamp="1552143019501">
@@ -75,12 +75,12 @@
       <file name="/server [@m.n]" timestamp="1552307799249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" timestamp="1594550699636">
-        <mark key="'" line="7" column="3" />
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" timestamp="1598789477571">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/ledger/prices.beancount" timestamp="1594483478561">
         <mark key="[" line="0" column="0" />
@@ -204,7 +204,7 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1594543862933">
+      <file name="/dummy.sql" timestamp="1598789368583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/github/me_project/beancount_fava/import_from_moneywiz_east_stock/SELECT_Date_Date___Symbol___NumberOfShar.csv" timestamp="1594461081371">
@@ -277,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/test.py" />
       <jump line="16" column="4" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/test.py" />
       <jump line="9" column="41" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/test.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Downloads/github/me_project/instapaper_export_parse/test.py" />
@@ -370,13 +369,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/github/me_project/beancount_fava/main.bean" />
       <jump line="16" column="29" filename="$USER_HOME$/Downloads/beancount-boilerplate-cn/ledger/main.beancount" />
       <jump line="28" column="0" filename="$USER_HOME$/Downloads/beancount-boilerplate-cn/ledger/main.beancount" />
-      <jump line="7" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
       <jump line="7" column="0" filename="$USER_HOME$/Downloads/github/me_project/ds218_00_create_m3u8/ds218_00_create_m3u8.sh" />
       <jump line="9" column="98" filename="$USER_HOME$/Downloads/github/me_project/ds218_00_create_m3u8/ds218_00_create_m3u8.sh" />
       <jump line="20" column="28" filename="$USER_HOME$/Downloads/github/me_project/ds218_00_create_m3u8/ds218_00_create_m3u8.sh" />
       <jump line="13" column="27" filename="$USER_HOME$/Downloads/github/me_project/ds218_00_create_m3u8/ds218_00_create_m3u8.sh" />
       <jump line="19" column="0" filename="$USER_HOME$/Downloads/github/me_project/ds218_00_create_m3u8/ds218_00_create_m3u8.sh" />
       <jump line="12" column="0" filename="$USER_HOME$/Downloads/github/me_project/ds218_00_create_m3u8/ds218_00_create_m3u8.sh" />
+      <jump line="7" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80680a0b-b985-427f-914d-e5cbc14bb366/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -424,7 +424,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -436,7 +436,7 @@
         <text encoding="base64">IGZpbmQgL3ZvbHVtZTEvaG9tZXMvc3FzZ2FsYXh5cy9Ecml2ZS95b3V0dWJlLWRsIC1kYXlzdGFydCAtY3RpbWUgMCAtbmFtZSAqLm1rdiAtcHJpbnQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -462,16 +462,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGkgaW4gJChmaW5kIC92b2x1bWUyL0Rpc2tfMi95b3V0dWJlLWRsIC1kYXlzdGFydCAtY3RpbWUgMCAtcHJpbnQpOyBkbyAjIE5vdCByZWNvbW1lbmRlZCwgd2lsbCBicmVhayBvbiB3aGl0ZXNwYWNlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgZm9yIGkgaW4gJChmaW5kIC92b2x1bWUyL0Rpc2tfMi95b3V0dWJlLWRsIC1kYXlzdGFydCAtY3RpbWUgMCAtcHJpbnQpOyBkbyAjIE5vdCByZWNvbW1lbmRlZCwgd2lsbCBicmVhayBvbiB3aGl0ZXNwYWNlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDOlxVc2Vyc1xzcXNnYVxEZXNrdG9wXGdpdGh1YlxtZV9wcm9qZWN0XGRzMjE4XzAwX2NyZWF0ZV9tM3U4XGRzMjE4XzAwX2NyZWF0ZV9tM3U4LnNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBpPSR7aS8vRGVza3RvcC9EZXNrdG9wWFgyfQo=</text>
+        <text encoding="base64">IyBDOlxVc2Vyc1xzcXNnYVxEZXNrdG9wXGdpdGh1YlxtZV9wcm9qZWN0XGRzMjE4XzAwX2NyZWF0ZV9tM3U4XGRzMjE4XzAwX2NyZWF0ZV9tM3U4LnNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -510,8 +510,6 @@
         <entry encoding="base64">XDxnZXRfZXhpc3RlZF9zeW1ib2xfZGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyxcL3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wsL1xuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wsL1xybi9n</entry>
         <entry encoding="base64">JzwsJz5zL1wsL1xyL2c=</entry>
